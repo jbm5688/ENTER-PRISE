@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=./dashboard/index.html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Franquia Finder - Redirecionando...</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #007bff;
+        }
+        .loader {
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #007bff;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .link {
+            margin-top: 20px;
+            color: #007bff;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Franquia Finder</h1>
+        <p>Redirecionando para o dashboard...</p>
+        <div class="loader"></div>
+        <p>Se você não for redirecionado automaticamente, <a href="./dashboard/index.html" class="link">clique aqui</a>.</p>
+    </div>
+    <script>
+        // Backup para caso o meta refresh não funcione
+        setTimeout(function() {
+            window.location.href = "./dashboard/index.html";
+        }, 2000);
+    </script>
+</body>
+</html>
