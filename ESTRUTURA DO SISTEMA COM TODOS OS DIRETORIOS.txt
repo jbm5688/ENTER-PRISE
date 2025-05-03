@@ -1,0 +1,77 @@
+franquia-finder/
+│
+├── main.py                      # Script principal que inicia todo o sistema
+├── requirements.txt             # Lista de dependências do projeto
+├── README.md                    # Documentação do projeto
+│
+├── collectors/                  # Scripts para coleta de dados
+│   ├── __init__.py
+│   ├── franchise_scraper.py     # Coleta dados de sites de franquias
+│   ├── marketplace_scraper.py   # Coleta dados de marketplaces
+│   ├── social_media_monitor.py  # Analisa tendências em redes sociais
+│   └── sales_data_collector.py  # Coleta estatísticas de vendas
+│
+├── processors/                  # Processamento de dados coletados
+│   ├── __init__.py
+│   ├── data_cleaner.py          # Limpa e normaliza dados brutos
+│   ├── opportunity_analyzer.py  # Analisa e pontua oportunidades
+│   ├── market_trend_analyzer.py # Identifica tendências de mercado
+│   └── profit_estimator.py      # Estima potencial de lucro
+│
+├── analysis/                    # Scripts de análise aprofundada
+│   ├── __init__.py
+│   ├── competition_analysis.py  # Analisa concorrência para cada produto
+│   ├── demographic_matcher.py   # Identifica demografia alvo ideal 
+│   └── roi_calculator.py        # Calcula ROI projetado detalhado
+│
+├── marketing/                   # Sistema de geração de marketing
+│   ├── __init__.py
+│   ├── creative_generator.py    # Gera criativos automáticos
+│   ├── platform_adapter.py      # Adapta criativos para diferentes plataformas
+│   └── campaign_scheduler.py    # Agenda e distribui campanhas
+│
+├── automation/                  # Sistema de automação
+│   ├── __init__.py
+│   ├── platform_publisher.py    # Publica conteúdo nas plataformas
+│   ├── performance_tracker.py   # Acompanha desempenho de campanhas
+│   └── optimization_engine.py   # Otimiza campanhas com base em resultados
+│
+├── config/                      # Configurações do sistema
+│   ├── api_keys.json            # Chaves de API (não incluídas no git)
+│   ├── platform_settings.json   # Configurações das plataformas
+│   └── analysis_params.json     # Parâmetros para modelos de análise
+│
+├── static/                      # Recursos estáticos
+│   ├── templates/               # Templates para criativos
+│   │   ├── instagram_templates/
+│   │   ├── tiktok_templates/
+│   │   └── marketplace_templates/
+│   └── assets/                  # Imagens e outros recursos
+│
+├── templates/                   # Templates para relatórios e UI
+│   ├── report_template.html
+│   ├── dashboard_template.html
+│   └── creative_template.html
+│
+├── dashboard/                   # Aplicação web para visualização
+│   ├── __init__.py
+│   ├── app.py                   # Aplicação Dash
+│   ├── components/              # Componentes da UI
+│   │   ├── __init__.py
+│   │   ├── header.py
+│   │   ├── opportunity_card.py
+│   │   ├── performance_charts.py
+│   │   └── creative_display.py
+│   └── callbacks.py             # Callbacks para interatividade
+│
+├── tests/                       # Testes unitários e de integração
+│   ├── __init__.py
+│   ├── test_collectors.py
+│   ├── test_processors.py
+│   ├── test_marketing.py
+│   └── test_automation.py
+│
+└── output/                      # Diretório para resultados gerados
+    ├── reports/                 # Relatórios gerados
+    ├── data/                    # Dados processados
+    └── creatives/               # Criativos gerados

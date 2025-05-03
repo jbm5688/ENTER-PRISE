@@ -1,0 +1,57 @@
+{
+  "active_platforms": ["facebook", "instagram", "google", "linkedin", "email"],
+  "facebook": {
+    "ad_types": ["image", "carousel", "video"],
+    "targeting": {
+      "min_age": 25,
+      "max_age": 55,
+      "interests": ["empreendedorismo", "negócios", "franquias", "investimentos"],
+      "excluded_audiences": ["concorrentes", "funcionários"]
+    },
+    "budget_allocation": 0.30,
+    "posting_frequency": {
+      "weekdays": 2,
+      "weekends": 1
+    }
+  },
+  "instagram": {
+    "content_types": ["post", "story", "reels"],
+    "hashtags": ["#franquia", "#empreendedorismo", "#negocios", "#investimento", "#rendaextra"],
+    "posting_time": ["10:00", "15:00", "20:00"],
+    "budget_allocation": 0.25,
+    "posting_frequency": {
+      "weekdays": 1,
+      "weekends": 2
+    }
+  },
+  "google": {
+    "campaign_types": ["search", "display", "discovery"],
+    "keyword_themes": ["franquia barata", "abrir franquia", "franquia lucrativa", "franquia sem estoque"],
+    "negative_keywords": ["falência", "problemas", "reclamações"],
+    "budget_allocation": 0.25,
+    "bidding_strategy": "CPA"
+  },
+  "linkedin": {
+    "content_types": ["post", "article", "event"],
+    "targeting": {
+      "job_titles": ["empresário", "empreendedor", "investidor", "gestor"],
+      "industries": ["varejo", "tecnologia", "serviços", "alimentos"],
+      "company_sizes": ["1-10", "11-50", "51-200"]
+    },
+    "budget_allocation": 0.15,
+    "posting_frequency": {
+      "weekdays": 3,
+      "weekends": 0
+    }
+  },
+  "email": {
+    "campaign_types": ["newsletter", "drip", "promotional"],
+    "subject_line_themes": ["oportunidade", "investimento", "sucesso", "crescimento"],
+    "sending_times": ["09:00", "14:00"],
+    "budget_allocation": 0.05,
+    "sending_frequency": {
+      "per_week": 2
+    },
+    "segments": ["leads_novos", "leads_quentes", "clientes_potenciais", "franqueados"]
+  }
+}

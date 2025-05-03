@@ -1,0 +1,64 @@
+{
+    "sources": [
+        {
+            "name": "Portal Franquias",
+            "url": "https://www.portaldafranquia.com.br/franquias/",
+            "selectors": {
+                "item_container": "div.franchise-item",
+                "title": "h3.franchise-title",
+                "company": "div.franchise-company",
+                "commission": "div.commission-info",
+                "min_investment": "div.investment-info",
+                "description": "div.franchise-description",
+                "url": "a.franchise-link",
+                "category": "span.category-label"
+            }
+        },
+        {
+            "name": "ABF Franquias",
+            "url": "https://www.abf.com.br/encontre-uma-franquia/",
+            "selectors": {
+                "item_container": "article.franchise-listing",
+                "title": "h2.franchise-name",
+                "company": "div.company-info",
+                "commission": "span.commission-data",
+                "min_investment": "div.investment-range",
+                "description": "div.description",
+                "url": "a.franchise-details",
+                "category": "div.category-info"
+            }
+        },
+        {
+            "name": "Franquias Brasil",
+            "url": "https://www.franquiasbrasil.com/franquias/",
+            "selectors": {
+                "item_container": "div.franchise-card",
+                "title": "h3.franchise-name",
+                "company": "div.brand-name",
+                "commission": "div.commission-details",
+                "min_investment": "div.investment-details",
+                "description": "p.franchise-description",
+                "url": "a.details-link",
+                "category": "span.segment-label"
+            }
+        }
+    ],
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"
+    },
+    "no_stock_keywords": [
+        "sem estoque", 
+        "não precisa de estoque", 
+        "estoque zero",
+        "sem necessidade de estoque", 
+        "dropshipping", 
+        "digital",
+        "home office",
+        "franquia digital",
+        "online",
+        "home based",
+        "trabalhe de casa"
+    ]
+}

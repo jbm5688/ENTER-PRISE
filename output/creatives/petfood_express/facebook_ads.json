@@ -1,0 +1,51 @@
+{
+  "feed_ads": [
+    {
+      "headline": "Seja dono do seu negócio: PetFood Expres",
+      "description": "Investimento a partir de R$ 46,396,94. Retorno em apenas 50 meses. Seja parte da rede PetFood Express e conquiste sua inde...",
+      "cta": "Conhecer a franquia",
+      "url": "https://www.petfoodexpress.com.br/franqueado",
+      "image_specs": {
+        "width": 1200,
+        "height": 628
+      },
+      "recommended_elements": [
+        "Imagem de uma unidade da franquia com clientes",
+        "Logo da franquia no canto inferior direito",
+        "Texto na imagem limitado a 20% da área total"
+      ]
+    },
+    {
+      "headline": "Conquiste seu futuro financeiro com a fr",
+      "description": "Cansado do seu emprego? A franquia PetFood Express é sua porta de saída. Investimento a partir de R$ 46,396,94 e retorno e...",
+      "cta": "Saiba mais",
+      "url": "https://www.petfoodexpress.com.br/franqueado",
+      "image_specs": {
+        "width": 1200,
+        "height": 628
+      },
+      "recommended_elements": [
+        "Imagem de uma unidade da franquia com clientes",
+        "Logo da franquia no canto inferior direito",
+        "Texto na imagem limitado a 20% da área total"
+      ]
+    }
+  ],
+  "stories_ads": [
+    {
+      "headline": "Seja dono do seu negócio: PetF",
+      "cta": "Saiba mais",
+      "url": "https://www.petfoodexpress.com.br/franqueado",
+      "image_specs": {
+        "width": 1080,
+        "height": 1920
+      },
+      "recommended_elements": [
+        "Imagem do franqueado em sua unidade",
+        "Logo da franquia no topo",
+        "Título em destaque no centro",
+        "CTA na parte inferior"
+      ]
+    }
+  ]
+}

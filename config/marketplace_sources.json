@@ -1,0 +1,61 @@
+{
+    "marketplaces": [
+        {
+            "name": "Amazon",
+            "base_url": "https://www.amazon.com.br/s",
+            "params": {"k": "{search_term}"},
+            "selectors": {
+                "item_container": "div[data-component-type='s-search-result']",
+                "title": "h2 a span",
+                "price": "span.a-price-whole",
+                "rating": "span.a-icon-alt",
+                "reviews_count": "span.a-size-base.s-underline-text",
+                "url": "h2 a",
+                "seller": "div.a-row.a-size-base.a-color-secondary span.a-size-base"
+            }
+        },
+        {
+            "name": "Mercado Livre",
+            "base_url": "https://lista.mercadolivre.com.br/{search_term}",
+            "params": {},
+            "selectors": {
+                "item_container": "div.ui-search-result",
+                "title": "h2.ui-search-item__title",
+                "price": "span.price-tag-amount",
+                "url": "a.ui-search-link",
+                "seller": "span.ui-search-item__brand-title"
+            }
+        },
+        {
+            "name": "Shopee",
+            "base_url": "https://shopee.com.br/search",
+            "params": {"keyword": "{search_term}"},
+            "selectors": {
+                "item_container": "div.shopee-search-item-result__item",
+                "title": "div.ZG__4J",
+                "price": "div._8-xLHM",
+                "url": "a",
+                "rating": "div.shopee-rating-stars__stars"
+            }
+        }
+    ],
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"
+    },
+    "search_terms": [
+        "dropshipping", 
+        "revenda sem estoque", 
+        "franquia digital",
+        "vender sem estoque",
+        "produtos para revender",
+        "kit revenda",
+        "curso dropshipping",
+        "método afiliado",
+        "sistema de revenda",
+        "produtos lucrativos"
+    ],
+    "delay_range": [1, 3],
+    "proxy": ""
+}

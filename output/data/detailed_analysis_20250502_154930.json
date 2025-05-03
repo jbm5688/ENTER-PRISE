@@ -1,0 +1,2838 @@
+{
+    "opportunities": {
+        "BookCorner": {
+            "basic_info": {
+                "name": "BookCorner",
+                "category": "Livraria",
+                "initial_investment": 63067.300364444745,
+                "franchise_fee": 12113.053038507476,
+                "royalty_fee_percentage": 8.781316306062315,
+                "avg_monthly_revenue": 7479.741198046867,
+                "roi_percentage": 47.09916528171294,
+                "payback_period_months": 25.478158536833362,
+                "min_area": 132,
+                "min_employees": 8,
+                "units": 179,
+                "description": "Franquia de Livraria com excelente retorno sobre investimento.",
+                "summary": "Com investimento inicial a partir de R$ 63.1 mil, BookCorner oferece uma excelente oportunidade no mercado de Livraria.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 15:49:29",
+                "cleaned_at": "2025-05-02 15:49:29",
+                "opportunity_score": 51.83,
+                "estimated_monthly_revenue": 7479.741198046867,
+                "estimated_monthly_expenses": 5004.393528266519,
+                "estimated_monthly_profit": 2475.347669780348,
+                "annual_profit": 29704.172037364177,
+                "profit_margin": 0.3309402831245978,
+                "operational_margin": 0.3309402831245977,
+                "operating_expenses": {
+                    "aluguel": 901.3075344337415,
+                    "pessoal": 1686.1713477624971,
+                    "marketing": 677.7242798766547,
+                    "insumos": 1609.714562788872,
+                    "administracao": 267.7077794596041,
+                    "outros": 496.5718102868941
+                },
+                "growth_rate": 0.12126341317084802,
+                "future_revenues": {
+                    "ano1": 29704.172037364177,
+                    "ano2": 33306.20132402902,
+                    "ano3": 37345.0249763362,
+                    "ano4": 41873.6101699173,
+                    "ano5": 46951.34706090701
+                }
+            },
+            "competition": {
+                "competition_level": "high",
+                "num_competitors": 60,
+                "top_competitors": [
+                    {
+                        "name": "Brasil Top",
+                        "market_share": 0.2897830064758861,
+                        "units": 66,
+                        "years_in_market": 7,
+                        "competitive_advantages": [
+                            "Qualidade superior",
+                            "Produtos exclusivos"
+                        ]
+                    },
+                    {
+                        "name": "Global Top",
+                        "market_share": 0.23955696946815386,
+                        "units": 183,
+                        "years_in_market": 13,
+                        "competitive_advantages": [
+                            "Investimento em marketing",
+                            "Atendimento diferenciado",
+                            "Logística eficiente",
+                            "Fidelização de clientes"
+                        ]
+                    },
+                    {
+                        "name": "Mega Prime",
+                        "market_share": 0.2715316048062695,
+                        "units": 184,
+                        "years_in_market": 17,
+                        "competitive_advantages": [
+                            "Localização estratégica",
+                            "Preços competitivos",
+                            "Tecnologia avançada",
+                            "Atendimento diferenciado"
+                        ]
+                    },
+                    {
+                        "name": "Mega Express",
+                        "market_share": 0.0596947700257555,
+                        "units": 18,
+                        "years_in_market": 12,
+                        "competitive_advantages": [
+                            "Logística eficiente",
+                            "Marca reconhecida",
+                            "Qualidade superior",
+                            "Equipe especializada"
+                        ]
+                    },
+                    {
+                        "name": "Eco Prime",
+                        "market_share": 0.16027430396441078,
+                        "units": 163,
+                        "years_in_market": 18,
+                        "competitive_advantages": [
+                            "Forte presença online",
+                            "Investimento em marketing"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.6432846082767918,
+                "category": "Livraria",
+                "entry_barriers": [
+                    "Alto investimento inicial",
+                    "Mercado saturado",
+                    "Concorrentes com forte reconhecimento de marca",
+                    "Guerra de preços",
+                    "Altos custos de marketing para entrar no mercado",
+                    "Regulamentação complexa"
+                ],
+                "summary": "A análise indica um cenário altamente competitivo no setor de Livraria, com 60 players disputando mercado. Com saturação de 64%, recomenda-se cautela e um plano de negócios detalhado para novos entrantes."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "25-55",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "medium",
+                    "digital_engagement": "medium"
+                },
+                "market_size": 3101260,
+                "potential_customers": 21444,
+                "compatibility_score": 0.555673682309711,
+                "recommended_regions": [
+                    "Porto Alegre",
+                    "Recife",
+                    "Campinas"
+                ],
+                "category": "Livraria",
+                "summary": "A análise demográfica indica uma compatibilidade moderada (55.6%) para o segmento de Livraria. O mercado potencial é estimado em 3.101.260 pessoas, com aproximadamente 21.444 clientes potenciais diretos. O perfil demográfico apresenta desafios a serem considerados, com público-alvo na faixa etária de 25-55, nível de renda medium e concentração urbana medium."
+            },
+            "roi": {
+                "npv": 521406.51,
+                "irr": 50.0,
+                "payback_years": 0.4,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 45010.0,
+                        "expected": 64300,
+                        "optimistic": 83590.0
+                    },
+                    "annual": {
+                        "pessimistic": 540120.0,
+                        "expected": 771600,
+                        "optimistic": 1003080.0
+                    },
+                    "five_year": {
+                        "pessimistic": 2700600.0,
+                        "expected": 3858000,
+                        "optimistic": 5015400.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 63067.300364444745,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 2250.5,
+                            "cogs": 18004.0,
+                            "operation": 13503.0,
+                            "total": 33757.5
+                        },
+                        "expected": {
+                            "royalties": 3215.0,
+                            "cogs": 25720.0,
+                            "operation": 19290.0,
+                            "total": 48225.0
+                        },
+                        "optimistic": {
+                            "royalties": 4179.5,
+                            "cogs": 33436.0,
+                            "operation": 25077.0,
+                            "total": 62692.5
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 27006.0,
+                            "cogs": 216048.0,
+                            "operation": 162036.0,
+                            "total": 405090.0
+                        },
+                        "expected": {
+                            "royalties": 38580.0,
+                            "cogs": 308640.0,
+                            "operation": 231480.0,
+                            "total": 578700.0
+                        },
+                        "optimistic": {
+                            "royalties": 50154.0,
+                            "cogs": 401232.0,
+                            "operation": 300924.0,
+                            "total": 752310.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 135030.0,
+                            "cogs": 1080240.0,
+                            "operation": 810180.0,
+                            "total": 2025450.0
+                        },
+                        "expected": {
+                            "royalties": 192900.0,
+                            "cogs": 1543200.0,
+                            "operation": 1157400.0,
+                            "total": 2893500.0
+                        },
+                        "optimistic": {
+                            "royalties": 250770.0,
+                            "cogs": 2006160.0,
+                            "operation": 1504620.0,
+                            "total": 3761550.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -63067.300364444745,
+                        98571.9,
+                        103500.495,
+                        108675.51974999999,
+                        114109.29573750001,
+                        119814.76052437501
+                    ],
+                    "expected": [
+                        -63067.300364444745,
+                        140817.0,
+                        147857.85,
+                        155250.7425,
+                        163013.27962500002,
+                        171163.94360625005
+                    ],
+                    "optimistic": [
+                        -63067.300364444745,
+                        183062.09999999998,
+                        192215.205,
+                        201825.96524999998,
+                        211917.2635125,
+                        222513.12668812502
+                    ]
+                }
+            }
+        },
+        "FitLife Gym": {
+            "basic_info": {
+                "name": "FitLife Gym",
+                "category": "Fitness",
+                "initial_investment": 89813.6591524742,
+                "franchise_fee": 13770.561642970395,
+                "royalty_fee_percentage": 8.759172575450755,
+                "avg_monthly_revenue": 16821.383362863264,
+                "roi_percentage": 85.05532570285908,
+                "payback_period_months": 14.108463991922177,
+                "min_area": 126,
+                "min_employees": 3,
+                "units": 47,
+                "description": "Franquia inovadora no segmento de Fitness com alta rentabilidade.",
+                "summary": "Rede FitLife Gym possui mais de 47 unidades e atua no mercado de Fitness há mais de 10 anos.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 15:49:29",
+                "cleaned_at": "2025-05-02 15:49:29",
+                "opportunity_score": 51.2,
+                "estimated_monthly_revenue": 16821.383362863264,
+                "estimated_monthly_expenses": 10455.441669713879,
+                "estimated_monthly_profit": 6365.941693149385,
+                "annual_profit": 76391.30031779263,
+                "profit_margin": 0.378443410736571,
+                "operational_margin": 0.37844341073657106,
+                "operating_expenses": {
+                    "aluguel": 2800.3311681834984,
+                    "pessoal": 4057.0159879249195,
+                    "marketing": 1357.4617727239975,
+                    "insumos": 3251.7310175268676,
+                    "administracao": 1314.2244359109322,
+                    "outros": 606.9734254104741
+                },
+                "growth_rate": 0.09222533812798264,
+                "future_revenues": {
+                    "ano1": 76391.30031779263,
+                    "ano2": 83436.51381963733,
+                    "ano3": 91131.47451887348,
+                    "ano4": 99536.10557047823,
+                    "ano5": 108715.85656265817
+                }
+            },
+            "competition": {
+                "competition_level": "medium",
+                "num_competitors": 30,
+                "top_competitors": [
+                    {
+                        "name": "Smart Sport",
+                        "market_share": 0.19273559952144032,
+                        "units": 57,
+                        "years_in_market": 6,
+                        "competitive_advantages": [
+                            "Forte presença online",
+                            "Atendimento diferenciado"
+                        ]
+                    },
+                    {
+                        "name": "Prime Body",
+                        "market_share": 0.23254005280780737,
+                        "units": 183,
+                        "years_in_market": 13,
+                        "competitive_advantages": [
+                            "Qualidade superior",
+                            "Produtos exclusivos",
+                            "Equipe especializada",
+                            "Localização estratégica"
+                        ]
+                    },
+                    {
+                        "name": "Max Fit",
+                        "market_share": 0.2723237857475197,
+                        "units": 164,
+                        "years_in_market": 5,
+                        "competitive_advantages": [
+                            "Investimento em marketing",
+                            "Equipe especializada",
+                            "Localização estratégica"
+                        ]
+                    },
+                    {
+                        "name": "Max Fit",
+                        "market_share": 0.2339337909515582,
+                        "units": 172,
+                        "years_in_market": 16,
+                        "competitive_advantages": [
+                            "Equipe especializada",
+                            "Produtos exclusivos",
+                            "Tecnologia avançada"
+                        ]
+                    },
+                    {
+                        "name": "Eco Body",
+                        "market_share": 0.18777229815174817,
+                        "units": 73,
+                        "years_in_market": 8,
+                        "competitive_advantages": [
+                            "Logística eficiente",
+                            "Atendimento diferenciado",
+                            "Tecnologia avançada"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.4245430041491005,
+                "category": "Fitness",
+                "entry_barriers": [
+                    "Investimento inicial considerável",
+                    "Necessidade de diferenciação",
+                    "Concorrentes com presença estabelecida",
+                    "Fidelização de clientes pelos concorrentes"
+                ],
+                "summary": "A competição no mercado de Fitness é moderada, com 30 concorrentes importantes. Com uma saturação de 42%, o sucesso dependerá da capacidade de oferecer diferenciais claros e estabelecer uma presença de mercado consistente."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "20-45",
+                    "income_level": "medium-high",
+                    "education_level": "varied",
+                    "urban_concentration": "high",
+                    "digital_engagement": "high"
+                },
+                "market_size": 8381244,
+                "potential_customers": 31389,
+                "compatibility_score": 0.9263080975295739,
+                "recommended_regions": [
+                    "Goiânia",
+                    "Belo Horizonte",
+                    "Brasília",
+                    "Rio de Janeiro",
+                    "São Paulo"
+                ],
+                "category": "Fitness",
+                "summary": "A análise demográfica indica uma excelente compatibilidade (92.6%) para o segmento de Fitness. Com um mercado potencial estimado em 8.381.244 pessoas e aproximadamente 31.389 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 20-45, com nível de renda medium-high e concentração urbana high."
+            },
+            "roi": {
+                "npv": 1907214.28,
+                "irr": 50.0,
+                "payback_years": 0.2,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 153790.0,
+                        "expected": 219700,
+                        "optimistic": 285610.0
+                    },
+                    "annual": {
+                        "pessimistic": 1845479.9999999998,
+                        "expected": 2636400,
+                        "optimistic": 3427320.0
+                    },
+                    "five_year": {
+                        "pessimistic": 9227400.0,
+                        "expected": 13182000,
+                        "optimistic": 17136600.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 89813.6591524742,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 7689.5,
+                            "cogs": 61516.0,
+                            "operation": 46137.0,
+                            "total": 115342.5
+                        },
+                        "expected": {
+                            "royalties": 10985.0,
+                            "cogs": 87880.0,
+                            "operation": 65910.0,
+                            "total": 164775.0
+                        },
+                        "optimistic": {
+                            "royalties": 14280.5,
+                            "cogs": 114244.0,
+                            "operation": 85683.0,
+                            "total": 214207.5
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 92274.0,
+                            "cogs": 738192.0,
+                            "operation": 553643.9999999999,
+                            "total": 1384110.0
+                        },
+                        "expected": {
+                            "royalties": 131820.0,
+                            "cogs": 1054560.0,
+                            "operation": 790920.0,
+                            "total": 1977300.0
+                        },
+                        "optimistic": {
+                            "royalties": 171366.0,
+                            "cogs": 1370928.0,
+                            "operation": 1028196.0,
+                            "total": 2570490.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 461370.0,
+                            "cogs": 3690960.0,
+                            "operation": 2768220.0,
+                            "total": 6920550.0
+                        },
+                        "expected": {
+                            "royalties": 659100.0,
+                            "cogs": 5272800.0,
+                            "operation": 3954600.0,
+                            "total": 9886500.0
+                        },
+                        "optimistic": {
+                            "royalties": 856830.0,
+                            "cogs": 6854640.0,
+                            "operation": 5140980.0,
+                            "total": 12852450.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -89813.6591524742,
+                        336800.0999999998,
+                        353640.1049999998,
+                        371322.1102499998,
+                        389888.21576249984,
+                        409382.62655062485
+                    ],
+                    "expected": [
+                        -89813.6591524742,
+                        481143.0,
+                        505200.15,
+                        530460.1575,
+                        556983.1653750001,
+                        584832.3236437502
+                    ],
+                    "optimistic": [
+                        -89813.6591524742,
+                        625485.9,
+                        656760.1950000001,
+                        689598.20475,
+                        724078.1149875001,
+                        760282.0207368751
+                    ]
+                }
+            }
+        },
+        "FashionStore": {
+            "basic_info": {
+                "name": "FashionStore",
+                "category": "Moda",
+                "initial_investment": 31403.982370130987,
+                "franchise_fee": 4312.371850008827,
+                "royalty_fee_percentage": 2.8548580436139352,
+                "avg_monthly_revenue": 5257.599646518255,
+                "roi_percentage": 61.717325803638175,
+                "payback_period_months": 19.44348664454384,
+                "min_area": 56,
+                "min_employees": 7,
+                "units": 91,
+                "description": "Franquia inovadora no segmento de Moda com alta rentabilidade.",
+                "summary": "FashionStore é uma rede de franquias no setor de Moda com 91 unidades em operação no Brasil.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 15:49:29",
+                "cleaned_at": "2025-05-02 15:49:29",
+                "market_research": [
+                    {
+                        "title": "Pesquisa de Consumidor: Moda",
+                        "market_size": 823000000.0,
+                        "growth_rate": 0.1599441529441832,
+                        "insights": [
+                            "Novas tecnologias estão transformando o setor de Moda",
+                            "Consumidores valorizam qualidade e preço no setor de Moda",
+                            "Franquias de Moda têm mostrado resistência em períodos de crise"
+                        ]
+                    },
+                    {
+                        "title": "Análise de Mercado: Moda",
+                        "market_size": 265000000.0,
+                        "growth_rate": 0.21072531794537516,
+                        "insights": [
+                            "Há uma tendência de consolidação no setor de Moda",
+                            "Franquias de Moda têm mostrado resistência em períodos de crise"
+                        ]
+                    },
+                    {
+                        "title": "Pesquisa de Consumidor: Moda",
+                        "market_size": 314000000.0,
+                        "growth_rate": 0.23141392088470528,
+                        "insights": [
+                            "Franquias de Moda têm mostrado resistência em períodos de crise",
+                            "Empresas com foco em sustentabilidade têm se destacado em Moda",
+                            "Novas tecnologias estão transformando o setor de Moda"
+                        ]
+                    },
+                    {
+                        "title": "Tendências do Setor de Moda",
+                        "market_size": 886000000.0,
+                        "growth_rate": 0.040377777617815865,
+                        "insights": [
+                            "Novas tecnologias estão transformando o setor de Moda",
+                            "Empresas com foco em sustentabilidade têm se destacado em Moda"
+                        ]
+                    }
+                ],
+                "opportunity_score": 47.6,
+                "estimated_monthly_revenue": 5257.599646518255,
+                "estimated_monthly_expenses": 3642.4581369606854,
+                "estimated_monthly_profit": 1615.1415095575699,
+                "annual_profit": 19381.698114690837,
+                "profit_margin": 0.3072013120335563,
+                "operational_margin": 0.30720131203355633,
+                "operating_expenses": {
+                    "aluguel": 715.1464520266342,
+                    "pessoal": 1394.9831265235816,
+                    "marketing": 265.22542586054715,
+                    "insumos": 763.187560009079,
+                    "administracao": 250.1741161465383,
+                    "outros": 200.7093692707451
+                },
+                "growth_rate": 0.1275093114993726,
+                "future_revenues": {
+                    "ano1": 19381.698114690837,
+                    "ano2": 21853.045096983755,
+                    "ano3": 24639.511831464893,
+                    "ano4": 27781.279020775626,
+                    "ano5": 31323.65078128669
+                }
+            },
+            "competition": {
+                "competition_level": "high",
+                "num_competitors": 72,
+                "top_competitors": [
+                    {
+                        "name": "Smart Look",
+                        "market_share": 0.1616278801411199,
+                        "units": 95,
+                        "years_in_market": 12,
+                        "competitive_advantages": [
+                            "Qualidade superior",
+                            "Produtos exclusivos"
+                        ]
+                    },
+                    {
+                        "name": "Global Fashion",
+                        "market_share": 0.2555467387887647,
+                        "units": 175,
+                        "years_in_market": 8,
+                        "competitive_advantages": [
+                            "Investimento em marketing",
+                            "Qualidade superior"
+                        ]
+                    },
+                    {
+                        "name": "Max Trend",
+                        "market_share": 0.2549423393739074,
+                        "units": 137,
+                        "years_in_market": 15,
+                        "competitive_advantages": [
+                            "Fidelização de clientes",
+                            "Equipe especializada",
+                            "Localização estratégica",
+                            "Tecnologia avançada"
+                        ]
+                    },
+                    {
+                        "name": "Mega Trend",
+                        "market_share": 0.2965146208800027,
+                        "units": 124,
+                        "years_in_market": 10,
+                        "competitive_advantages": [
+                            "Logística eficiente",
+                            "Marca reconhecida"
+                        ]
+                    },
+                    {
+                        "name": "Max Look",
+                        "market_share": 0.2757887538716175,
+                        "units": 199,
+                        "years_in_market": 3,
+                        "competitive_advantages": [
+                            "Investimento em marketing",
+                            "Preços competitivos",
+                            "Qualidade superior",
+                            "Logística eficiente"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.6069753719867129,
+                "category": "Moda",
+                "entry_barriers": [
+                    "Alto investimento inicial",
+                    "Mercado saturado",
+                    "Concorrentes com forte reconhecimento de marca",
+                    "Guerra de preços",
+                    "Altos custos de marketing para entrar no mercado",
+                    "Regulamentação complexa"
+                ],
+                "summary": "O mercado de Moda apresenta alta competitividade, com aproximadamente 72 concorrentes estabelecidos. A saturação de mercado de 61% indica que novos entrantes enfrentarão desafios significativos e precisarão de estratégias robustas de diferenciação."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "18-45",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "high",
+                    "digital_engagement": "high"
+                },
+                "market_size": 5561055,
+                "potential_customers": 18124,
+                "compatibility_score": 0.7854232950958902,
+                "recommended_regions": [
+                    "Recife",
+                    "Belo Horizonte",
+                    "Rio de Janeiro"
+                ],
+                "category": "Moda",
+                "summary": "A análise demográfica mostra uma boa compatibilidade (78.5%) para o segmento de Moda. O mercado potencial é estimado em 5.561.055 pessoas, com cerca de 18.124 clientes potenciais diretos. O perfil demográfico é favorável, com público-alvo na faixa etária de 18-45, nível de renda medium e concentração urbana high."
+            },
+            "roi": {
+                "npv": 462171.88,
+                "irr": 50.0,
+                "payback_years": 0.3,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 38010.0,
+                        "expected": 54300,
+                        "optimistic": 70590.0
+                    },
+                    "annual": {
+                        "pessimistic": 456120.0,
+                        "expected": 651600,
+                        "optimistic": 847080.0
+                    },
+                    "five_year": {
+                        "pessimistic": 2280600.0,
+                        "expected": 3258000,
+                        "optimistic": 4235400.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 31403.982370130987,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 1900.5,
+                            "cogs": 15204.0,
+                            "operation": 11403.0,
+                            "total": 28507.5
+                        },
+                        "expected": {
+                            "royalties": 2715.0,
+                            "cogs": 21720.0,
+                            "operation": 16290.0,
+                            "total": 40725.0
+                        },
+                        "optimistic": {
+                            "royalties": 3529.5,
+                            "cogs": 28236.0,
+                            "operation": 21177.0,
+                            "total": 52942.5
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 22806.0,
+                            "cogs": 182448.0,
+                            "operation": 136836.0,
+                            "total": 342090.0
+                        },
+                        "expected": {
+                            "royalties": 32580.0,
+                            "cogs": 260640.0,
+                            "operation": 195480.0,
+                            "total": 488700.0
+                        },
+                        "optimistic": {
+                            "royalties": 42354.0,
+                            "cogs": 338832.0,
+                            "operation": 254124.0,
+                            "total": 635310.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 114030.0,
+                            "cogs": 912240.0,
+                            "operation": 684180.0,
+                            "total": 1710450.0
+                        },
+                        "expected": {
+                            "royalties": 162900.0,
+                            "cogs": 1303200.0,
+                            "operation": 977400.0,
+                            "total": 2443500.0
+                        },
+                        "optimistic": {
+                            "royalties": 211770.0,
+                            "cogs": 1694160.0,
+                            "operation": 1270620.0,
+                            "total": 3176550.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -31403.982370130987,
+                        83241.9,
+                        87403.995,
+                        91774.19475,
+                        96362.90448750001,
+                        101181.049711875
+                    ],
+                    "expected": [
+                        -31403.982370130987,
+                        118917.0,
+                        124862.85,
+                        131105.9925,
+                        137661.292125,
+                        144544.35673125004
+                    ],
+                    "optimistic": [
+                        -31403.982370130987,
+                        154592.1,
+                        162321.70500000002,
+                        170437.79025000002,
+                        178959.67976250002,
+                        187907.66375062504
+                    ]
+                }
+            }
+        },
+        "HomeDecor": {
+            "basic_info": {
+                "name": "HomeDecor",
+                "category": "Casa e decoração",
+                "initial_investment": 88423.81937851517,
+                "franchise_fee": 10883.181822611172,
+                "royalty_fee_percentage": 4.762352072639219,
+                "avg_monthly_revenue": 12098.668124076836,
+                "roi_percentage": 52.94775538410793,
+                "payback_period_months": 22.663850267015768,
+                "min_area": 62,
+                "min_employees": 4,
+                "units": 55,
+                "description": "Invista em uma franquia de Casa e Decoração em expansão no mercado.",
+                "summary": "HomeDecor se destaca no segmento de Casa e Decoração com retorno estimado em 20.6 meses.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 15:49:29",
+                "cleaned_at": "2025-05-02 15:49:29",
+                "market_research": [
+                    {
+                        "title": "Relatório de Investimento: Casa",
+                        "market_size": 400000000.0,
+                        "growth_rate": 0.13086930666730984,
+                        "insights": [
+                            "Franquias de Casa têm mostrado resistência em períodos de crise",
+                            "Consumidores valorizam qualidade e preço no setor de Casa",
+                            "Novas tecnologias estão transformando o setor de Casa"
+                        ]
+                    },
+                    {
+                        "title": "Relatório de Investimento: Casa",
+                        "market_size": 687000000.0,
+                        "growth_rate": 0.1841987459467661,
+                        "insights": [
+                            "Há uma tendência de consolidação no setor de Casa",
+                            "Empresas com foco em sustentabilidade têm se destacado em Casa"
+                        ]
+                    }
+                ],
+                "opportunity_score": 47.14,
+                "estimated_monthly_revenue": 12098.668124076836,
+                "estimated_monthly_expenses": 8197.132491925033,
+                "estimated_monthly_profit": 3901.535632151803,
+                "annual_profit": 46818.427585821635,
+                "profit_margin": 0.3224764570893212,
+                "operational_margin": 0.32247645708932127,
+                "operating_expenses": {
+                    "aluguel": 1236.3002808834,
+                    "pessoal": 2296.8272285159524,
+                    "marketing": 461.26512482908595,
+                    "insumos": 1827.343901815471,
+                    "administracao": 1059.4635240444736,
+                    "outros": 524.8543826846669
+                },
+                "growth_rate": 0.09999837293973966,
+                "future_revenues": {
+                    "ano1": 46818.427585821635,
+                    "ano2": 51500.19416800082,
+                    "ano3": 56650.12979088156,
+                    "ano4": 62315.0505967948,
+                    "ano5": 68546.45426613181
+                }
+            },
+            "competition": {
+                "competition_level": "medium",
+                "num_competitors": 18,
+                "top_competitors": [
+                    {
+                        "name": "Smart Top",
+                        "market_share": 0.15823395640052113,
+                        "units": 45,
+                        "years_in_market": 7,
+                        "competitive_advantages": [
+                            "Localização estratégica",
+                            "Logística eficiente"
+                        ]
+                    },
+                    {
+                        "name": "Eco Super",
+                        "market_share": 0.22798535889416643,
+                        "units": 63,
+                        "years_in_market": 13,
+                        "competitive_advantages": [
+                            "Atendimento diferenciado",
+                            "Produtos exclusivos",
+                            "Forte presença online"
+                        ]
+                    },
+                    {
+                        "name": "Smart Prime",
+                        "market_share": 0.10752296364475546,
+                        "units": 195,
+                        "years_in_market": 2,
+                        "competitive_advantages": [
+                            "Investimento em marketing",
+                            "Equipe especializada",
+                            "Produtos exclusivos"
+                        ]
+                    },
+                    {
+                        "name": "Mega Prime",
+                        "market_share": 0.19882185265668645,
+                        "units": 118,
+                        "years_in_market": 19,
+                        "competitive_advantages": [
+                            "Qualidade superior",
+                            "Investimento em marketing",
+                            "Marca reconhecida"
+                        ]
+                    },
+                    {
+                        "name": "Brasil Super",
+                        "market_share": 0.25128078289192585,
+                        "units": 36,
+                        "years_in_market": 4,
+                        "competitive_advantages": [
+                            "Fidelização de clientes",
+                            "Atendimento diferenciado",
+                            "Forte presença online",
+                            "Logística eficiente"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.4021506062804072,
+                "category": "Casa e decoração",
+                "entry_barriers": [
+                    "Investimento inicial considerável",
+                    "Necessidade de diferenciação",
+                    "Concorrentes com presença estabelecida",
+                    "Fidelização de clientes pelos concorrentes"
+                ],
+                "summary": "O setor de Casa e decoração apresenta nível médio de competição, com cerca de 18 players relevantes. A saturação de mercado está em aproximadamente 40%, o que indica um equilíbrio entre oportunidades e desafios para novos entrantes."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "25-55",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "medium",
+                    "digital_engagement": "medium"
+                },
+                "market_size": 4427133,
+                "potential_customers": 16522,
+                "compatibility_score": 0.822071184809203,
+                "recommended_regions": [
+                    "Curitiba",
+                    "Porto Alegre",
+                    "Recife"
+                ],
+                "category": "Casa e decoração",
+                "summary": "A análise demográfica indica uma excelente compatibilidade (82.2%) para o segmento de Casa e decoração. Com um mercado potencial estimado em 4.427.133 pessoas e aproximadamente 16.522 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 25-55, com nível de renda medium e concentração urbana medium."
+            },
+            "roi": {
+                "npv": 962356.47,
+                "irr": 50.0,
+                "payback_years": 0.3,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 80920.0,
+                        "expected": 115600,
+                        "optimistic": 150280.0
+                    },
+                    "annual": {
+                        "pessimistic": 971039.9999999999,
+                        "expected": 1387200,
+                        "optimistic": 1803360.0
+                    },
+                    "five_year": {
+                        "pessimistic": 4855200.0,
+                        "expected": 6936000,
+                        "optimistic": 9016800.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 88423.81937851517,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 4046.0,
+                            "cogs": 32368.0,
+                            "operation": 24276.0,
+                            "total": 60690.0
+                        },
+                        "expected": {
+                            "royalties": 5780.0,
+                            "cogs": 46240.0,
+                            "operation": 34680.0,
+                            "total": 86700.0
+                        },
+                        "optimistic": {
+                            "royalties": 7514.0,
+                            "cogs": 60112.0,
+                            "operation": 45084.0,
+                            "total": 112710.0
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 48552.0,
+                            "cogs": 388416.0,
+                            "operation": 291311.99999999994,
+                            "total": 728280.0
+                        },
+                        "expected": {
+                            "royalties": 69360.0,
+                            "cogs": 554880.0,
+                            "operation": 416160.0,
+                            "total": 1040400.0
+                        },
+                        "optimistic": {
+                            "royalties": 90168.0,
+                            "cogs": 721344.0,
+                            "operation": 541008.0,
+                            "total": 1352520.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 242760.0,
+                            "cogs": 1942080.0,
+                            "operation": 1456560.0,
+                            "total": 3641400.0
+                        },
+                        "expected": {
+                            "royalties": 346800.0,
+                            "cogs": 2774400.0,
+                            "operation": 2080800.0,
+                            "total": 5202000.0
+                        },
+                        "optimistic": {
+                            "royalties": 450840.0,
+                            "cogs": 3606720.0,
+                            "operation": 2705040.0,
+                            "total": 6762600.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -88423.81937851517,
+                        177214.79999999993,
+                        186075.53999999992,
+                        195379.31699999992,
+                        205148.28284999993,
+                        215405.69699249996
+                    ],
+                    "expected": [
+                        -88423.81937851517,
+                        253164.0,
+                        265822.2,
+                        279113.31,
+                        293068.97550000006,
+                        307722.42427500006
+                    ],
+                    "optimistic": [
+                        -88423.81937851517,
+                        329113.2,
+                        345568.86000000004,
+                        362847.303,
+                        380989.66815000004,
+                        400039.15155750007
+                    ]
+                }
+            }
+        },
+        "CleanHome": {
+            "basic_info": {
+                "name": "CleanHome",
+                "category": "Serviços",
+                "initial_investment": 40048.00976240166,
+                "franchise_fee": 6776.823667440242,
+                "royalty_fee_percentage": 2.6044927326844896,
+                "avg_monthly_revenue": 8269.770677562748,
+                "roi_percentage": 81.01774694980534,
+                "payback_period_months": 14.811569627373887,
+                "min_area": 67,
+                "min_employees": 5,
+                "units": 116,
+                "description": "Oportunidade no setor de Serviços com modelo de negócio comprovado.",
+                "summary": "CleanHome se destaca no segmento de Serviços com retorno estimado em 21.1 meses.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 15:49:29",
+                "cleaned_at": "2025-05-02 15:49:29",
+                "market_research": [
+                    {
+                        "title": "Oportunidades em Serviços",
+                        "market_size": 966000000.0,
+                        "growth_rate": 0.19151099331252733,
+                        "insights": [
+                            "Empresas com foco em sustentabilidade têm se destacado em Serviços",
+                            "Consumidores valorizam qualidade e preço no setor de Serviços"
+                        ]
+                    },
+                    {
+                        "title": "Pesquisa de Consumidor: Serviços",
+                        "market_size": 260000000.0,
+                        "growth_rate": 0.19539999634890293,
+                        "insights": [
+                            "O segmento online em Serviços tem crescido acima da média do mercado",
+                            "O mercado de Serviços deve crescer 19.5% nos próximos 2 anos"
+                        ]
+                    }
+                ],
+                "opportunity_score": 46.14,
+                "estimated_monthly_revenue": 8269.770677562748,
+                "estimated_monthly_expenses": 5565.9377435847555,
+                "estimated_monthly_profit": 2703.832933977993,
+                "annual_profit": 32445.995207735916,
+                "profit_margin": 0.32695379828535487,
+                "operational_margin": 0.3269537982853548,
+                "operating_expenses": {
+                    "aluguel": 1202.3000444705817,
+                    "pessoal": 2118.797125138757,
+                    "marketing": 597.9583508684634,
+                    "insumos": 1666.2381579612754,
+                    "administracao": 780.8506626789334,
+                    "outros": 499.4042143872175
+                },
+                "growth_rate": 0.11144886426654091,
+                "future_revenues": {
+                    "ano1": 32445.995207735916,
+                    "ano2": 36062.064523635716,
+                    "ano3": 40081.14065790163,
+                    "ano4": 44548.13826273225,
+                    "ano5": 49512.9776773026
+                }
+            },
+            "competition": {
+                "competition_level": "high",
+                "num_competitors": 72,
+                "top_competitors": [
+                    {
+                        "name": "Mega Top",
+                        "market_share": 0.233032038878962,
+                        "units": 103,
+                        "years_in_market": 14,
+                        "competitive_advantages": [
+                            "Logística eficiente",
+                            "Localização estratégica"
+                        ]
+                    },
+                    {
+                        "name": "Super Top",
+                        "market_share": 0.2126996702173054,
+                        "units": 46,
+                        "years_in_market": 6,
+                        "competitive_advantages": [
+                            "Produtos exclusivos",
+                            "Forte presença online",
+                            "Atendimento diferenciado",
+                            "Logística eficiente"
+                        ]
+                    },
+                    {
+                        "name": "Max Super",
+                        "market_share": 0.1320637970571218,
+                        "units": 139,
+                        "years_in_market": 19,
+                        "competitive_advantages": [
+                            "Investimento em marketing",
+                            "Tecnologia avançada"
+                        ]
+                    },
+                    {
+                        "name": "Max Top",
+                        "market_share": 0.19840931909582643,
+                        "units": 143,
+                        "years_in_market": 9,
+                        "competitive_advantages": [
+                            "Forte presença online",
+                            "Preços competitivos"
+                        ]
+                    },
+                    {
+                        "name": "Top Express",
+                        "market_share": 0.09544817880769636,
+                        "units": 164,
+                        "years_in_market": 10,
+                        "competitive_advantages": [
+                            "Logística eficiente",
+                            "Equipe especializada"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.6189417207396103,
+                "category": "Serviços",
+                "entry_barriers": [
+                    "Alto investimento inicial",
+                    "Mercado saturado",
+                    "Concorrentes com forte reconhecimento de marca",
+                    "Guerra de preços",
+                    "Altos custos de marketing para entrar no mercado",
+                    "Regulamentação complexa"
+                ],
+                "summary": "O mercado de Serviços apresenta alta competitividade, com aproximadamente 72 concorrentes estabelecidos. A saturação de mercado de 62% indica que novos entrantes enfrentarão desafios significativos e precisarão de estratégias robustas de diferenciação."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "25-55",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "medium",
+                    "digital_engagement": "medium"
+                },
+                "market_size": 1061297,
+                "potential_customers": 2326,
+                "compatibility_score": 0.7289780002013658,
+                "recommended_regions": [
+                    "Curitiba",
+                    "Porto Alegre",
+                    "Campinas",
+                    "Recife"
+                ],
+                "category": "Serviços",
+                "summary": "A análise demográfica mostra uma boa compatibilidade (72.9%) para o segmento de Serviços. O mercado potencial é estimado em 1.061.297 pessoas, com cerca de 2.326 clientes potenciais diretos. O perfil demográfico é favorável, com público-alvo na faixa etária de 25-55, nível de renda medium e concentração urbana medium."
+            },
+            "roi": {
+                "npv": 22671.57,
+                "irr": 30.0,
+                "payback_years": 2.5,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 4830.0,
+                        "expected": 6900,
+                        "optimistic": 8970.0
+                    },
+                    "annual": {
+                        "pessimistic": 57959.99999999999,
+                        "expected": 82800,
+                        "optimistic": 107640.0
+                    },
+                    "five_year": {
+                        "pessimistic": 289800.0,
+                        "expected": 414000,
+                        "optimistic": 538200.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 40048.00976240166,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 241.5,
+                            "cogs": 1932.0,
+                            "operation": 1449.0,
+                            "total": 3622.5
+                        },
+                        "expected": {
+                            "royalties": 345.0,
+                            "cogs": 2760.0,
+                            "operation": 2070.0,
+                            "total": 5175.0
+                        },
+                        "optimistic": {
+                            "royalties": 448.5,
+                            "cogs": 3588.0,
+                            "operation": 2691.0,
+                            "total": 6727.5
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 2898.0,
+                            "cogs": 23184.0,
+                            "operation": 17387.999999999996,
+                            "total": 43470.0
+                        },
+                        "expected": {
+                            "royalties": 4140.0,
+                            "cogs": 33120.0,
+                            "operation": 24840.0,
+                            "total": 62100.0
+                        },
+                        "optimistic": {
+                            "royalties": 5382.0,
+                            "cogs": 43056.0,
+                            "operation": 32292.0,
+                            "total": 80730.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 14490.0,
+                            "cogs": 115920.0,
+                            "operation": 86940.0,
+                            "total": 217350.0
+                        },
+                        "expected": {
+                            "royalties": 20700.0,
+                            "cogs": 165600.0,
+                            "operation": 124200.0,
+                            "total": 310500.0
+                        },
+                        "optimistic": {
+                            "royalties": 26910.0,
+                            "cogs": 215280.0,
+                            "operation": 161460.0,
+                            "total": 403650.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -40048.00976240166,
+                        10577.699999999993,
+                        11106.584999999994,
+                        11661.914249999993,
+                        12245.009962499993,
+                        12857.260460624995
+                    ],
+                    "expected": [
+                        -40048.00976240166,
+                        15111.0,
+                        15866.550000000001,
+                        16659.877500000002,
+                        17492.871375000002,
+                        18367.514943750004
+                    ],
+                    "optimistic": [
+                        -40048.00976240166,
+                        19644.3,
+                        20626.515,
+                        21657.84075,
+                        22740.7327875,
+                        23877.769426875002
+                    ]
+                }
+            }
+        },
+        "GreenMarket": {
+            "basic_info": {
+                "name": "GreenMarket",
+                "category": "Varejo",
+                "initial_investment": 64856.79712098785,
+                "franchise_fee": 7463.08717634746,
+                "royalty_fee_percentage": 2.4461635961028163,
+                "avg_monthly_revenue": 16078.843338905832,
+                "roi_percentage": 85.11040405201523,
+                "payback_period_months": 14.09933384015684,
+                "min_area": 77,
+                "min_employees": 4,
+                "units": 164,
+                "description": "Franquia inovadora no segmento de Varejo com alta rentabilidade.",
+                "summary": "GreenMarket se destaca no segmento de Varejo com retorno estimado em 18.9 meses.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 15:49:29",
+                "cleaned_at": "2025-05-02 15:49:29",
+                "market_research": [
+                    {
+                        "title": "Pesquisa de Consumidor: Varejo",
+                        "market_size": 506000000.0,
+                        "growth_rate": 0.1320539840319816,
+                        "insights": [
+                            "Franquias de Varejo têm mostrado resistência em períodos de crise",
+                            "Há uma tendência de consolidação no setor de Varejo"
+                        ]
+                    },
+                    {
+                        "title": "Oportunidades em Varejo",
+                        "market_size": 199000000.0,
+                        "growth_rate": 0.07937906077062085,
+                        "insights": [
+                            "Novas tecnologias estão transformando o setor de Varejo",
+                            "Empresas com foco em sustentabilidade têm se destacado em Varejo"
+                        ]
+                    },
+                    {
+                        "title": "Relatório de Investimento: Varejo",
+                        "market_size": 680000000.0,
+                        "growth_rate": 0.17100850054144073,
+                        "insights": [
+                            "O mercado de Varejo deve crescer 17.1% nos próximos 2 anos",
+                            "O segmento online em Varejo tem crescido acima da média do mercado"
+                        ]
+                    }
+                ],
+                "opportunity_score": 42.92,
+                "estimated_monthly_revenue": 16078.843338905832,
+                "estimated_monthly_expenses": 11478.853165166787,
+                "estimated_monthly_profit": 4599.990173739045,
+                "annual_profit": 55199.882084868535,
+                "profit_margin": 0.286089619556681,
+                "operational_margin": 0.28608961955668105,
+                "operating_expenses": {
+                    "aluguel": 2749.1025362547207,
+                    "pessoal": 3937.9088029614873,
+                    "marketing": 1308.3264972673414,
+                    "insumos": 4528.832292793221,
+                    "administracao": 885.6768268835161,
+                    "outros": 576.239876055732
+                },
+                "growth_rate": 0.07769768116660064,
+                "future_revenues": {
+                    "ano1": 55199.882084868535,
+                    "ano2": 59488.7849235326,
+                    "ano3": 64110.92556750971,
+                    "ano4": 69092.19582154974,
+                    "ano5": 74460.49922359285
+                }
+            },
+            "competition": {
+                "competition_level": "high",
+                "num_competitors": 66,
+                "top_competitors": [
+                    {
+                        "name": "Max Top",
+                        "market_share": 0.10634476065845806,
+                        "units": 145,
+                        "years_in_market": 14,
+                        "competitive_advantages": [
+                            "Fidelização de clientes",
+                            "Forte presença online"
+                        ]
+                    },
+                    {
+                        "name": "Ultra Super",
+                        "market_share": 0.051227680085092056,
+                        "units": 43,
+                        "years_in_market": 10,
+                        "competitive_advantages": [
+                            "Investimento em marketing",
+                            "Forte presença online",
+                            "Qualidade superior"
+                        ]
+                    },
+                    {
+                        "name": "Global Prime",
+                        "market_share": 0.2979912462404421,
+                        "units": 117,
+                        "years_in_market": 12,
+                        "competitive_advantages": [
+                            "Localização estratégica",
+                            "Marca reconhecida",
+                            "Produtos exclusivos"
+                        ]
+                    },
+                    {
+                        "name": "Brasil Super",
+                        "market_share": 0.2925217363760696,
+                        "units": 65,
+                        "years_in_market": 9,
+                        "competitive_advantages": [
+                            "Qualidade superior",
+                            "Investimento em marketing",
+                            "Preços competitivos"
+                        ]
+                    },
+                    {
+                        "name": "Mega Super",
+                        "market_share": 0.10126337733131134,
+                        "units": 161,
+                        "years_in_market": 14,
+                        "competitive_advantages": [
+                            "Produtos exclusivos",
+                            "Localização estratégica",
+                            "Forte presença online"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.7915029118342026,
+                "category": "Varejo",
+                "entry_barriers": [
+                    "Alto investimento inicial",
+                    "Mercado saturado",
+                    "Concorrentes com forte reconhecimento de marca",
+                    "Guerra de preços",
+                    "Altos custos de marketing para entrar no mercado",
+                    "Regulamentação complexa"
+                ],
+                "summary": "A análise indica um cenário altamente competitivo no setor de Varejo, com 66 players disputando mercado. Com saturação de 79%, recomenda-se cautela e um plano de negócios detalhado para novos entrantes."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "25-55",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "medium",
+                    "digital_engagement": "medium"
+                },
+                "market_size": 2733053,
+                "potential_customers": 15661,
+                "compatibility_score": 0.6062206039916183,
+                "recommended_regions": [
+                    "Curitiba",
+                    "Campinas",
+                    "Porto Alegre"
+                ],
+                "category": "Varejo",
+                "summary": "A análise demográfica mostra uma boa compatibilidade (60.6%) para o segmento de Varejo. O mercado potencial é estimado em 2.733.053 pessoas, com cerca de 15.661 clientes potenciais diretos. O perfil demográfico é favorável, com público-alvo na faixa etária de 25-55, nível de renda medium e concentração urbana medium."
+            },
+            "roi": {
+                "npv": 361454.58,
+                "irr": 50.0,
+                "payback_years": 0.6,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 32830.0,
+                        "expected": 46900,
+                        "optimistic": 60970.0
+                    },
+                    "annual": {
+                        "pessimistic": 393960.0,
+                        "expected": 562800,
+                        "optimistic": 731640.0
+                    },
+                    "five_year": {
+                        "pessimistic": 1969799.9999999998,
+                        "expected": 2814000,
+                        "optimistic": 3658200.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 64856.79712098785,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 1641.5,
+                            "cogs": 13132.0,
+                            "operation": 9849.0,
+                            "total": 24622.5
+                        },
+                        "expected": {
+                            "royalties": 2345.0,
+                            "cogs": 18760.0,
+                            "operation": 14070.0,
+                            "total": 35175.0
+                        },
+                        "optimistic": {
+                            "royalties": 3048.5,
+                            "cogs": 24388.0,
+                            "operation": 18291.0,
+                            "total": 45727.5
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 19698.0,
+                            "cogs": 157584.0,
+                            "operation": 118188.0,
+                            "total": 295470.0
+                        },
+                        "expected": {
+                            "royalties": 28140.0,
+                            "cogs": 225120.0,
+                            "operation": 168840.0,
+                            "total": 422100.0
+                        },
+                        "optimistic": {
+                            "royalties": 36582.0,
+                            "cogs": 292656.0,
+                            "operation": 219492.0,
+                            "total": 548730.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 98490.0,
+                            "cogs": 787920.0,
+                            "operation": 590939.9999999999,
+                            "total": 1477350.0
+                        },
+                        "expected": {
+                            "royalties": 140700.0,
+                            "cogs": 1125600.0,
+                            "operation": 844200.0,
+                            "total": 2110500.0
+                        },
+                        "optimistic": {
+                            "royalties": 182910.0,
+                            "cogs": 1463280.0,
+                            "operation": 1097460.0,
+                            "total": 2743650.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -64856.79712098785,
+                        71897.7,
+                        75492.585,
+                        79267.21425,
+                        83230.5749625,
+                        87392.10371062502
+                    ],
+                    "expected": [
+                        -64856.79712098785,
+                        102711.0,
+                        107846.55,
+                        113238.8775,
+                        118900.82137500001,
+                        124845.86244375003
+                    ],
+                    "optimistic": [
+                        -64856.79712098785,
+                        133524.3,
+                        140200.51499999998,
+                        147210.54075,
+                        154571.0677875,
+                        162299.62117687502
+                    ]
+                }
+            }
+        },
+        "PetFood Express": {
+            "basic_info": {
+                "name": "PetFood Express",
+                "category": "Pet",
+                "initial_investment": 69420.14233984688,
+                "franchise_fee": 9644.343573328273,
+                "royalty_fee_percentage": 3.755079354301421,
+                "avg_monthly_revenue": 12525.706151829063,
+                "roi_percentage": 68.33257315039091,
+                "payback_period_months": 17.561170971257877,
+                "min_area": 23,
+                "min_employees": 7,
+                "units": 92,
+                "description": "Franquia de Pet com excelente retorno sobre investimento.",
+                "summary": "PetFood Express é uma rede de franquias no setor de Pet com 92 unidades em operação no Brasil.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 15:49:29",
+                "cleaned_at": "2025-05-02 15:49:29",
+                "market_research": [
+                    {
+                        "title": "Oportunidades em Pet",
+                        "market_size": 601000000.0,
+                        "growth_rate": 0.02501266542586222,
+                        "insights": [
+                            "O segmento online em Pet tem crescido acima da média do mercado",
+                            "O mercado de Pet deve crescer 2.5% nos próximos 2 anos",
+                            "Empresas com foco em sustentabilidade têm se destacado em Pet"
+                        ]
+                    },
+                    {
+                        "title": "Tendências do Setor de Pet",
+                        "market_size": 505000000.0,
+                        "growth_rate": 0.2190536285963004,
+                        "insights": [
+                            "Novas tecnologias estão transformando o setor de Pet",
+                            "Empresas com foco em sustentabilidade têm se destacado em Pet",
+                            "Há uma tendência de consolidação no setor de Pet"
+                        ]
+                    },
+                    {
+                        "title": "Pesquisa de Consumidor: Pet",
+                        "market_size": 304000000.0,
+                        "growth_rate": 0.21965729482471127,
+                        "insights": [
+                            "Consumidores valorizam qualidade e preço no setor de Pet",
+                            "Novas tecnologias estão transformando o setor de Pet",
+                            "Há uma tendência de consolidação no setor de Pet"
+                        ]
+                    },
+                    {
+                        "title": "Tendências do Setor de Pet",
+                        "market_size": 487000000.0,
+                        "growth_rate": 0.058747442110762535,
+                        "insights": [
+                            "Empresas com foco em sustentabilidade têm se destacado em Pet",
+                            "Há uma tendência de consolidação no setor de Pet"
+                        ]
+                    }
+                ],
+                "opportunity_score": 39.09,
+                "estimated_monthly_revenue": 12525.706151829063,
+                "estimated_monthly_expenses": 8572.658689705617,
+                "estimated_monthly_profit": 3953.047462123446,
+                "annual_profit": 47436.569545481354,
+                "profit_margin": 0.3155947787858812,
+                "operational_margin": 0.3155947787858813,
+                "operating_expenses": {
+                    "aluguel": 1341.187208765409,
+                    "pessoal": 3419.7595067767033,
+                    "marketing": 1096.0019158096682,
+                    "insumos": 2291.435758537533,
+                    "administracao": 1119.9896286844942,
+                    "outros": 624.3769544301841
+                },
+                "growth_rate": 0.1365413844104481,
+                "future_revenues": {
+                    "ano1": 47436.569545481354,
+                    "ano2": 53913.62442290388,
+                    "ano3": 61275.06534019213,
+                    "ano4": 69641.64759158263,
+                    "ano5": 79150.61456636188
+                }
+            },
+            "competition": {
+                "competition_level": "medium",
+                "num_competitors": 30,
+                "top_competitors": [
+                    {
+                        "name": "Super Cat",
+                        "market_share": 0.27647943205934983,
+                        "units": 185,
+                        "years_in_market": 4,
+                        "competitive_advantages": [
+                            "Qualidade superior",
+                            "Investimento em marketing"
+                        ]
+                    },
+                    {
+                        "name": "Eco Dog",
+                        "market_share": 0.138631427233186,
+                        "units": 42,
+                        "years_in_market": 7,
+                        "competitive_advantages": [
+                            "Produtos exclusivos",
+                            "Equipe especializada"
+                        ]
+                    },
+                    {
+                        "name": "Mega Animal",
+                        "market_share": 0.17143911581102772,
+                        "units": 24,
+                        "years_in_market": 12,
+                        "competitive_advantages": [
+                            "Marca reconhecida",
+                            "Fidelização de clientes"
+                        ]
+                    },
+                    {
+                        "name": "Ultra Pet",
+                        "market_share": 0.09476558285984056,
+                        "units": 45,
+                        "years_in_market": 18,
+                        "competitive_advantages": [
+                            "Tecnologia avançada",
+                            "Logística eficiente",
+                            "Produtos exclusivos",
+                            "Marca reconhecida"
+                        ]
+                    },
+                    {
+                        "name": "Brasil Vet",
+                        "market_share": 0.06736139734274031,
+                        "units": 127,
+                        "years_in_market": 17,
+                        "competitive_advantages": [
+                            "Produtos exclusivos",
+                            "Equipe especializada",
+                            "Localização estratégica",
+                            "Marca reconhecida"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.4816657609705644,
+                "category": "Pet",
+                "entry_barriers": [
+                    "Investimento inicial considerável",
+                    "Necessidade de diferenciação",
+                    "Concorrentes com presença estabelecida",
+                    "Fidelização de clientes pelos concorrentes"
+                ],
+                "summary": "O setor de Pet apresenta nível médio de competição, com cerca de 30 players relevantes. A saturação de mercado está em aproximadamente 48%, o que indica um equilíbrio entre oportunidades e desafios para novos entrantes."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "25-55",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "medium",
+                    "digital_engagement": "medium"
+                },
+                "market_size": 795908,
+                "potential_customers": 2916,
+                "compatibility_score": 0.7778966293652791,
+                "recommended_regions": [
+                    "Fortaleza",
+                    "Curitiba",
+                    "Porto Alegre"
+                ],
+                "category": "Pet",
+                "summary": "A análise demográfica mostra uma boa compatibilidade (77.8%) para o segmento de Pet. O mercado potencial é estimado em 795.908 pessoas, com cerca de 2.916 clientes potenciais diretos. O perfil demográfico é favorável, com público-alvo na faixa etária de 25-55, nível de renda medium e concentração urbana medium."
+            },
+            "roi": {
+                "npv": 116011.67,
+                "irr": 50.0,
+                "payback_years": 1.5,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 14280.0,
+                        "expected": 20400,
+                        "optimistic": 26520.0
+                    },
+                    "annual": {
+                        "pessimistic": 171360.0,
+                        "expected": 244800,
+                        "optimistic": 318240.0
+                    },
+                    "five_year": {
+                        "pessimistic": 856800.0,
+                        "expected": 1224000,
+                        "optimistic": 1591200.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 69420.14233984688,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 714.0,
+                            "cogs": 5712.0,
+                            "operation": 4284.0,
+                            "total": 10710.0
+                        },
+                        "expected": {
+                            "royalties": 1020.0,
+                            "cogs": 8160.0,
+                            "operation": 6120.0,
+                            "total": 15300.0
+                        },
+                        "optimistic": {
+                            "royalties": 1326.0,
+                            "cogs": 10608.0,
+                            "operation": 7956.0,
+                            "total": 19890.0
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 8568.0,
+                            "cogs": 68544.0,
+                            "operation": 51408.0,
+                            "total": 128520.0
+                        },
+                        "expected": {
+                            "royalties": 12240.0,
+                            "cogs": 97920.0,
+                            "operation": 73440.0,
+                            "total": 183600.0
+                        },
+                        "optimistic": {
+                            "royalties": 15912.0,
+                            "cogs": 127296.0,
+                            "operation": 95472.0,
+                            "total": 238680.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 42840.0,
+                            "cogs": 342720.0,
+                            "operation": 257040.0,
+                            "total": 642600.0
+                        },
+                        "expected": {
+                            "royalties": 61200.0,
+                            "cogs": 489600.0,
+                            "operation": 367200.0,
+                            "total": 918000.0
+                        },
+                        "optimistic": {
+                            "royalties": 79560.0,
+                            "cogs": 636480.0,
+                            "operation": 477360.0,
+                            "total": 1193400.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -69420.14233984688,
+                        31273.199999999997,
+                        32836.86,
+                        34478.703,
+                        36202.63815,
+                        38012.770057500005
+                    ],
+                    "expected": [
+                        -69420.14233984688,
+                        44676.0,
+                        46909.8,
+                        49255.29,
+                        51718.054500000006,
+                        54303.95722500001
+                    ],
+                    "optimistic": [
+                        -69420.14233984688,
+                        58078.8,
+                        60982.740000000005,
+                        64031.87700000001,
+                        67233.47085000001,
+                        70595.14439250002
+                    ]
+                }
+            }
+        },
+        "Coffee Express": {
+            "basic_info": {
+                "name": "Coffee Express",
+                "category": "Café",
+                "initial_investment": 146202.22327084644,
+                "franchise_fee": 26891.242837722388,
+                "royalty_fee_percentage": 5.571129313646334,
+                "avg_monthly_revenue": 35787.624991212055,
+                "roi_percentage": 93.49362380832417,
+                "payback_period_months": 12.835099882962911,
+                "min_area": 79,
+                "min_employees": 2,
+                "units": 10,
+                "description": "Oportunidade no setor de Café com modelo de negócio comprovado.",
+                "summary": "Rede Coffee Express possui mais de 10 unidades e atua no mercado de Café há mais de 16 anos.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 15:49:29",
+                "cleaned_at": "2025-05-02 15:49:29",
+                "opportunity_score": 37.84,
+                "estimated_monthly_revenue": 35787.624991212055,
+                "estimated_monthly_expenses": 24396.81193919111,
+                "estimated_monthly_profit": 11390.813052020945,
+                "annual_profit": 136689.75662425134,
+                "profit_margin": 0.31828915874741764,
+                "operational_margin": 0.31828915874741764,
+                "operating_expenses": {
+                    "aluguel": 5089.469126595531,
+                    "pessoal": 8842.401952858816,
+                    "marketing": 2262.6141431445267,
+                    "insumos": 5474.575942465753,
+                    "administracao": 1935.138593623221,
+                    "outros": 1395.2074566417843
+                },
+                "growth_rate": 0.08711156009610968,
+                "future_revenues": {
+                    "ano1": 136689.75662425134,
+                    "ano2": 148597.0145729474,
+                    "ano3": 161541.53233802118,
+                    "ano4": 175613.66724030237,
+                    "ano5": 190911.64776780418
+                }
+            },
+            "competition": {
+                "competition_level": "low",
+                "num_competitors": 8,
+                "top_competitors": [
+                    {
+                        "name": "Top Top",
+                        "market_share": 0.08788778633205781,
+                        "units": 60,
+                        "years_in_market": 19,
+                        "competitive_advantages": [
+                            "Fidelização de clientes",
+                            "Preços competitivos"
+                        ]
+                    },
+                    {
+                        "name": "Brasil Super",
+                        "market_share": 0.18478611124987643,
+                        "units": 147,
+                        "years_in_market": 14,
+                        "competitive_advantages": [
+                            "Localização estratégica",
+                            "Equipe especializada",
+                            "Marca reconhecida",
+                            "Fidelização de clientes"
+                        ]
+                    },
+                    {
+                        "name": "Ultra Super",
+                        "market_share": 0.06208190077386326,
+                        "units": 82,
+                        "years_in_market": 9,
+                        "competitive_advantages": [
+                            "Fidelização de clientes",
+                            "Investimento em marketing",
+                            "Atendimento diferenciado"
+                        ]
+                    },
+                    {
+                        "name": "Prime Brasil",
+                        "market_share": 0.16743899519743477,
+                        "units": 25,
+                        "years_in_market": 5,
+                        "competitive_advantages": [
+                            "Atendimento diferenciado",
+                            "Qualidade superior"
+                        ]
+                    },
+                    {
+                        "name": "Ultra Express",
+                        "market_share": 0.19516993037727187,
+                        "units": 94,
+                        "years_in_market": 9,
+                        "competitive_advantages": [
+                            "Tecnologia avançada",
+                            "Fidelização de clientes"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.2647173464945526,
+                "category": "Café",
+                "entry_barriers": [
+                    "Investimento inicial moderado",
+                    "Poucos concorrentes estabelecidos",
+                    "Regulamentação simples"
+                ],
+                "summary": "O mercado de Café apresenta competição relativamente baixa, com aproximadamente 8 concorrentes relevantes. Com uma saturação de mercado estimada em 26%, ainda há espaço para novos entrantes que ofereçam diferenciais competitivos."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "25-55",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "medium",
+                    "digital_engagement": "medium"
+                },
+                "market_size": 2239987,
+                "potential_customers": 15956,
+                "compatibility_score": 0.7300958593434548,
+                "recommended_regions": [
+                    "Goiânia",
+                    "Porto Alegre",
+                    "Fortaleza",
+                    "Recife",
+                    "Curitiba"
+                ],
+                "category": "Café",
+                "summary": "A análise demográfica mostra uma boa compatibilidade (73.0%) para o segmento de Café. O mercado potencial é estimado em 2.239.987 pessoas, com cerca de 15.956 clientes potenciais diretos. O perfil demográfico é favorável, com público-alvo na faixa etária de 25-55, nível de renda medium e concentração urbana medium."
+            },
+            "roi": {
+                "npv": 1593584.52,
+                "irr": 50.0,
+                "payback_years": 0.3,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 133980.0,
+                        "expected": 191400,
+                        "optimistic": 248820.0
+                    },
+                    "annual": {
+                        "pessimistic": 1607760.0,
+                        "expected": 2296800,
+                        "optimistic": 2985840.0
+                    },
+                    "five_year": {
+                        "pessimistic": 8038799.999999999,
+                        "expected": 11484000,
+                        "optimistic": 14929200.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 146202.22327084644,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 6699.0,
+                            "cogs": 53592.0,
+                            "operation": 40194.0,
+                            "total": 100485.0
+                        },
+                        "expected": {
+                            "royalties": 9570.0,
+                            "cogs": 76560.0,
+                            "operation": 57420.0,
+                            "total": 143550.0
+                        },
+                        "optimistic": {
+                            "royalties": 12441.0,
+                            "cogs": 99528.0,
+                            "operation": 74646.0,
+                            "total": 186615.0
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 80388.0,
+                            "cogs": 643104.0,
+                            "operation": 482328.0,
+                            "total": 1205820.0
+                        },
+                        "expected": {
+                            "royalties": 114840.0,
+                            "cogs": 918720.0,
+                            "operation": 689040.0,
+                            "total": 1722600.0
+                        },
+                        "optimistic": {
+                            "royalties": 149292.0,
+                            "cogs": 1194336.0,
+                            "operation": 895752.0,
+                            "total": 2239380.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 401940.0,
+                            "cogs": 3215520.0,
+                            "operation": 2411639.9999999995,
+                            "total": 6029100.0
+                        },
+                        "expected": {
+                            "royalties": 574200.0,
+                            "cogs": 4593600.0,
+                            "operation": 3445200.0,
+                            "total": 8613000.0
+                        },
+                        "optimistic": {
+                            "royalties": 746460.0,
+                            "cogs": 5971680.0,
+                            "operation": 4478760.0,
+                            "total": 11196900.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -146202.22327084644,
+                        293416.2,
+                        308087.01,
+                        323491.3605,
+                        339665.92852500005,
+                        356649.2249512501
+                    ],
+                    "expected": [
+                        -146202.22327084644,
+                        419166.0,
+                        440124.30000000005,
+                        462130.515,
+                        485237.04075000004,
+                        509498.8927875001
+                    ],
+                    "optimistic": [
+                        -146202.22327084644,
+                        544915.8,
+                        572161.5900000001,
+                        600769.6695000001,
+                        630808.1529750001,
+                        662348.5606237502
+                    ]
+                }
+            }
+        },
+        "SmartPhone Repair": {
+            "basic_info": {
+                "name": "SmartPhone Repair",
+                "category": "Tecnologia",
+                "initial_investment": 194620.21272469795,
+                "franchise_fee": 20901.453332034354,
+                "royalty_fee_percentage": 3.968242812304818,
+                "avg_monthly_revenue": 33931.14069473666,
+                "roi_percentage": 87.19739911802186,
+                "payback_period_months": 13.761878360337302,
+                "min_area": 36,
+                "min_employees": 3,
+                "units": 129,
+                "description": "Modelo de negócio simplificado no setor de Tecnologia com suporte completo.",
+                "summary": "Rede SmartPhone Repair possui mais de 129 unidades e atua no mercado de Tecnologia há mais de 16 anos.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 15:49:29",
+                "cleaned_at": "2025-05-02 15:49:29",
+                "market_research": [
+                    {
+                        "title": "Relatório de Investimento: Tecnologia",
+                        "market_size": 518000000.0,
+                        "growth_rate": 0.17759748826870134,
+                        "insights": [
+                            "O segmento online em Tecnologia tem crescido acima da média do mercado",
+                            "Há uma tendência de consolidação no setor de Tecnologia"
+                        ]
+                    },
+                    {
+                        "title": "Análise de Mercado: Tecnologia",
+                        "market_size": 738000000.0,
+                        "growth_rate": 0.07030014833755563,
+                        "insights": [
+                            "O segmento online em Tecnologia tem crescido acima da média do mercado",
+                            "Há uma tendência de consolidação no setor de Tecnologia"
+                        ]
+                    },
+                    {
+                        "title": "Tendências do Setor de Tecnologia",
+                        "market_size": 163000000.0,
+                        "growth_rate": 0.09598122695568997,
+                        "insights": [
+                            "O segmento online em Tecnologia tem crescido acima da média do mercado",
+                            "Empresas com foco em sustentabilidade têm se destacado em Tecnologia"
+                        ]
+                    }
+                ],
+                "opportunity_score": 28.86,
+                "estimated_monthly_revenue": 33931.14069473666,
+                "estimated_monthly_expenses": 19789.16039024516,
+                "estimated_monthly_profit": 14141.980304491502,
+                "annual_profit": 169703.76365389803,
+                "profit_margin": 0.4167847002763801,
+                "operational_margin": 0.41678470027638004,
+                "operating_expenses": {
+                    "aluguel": 4796.636090333034,
+                    "pessoal": 6748.036637413747,
+                    "marketing": 2696.1283981298207,
+                    "insumos": 5440.124401672215,
+                    "administracao": 1686.8912975209134,
+                    "outros": 1239.6697620306163
+                },
+                "growth_rate": 0.25,
+                "future_revenues": {
+                    "ano1": 169703.76365389803,
+                    "ano2": 212129.70456737254,
+                    "ano3": 265162.13070921565,
+                    "ano4": 331452.6633865196,
+                    "ano5": 414315.8292331495
+                }
+            },
+            "competition": {
+                "competition_level": "high",
+                "num_competitors": 49,
+                "top_competitors": [
+                    {
+                        "name": "Top Digital",
+                        "market_share": 0.2511825247733545,
+                        "units": 137,
+                        "years_in_market": 14,
+                        "competitive_advantages": [
+                            "Equipe especializada",
+                            "Marca reconhecida",
+                            "Investimento em marketing"
+                        ]
+                    },
+                    {
+                        "name": "Super Sys",
+                        "market_share": 0.22656540935413,
+                        "units": 10,
+                        "years_in_market": 7,
+                        "competitive_advantages": [
+                            "Logística eficiente",
+                            "Produtos exclusivos",
+                            "Forte presença online",
+                            "Fidelização de clientes"
+                        ]
+                    },
+                    {
+                        "name": "Ultra Digital",
+                        "market_share": 0.18605898605718718,
+                        "units": 145,
+                        "years_in_market": 5,
+                        "competitive_advantages": [
+                            "Produtos exclusivos",
+                            "Equipe especializada",
+                            "Logística eficiente"
+                        ]
+                    },
+                    {
+                        "name": "Smart Soft",
+                        "market_share": 0.10092010113530132,
+                        "units": 164,
+                        "years_in_market": 18,
+                        "competitive_advantages": [
+                            "Localização estratégica",
+                            "Produtos exclusivos"
+                        ]
+                    },
+                    {
+                        "name": "Super Sys",
+                        "market_share": 0.19463381060735718,
+                        "units": 174,
+                        "years_in_market": 14,
+                        "competitive_advantages": [
+                            "Fidelização de clientes",
+                            "Forte presença online",
+                            "Qualidade superior",
+                            "Equipe especializada"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.63381875678989,
+                "category": "Tecnologia",
+                "entry_barriers": [
+                    "Alto investimento inicial",
+                    "Mercado saturado",
+                    "Concorrentes com forte reconhecimento de marca",
+                    "Guerra de preços",
+                    "Altos custos de marketing para entrar no mercado",
+                    "Regulamentação complexa"
+                ],
+                "summary": "O mercado de Tecnologia apresenta alta competitividade, com aproximadamente 49 concorrentes estabelecidos. A saturação de mercado de 63% indica que novos entrantes enfrentarão desafios significativos e precisarão de estratégias robustas de diferenciação."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "25-45",
+                    "income_level": "medium-high",
+                    "education_level": "higher",
+                    "urban_concentration": "high",
+                    "digital_engagement": "high"
+                },
+                "market_size": 1918590,
+                "potential_customers": 15989,
+                "compatibility_score": 0.8945098930188408,
+                "recommended_regions": [
+                    "Salvador",
+                    "Rio de Janeiro",
+                    "Florianópolis",
+                    "São Paulo"
+                ],
+                "category": "Tecnologia",
+                "summary": "A análise demográfica indica uma excelente compatibilidade (89.5%) para o segmento de Tecnologia. Com um mercado potencial estimado em 1.918.590 pessoas e aproximadamente 15.989 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 25-45, com nível de renda medium-high e concentração urbana high."
+            },
+            "roi": {
+                "npv": 240780.96,
+                "irr": 50.0,
+                "payback_years": 1.8,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 33530.0,
+                        "expected": 47900,
+                        "optimistic": 62270.0
+                    },
+                    "annual": {
+                        "pessimistic": 402360.0,
+                        "expected": 574800,
+                        "optimistic": 747240.0
+                    },
+                    "five_year": {
+                        "pessimistic": 2011799.9999999998,
+                        "expected": 2874000,
+                        "optimistic": 3736200.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 194620.21272469795,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 1676.5,
+                            "cogs": 13412.0,
+                            "operation": 10059.0,
+                            "total": 25147.5
+                        },
+                        "expected": {
+                            "royalties": 2395.0,
+                            "cogs": 19160.0,
+                            "operation": 14370.0,
+                            "total": 35925.0
+                        },
+                        "optimistic": {
+                            "royalties": 3113.5,
+                            "cogs": 24908.0,
+                            "operation": 18681.0,
+                            "total": 46702.5
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 20118.0,
+                            "cogs": 160944.0,
+                            "operation": 120708.0,
+                            "total": 301770.0
+                        },
+                        "expected": {
+                            "royalties": 28740.0,
+                            "cogs": 229920.0,
+                            "operation": 172440.0,
+                            "total": 431100.0
+                        },
+                        "optimistic": {
+                            "royalties": 37362.0,
+                            "cogs": 298896.0,
+                            "operation": 224172.0,
+                            "total": 560430.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 100590.0,
+                            "cogs": 804720.0,
+                            "operation": 603539.9999999999,
+                            "total": 1508850.0
+                        },
+                        "expected": {
+                            "royalties": 143700.0,
+                            "cogs": 1149600.0,
+                            "operation": 862200.0,
+                            "total": 2155500.0
+                        },
+                        "optimistic": {
+                            "royalties": 186810.0,
+                            "cogs": 1494480.0,
+                            "operation": 1120860.0,
+                            "total": 2802150.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -194620.21272469795,
+                        73430.7,
+                        77102.235,
+                        80957.34675,
+                        85005.2140875,
+                        89255.474791875
+                    ],
+                    "expected": [
+                        -194620.21272469795,
+                        104901.0,
+                        110146.05,
+                        115653.35250000001,
+                        121436.02012500001,
+                        127507.82113125002
+                    ],
+                    "optimistic": [
+                        -194620.21272469795,
+                        136371.3,
+                        143189.865,
+                        150349.35825,
+                        157866.82616250002,
+                        165760.16747062502
+                    ]
+                }
+            }
+        },
+        "TechFix": {
+            "basic_info": {
+                "name": "TechFix",
+                "category": "Tecnologia",
+                "initial_investment": 172395.34172070597,
+                "franchise_fee": 29443.00957962773,
+                "royalty_fee_percentage": 9.599679812958428,
+                "avg_monthly_revenue": 42450.569741544314,
+                "roi_percentage": 145.49822830099467,
+                "payback_period_months": 8.247523107412274,
+                "min_area": 52,
+                "min_employees": 3,
+                "units": 111,
+                "description": "Oportunidade no setor de Tecnologia com modelo de negócio comprovado.",
+                "summary": "TechFix se destaca no segmento de Tecnologia com retorno estimado em 25.0 meses.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 15:49:29",
+                "cleaned_at": "2025-05-02 15:49:29",
+                "market_research": [
+                    {
+                        "title": "Relatório de Investimento: Tecnologia",
+                        "market_size": 518000000.0,
+                        "growth_rate": 0.17759748826870134,
+                        "insights": [
+                            "O segmento online em Tecnologia tem crescido acima da média do mercado",
+                            "Há uma tendência de consolidação no setor de Tecnologia"
+                        ]
+                    },
+                    {
+                        "title": "Análise de Mercado: Tecnologia",
+                        "market_size": 738000000.0,
+                        "growth_rate": 0.07030014833755563,
+                        "insights": [
+                            "O segmento online em Tecnologia tem crescido acima da média do mercado",
+                            "Há uma tendência de consolidação no setor de Tecnologia"
+                        ]
+                    },
+                    {
+                        "title": "Tendências do Setor de Tecnologia",
+                        "market_size": 163000000.0,
+                        "growth_rate": 0.09598122695568997,
+                        "insights": [
+                            "O segmento online em Tecnologia tem crescido acima da média do mercado",
+                            "Empresas com foco em sustentabilidade têm se destacado em Tecnologia"
+                        ]
+                    }
+                ],
+                "opportunity_score": 28.44,
+                "estimated_monthly_revenue": 42450.569741544314,
+                "estimated_monthly_expenses": 21547.88908512159,
+                "estimated_monthly_profit": 20902.680656422723,
+                "annual_profit": 250832.16787707267,
+                "profit_margin": 0.4924004738613975,
+                "operational_margin": 0.4924004738613975,
+                "operating_expenses": {
+                    "aluguel": 5874.594952688183,
+                    "pessoal": 6043.325392728192,
+                    "marketing": 2211.197947636495,
+                    "insumos": 7672.666577221038,
+                    "administracao": 2942.471209063584,
+                    "outros": 1978.253172797381
+                },
+                "growth_rate": 0.25,
+                "future_revenues": {
+                    "ano1": 250832.16787707267,
+                    "ano2": 313540.2098463408,
+                    "ano3": 391925.262307926,
+                    "ano4": 489906.57788490754,
+                    "ano5": 612383.2223561344
+                }
+            },
+            "competition": {
+                "competition_level": "high",
+                "num_competitors": 52,
+                "top_competitors": [
+                    {
+                        "name": "Super Connect",
+                        "market_share": 0.2654788779916403,
+                        "units": 63,
+                        "years_in_market": 3,
+                        "competitive_advantages": [
+                            "Tecnologia avançada",
+                            "Fidelização de clientes"
+                        ]
+                    },
+                    {
+                        "name": "Brasil Connect",
+                        "market_share": 0.10856088366478168,
+                        "units": 57,
+                        "years_in_market": 7,
+                        "competitive_advantages": [
+                            "Tecnologia avançada",
+                            "Localização estratégica"
+                        ]
+                    },
+                    {
+                        "name": "Mega Connect",
+                        "market_share": 0.1716733845939935,
+                        "units": 193,
+                        "years_in_market": 9,
+                        "competitive_advantages": [
+                            "Preços competitivos",
+                            "Qualidade superior",
+                            "Marca reconhecida",
+                            "Forte presença online"
+                        ]
+                    },
+                    {
+                        "name": "Top Soft",
+                        "market_share": 0.08963152056756825,
+                        "units": 28,
+                        "years_in_market": 3,
+                        "competitive_advantages": [
+                            "Localização estratégica",
+                            "Preços competitivos",
+                            "Atendimento diferenciado",
+                            "Investimento em marketing"
+                        ]
+                    },
+                    {
+                        "name": "Global Byte",
+                        "market_share": 0.21695004966575204,
+                        "units": 114,
+                        "years_in_market": 14,
+                        "competitive_advantages": [
+                            "Produtos exclusivos",
+                            "Qualidade superior"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.6091102290255399,
+                "category": "Tecnologia",
+                "entry_barriers": [
+                    "Alto investimento inicial",
+                    "Mercado saturado",
+                    "Concorrentes com forte reconhecimento de marca",
+                    "Guerra de preços",
+                    "Altos custos de marketing para entrar no mercado",
+                    "Regulamentação complexa"
+                ],
+                "summary": "A análise indica um cenário altamente competitivo no setor de Tecnologia, com 52 players disputando mercado. Com saturação de 61%, recomenda-se cautela e um plano de negócios detalhado para novos entrantes."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "25-45",
+                    "income_level": "medium-high",
+                    "education_level": "higher",
+                    "urban_concentration": "high",
+                    "digital_engagement": "high"
+                },
+                "market_size": 9704875,
+                "potential_customers": 50467,
+                "compatibility_score": 0.8467185484024273,
+                "recommended_regions": [
+                    "Florianópolis",
+                    "São Paulo",
+                    "Salvador",
+                    "Campinas"
+                ],
+                "category": "Tecnologia",
+                "summary": "A análise demográfica indica uma excelente compatibilidade (84.7%) para o segmento de Tecnologia. Com um mercado potencial estimado em 9.704.875 pessoas e aproximadamente 50.467 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 25-45, com nível de renda medium-high e concentração urbana high."
+            },
+            "roi": {
+                "npv": 1203799.6,
+                "irr": 50.0,
+                "payback_years": 0.5,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 105980.0,
+                        "expected": 151400,
+                        "optimistic": 196820.0
+                    },
+                    "annual": {
+                        "pessimistic": 1271760.0,
+                        "expected": 1816800,
+                        "optimistic": 2361840.0
+                    },
+                    "five_year": {
+                        "pessimistic": 6358800.0,
+                        "expected": 9084000,
+                        "optimistic": 11809200.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 172395.34172070597,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 5299.0,
+                            "cogs": 42392.0,
+                            "operation": 31794.0,
+                            "total": 79485.0
+                        },
+                        "expected": {
+                            "royalties": 7570.0,
+                            "cogs": 60560.0,
+                            "operation": 45420.0,
+                            "total": 113550.0
+                        },
+                        "optimistic": {
+                            "royalties": 9841.0,
+                            "cogs": 78728.0,
+                            "operation": 59046.0,
+                            "total": 147615.0
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 63588.0,
+                            "cogs": 508704.0,
+                            "operation": 381528.0,
+                            "total": 953820.0
+                        },
+                        "expected": {
+                            "royalties": 90840.0,
+                            "cogs": 726720.0,
+                            "operation": 545040.0,
+                            "total": 1362600.0
+                        },
+                        "optimistic": {
+                            "royalties": 118092.0,
+                            "cogs": 944736.0,
+                            "operation": 708552.0,
+                            "total": 1771380.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 317940.0,
+                            "cogs": 2543520.0,
+                            "operation": 1907640.0,
+                            "total": 4769100.0
+                        },
+                        "expected": {
+                            "royalties": 454200.0,
+                            "cogs": 3633600.0,
+                            "operation": 2725200.0,
+                            "total": 6813000.0
+                        },
+                        "optimistic": {
+                            "royalties": 590460.0,
+                            "cogs": 4723680.0,
+                            "operation": 3542760.0,
+                            "total": 8856900.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -172395.34172070597,
+                        232096.2,
+                        243701.01,
+                        255886.06050000002,
+                        268680.36352500005,
+                        282114.3817012501
+                    ],
+                    "expected": [
+                        -172395.34172070597,
+                        331566.0,
+                        348144.3,
+                        365551.515,
+                        383829.09075000003,
+                        403020.5452875001
+                    ],
+                    "optimistic": [
+                        -172395.34172070597,
+                        431035.8,
+                        452587.59,
+                        475216.9695,
+                        498977.817975,
+                        523926.70887375006
+                    ]
+                }
+            }
+        }
+    },
+    "market_trends": [
+        {
+            "keyword": "Educação",
+            "source_type": "market_research",
+            "growth_rate": 0.16390159346606492,
+            "sentiment": 0.8608370551830384,
+            "investment_opportunity": 0.8723155135655689,
+            "source": "Sebrae",
+            "relevance_score": 0.6238117539413375,
+            "sources": 5,
+            "categories": [
+                "Educação"
+            ]
+        },
+        {
+            "keyword": "alimentação saudável",
+            "source_type": "social_media",
+            "growth_rate": 0.17139276860407457,
+            "sentiment": 0.8033297559452822,
+            "monthly_mentions": 230000.0,
+            "platforms": [
+                "Instagram",
+                "TikTok",
+                "Facebook"
+            ],
+            "first_observed": "2025-01-02",
+            "relevance_score": 0.6095560342252144,
+            "sources": 3
+        },
+        {
+            "keyword": "Moda",
+            "source_type": "market_research",
+            "growth_rate": 0.08605032004768645,
+            "sentiment": 0.909140098674311,
+            "investment_opportunity": 0.6750247158544538,
+            "source": "Kantar Worldpanel",
+            "relevance_score": 0.6071621576213678,
+            "sources": 7,
+            "categories": [
+                "Moda"
+            ]
+        },
+        {
+            "keyword": "valorizam qualidade",
+            "source_type": "market_research",
+            "growth_rate": 0.14323259151919437,
+            "sentiment": 0.8270279146039436,
+            "category": "Alimentação",
+            "insight": "Consumidores valorizam qualidade e preço no setor de Alimentação",
+            "source": "Consultoria McKinsey",
+            "relevance_score": 0.6054014109888608,
+            "sources": 17,
+            "categories": [
+                "Alimentação",
+                "Saúde",
+                "Pet",
+                "Moda",
+                "Beleza",
+                "Serviços",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "deve",
+            "source_type": "market_research",
+            "growth_rate": 0.17713624914636472,
+            "sentiment": 0.7672179710662458,
+            "category": "Saúde",
+            "insight": "O mercado de Saúde deve crescer 24.5% nos próximos 2 anos",
+            "source": "Kantar Worldpanel",
+            "relevance_score": 0.6010198909784197,
+            "sources": 14,
+            "categories": [
+                "Saúde",
+                "Educação",
+                "Pet",
+                "Beleza",
+                "Serviços",
+                "Varejo"
+            ]
+        },
+        {
+            "keyword": "transformando",
+            "source_type": "market_research",
+            "growth_rate": 0.11608967791733434,
+            "sentiment": 0.8461227625154726,
+            "category": "Alimentação",
+            "insight": "Novas tecnologias estão transformando o setor de Alimentação",
+            "source": "Consultoria McKinsey",
+            "relevance_score": 0.6002726999215755,
+            "sources": 11,
+            "categories": [
+                "Alimentação",
+                "Saúde",
+                "Educação",
+                "Pet",
+                "Moda",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "sustentabilidade",
+            "source_type": "social_media",
+            "growth_rate": 0.11425182505948202,
+            "sentiment": 0.8473769519281334,
+            "monthly_mentions": 310000.0,
+            "platforms": [
+                "Instagram",
+                "LinkedIn",
+                "Twitter",
+                "Facebook"
+            ],
+            "first_observed": "2024-12-03",
+            "relevance_score": 0.5999138156022328,
+            "sources": 10,
+            "categories": [
+                "Alimentação",
+                "Educação",
+                "Tecnologia",
+                "Pet",
+                "Serviços",
+                "Varejo"
+            ]
+        },
+        {
+            "keyword": "novas tecnologias",
+            "source_type": "market_research",
+            "growth_rate": 0.1268226764843456,
+            "sentiment": 0.8265732101639703,
+            "category": "Alimentação",
+            "insight": "Novas tecnologias estão transformando o setor de Alimentação",
+            "source": "Consultoria McKinsey",
+            "relevance_score": 0.5987010336429293,
+            "sources": 16,
+            "categories": [
+                "Alimentação",
+                "Saúde",
+                "Educação",
+                "Pet",
+                "Moda",
+                "Beleza",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "crise",
+            "source_type": "market_research",
+            "growth_rate": 0.16957103028242715,
+            "sentiment": 0.7658577808372089,
+            "category": "Saúde",
+            "insight": "Franquias de Saúde têm mostrado resistência em períodos de crise",
+            "source": "IBGE",
+            "relevance_score": 0.5975857463641334,
+            "sources": 10,
+            "categories": [
+                "Saúde",
+                "Educação",
+                "Moda",
+                "Varejo"
+            ]
+        },
+        {
+            "keyword": "franquias",
+            "source_type": "market_research",
+            "growth_rate": 0.13482886905750255,
+            "sentiment": 0.8026000188797242,
+            "category": "Saúde",
+            "insight": "Franquias de Saúde têm mostrado resistência em períodos de crise",
+            "source": "IBGE",
+            "relevance_score": 0.5947115532869183,
+            "sources": 13,
+            "categories": [
+                "Saúde",
+                "Educação",
+                "Moda",
+                "Beleza",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        }
+    ],
+    "timestamp": "2025-05-02 15:49:29"
+}

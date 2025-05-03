@@ -1,0 +1,66 @@
+{
+  "feed_ads": [
+    {
+      "caption": "Investimento a partir de R$ 46,396,94. Retorno em apenas 50 meses. Seja parte da rede PetFood Express e conquiste sua independência financeira.\n\n#SejaFranqueado #FranquiaPetFoodExpress #Empreendedorismo #NegócioPróprio #Franquia #Investimento",
+      "url": "https://www.petfoodexpress.com.br/franqueado",
+      "image_specs": {
+        "width": 1080,
+        "height": 1080
+      },
+      "recommended_elements": [
+        "Imagem quadrada de alta qualidade mostrando o ambiente da franquia",
+        "Texto sobreposto mínimo ou nenhum",
+        "Cores vibrantes e atraentes"
+      ]
+    },
+    {
+      "caption": "Cansado do seu emprego? A franquia PetFood Express é sua porta de saída. Investimento a partir de R$ 46,396,94 e retorno em 50 meses.\n\n#SejaFranqueado #FranquiaPetFoodExpress #Empreendedorismo #NegócioPróprio #Franquia #Investimento",
+      "url": "https://www.petfoodexpress.com.br/franqueado",
+      "image_specs": {
+        "width": 1080,
+        "height": 1080
+      },
+      "recommended_elements": [
+        "Imagem quadrada de alta qualidade mostrando o ambiente da franquia",
+        "Texto sobreposto mínimo ou nenhum",
+        "Cores vibrantes e atraentes"
+      ]
+    }
+  ],
+  "stories_ads": [
+    {
+      "headline": "Seja dono do seu negócio: PetF",
+      "cta": "Deslize para cima",
+      "url": "https://www.petfoodexpress.com.br/franqueado",
+      "image_specs": {
+        "width": 1080,
+        "height": 1920
+      },
+      "recommended_elements": [
+        "Imagem vertical com apelo visual forte",
+        "Logo da franquia no topo",
+        "Título em destaque no centro",
+        "CTA claro na parte inferior",
+        "Elementos interativos como enquetes ou perguntas"
+      ]
+    }
+  ],
+  "reels_ads": [
+    {
+      "caption": "Invista no seu futuro com a franquia! 🚀 #SejaFranqueado #FranquiaPetFoodExpress #Empreendedorismo #NegócioPróprio #Franquia #Investimento",
+      "script": "\n[ABERTURA - 3s]\nLogo da PetFood Express com slogan.\n\n[NARRAÇÃO - 5s]\n\"O mercado de Pet Shop está em expansão. Você está pronto para aproveitar essa oportunidade?\"\n\n[CENA 1 - 7s]\nMostrar unidades da franquia em operação, clientes satisfeitos.\n\"A PetFood Express é líder no segmento, com modelo de negócio validado e suporte completo.\"\n\n[CENA 2 - 7s]\nMostrar números de crescimento e resultados.\n\"Investimento a partir de R$ 46,396,94, com retorno em apenas 50 meses.\"\n\n[CENA 3 - 5s]\nMostrar equipe de suporte e treinamento.\n\"Você não estará sozinho. Nossa equipe te acompanha em cada passo.\"\n\n[FECHAMENTO - 3s]\n\"Seja parte do sucesso. PetFood Express - seu futuro começa aqui.\"\n[MOSTRAR SITE E TELEFONE]\n                ",
+      "video_specs": {
+        "width": 1080,
+        "height": 1920,
+        "max_duration": 60
+      },
+      "recommended_elements": [
+        "Vídeo vertical com ritmo dinâmico",
+        "Música de fundo envolvente",
+        "Textos sobrepostos com informações-chave",
+        "Call to action claro ao final",
+        "Participação de franqueados reais"
+      ]
+    }
+  ]
+}

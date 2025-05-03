@@ -1,0 +1,101 @@
+2025-04-28 11:23:33,115 - marketplace_scraper - INFO - Inicializado com 3 marketplaces configurados
+2025-04-28 11:23:33,128 - marketplace_scraper - INFO - Iniciando coleta de Amazon
+2025-04-28 11:23:33,129 - marketplace_scraper - INFO - Buscando por 'dropshipping' em Amazon
+2025-04-28 11:23:33,401 - marketplace_scraper - WARNING - Requisição falhou com status 503 para https://www.amazon.com.br/s?k=dropshipping
+2025-04-28 11:23:33,608 - marketplace_scraper - WARNING - Requisição falhou com status 503 para https://www.amazon.com.br/s?k=dropshipping
+2025-04-28 11:23:35,111 - marketplace_scraper - INFO - Encontrados 48 itens em Amazon
+2025-04-28 11:23:35,355 - marketplace_scraper - INFO - Encontrados 0 produtos para 'dropshipping' em Amazon
+2025-04-28 11:23:36,387 - marketplace_scraper - INFO - Buscando por 'revenda sem estoque' em Amazon
+2025-04-28 11:23:37,918 - marketplace_scraper - INFO - Encontrados 48 itens em Amazon
+2025-04-28 11:23:38,167 - marketplace_scraper - INFO - Encontrados 0 produtos para 'revenda sem estoque' em Amazon
+2025-04-28 11:23:40,957 - marketplace_scraper - INFO - Buscando por 'franquia digital' em Amazon
+2025-04-28 11:23:42,543 - marketplace_scraper - INFO - Encontrados 49 itens em Amazon
+2025-04-28 11:23:42,829 - marketplace_scraper - INFO - Encontrados 0 produtos para 'franquia digital' em Amazon
+2025-04-28 11:23:45,768 - marketplace_scraper - INFO - Buscando por 'vender sem estoque' em Amazon
+2025-04-28 11:23:47,417 - marketplace_scraper - INFO - Encontrados 49 itens em Amazon
+2025-04-28 11:23:47,674 - marketplace_scraper - INFO - Encontrados 0 produtos para 'vender sem estoque' em Amazon
+2025-04-28 11:23:49,265 - marketplace_scraper - INFO - Buscando por 'produtos para revender' em Amazon
+2025-04-28 11:23:49,476 - marketplace_scraper - WARNING - Requisição falhou com status 503 para https://www.amazon.com.br/s?k=dropshipping
+2025-04-28 11:23:51,138 - marketplace_scraper - INFO - Encontrados 49 itens em Amazon
+2025-04-28 11:23:51,398 - marketplace_scraper - INFO - Encontrados 0 produtos para 'produtos para revender' em Amazon
+2025-04-28 11:23:52,950 - marketplace_scraper - INFO - Buscando por 'kit revenda' em Amazon
+2025-04-28 11:23:53,160 - marketplace_scraper - WARNING - Requisição falhou com status 503 para https://www.amazon.com.br/s?k=dropshipping
+2025-04-28 11:23:53,383 - marketplace_scraper - WARNING - Requisição falhou com status 503 para https://www.amazon.com.br/s?k=dropshipping
+2025-04-28 11:23:54,927 - marketplace_scraper - INFO - Encontrados 49 itens em Amazon
+2025-04-28 11:23:55,184 - marketplace_scraper - INFO - Encontrados 0 produtos para 'kit revenda' em Amazon
+2025-04-28 11:23:57,132 - marketplace_scraper - INFO - Buscando por 'curso dropshipping' em Amazon
+2025-04-28 11:23:58,733 - marketplace_scraper - INFO - Encontrados 49 itens em Amazon
+2025-04-28 11:23:58,993 - marketplace_scraper - INFO - Encontrados 0 produtos para 'curso dropshipping' em Amazon
+2025-04-28 11:24:01,312 - marketplace_scraper - INFO - Buscando por 'método afiliado' em Amazon
+2025-04-28 11:24:01,535 - marketplace_scraper - WARNING - Requisição falhou com status 503 para https://www.amazon.com.br/s?k=dropshipping
+2025-04-28 11:24:03,045 - marketplace_scraper - INFO - Encontrados 49 itens em Amazon
+2025-04-28 11:24:03,304 - marketplace_scraper - INFO - Encontrados 0 produtos para 'método afiliado' em Amazon
+2025-04-28 11:24:05,976 - marketplace_scraper - INFO - Buscando por 'sistema de revenda' em Amazon
+2025-04-28 11:24:07,997 - marketplace_scraper - INFO - Encontrados 49 itens em Amazon
+2025-04-28 11:24:08,268 - marketplace_scraper - INFO - Encontrados 0 produtos para 'sistema de revenda' em Amazon
+2025-04-28 11:24:09,997 - marketplace_scraper - INFO - Buscando por 'produtos lucrativos' em Amazon
+2025-04-28 11:24:11,591 - marketplace_scraper - INFO - Encontrados 49 itens em Amazon
+2025-04-28 11:24:11,894 - marketplace_scraper - INFO - Encontrados 0 produtos para 'produtos lucrativos' em Amazon
+2025-04-28 11:24:13,655 - marketplace_scraper - INFO - Iniciando coleta de Mercado Livre
+2025-04-28 11:24:13,656 - marketplace_scraper - INFO - Buscando por 'dropshipping' em Mercado Livre
+2025-04-28 11:24:15,313 - marketplace_scraper - INFO - Encontrados 0 itens em Mercado Livre
+2025-04-28 11:24:15,329 - marketplace_scraper - INFO - Encontrados 0 produtos para 'dropshipping' em Mercado Livre
+2025-04-28 11:24:17,062 - marketplace_scraper - INFO - Buscando por 'revenda sem estoque' em Mercado Livre
+2025-04-28 11:24:18,974 - marketplace_scraper - INFO - Encontrados 0 itens em Mercado Livre
+2025-04-28 11:24:18,974 - marketplace_scraper - INFO - Encontrados 0 produtos para 'revenda sem estoque' em Mercado Livre
+2025-04-28 11:24:21,366 - marketplace_scraper - INFO - Buscando por 'franquia digital' em Mercado Livre
+2025-04-28 11:24:23,351 - marketplace_scraper - INFO - Encontrados 0 itens em Mercado Livre
+2025-04-28 11:24:23,351 - marketplace_scraper - INFO - Encontrados 0 produtos para 'franquia digital' em Mercado Livre
+2025-04-28 11:24:25,734 - marketplace_scraper - INFO - Buscando por 'vender sem estoque' em Mercado Livre
+2025-04-28 11:24:27,603 - marketplace_scraper - INFO - Encontrados 0 itens em Mercado Livre
+2025-04-28 11:24:27,603 - marketplace_scraper - INFO - Encontrados 0 produtos para 'vender sem estoque' em Mercado Livre
+2025-04-28 11:24:28,978 - marketplace_scraper - INFO - Buscando por 'produtos para revender' em Mercado Livre
+2025-04-28 11:24:31,837 - marketplace_scraper - INFO - Encontrados 0 itens em Mercado Livre
+2025-04-28 11:24:31,838 - marketplace_scraper - INFO - Encontrados 0 produtos para 'produtos para revender' em Mercado Livre
+2025-04-28 11:24:33,220 - marketplace_scraper - INFO - Buscando por 'kit revenda' em Mercado Livre
+2025-04-28 11:24:35,497 - marketplace_scraper - INFO - Encontrados 0 itens em Mercado Livre
+2025-04-28 11:24:35,498 - marketplace_scraper - INFO - Encontrados 0 produtos para 'kit revenda' em Mercado Livre
+2025-04-28 11:24:37,377 - marketplace_scraper - INFO - Buscando por 'curso dropshipping' em Mercado Livre
+2025-04-28 11:24:39,971 - marketplace_scraper - INFO - Encontrados 0 itens em Mercado Livre
+2025-04-28 11:24:39,972 - marketplace_scraper - INFO - Encontrados 0 produtos para 'curso dropshipping' em Mercado Livre
+2025-04-28 11:24:41,407 - marketplace_scraper - INFO - Buscando por 'método afiliado' em Mercado Livre
+2025-04-28 11:24:44,131 - marketplace_scraper - INFO - Encontrados 0 itens em Mercado Livre
+2025-04-28 11:24:44,132 - marketplace_scraper - INFO - Encontrados 0 produtos para 'método afiliado' em Mercado Livre
+2025-04-28 11:24:45,959 - marketplace_scraper - INFO - Buscando por 'sistema de revenda' em Mercado Livre
+2025-04-28 11:24:47,978 - marketplace_scraper - INFO - Encontrados 0 itens em Mercado Livre
+2025-04-28 11:24:47,978 - marketplace_scraper - INFO - Encontrados 0 produtos para 'sistema de revenda' em Mercado Livre
+2025-04-28 11:24:50,790 - marketplace_scraper - INFO - Buscando por 'produtos lucrativos' em Mercado Livre
+2025-04-28 11:24:53,189 - marketplace_scraper - INFO - Encontrados 0 itens em Mercado Livre
+2025-04-28 11:24:53,189 - marketplace_scraper - INFO - Encontrados 0 produtos para 'produtos lucrativos' em Mercado Livre
+2025-04-28 11:24:54,702 - marketplace_scraper - INFO - Iniciando coleta de Shopee
+2025-04-28 11:24:54,703 - marketplace_scraper - INFO - Buscando por 'dropshipping' em Shopee
+2025-04-28 11:24:55,368 - marketplace_scraper - INFO - Encontrados 0 itens em Shopee
+2025-04-28 11:24:55,368 - marketplace_scraper - INFO - Encontrados 0 produtos para 'dropshipping' em Shopee
+2025-04-28 11:24:56,730 - marketplace_scraper - INFO - Buscando por 'revenda sem estoque' em Shopee
+2025-04-28 11:24:57,337 - marketplace_scraper - INFO - Encontrados 0 itens em Shopee
+2025-04-28 11:24:57,338 - marketplace_scraper - INFO - Encontrados 0 produtos para 'revenda sem estoque' em Shopee
+2025-04-28 11:24:58,660 - marketplace_scraper - INFO - Buscando por 'franquia digital' em Shopee
+2025-04-28 11:24:59,274 - marketplace_scraper - INFO - Encontrados 0 itens em Shopee
+2025-04-28 11:24:59,275 - marketplace_scraper - INFO - Encontrados 0 produtos para 'franquia digital' em Shopee
+2025-04-28 11:25:00,458 - marketplace_scraper - INFO - Buscando por 'vender sem estoque' em Shopee
+2025-04-28 11:25:01,080 - marketplace_scraper - INFO - Encontrados 0 itens em Shopee
+2025-04-28 11:25:01,081 - marketplace_scraper - INFO - Encontrados 0 produtos para 'vender sem estoque' em Shopee
+2025-04-28 11:25:02,302 - marketplace_scraper - INFO - Buscando por 'produtos para revender' em Shopee
+2025-04-28 11:25:02,954 - marketplace_scraper - INFO - Encontrados 0 itens em Shopee
+2025-04-28 11:25:02,956 - marketplace_scraper - INFO - Encontrados 0 produtos para 'produtos para revender' em Shopee
+2025-04-28 11:25:04,238 - marketplace_scraper - INFO - Buscando por 'kit revenda' em Shopee
+2025-04-28 11:25:04,864 - marketplace_scraper - INFO - Encontrados 0 itens em Shopee
+2025-04-28 11:25:04,865 - marketplace_scraper - INFO - Encontrados 0 produtos para 'kit revenda' em Shopee
+2025-04-28 11:25:06,346 - marketplace_scraper - INFO - Buscando por 'curso dropshipping' em Shopee
+2025-04-28 11:25:06,974 - marketplace_scraper - INFO - Encontrados 0 itens em Shopee
+2025-04-28 11:25:06,974 - marketplace_scraper - INFO - Encontrados 0 produtos para 'curso dropshipping' em Shopee
+2025-04-28 11:25:08,344 - marketplace_scraper - INFO - Buscando por 'método afiliado' em Shopee
+2025-04-28 11:25:08,987 - marketplace_scraper - INFO - Encontrados 0 itens em Shopee
+2025-04-28 11:25:08,988 - marketplace_scraper - INFO - Encontrados 0 produtos para 'método afiliado' em Shopee
+2025-04-28 11:25:11,207 - marketplace_scraper - INFO - Buscando por 'sistema de revenda' em Shopee
+2025-04-28 11:25:11,839 - marketplace_scraper - INFO - Encontrados 0 itens em Shopee
+2025-04-28 11:25:11,840 - marketplace_scraper - INFO - Encontrados 0 produtos para 'sistema de revenda' em Shopee
+2025-04-28 11:25:13,072 - marketplace_scraper - INFO - Buscando por 'produtos lucrativos' em Shopee
+2025-04-28 11:25:13,693 - marketplace_scraper - INFO - Encontrados 0 itens em Shopee
+2025-04-28 11:25:13,694 - marketplace_scraper - INFO - Encontrados 0 produtos para 'produtos lucrativos' em Shopee
+2025-04-28 11:25:16,177 - marketplace_scraper - WARNING - Nenhum produto encontrado

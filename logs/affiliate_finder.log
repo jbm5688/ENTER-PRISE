@@ -1,0 +1,548 @@
+2025-04-28 17:30:11,207 - affiliate_finder - INFO - Inicializado com 5 plataformas de afiliados configuradas
+2025-04-28 17:30:11,209 - affiliate_finder - INFO - Buscando programas de afiliados para 3 produtos usando 21 termos de busca
+2025-04-28 17:30:11,210 - affiliate_finder - INFO - Buscando em Hotmart
+2025-04-28 17:30:11,211 - affiliate_finder - INFO - Pesquisando por 'Curso de Vendas Online' em Hotmart
+2025-04-28 17:30:13,500 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:30:14,977 - affiliate_finder - INFO - Pesquisando por 'Vendas Online' em Hotmart
+2025-04-28 17:30:16,517 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:30:19,086 - affiliate_finder - INFO - Pesquisando por 'Curso de Dropshipping' em Hotmart
+2025-04-28 17:30:20,733 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:30:22,989 - affiliate_finder - INFO - Pesquisando por 'Dropshipping' em Hotmart
+2025-04-28 17:30:24,985 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:30:27,782 - affiliate_finder - INFO - Pesquisando por 'Ebook Empreendedorismo' em Hotmart
+2025-04-28 17:30:29,917 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:30:31,272 - affiliate_finder - INFO - Pesquisando por 'Empreendedorismo' em Hotmart
+2025-04-28 17:30:32,603 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:30:34,103 - affiliate_finder - INFO - Pesquisando por 'curso vendas online' em Hotmart
+2025-04-28 17:30:35,885 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:30:37,230 - affiliate_finder - INFO - Pesquisando por 'curso de vendas' em Hotmart
+2025-04-28 17:30:39,170 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:30:41,494 - affiliate_finder - INFO - Pesquisando por 'vendas online' em Hotmart
+2025-04-28 17:30:43,521 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:30:45,403 - affiliate_finder - INFO - Pesquisando por 'dropshipping' em Hotmart
+2025-04-28 17:30:47,401 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:30:50,253 - affiliate_finder - INFO - Pesquisando por 'curso dropshipping' em Hotmart
+2025-04-28 17:30:52,202 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:30:54,578 - affiliate_finder - INFO - Pesquisando por 'ebook empreendedorismo' em Hotmart
+2025-04-28 17:30:56,523 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:30:57,923 - affiliate_finder - INFO - Pesquisando por 'empreendedorismo digital' em Hotmart
+2025-04-28 17:30:59,967 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:31:01,504 - affiliate_finder - INFO - Pesquisando por 'marketing digital' em Hotmart
+2025-04-28 17:31:03,699 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:31:04,993 - affiliate_finder - INFO - Pesquisando por 'afiliado' em Hotmart
+2025-04-28 17:31:07,067 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:31:09,968 - affiliate_finder - INFO - Pesquisando por 'renda extra' em Hotmart
+2025-04-28 17:31:11,647 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:31:13,016 - affiliate_finder - INFO - Pesquisando por 'trabalhar em casa' em Hotmart
+2025-04-28 17:31:15,179 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:31:17,502 - affiliate_finder - INFO - Pesquisando por 'negócio online' em Hotmart
+2025-04-28 17:31:19,051 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:31:21,030 - affiliate_finder - INFO - Pesquisando por 'infoproduto' em Hotmart
+2025-04-28 17:31:22,741 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:31:24,253 - affiliate_finder - INFO - Pesquisando por 'vendas digitais' em Hotmart
+2025-04-28 17:31:26,160 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:31:28,627 - affiliate_finder - INFO - Pesquisando por 'curso digital' em Hotmart
+2025-04-28 17:31:30,175 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:31:32,287 - affiliate_finder - INFO - Sem resultados reais para Hotmart, usando dados simulados
+2025-04-28 17:31:34,292 - affiliate_finder - INFO - Buscando em Monetizze
+2025-04-28 17:31:34,295 - affiliate_finder - INFO - Pesquisando por 'Curso de Vendas Online' em Monetizze
+2025-04-28 17:31:36,344 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:31:37,814 - affiliate_finder - INFO - Pesquisando por 'Vendas Online' em Monetizze
+2025-04-28 17:32:21,699 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:32:24,554 - affiliate_finder - INFO - Pesquisando por 'Curso de Dropshipping' em Monetizze
+2025-04-28 17:32:25,848 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:32:27,358 - affiliate_finder - INFO - Pesquisando por 'Dropshipping' em Monetizze
+2025-04-28 17:33:32,278 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:33:33,987 - affiliate_finder - INFO - Pesquisando por 'Ebook Empreendedorismo' em Monetizze
+2025-04-28 17:33:34,987 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:33:37,605 - affiliate_finder - INFO - Pesquisando por 'Empreendedorismo' em Monetizze
+2025-04-28 17:33:38,765 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:33:41,220 - affiliate_finder - INFO - Pesquisando por 'curso vendas online' em Monetizze
+2025-04-28 17:33:41,758 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:33:43,328 - affiliate_finder - INFO - Pesquisando por 'curso de vendas' em Monetizze
+2025-04-28 17:33:44,035 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:33:45,469 - affiliate_finder - INFO - Pesquisando por 'vendas online' em Monetizze
+2025-04-28 17:33:46,089 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:33:47,625 - affiliate_finder - INFO - Pesquisando por 'dropshipping' em Monetizze
+2025-04-28 17:33:48,326 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:33:49,513 - affiliate_finder - INFO - Pesquisando por 'curso dropshipping' em Monetizze
+2025-04-28 17:33:50,206 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:33:52,447 - affiliate_finder - INFO - Pesquisando por 'ebook empreendedorismo' em Monetizze
+2025-04-28 17:33:52,980 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:33:54,328 - affiliate_finder - INFO - Pesquisando por 'empreendedorismo digital' em Monetizze
+2025-04-28 17:33:55,073 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:33:56,572 - affiliate_finder - INFO - Pesquisando por 'marketing digital' em Monetizze
+2025-04-28 17:33:57,303 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:34:00,221 - affiliate_finder - INFO - Pesquisando por 'afiliado' em Monetizze
+2025-04-28 17:34:00,923 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:34:03,043 - affiliate_finder - INFO - Pesquisando por 'renda extra' em Monetizze
+2025-04-28 17:34:03,559 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:34:04,584 - affiliate_finder - INFO - Pesquisando por 'trabalhar em casa' em Monetizze
+2025-04-28 17:34:05,274 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:34:06,388 - affiliate_finder - INFO - Pesquisando por 'negócio online' em Monetizze
+2025-04-28 17:34:07,090 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:34:09,265 - affiliate_finder - INFO - Pesquisando por 'infoproduto' em Monetizze
+2025-04-28 17:34:09,956 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:34:12,198 - affiliate_finder - INFO - Pesquisando por 'vendas digitais' em Monetizze
+2025-04-28 17:34:12,911 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:34:14,939 - affiliate_finder - INFO - Pesquisando por 'curso digital' em Monetizze
+2025-04-28 17:34:15,636 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-28 17:34:18,364 - affiliate_finder - INFO - Sem resultados reais para Monetizze, usando dados simulados
+2025-04-28 17:34:20,380 - affiliate_finder - INFO - Buscando em Eduzz
+2025-04-28 17:34:20,380 - affiliate_finder - INFO - Pesquisando por 'Curso de Vendas Online' em Eduzz
+2025-04-28 17:34:20,966 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Curso+de+Vendas+Online
+2025-04-28 17:34:21,270 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Curso+de+Vendas+Online
+2025-04-28 17:34:21,582 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Curso+de+Vendas+Online
+2025-04-28 17:34:21,582 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=Curso+de+Vendas+Online
+2025-04-28 17:34:22,684 - affiliate_finder - INFO - Pesquisando por 'Vendas Online' em Eduzz
+2025-04-28 17:34:23,136 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Vendas+Online
+2025-04-28 17:34:23,404 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Vendas+Online
+2025-04-28 17:34:23,684 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Vendas+Online
+2025-04-28 17:34:23,685 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=Vendas+Online
+2025-04-28 17:34:26,268 - affiliate_finder - INFO - Pesquisando por 'Curso de Dropshipping' em Eduzz
+2025-04-28 17:34:26,821 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Curso+de+Dropshipping
+2025-04-28 17:34:27,121 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Curso+de+Dropshipping
+2025-04-28 17:34:27,412 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Curso+de+Dropshipping
+2025-04-28 17:34:27,413 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=Curso+de+Dropshipping
+2025-04-28 17:34:30,212 - affiliate_finder - INFO - Pesquisando por 'Dropshipping' em Eduzz
+2025-04-28 17:34:30,677 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Dropshipping
+2025-04-28 17:34:30,974 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Dropshipping
+2025-04-28 17:34:31,272 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Dropshipping
+2025-04-28 17:34:31,273 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=Dropshipping
+2025-04-28 17:34:32,498 - affiliate_finder - INFO - Pesquisando por 'Ebook Empreendedorismo' em Eduzz
+2025-04-28 17:34:33,230 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Ebook+Empreendedorismo
+2025-04-28 17:34:33,523 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Ebook+Empreendedorismo
+2025-04-28 17:34:33,816 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Ebook+Empreendedorismo
+2025-04-28 17:34:33,817 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=Ebook+Empreendedorismo
+2025-04-28 17:34:36,780 - affiliate_finder - INFO - Pesquisando por 'Empreendedorismo' em Eduzz
+2025-04-28 17:34:37,233 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Empreendedorismo
+2025-04-28 17:34:37,539 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Empreendedorismo
+2025-04-28 17:34:37,819 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Empreendedorismo
+2025-04-28 17:34:37,820 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=Empreendedorismo
+2025-04-28 17:34:39,755 - affiliate_finder - INFO - Pesquisando por 'curso vendas online' em Eduzz
+2025-04-28 17:34:40,251 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+vendas+online
+2025-04-28 17:34:40,538 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+vendas+online
+2025-04-28 17:34:40,828 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+vendas+online
+2025-04-28 17:34:40,829 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=curso+vendas+online
+2025-04-28 17:34:42,683 - affiliate_finder - INFO - Pesquisando por 'curso de vendas' em Eduzz
+2025-04-28 17:34:43,165 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+de+vendas
+2025-04-28 17:34:43,454 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+de+vendas
+2025-04-28 17:34:43,722 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+de+vendas
+2025-04-28 17:34:43,723 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=curso+de+vendas
+2025-04-28 17:34:45,486 - affiliate_finder - INFO - Pesquisando por 'vendas online' em Eduzz
+2025-04-28 17:34:45,954 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=vendas+online
+2025-04-28 17:34:46,247 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=vendas+online
+2025-04-28 17:34:46,543 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=vendas+online
+2025-04-28 17:34:46,544 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=vendas+online
+2025-04-28 17:34:48,414 - affiliate_finder - INFO - Pesquisando por 'dropshipping' em Eduzz
+2025-04-28 17:34:48,920 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=dropshipping
+2025-04-28 17:34:49,192 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=dropshipping
+2025-04-28 17:34:49,501 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=dropshipping
+2025-04-28 17:34:49,503 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=dropshipping
+2025-04-28 17:34:50,936 - affiliate_finder - INFO - Pesquisando por 'curso dropshipping' em Eduzz
+2025-04-28 17:34:51,488 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+dropshipping
+2025-04-28 17:34:51,761 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+dropshipping
+2025-04-28 17:34:52,062 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+dropshipping
+2025-04-28 17:34:52,063 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=curso+dropshipping
+2025-04-28 17:34:54,046 - affiliate_finder - INFO - Pesquisando por 'ebook empreendedorismo' em Eduzz
+2025-04-28 17:34:54,512 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=ebook+empreendedorismo
+2025-04-28 17:34:54,814 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=ebook+empreendedorismo
+2025-04-28 17:34:55,111 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=ebook+empreendedorismo
+2025-04-28 17:34:55,112 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=ebook+empreendedorismo
+2025-04-28 17:34:57,515 - affiliate_finder - INFO - Pesquisando por 'empreendedorismo digital' em Eduzz
+2025-04-28 17:34:57,992 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=empreendedorismo+digital
+2025-04-28 17:34:58,291 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=empreendedorismo+digital
+2025-04-28 17:34:58,603 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=empreendedorismo+digital
+2025-04-28 17:34:58,604 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=empreendedorismo+digital
+2025-04-28 17:35:01,069 - affiliate_finder - INFO - Pesquisando por 'marketing digital' em Eduzz
+2025-04-28 17:35:01,777 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=marketing+digital
+2025-04-28 17:35:02,063 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=marketing+digital
+2025-04-28 17:35:02,381 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=marketing+digital
+2025-04-28 17:35:02,382 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=marketing+digital
+2025-04-28 17:35:03,657 - affiliate_finder - INFO - Pesquisando por 'afiliado' em Eduzz
+2025-04-28 17:35:04,114 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=afiliado
+2025-04-28 17:35:04,399 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=afiliado
+2025-04-28 17:35:04,696 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=afiliado
+2025-04-28 17:35:04,697 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=afiliado
+2025-04-28 17:35:06,956 - affiliate_finder - INFO - Pesquisando por 'renda extra' em Eduzz
+2025-04-28 17:35:07,514 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=renda+extra
+2025-04-28 17:35:07,785 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=renda+extra
+2025-04-28 17:35:08,081 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=renda+extra
+2025-04-28 17:35:08,082 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=renda+extra
+2025-04-28 17:35:10,995 - affiliate_finder - INFO - Pesquisando por 'trabalhar em casa' em Eduzz
+2025-04-28 17:35:11,481 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=trabalhar+em+casa
+2025-04-28 17:35:11,800 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=trabalhar+em+casa
+2025-04-28 17:35:12,108 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=trabalhar+em+casa
+2025-04-28 17:35:12,109 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=trabalhar+em+casa
+2025-04-28 17:35:13,494 - affiliate_finder - INFO - Pesquisando por 'negócio online' em Eduzz
+2025-04-28 17:35:13,988 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=negócio+online
+2025-04-28 17:35:14,265 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=negócio+online
+2025-04-28 17:35:14,553 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=negócio+online
+2025-04-28 17:35:14,554 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=negócio+online
+2025-04-28 17:35:17,384 - affiliate_finder - INFO - Pesquisando por 'infoproduto' em Eduzz
+2025-04-28 17:35:17,867 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=infoproduto
+2025-04-28 17:35:18,175 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=infoproduto
+2025-04-28 17:35:18,468 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=infoproduto
+2025-04-28 17:35:18,469 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=infoproduto
+2025-04-28 17:35:21,225 - affiliate_finder - INFO - Pesquisando por 'vendas digitais' em Eduzz
+2025-04-28 17:35:21,728 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=vendas+digitais
+2025-04-28 17:35:22,031 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=vendas+digitais
+2025-04-28 17:35:22,312 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=vendas+digitais
+2025-04-28 17:35:22,313 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=vendas+digitais
+2025-04-28 17:35:24,865 - affiliate_finder - INFO - Pesquisando por 'curso digital' em Eduzz
+2025-04-28 17:35:25,343 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+digital
+2025-04-28 17:35:25,671 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+digital
+2025-04-28 17:35:25,969 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+digital
+2025-04-28 17:35:25,970 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=curso+digital
+2025-04-28 17:35:27,058 - affiliate_finder - INFO - Sem resultados reais para Eduzz, usando dados simulados
+2025-04-29 18:52:32,076 - affiliate_finder - INFO - Inicializado com 5 plataformas de afiliados configuradas
+2025-04-29 18:52:32,085 - affiliate_finder - INFO - Buscando programas de afiliados para 3 produtos usando 21 termos de busca
+2025-04-29 18:52:32,087 - affiliate_finder - INFO - Buscando em Hotmart
+2025-04-29 18:52:32,088 - affiliate_finder - INFO - Pesquisando por 'Curso de Vendas Online' em Hotmart
+2025-04-29 18:52:34,149 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:52:37,013 - affiliate_finder - INFO - Pesquisando por 'Vendas Online' em Hotmart
+2025-04-29 18:52:38,828 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:52:40,197 - affiliate_finder - INFO - Pesquisando por 'Curso de Dropshipping' em Hotmart
+2025-04-29 18:52:41,797 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:52:43,430 - affiliate_finder - INFO - Pesquisando por 'Dropshipping' em Hotmart
+2025-04-29 18:52:45,092 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:52:47,398 - affiliate_finder - INFO - Pesquisando por 'Ebook Empreendedorismo' em Hotmart
+2025-04-29 18:52:49,260 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:52:51,313 - affiliate_finder - INFO - Pesquisando por 'Empreendedorismo' em Hotmart
+2025-04-29 18:52:52,524 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:52:54,298 - affiliate_finder - INFO - Pesquisando por 'curso vendas online' em Hotmart
+2025-04-29 18:52:56,047 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:52:57,280 - affiliate_finder - INFO - Pesquisando por 'curso de vendas' em Hotmart
+2025-04-29 18:52:59,013 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:01,348 - affiliate_finder - INFO - Pesquisando por 'vendas online' em Hotmart
+2025-04-29 18:53:02,859 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:05,082 - affiliate_finder - INFO - Pesquisando por 'dropshipping' em Hotmart
+2025-04-29 18:53:06,702 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:08,200 - affiliate_finder - INFO - Pesquisando por 'curso dropshipping' em Hotmart
+2025-04-29 18:53:10,212 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:12,818 - affiliate_finder - INFO - Pesquisando por 'ebook empreendedorismo' em Hotmart
+2025-04-29 18:53:14,531 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:17,535 - affiliate_finder - INFO - Pesquisando por 'empreendedorismo digital' em Hotmart
+2025-04-29 18:53:19,211 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:21,287 - affiliate_finder - INFO - Pesquisando por 'marketing digital' em Hotmart
+2025-04-29 18:53:23,021 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:26,019 - affiliate_finder - INFO - Pesquisando por 'afiliado' em Hotmart
+2025-04-29 18:53:27,191 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:30,202 - affiliate_finder - INFO - Pesquisando por 'renda extra' em Hotmart
+2025-04-29 18:53:31,410 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:32,670 - affiliate_finder - INFO - Pesquisando por 'trabalhar em casa' em Hotmart
+2025-04-29 18:53:34,527 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:36,170 - affiliate_finder - INFO - Pesquisando por 'negócio online' em Hotmart
+2025-04-29 18:53:37,359 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:39,371 - affiliate_finder - INFO - Pesquisando por 'infoproduto' em Hotmart
+2025-04-29 18:53:41,216 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:42,888 - affiliate_finder - INFO - Pesquisando por 'vendas digitais' em Hotmart
+2025-04-29 18:53:44,615 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:45,754 - affiliate_finder - INFO - Pesquisando por 'curso digital' em Hotmart
+2025-04-29 18:53:47,156 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:48,689 - affiliate_finder - INFO - Sem resultados reais para Hotmart, usando dados simulados
+2025-04-29 18:53:50,706 - affiliate_finder - INFO - Buscando em Monetizze
+2025-04-29 18:53:50,708 - affiliate_finder - INFO - Pesquisando por 'Curso de Vendas Online' em Monetizze
+2025-04-29 18:53:51,452 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:53,840 - affiliate_finder - INFO - Pesquisando por 'Vendas Online' em Monetizze
+2025-04-29 18:53:54,493 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:56,073 - affiliate_finder - INFO - Pesquisando por 'Curso de Dropshipping' em Monetizze
+2025-04-29 18:53:56,534 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:53:58,324 - affiliate_finder - INFO - Pesquisando por 'Dropshipping' em Monetizze
+2025-04-29 18:53:58,761 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:01,257 - affiliate_finder - INFO - Pesquisando por 'Ebook Empreendedorismo' em Monetizze
+2025-04-29 18:54:01,877 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:04,625 - affiliate_finder - INFO - Pesquisando por 'Empreendedorismo' em Monetizze
+2025-04-29 18:54:05,071 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:08,058 - affiliate_finder - INFO - Pesquisando por 'curso vendas online' em Monetizze
+2025-04-29 18:54:08,662 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:10,808 - affiliate_finder - INFO - Pesquisando por 'curso de vendas' em Monetizze
+2025-04-29 18:54:11,379 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:13,826 - affiliate_finder - INFO - Pesquisando por 'vendas online' em Monetizze
+2025-04-29 18:54:14,435 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:16,093 - affiliate_finder - INFO - Pesquisando por 'dropshipping' em Monetizze
+2025-04-29 18:54:16,687 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:19,645 - affiliate_finder - INFO - Pesquisando por 'curso dropshipping' em Monetizze
+2025-04-29 18:54:20,240 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:21,810 - affiliate_finder - INFO - Pesquisando por 'ebook empreendedorismo' em Monetizze
+2025-04-29 18:54:22,437 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:24,461 - affiliate_finder - INFO - Pesquisando por 'empreendedorismo digital' em Monetizze
+2025-04-29 18:54:24,906 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:27,894 - affiliate_finder - INFO - Pesquisando por 'marketing digital' em Monetizze
+2025-04-29 18:54:28,510 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:30,278 - affiliate_finder - INFO - Pesquisando por 'afiliado' em Monetizze
+2025-04-29 18:54:30,730 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:32,996 - affiliate_finder - INFO - Pesquisando por 'renda extra' em Monetizze
+2025-04-29 18:54:33,594 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:34,730 - affiliate_finder - INFO - Pesquisando por 'trabalhar em casa' em Monetizze
+2025-04-29 18:54:35,322 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:37,980 - affiliate_finder - INFO - Pesquisando por 'negócio online' em Monetizze
+2025-04-29 18:54:38,568 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:41,062 - affiliate_finder - INFO - Pesquisando por 'infoproduto' em Monetizze
+2025-04-29 18:54:41,656 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:44,496 - affiliate_finder - INFO - Pesquisando por 'vendas digitais' em Monetizze
+2025-04-29 18:54:45,100 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:46,580 - affiliate_finder - INFO - Pesquisando por 'curso digital' em Monetizze
+2025-04-29 18:54:47,006 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:54:49,547 - affiliate_finder - INFO - Sem resultados reais para Monetizze, usando dados simulados
+2025-04-29 18:54:51,550 - affiliate_finder - INFO - Buscando em Eduzz
+2025-04-29 18:54:51,551 - affiliate_finder - INFO - Pesquisando por 'Curso de Vendas Online' em Eduzz
+2025-04-29 18:54:52,043 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Curso+de+Vendas+Online
+2025-04-29 18:54:52,354 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Curso+de+Vendas+Online
+2025-04-29 18:54:52,644 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Curso+de+Vendas+Online
+2025-04-29 18:54:52,645 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=Curso+de+Vendas+Online
+2025-04-29 18:54:55,133 - affiliate_finder - INFO - Pesquisando por 'Vendas Online' em Eduzz
+2025-04-29 18:54:55,451 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Vendas+Online
+2025-04-29 18:54:55,715 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Vendas+Online
+2025-04-29 18:54:56,030 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Vendas+Online
+2025-04-29 18:54:56,031 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=Vendas+Online
+2025-04-29 18:54:57,765 - affiliate_finder - INFO - Pesquisando por 'Curso de Dropshipping' em Eduzz
+2025-04-29 18:54:58,049 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Curso+de+Dropshipping
+2025-04-29 18:54:58,341 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Curso+de+Dropshipping
+2025-04-29 18:54:58,654 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Curso+de+Dropshipping
+2025-04-29 18:54:58,655 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=Curso+de+Dropshipping
+2025-04-29 18:55:00,282 - affiliate_finder - INFO - Pesquisando por 'Dropshipping' em Eduzz
+2025-04-29 18:55:00,575 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Dropshipping
+2025-04-29 18:55:00,864 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Dropshipping
+2025-04-29 18:55:01,187 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Dropshipping
+2025-04-29 18:55:01,188 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=Dropshipping
+2025-04-29 18:55:02,666 - affiliate_finder - INFO - Pesquisando por 'Ebook Empreendedorismo' em Eduzz
+2025-04-29 18:55:02,979 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Ebook+Empreendedorismo
+2025-04-29 18:55:03,293 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Ebook+Empreendedorismo
+2025-04-29 18:55:03,642 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Ebook+Empreendedorismo
+2025-04-29 18:55:03,642 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=Ebook+Empreendedorismo
+2025-04-29 18:55:06,416 - affiliate_finder - INFO - Pesquisando por 'Empreendedorismo' em Eduzz
+2025-04-29 18:55:06,740 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Empreendedorismo
+2025-04-29 18:55:07,052 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Empreendedorismo
+2025-04-29 18:55:07,384 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=Empreendedorismo
+2025-04-29 18:55:07,386 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=Empreendedorismo
+2025-04-29 18:55:10,117 - affiliate_finder - INFO - Pesquisando por 'curso vendas online' em Eduzz
+2025-04-29 18:55:10,404 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+vendas+online
+2025-04-29 18:55:10,702 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+vendas+online
+2025-04-29 18:55:10,996 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+vendas+online
+2025-04-29 18:55:10,997 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=curso+vendas+online
+2025-04-29 18:55:13,218 - affiliate_finder - INFO - Pesquisando por 'curso de vendas' em Eduzz
+2025-04-29 18:55:13,510 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+de+vendas
+2025-04-29 18:55:13,814 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+de+vendas
+2025-04-29 18:55:14,132 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+de+vendas
+2025-04-29 18:55:14,133 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=curso+de+vendas
+2025-04-29 18:55:16,651 - affiliate_finder - INFO - Pesquisando por 'vendas online' em Eduzz
+2025-04-29 18:55:16,953 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=vendas+online
+2025-04-29 18:55:17,246 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=vendas+online
+2025-04-29 18:55:17,541 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=vendas+online
+2025-04-29 18:55:17,542 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=vendas+online
+2025-04-29 18:55:19,968 - affiliate_finder - INFO - Pesquisando por 'dropshipping' em Eduzz
+2025-04-29 18:55:20,250 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=dropshipping
+2025-04-29 18:55:20,531 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=dropshipping
+2025-04-29 18:55:20,864 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=dropshipping
+2025-04-29 18:55:20,865 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=dropshipping
+2025-04-29 18:55:22,486 - affiliate_finder - INFO - Pesquisando por 'curso dropshipping' em Eduzz
+2025-04-29 18:55:22,926 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+dropshipping
+2025-04-29 18:55:23,258 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+dropshipping
+2025-04-29 18:55:23,556 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+dropshipping
+2025-04-29 18:55:23,557 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=curso+dropshipping
+2025-04-29 18:55:25,269 - affiliate_finder - INFO - Pesquisando por 'ebook empreendedorismo' em Eduzz
+2025-04-29 18:55:25,568 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=ebook+empreendedorismo
+2025-04-29 18:55:25,863 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=ebook+empreendedorismo
+2025-04-29 18:55:26,178 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=ebook+empreendedorismo
+2025-04-29 18:55:26,179 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=ebook+empreendedorismo
+2025-04-29 18:55:28,086 - affiliate_finder - INFO - Pesquisando por 'empreendedorismo digital' em Eduzz
+2025-04-29 18:55:28,357 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=empreendedorismo+digital
+2025-04-29 18:55:28,648 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=empreendedorismo+digital
+2025-04-29 18:55:28,947 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=empreendedorismo+digital
+2025-04-29 18:55:28,948 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=empreendedorismo+digital
+2025-04-29 18:55:31,687 - affiliate_finder - INFO - Pesquisando por 'marketing digital' em Eduzz
+2025-04-29 18:55:32,055 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=marketing+digital
+2025-04-29 18:55:32,374 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=marketing+digital
+2025-04-29 18:55:32,676 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=marketing+digital
+2025-04-29 18:55:32,677 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=marketing+digital
+2025-04-29 18:55:34,788 - affiliate_finder - INFO - Pesquisando por 'afiliado' em Eduzz
+2025-04-29 18:55:35,080 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=afiliado
+2025-04-29 18:55:35,376 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=afiliado
+2025-04-29 18:55:35,673 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=afiliado
+2025-04-29 18:55:35,674 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=afiliado
+2025-04-29 18:55:38,304 - affiliate_finder - INFO - Pesquisando por 'renda extra' em Eduzz
+2025-04-29 18:55:38,577 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=renda+extra
+2025-04-29 18:55:38,857 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=renda+extra
+2025-04-29 18:55:39,163 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=renda+extra
+2025-04-29 18:55:39,164 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=renda+extra
+2025-04-29 18:55:40,238 - affiliate_finder - INFO - Pesquisando por 'trabalhar em casa' em Eduzz
+2025-04-29 18:55:40,536 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=trabalhar+em+casa
+2025-04-29 18:55:40,845 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=trabalhar+em+casa
+2025-04-29 18:55:41,151 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=trabalhar+em+casa
+2025-04-29 18:55:41,152 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=trabalhar+em+casa
+2025-04-29 18:55:42,272 - affiliate_finder - INFO - Pesquisando por 'negócio online' em Eduzz
+2025-04-29 18:55:42,548 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=negócio+online
+2025-04-29 18:55:42,859 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=negócio+online
+2025-04-29 18:55:43,162 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=negócio+online
+2025-04-29 18:55:43,163 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=negócio+online
+2025-04-29 18:55:45,055 - affiliate_finder - INFO - Pesquisando por 'infoproduto' em Eduzz
+2025-04-29 18:55:45,343 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=infoproduto
+2025-04-29 18:55:45,646 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=infoproduto
+2025-04-29 18:55:45,981 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=infoproduto
+2025-04-29 18:55:45,982 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=infoproduto
+2025-04-29 18:55:47,039 - affiliate_finder - INFO - Pesquisando por 'vendas digitais' em Eduzz
+2025-04-29 18:55:47,338 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=vendas+digitais
+2025-04-29 18:55:47,614 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=vendas+digitais
+2025-04-29 18:55:47,920 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=vendas+digitais
+2025-04-29 18:55:47,920 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=vendas+digitais
+2025-04-29 18:55:49,889 - affiliate_finder - INFO - Pesquisando por 'curso digital' em Eduzz
+2025-04-29 18:55:50,202 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+digital
+2025-04-29 18:55:50,509 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+digital
+2025-04-29 18:55:50,826 - affiliate_finder - WARNING - Requisição falhou com status 404 para https://www.eduzz.com/marketplace?q=curso+digital
+2025-04-29 18:55:50,827 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.eduzz.com/marketplace?q=curso+digital
+2025-04-29 18:55:51,945 - affiliate_finder - INFO - Sem resultados reais para Eduzz, usando dados simulados
+2025-04-29 18:55:53,956 - affiliate_finder - INFO - Buscando em ClickBank
+2025-04-29 18:55:53,958 - affiliate_finder - INFO - Pesquisando por 'Curso de Vendas Online' em ClickBank
+2025-04-29 18:55:54,806 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:55:57,174 - affiliate_finder - INFO - Pesquisando por 'Vendas Online' em ClickBank
+2025-04-29 18:55:57,487 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:00,441 - affiliate_finder - INFO - Pesquisando por 'Curso de Dropshipping' em ClickBank
+2025-04-29 18:56:00,781 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:02,741 - affiliate_finder - INFO - Pesquisando por 'Dropshipping' em ClickBank
+2025-04-29 18:56:03,071 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:04,827 - affiliate_finder - INFO - Pesquisando por 'Ebook Empreendedorismo' em ClickBank
+2025-04-29 18:56:05,137 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:06,275 - affiliate_finder - INFO - Pesquisando por 'Empreendedorismo' em ClickBank
+2025-04-29 18:56:06,600 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:07,725 - affiliate_finder - INFO - Pesquisando por 'curso vendas online' em ClickBank
+2025-04-29 18:56:08,073 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:10,975 - affiliate_finder - INFO - Pesquisando por 'curso de vendas' em ClickBank
+2025-04-29 18:56:11,286 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:12,727 - affiliate_finder - INFO - Pesquisando por 'vendas online' em ClickBank
+2025-04-29 18:56:13,081 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:14,593 - affiliate_finder - INFO - Pesquisando por 'dropshipping' em ClickBank
+2025-04-29 18:56:15,358 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:16,392 - affiliate_finder - INFO - Pesquisando por 'curso dropshipping' em ClickBank
+2025-04-29 18:56:16,704 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:18,126 - affiliate_finder - INFO - Pesquisando por 'ebook empreendedorismo' em ClickBank
+2025-04-29 18:56:18,850 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:20,776 - affiliate_finder - INFO - Pesquisando por 'empreendedorismo digital' em ClickBank
+2025-04-29 18:56:21,973 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:24,446 - affiliate_finder - INFO - Pesquisando por 'marketing digital' em ClickBank
+2025-04-29 18:56:24,795 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:26,578 - affiliate_finder - INFO - Pesquisando por 'afiliado' em ClickBank
+2025-04-29 18:56:27,330 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:29,729 - affiliate_finder - INFO - Pesquisando por 'renda extra' em ClickBank
+2025-04-29 18:56:30,500 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:33,496 - affiliate_finder - INFO - Pesquisando por 'trabalhar em casa' em ClickBank
+2025-04-29 18:56:34,236 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:36,379 - affiliate_finder - INFO - Pesquisando por 'negócio online' em ClickBank
+2025-04-29 18:56:36,705 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:39,080 - affiliate_finder - INFO - Pesquisando por 'infoproduto' em ClickBank
+2025-04-29 18:56:40,157 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:42,647 - affiliate_finder - INFO - Pesquisando por 'vendas digitais' em ClickBank
+2025-04-29 18:56:43,421 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:44,430 - affiliate_finder - INFO - Pesquisando por 'curso digital' em ClickBank
+2025-04-29 18:56:44,745 - affiliate_finder - INFO - Encontrados 0 elementos de produto na página
+2025-04-29 18:56:46,998 - affiliate_finder - INFO - Sem resultados reais para ClickBank, usando dados simulados
+2025-04-29 18:56:49,013 - affiliate_finder - INFO - Buscando em Braip
+2025-04-29 18:56:49,014 - affiliate_finder - INFO - Pesquisando por 'Curso de Vendas Online' em Braip
+2025-04-29 18:56:49,046 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Curso+de+Vendas+Online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D83D0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:56:51,054 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Curso+de+Vendas+Online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DB190>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:56:53,075 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Curso+de+Vendas+Online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D9E10>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:56:55,082 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=Curso+de+Vendas+Online
+2025-04-29 18:56:56,932 - affiliate_finder - INFO - Pesquisando por 'Vendas Online' em Braip
+2025-04-29 18:56:56,953 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Vendas+Online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DA470>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:56:58,972 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Vendas+Online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DBB80>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:00,989 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Vendas+Online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DA680>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:03,000 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=Vendas+Online
+2025-04-29 18:57:05,767 - affiliate_finder - INFO - Pesquisando por 'Curso de Dropshipping' em Braip
+2025-04-29 18:57:05,788 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Curso+de+Dropshipping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DAF80>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:07,803 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Curso+de+Dropshipping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC67C220>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:09,823 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Curso+de+Dropshipping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC67CAF0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:11,835 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=Curso+de+Dropshipping
+2025-04-29 18:57:13,235 - affiliate_finder - INFO - Pesquisando por 'Dropshipping' em Braip
+2025-04-29 18:57:13,250 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Dropshipping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D9330>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:15,258 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Dropshipping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DB250>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:17,282 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Dropshipping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DBEE0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:19,286 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=Dropshipping
+2025-04-29 18:57:20,418 - affiliate_finder - INFO - Pesquisando por 'Ebook Empreendedorismo' em Braip
+2025-04-29 18:57:20,427 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Ebook+Empreendedorismo (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6794B0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:22,449 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Ebook+Empreendedorismo (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC67C670>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:24,466 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Ebook+Empreendedorismo (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC67D3C0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:26,470 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=Ebook+Empreendedorismo
+2025-04-29 18:57:28,303 - affiliate_finder - INFO - Pesquisando por 'Empreendedorismo' em Braip
+2025-04-29 18:57:28,321 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Empreendedorismo (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DBC40>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:30,345 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Empreendedorismo (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DB670>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:32,364 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=Empreendedorismo (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D96C0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:34,372 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=Empreendedorismo
+2025-04-29 18:57:35,588 - affiliate_finder - INFO - Pesquisando por 'curso vendas online' em Braip
+2025-04-29 18:57:35,601 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=curso+vendas+online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D85E0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:37,612 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=curso+vendas+online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DA770>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:39,628 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=curso+vendas+online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D9990>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:41,641 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=curso+vendas+online
+2025-04-29 18:57:43,773 - affiliate_finder - INFO - Pesquisando por 'curso de vendas' em Braip
+2025-04-29 18:57:43,794 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=curso+de+vendas (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D8FA0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:45,813 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=curso+de+vendas (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D9870>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:47,829 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=curso+de+vendas (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DAE60>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:49,840 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=curso+de+vendas
+2025-04-29 18:57:52,209 - affiliate_finder - INFO - Pesquisando por 'vendas online' em Braip
+2025-04-29 18:57:52,229 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=vendas+online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DBD60>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:54,244 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=vendas+online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DB4C0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:56,273 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=vendas+online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DB880>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:57:58,274 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=vendas+online
+2025-04-29 18:58:00,174 - affiliate_finder - INFO - Pesquisando por 'dropshipping' em Braip
+2025-04-29 18:58:00,182 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=dropshipping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DBC40>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:02,206 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=dropshipping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DB670>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:04,214 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=dropshipping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D96C0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:06,224 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=dropshipping
+2025-04-29 18:58:07,609 - affiliate_finder - INFO - Pesquisando por 'curso dropshipping' em Braip
+2025-04-29 18:58:07,627 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=curso+dropshipping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D85E0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:09,648 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=curso+dropshipping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DAA10>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:11,662 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=curso+dropshipping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D8190>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:13,676 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=curso+dropshipping
+2025-04-29 18:58:15,711 - affiliate_finder - INFO - Pesquisando por 'ebook empreendedorismo' em Braip
+2025-04-29 18:58:15,728 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=ebook+empreendedorismo (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DAB00>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:17,749 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=ebook+empreendedorismo (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D89A0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:19,765 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=ebook+empreendedorismo (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D9330>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:21,775 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=ebook+empreendedorismo
+2025-04-29 18:58:24,177 - affiliate_finder - INFO - Pesquisando por 'empreendedorismo digital' em Braip
+2025-04-29 18:58:24,196 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=empreendedorismo+digital (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D80A0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:26,218 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=empreendedorismo+digital (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DADD0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:28,235 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=empreendedorismo+digital (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D9660>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:30,245 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=empreendedorismo+digital
+2025-04-29 18:58:32,813 - affiliate_finder - INFO - Pesquisando por 'marketing digital' em Braip
+2025-04-29 18:58:32,831 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=marketing+digital (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D9F00>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:34,851 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=marketing+digital (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DB0A0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:36,868 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=marketing+digital (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DA2C0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:38,878 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=marketing+digital
+2025-04-29 18:58:39,928 - affiliate_finder - INFO - Pesquisando por 'afiliado' em Braip
+2025-04-29 18:58:39,948 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=afiliado (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D8D90>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:41,970 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=afiliado (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DAD10>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:43,986 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=afiliado (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D9F60>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:45,998 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=afiliado
+2025-04-29 18:58:48,331 - affiliate_finder - INFO - Pesquisando por 'renda extra' em Braip
+2025-04-29 18:58:48,351 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=renda+extra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D9E10>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:50,373 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=renda+extra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D89D0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:52,389 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=renda+extra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DA830>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:54,399 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=renda+extra
+2025-04-29 18:58:57,133 - affiliate_finder - INFO - Pesquisando por 'trabalhar em casa' em Braip
+2025-04-29 18:58:57,153 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=trabalhar+em+casa (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D87F0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:58:59,174 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=trabalhar+em+casa (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DBB20>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:01,189 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=trabalhar+em+casa (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DB130>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:03,200 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=trabalhar+em+casa
+2025-04-29 18:59:06,034 - affiliate_finder - INFO - Pesquisando por 'negócio online' em Braip
+2025-04-29 18:59:06,054 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=neg%C3%B3cio+online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D8C70>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:08,073 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=neg%C3%B3cio+online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D9C60>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:10,090 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=neg%C3%B3cio+online (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DAA70>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:12,102 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=negócio+online
+2025-04-29 18:59:14,886 - affiliate_finder - INFO - Pesquisando por 'infoproduto' em Braip
+2025-04-29 18:59:14,907 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=infoproduto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DB550>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:16,930 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=infoproduto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D8FA0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:18,940 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=infoproduto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D9870>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:20,955 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=infoproduto
+2025-04-29 18:59:23,869 - affiliate_finder - INFO - Pesquisando por 'vendas digitais' em Braip
+2025-04-29 18:59:23,890 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=vendas+digitais (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DAE60>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:25,910 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=vendas+digitais (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DBD60>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:27,926 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=vendas+digitais (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DBA90>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:29,937 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=vendas+digitais
+2025-04-29 18:59:31,455 - affiliate_finder - INFO - Pesquisando por 'curso digital' em Braip
+2025-04-29 18:59:31,473 - affiliate_finder - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=curso+digital (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6DAFB0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:33,493 - affiliate_finder - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=curso+digital (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D82E0>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:35,509 - affiliate_finder - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.braip.com', port=443): Max retries exceeded with url: /marketplace?busca=curso+digital (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F5FC6D9570>: Failed to resolve 'www.braip.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-29 18:59:37,524 - affiliate_finder - ERROR - Todas as tentativas falharam para https://www.braip.com/marketplace?busca=curso+digital
+2025-04-29 18:59:38,871 - affiliate_finder - INFO - Sem resultados reais para Braip, usando dados simulados
+2025-04-29 18:59:41,477 - affiliate_finder - INFO - Total de programas de afiliados encontrados: 29
+2025-04-29 18:59:41,613 - affiliate_finder - INFO - Dados salvos em output/data/affiliate_programs.csv
+2025-04-29 18:59:41,715 - affiliate_finder - INFO - Relatório gerado em: output/reports/affiliate_opportunities.html

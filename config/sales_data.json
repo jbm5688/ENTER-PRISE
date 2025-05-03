@@ -1,0 +1,27 @@
+{
+    "sources": ["marketplace_api", "affiliate_networks", "ecommerce"],
+    "api_keys": {
+        "_comment": "Substituir com suas chaves de API reais",
+        "marketplace": "",
+        "affiliate_hotmart": "",
+        "affiliate_monetizze": "",
+        "affiliate_eduzz": "",
+        "ecommerce_shopify": "",
+        "ecommerce_woocommerce": ""
+    },
+    "categories": [
+        "Eletrônicos", 
+        "Moda e Acessórios", 
+        "Casa e Decoração", 
+        "Saúde e Beleza", 
+        "Cursos Online", 
+        "Infoprodutos", 
+        "Suplementos", 
+        "Esportes", 
+        "Ferramentas",
+        "Finanças",
+        "Desenvolvimento Pessoal",
+        "Pet Shop"
+    ],
+    "lookback_days": 90
+}

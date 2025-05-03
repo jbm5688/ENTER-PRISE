@@ -1,0 +1,68 @@
+{
+  "feed_ads": [
+    {
+      "headline": "Seja dono do seu negócio: PetFood Express tem a oportunidade perfeita",
+      "description": "Investimento a partir de R$ 46,396,94. Retorno em apenas 50 meses. Seja parte da rede PetFood Express e conquiste sua independência financeira.",
+      "cta": "Inscreva-se",
+      "url": "https://www.petfoodexpress.com.br/franqueado",
+      "image_specs": {
+        "width": 1200,
+        "height": 627
+      },
+      "recommended_elements": [
+        "Imagem profissional e corporativa",
+        "Pessoas em ambiente de negócios",
+        "Layout limpo e minimalista",
+        "Cores corporativas"
+      ]
+    },
+    {
+      "headline": "Conquiste seu futuro financeiro com a franquia PetFood Express",
+      "description": "Buscando autonomia profissional? A franquia PetFood Express é sua porta de saída. Investimento a partir de R$ 46,396,94 e retorno em 50 meses.",
+      "cta": "Registre-se",
+      "url": "https://www.petfoodexpress.com.br/franqueado",
+      "image_specs": {
+        "width": 1200,
+        "height": 627
+      },
+      "recommended_elements": [
+        "Imagem profissional e corporativa",
+        "Pessoas em ambiente de negócios",
+        "Layout limpo e minimalista",
+        "Cores corporativas"
+      ]
+    }
+  ],
+  "recommended_targeting": {
+    "job_titles": [
+      "Empreendedor",
+      "Empresário",
+      "Gerente",
+      "Diretor",
+      "Executivo",
+      "Consultor",
+      "Profissional Autônomo"
+    ],
+    "job_functions": [
+      "Vendas",
+      "Marketing",
+      "Finanças",
+      "Administração",
+      "Operações"
+    ],
+    "industries": [
+      "Serviços Empresariais",
+      "Varejo",
+      "Serviços Financeiros",
+      "Tecnologia",
+      "Saúde"
+    ],
+    "interests": [
+      "Empreendedorismo",
+      "Pequenas e Médias Empresas",
+      "Franquias",
+      "Investimentos",
+      "Negócios"
+    ]
+  }
+}

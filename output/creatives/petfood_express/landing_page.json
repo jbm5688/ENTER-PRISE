@@ -1,0 +1,198 @@
+{
+  "main_page": {
+    "title": "Seja um franqueado PetFood Express",
+    "sections": [
+      {
+        "name": "Hero",
+        "elements": [
+          "Título principal: 'Seja dono do seu próprio negócio com a franquia PetFood Express'",
+          "Subtítulo: 'Invista em um modelo de negócio comprovado no setor de Pet Shop'",
+          "Imagem de destaque: Unidade modelo da franquia com clientes satisfeitos",
+          "Formulário de captação: Nome, Email, Telefone, Cidade",
+          "CTA principal: 'Quero ser um franqueado'"
+        ]
+      },
+      {
+        "name": "Números da Franquia",
+        "elements": [
+          "Título da seção: 'Por que investir nessa oportunidade'",
+          "Card 1: '195+ unidades em operação'",
+          "Card 2: 'ROI médio de 29%'",
+          "Card 3: 'Retorno em 50 meses'",
+          "Card 4: 'Mercado em crescimento de 11% ao ano'"
+        ]
+      },
+      {
+        "name": "Como Funciona",
+        "elements": [
+          "Título da seção: 'Como funciona uma franquia PetFood Express'",
+          "Passo 1: 'Primeiro contato e análise de perfil'",
+          "Passo 2: 'Apresentação detalhada e Circular de Oferta de Franquia (COF)'",
+          "Passo 3: 'Assinatura do contrato e planejamento'",
+          "Passo 4: 'Treinamento e preparação para abertura'",
+          "Passo 5: 'Inauguração e operação com suporte contínuo'",
+          "Ilustrações para cada passo"
+        ]
+      },
+      {
+        "name": "Investimento",
+        "elements": [
+          "Título da seção: 'Investimento e Retorno'",
+          "Texto: 'A franquia PetFood Express oferece uma oportunidade de negócio com investimento a partir de R$ 46,396,94.'",
+          "Tabela detalhando a composição do investimento",
+          "Projeção financeira: 'Faturamento médio mensal: R$ 4,562,00'",
+          "Projeção financeira: 'Lucro médio mensal: R$ 1,777,42'",
+          "CTA secundário: 'Solicitar planilha financeira detalhada'"
+        ]
+      },
+      {
+        "name": "Perfil do Franqueado",
+        "elements": [
+          "Título da seção: 'Perfil do Franqueado Ideal'",
+          "Lista de características desejáveis:",
+          "- Espírito empreendedor",
+          "- Identificação com o setor de Pet Shop",
+          "- Capacidade de investimento compatível",
+          "- Comprometimento com a operação",
+          "- Habilidades de gestão e liderança",
+          "Imagem representando o perfil ideal"
+        ]
+      },
+      {
+        "name": "Depoimentos",
+        "elements": [
+          "Título da seção: 'O que dizem nossos franqueados'",
+          "3-4 cards com depoimentos de franqueados atuais",
+          "Texto de satisfação: 'Nota média de satisfação dos franqueados: 4.4/5'",
+          "Fotos dos franqueados em suas unidades"
+        ]
+      },
+      {
+        "name": "FAQ",
+        "elements": [
+          "Título da seção: 'Perguntas Frequentes'",
+          "Pergunta 1: 'Preciso ter experiência no setor?'",
+          "Pergunta 2: 'Qual o prazo médio para abertura após a assinatura?'",
+          "Pergunta 3: 'A franqueadora ajuda na escolha do ponto comercial?'",
+          "Pergunta 4: 'Quais os tipos de unidades disponíveis?'",
+          "Pergunta 5: 'Quais regiões estão disponíveis para expansão?'",
+          "Pergunta 6: 'Qual o suporte oferecido pela franqueadora?'"
+        ]
+      },
+      {
+        "name": "Contato",
+        "elements": [
+          "Título da seção: 'Transforme seu futuro hoje mesmo'",
+          "Formulário de contato completo",
+          "Informações da franqueadora",
+          "CTA final: 'Quero receber mais informações'",
+          "Política de privacidade e termos de uso"
+        ]
+      }
+    ],
+    "seo": {
+      "title": "Franquia PetFood Express | Invista no setor de Pet Shop",
+      "description": "Conheça a franquia PetFood Express, oportunidade de investimento no setor de Pet Shop com ROI de 29% e retorno em 50 meses.",
+      "keywords": [
+        "franquia petfood express",
+        "franquia de pet shop",
+        "investimento em franquia",
+        "seja franqueado",
+        "oportunidade de negócio"
+      ],
+      "structured_data": {
+        "type": "Business",
+        "name": "PetFood Express",
+        "description": "Rede de franquias no setor de Pet Shop",
+        "url": "https://www.petfoodexpress.com.br"
+      }
+    },
+    "tracking": {
+      "google_analytics": "Configurar",
+      "facebook_pixel": "Configurar",
+      "conversion_events": [
+        "Visualização da página",
+        "Envio de formulário",
+        "Clique em CTA",
+        "Download de material"
+      ]
+    }
+  },
+  "thank_you_page": {
+    "title": "Obrigado pelo seu interesse!",
+    "sections": [
+      {
+        "name": "Confirmação",
+        "elements": [
+          "Título: \"Recebemos seu cadastro com sucesso!\"",
+          "Subtítulo: \"Em breve nossa equipe entrará em contato.\"",
+          "Imagem de confirmação",
+          "Contador regressivo: \"Você será redirecionado em 10 segundos...\""
+        ]
+      },
+      {
+        "name": "Próximos Passos",
+        "elements": [
+          "Título: \"O que acontece agora?\"",
+          "Passo 1: \"Nossa equipe analisará seu perfil\"",
+          "Passo 2: \"Você receberá um e-mail com mais informações\"",
+          "Passo 3: \"Agendaremos uma apresentação personalizada\"",
+          "Passo 4: \"Você tomará a melhor decisão para seu futuro\""
+        ]
+      },
+      {
+        "name": "Conteúdo Gratuito",
+        "elements": [
+          "Título: \"Enquanto isso, preparamos um conteúdo especial para você\"",
+          "Botão: \"Baixar E-book: 10 Passos para Escolher a Franquia Ideal\"",
+          "Apresentação de vídeo: \"Assista: Depoimento de nossos franqueados\""
+        ]
+      },
+      {
+        "name": "Compartilhamento",
+        "elements": [
+          "Texto: \"Conhece alguém que também busca uma oportunidade de negócio?\"",
+          "Botões de compartilhamento: WhatsApp, Facebook, Email",
+          "URL personalizada para compartilhamento"
+        ]
+      }
+    ],
+    "tracking": {
+      "conversion_events": [
+        "Visualização da página",
+        "Download de material",
+        "Compartilhamento"
+      ]
+    }
+  },
+  "variants": [
+    {
+      "name": "Variante 1: Enfoque em depoimentos",
+      "description": "Prioriza depoimentos logo após a seção principal",
+      "changes": [
+        "Mover seção de Depoimentos para segunda posição",
+        "Destacar fotos maiores de franqueados",
+        "Adicionar vídeos curtos de depoimentos"
+      ]
+    },
+    {
+      "name": "Variante 2: Enfoque em retorno financeiro",
+      "description": "Destaca o retorno financeiro e payback",
+      "changes": [
+        "Adicionar calculadora de ROI interativa",
+        "Gráficos comparativos com outras oportunidades de investimento",
+        "Depoimentos focados em resultados financeiros"
+      ]
+    },
+    {
+      "name": "Variante 3: Versão simplificada",
+      "description": "Landing page mais curta com foco na conversão rápida",
+      "changes": [
+        "Reduzir para apenas 3 seções: Hero, Números e Formulário",
+        "Remover elementos distrativos",
+        "CTA mais proeminente",
+        "Garantia de resposta em 24h"
+      ]
+    }
+  ]
+}

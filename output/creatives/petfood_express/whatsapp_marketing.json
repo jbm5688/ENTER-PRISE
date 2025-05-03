@@ -1,0 +1,121 @@
+{
+  "direct_messages": [
+    {
+      "text": "Olá! Tudo bem?\n\nSeja dono do seu negócio:  PetFood Express tem a oportunidade perfeita\n\nInvestimento a partir de R$ 46,396,94. Retorno em apenas 50 meses. Seja parte da rede PetFood Express e conquiste sua independência financeira.\n\nQuer saber mais sobre essa oportunidade? Estou à disposição para tirar suas dúvidas!",
+      "recommended_follow_up": "Posso enviar mais informações sobre nossa franquia?",
+      "cta": "Agendar uma conversa"
+    },
+    {
+      "text": "Bom dia! Tudo bem?\n\nConquiste seu futuro financeiro com a franquia PetFood Express\n\nCansado do seu emprego? A franquia PetFood Express é sua porta de saída. Investimento a partir de R$ 46,396,94 e retorno em 50 meses.\n\nQuer saber mais sobre essa oportunidade? Estou à disposição para tirar suas dúvidas!",
+      "recommended_follow_up": "Posso enviar mais informações sobre nossa franquia?",
+      "cta": "Agendar uma conversa"
+    },
+    {
+      "text": "Bom dia! Tudo bem?\n\nConquiste seu futuro financeiro com a franquia PetFood Express\n\nMais de 195 empreendedores já alcançaram o sucesso com a PetFood Express. Invista a partir de R$ 46,396,94 e transforme seu futuro.\n\nQuer saber mais sobre essa oportunidade? Estou à disposição para tirar suas dúvidas!",
+      "recommended_follow_up": "Posso enviar mais informações sobre nossa franquia?",
+      "cta": "Agendar uma conversa"
+    },
+    {
+      "step": 1,
+      "trigger": "Mensagem inicial do lead",
+      "response": "Olá! Obrigado pelo seu interesse na franquia [NOME]. Estamos felizes em poder ajudar você a conhecer mais sobre essa oportunidade de negócio. Como posso te ajudar hoje?\n\n1 - Informações gerais\n2 - Valores de investimento\n3 - Falar com um consultor\n4 - Receber material completo",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "step": 2,
+      "trigger": "Opção 1 (Informações gerais)",
+      "response": "A franquia [NOME] atua no setor de [SETOR] há [X] anos, com mais de [Y] unidades em operação por todo o Brasil. Nosso modelo de negócio oferece:\n\n✅ Suporte completo\n✅ Treinamento especializado\n✅ Marketing nacional\n✅ Território exclusivo\n\nGostaria de saber mais sobre algum tópico específico?\n\n1 - Modelo de negócio\n2 - Suporte oferecido\n3 - Falar com um consultor\n4 - Menu principal",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "step": 2,
+      "trigger": "Opção 2 (Valores de investimento)",
+      "response": "Investimento na franquia [NOME]:\n\n💰 Investimento inicial: a partir de R$ [VALOR]\n⏱️ Retorno estimado: [X] meses\n📈 ROI médio: [Y]%\n\nO investimento inclui:\n- Taxa de franquia\n- Montagem da unidade\n- Estoque inicial\n- Treinamento\n\nPosso te enviar uma planilha financeira detalhada. Você gostaria de receber?\n\n1 - Sim, quero receber\n2 - Falar com um consultor\n3 - Menu principal",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "step": 2,
+      "trigger": "Opção 3 (Falar com um consultor)",
+      "response": "Ótimo! Para agendar uma conversa com um de nossos consultores, precisamos de algumas informações:\n\n1. Qual a melhor data e horário para você?\n2. Prefere conversa por telefone ou videochamada?\n3. Qual cidade/estado você tem interesse em abrir a franquia?\n\nAssim que receber essas informações, entrarei em contato para confirmar o agendamento.",
+      "type": "free_text"
+    },
+    {
+      "step": 2,
+      "trigger": "Opção 4 (Receber material)",
+      "response": "Ficarei feliz em enviar nosso material completo sobre a franquia [NOME]. Preciso apenas de seu e-mail para envio:\n\n(Por favor, digite seu e-mail)",
+      "type": "free_text"
+    }
+  ],
+  "broadcast_messages": [
+    {
+      "text": "Olá, empreendedor!\n\nVocê está em busca de uma oportunidade para investir no seu futuro? A franquia PetFood Express é líder no segmento de Pet Shop, com um modelo de negócio comprovado e retorno acelerado.\n\n✅ Investimento a partir de R$ 46,396,94\n\n✅ Retorno em apenas 50 meses\n\n✅ ROI estimado de 29%",
+      "cta": "Responda \"QUERO SABER MAIS\" para receber informações detalhadas",
+      "recommended_image": "Imagem da franquia ou logo"
+    },
+    {
+      "text": "O mercado de Pet Shop continua em expansão, mesmo em tempos desafiadores. A franquia PetFood Express traz uma oportunidade para você empreender com segurança nesse setor promissor.\n\nPor que escolher a franquia PetFood Express?\n\n- Modelo de negócio validado com mais de 195 unidades\n\n- Suporte completo em todas as etapas\n\n- Treinamento especializado para você e sua equipe",
+      "cta": "Responda \"QUERO SABER MAIS\" para receber informações detalhadas",
+      "recommended_image": "Imagem da franquia ou logo"
+    }
+  ],
+  "flow_sequence": [
+    {
+      "step": 1,
+      "trigger": "Mensagem inicial do lead",
+      "response": "Olá! Obrigado pelo seu interesse na franquia [NOME]. Estamos felizes em poder ajudar você a conhecer mais sobre essa oportunidade de negócio. Como posso te ajudar hoje?\n\n1 - Informações gerais\n2 - Valores de investimento\n3 - Falar com um consultor\n4 - Receber material completo",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "step": 2,
+      "trigger": "Opção 1 (Informações gerais)",
+      "response": "A franquia [NOME] atua no setor de [SETOR] há [X] anos, com mais de [Y] unidades em operação por todo o Brasil. Nosso modelo de negócio oferece:\n\n✅ Suporte completo\n✅ Treinamento especializado\n✅ Marketing nacional\n✅ Território exclusivo\n\nGostaria de saber mais sobre algum tópico específico?\n\n1 - Modelo de negócio\n2 - Suporte oferecido\n3 - Falar com um consultor\n4 - Menu principal",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "step": 2,
+      "trigger": "Opção 2 (Valores de investimento)",
+      "response": "Investimento na franquia [NOME]:\n\n💰 Investimento inicial: a partir de R$ [VALOR]\n⏱️ Retorno estimado: [X] meses\n📈 ROI médio: [Y]%\n\nO investimento inclui:\n- Taxa de franquia\n- Montagem da unidade\n- Estoque inicial\n- Treinamento\n\nPosso te enviar uma planilha financeira detalhada. Você gostaria de receber?\n\n1 - Sim, quero receber\n2 - Falar com um consultor\n3 - Menu principal",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "step": 2,
+      "trigger": "Opção 3 (Falar com um consultor)",
+      "response": "Ótimo! Para agendar uma conversa com um de nossos consultores, precisamos de algumas informações:\n\n1. Qual a melhor data e horário para você?\n2. Prefere conversa por telefone ou videochamada?\n3. Qual cidade/estado você tem interesse em abrir a franquia?\n\nAssim que receber essas informações, entrarei em contato para confirmar o agendamento.",
+      "type": "free_text"
+    },
+    {
+      "step": 2,
+      "trigger": "Opção 4 (Receber material)",
+      "response": "Ficarei feliz em enviar nosso material completo sobre a franquia [NOME]. Preciso apenas de seu e-mail para envio:\n\n(Por favor, digite seu e-mail)",
+      "type": "free_text"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+2025-04-28 11:47:13,123 - social_media_monitor - INFO - Inicializado com 3 plataformas configuradas
+2025-04-28 11:47:13,124 - social_media_monitor - INFO - Coletando tendências do instagram
+2025-04-28 11:47:13,127 - social_media_monitor - INFO - API key para Instagram não configurada, usando dados simulados
+2025-04-28 11:47:13,131 - social_media_monitor - INFO - Coletadas 30 tendências do instagram
+2025-04-28 11:47:15,133 - social_media_monitor - INFO - Coletando tendências do twitter
+2025-04-28 11:47:15,133 - social_media_monitor - INFO - API key para Twitter não configurada, usando dados simulados
+2025-04-28 11:47:15,136 - social_media_monitor - INFO - Coletadas 36 tendências do twitter
+2025-04-28 11:47:17,151 - social_media_monitor - INFO - Coletando tendências do tiktok
+2025-04-28 11:47:17,152 - social_media_monitor - INFO - API key para TikTok não configurada, usando dados simulados
+2025-04-28 11:47:17,157 - social_media_monitor - INFO - Coletadas 20 tendências do tiktok
+2025-04-28 11:47:19,838 - social_media_monitor - INFO - Total de tendências relevantes: 74
+2025-04-28 11:47:20,037 - social_media_monitor - INFO - Dados salvos em output/data/social_media_trends.csv

@@ -1,0 +1,773 @@
+{
+    "opportunities": [
+        {
+            "name": "SaladBar",
+            "category": "Alimentação Saudável",
+            "initial_investment": 66721.95722582506,
+            "franchise_fee": 10775.481176749352,
+            "royalty_fee_percentage": 5.702454022048981,
+            "avg_monthly_revenue": 6793.305494494994,
+            "roi_percentage": 37.19627593412339,
+            "payback_period_months": 32.26129417163333,
+            "min_area": 30,
+            "min_employees": 3,
+            "units": 31,
+            "description": "Modelo de negócio simplificado no setor de Alimentação Saudável com suporte completo.",
+            "summary": "Rede SaladBar possui mais de 31 unidades e atua no mercado de Alimentação Saudável há mais de 14 anos.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 18:15:51",
+            "cleaned_at": "2025-05-02 18:15:51",
+            "relevant_trends": [
+                {
+                    "keyword": "alimentação saudável",
+                    "growth_rate": 0.18,
+                    "sentiment": 0.85,
+                    "monthly_mentions": 230000.0
+                }
+            ],
+            "market_research": [
+                {
+                    "title": "Pesquisa de Consumidor: Alimentação",
+                    "market_size": 439000000.0,
+                    "growth_rate": 0.09351906232556982,
+                    "insights": [
+                        "Novas tecnologias estão transformando o setor de Alimentação",
+                        "Franquias de Alimentação têm mostrado resistência em períodos de crise",
+                        "Consumidores valorizam qualidade e preço no setor de Alimentação"
+                    ]
+                },
+                {
+                    "title": "Tendências do Setor de Alimentação",
+                    "market_size": 296000000.0,
+                    "growth_rate": 0.022368019514712373,
+                    "insights": [
+                        "O mercado de Alimentação deve crescer 2.2% nos próximos 2 anos",
+                        "Franquias de Alimentação têm mostrado resistência em períodos de crise",
+                        "Novas tecnologias estão transformando o setor de Alimentação"
+                    ]
+                },
+                {
+                    "title": "Oportunidades em Alimentação",
+                    "market_size": 514000000.0,
+                    "growth_rate": 0.14086118829070665,
+                    "insights": [
+                        "Há uma tendência de consolidação no setor de Alimentação",
+                        "Franquias de Alimentação têm mostrado resistência em períodos de crise"
+                    ]
+                }
+            ],
+            "opportunity_score": 51.28,
+            "estimated_monthly_revenue": 6793.305494494994,
+            "estimated_monthly_expenses": 4725.131884631188,
+            "estimated_monthly_profit": 2068.1736098638057,
+            "annual_profit": 24818.08331836567,
+            "profit_margin": 0.3044428977233198,
+            "operational_margin": 0.3044428977233198,
+            "operating_expenses": {
+                "aluguel": 909.7373645672068,
+                "pessoal": 1479.6491361376711,
+                "marketing": 273.35828033340755,
+                "insumos": 1577.4770648422996,
+                "administracao": 648.7482147032362,
+                "outros": 412.5796033982096
+            },
+            "growth_rate": 0.0892750850929,
+            "future_revenues": {
+                "ano1": 24818.08331836567,
+                "ano2": 27033.719818455447,
+                "ano3": 29447.157455625675,
+                "ano4": 32076.054943220683,
+                "ano5": 34939.64747772125
+            }
+        },
+        {
+            "name": "FashionStore",
+            "category": "Moda",
+            "initial_investment": 54584.40058003987,
+            "franchise_fee": 6466.972778070388,
+            "royalty_fee_percentage": 10.833626122968237,
+            "avg_monthly_revenue": 12793.593872219024,
+            "roi_percentage": 77.94790158985337,
+            "payback_period_months": 15.394898073256233,
+            "min_area": 78,
+            "min_employees": 2,
+            "units": 196,
+            "description": "Modelo de negócio simplificado no setor de Moda com suporte completo.",
+            "summary": "Com investimento inicial a partir de R$ 54.6 mil, FashionStore oferece uma excelente oportunidade no mercado de Moda.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 18:15:51",
+            "cleaned_at": "2025-05-02 18:15:51",
+            "market_research": [
+                {
+                    "title": "Análise de Mercado: Moda",
+                    "market_size": 105000000.0,
+                    "growth_rate": 0.11109867906730506,
+                    "insights": [
+                        "O segmento online em Moda tem crescido acima da média do mercado",
+                        "Empresas com foco em sustentabilidade têm se destacado em Moda"
+                    ]
+                },
+                {
+                    "title": "Pesquisa de Consumidor: Moda",
+                    "market_size": 340000000.0,
+                    "growth_rate": 0.22926266881264457,
+                    "insights": [
+                        "Há uma tendência de consolidação no setor de Moda",
+                        "O mercado de Moda deve crescer 22.9% nos próximos 2 anos",
+                        "Consumidores valorizam qualidade e preço no setor de Moda"
+                    ]
+                },
+                {
+                    "title": "Análise de Mercado: Moda",
+                    "market_size": 361000000.0,
+                    "growth_rate": 0.22784441674362962,
+                    "insights": [
+                        "O mercado de Moda deve crescer 22.8% nos próximos 2 anos",
+                        "Consumidores valorizam qualidade e preço no setor de Moda",
+                        "Novas tecnologias estão transformando o setor de Moda"
+                    ]
+                },
+                {
+                    "title": "Análise de Mercado: Moda",
+                    "market_size": 342000000.0,
+                    "growth_rate": 0.23209032594057524,
+                    "insights": [
+                        "Novas tecnologias estão transformando o setor de Moda",
+                        "Empresas com foco em sustentabilidade têm se destacado em Moda"
+                    ]
+                },
+                {
+                    "title": "Relatório de Investimento: Moda",
+                    "market_size": 237000000.0,
+                    "growth_rate": 0.1002224117396495,
+                    "insights": [
+                        "O mercado de Moda deve crescer 10.0% nos próximos 2 anos",
+                        "Consumidores valorizam qualidade e preço no setor de Moda"
+                    ]
+                }
+            ],
+            "opportunity_score": 48.21,
+            "estimated_monthly_revenue": 12793.593872219024,
+            "estimated_monthly_expenses": 9247.977634923955,
+            "estimated_monthly_profit": 3545.6162372950694,
+            "annual_profit": 42547.39484754083,
+            "profit_margin": 0.2771399712002965,
+            "operational_margin": 0.27713997120029643,
+            "operating_expenses": {
+                "aluguel": 2748.9338441017203,
+                "pessoal": 3577.2169133535713,
+                "marketing": 797.2729164417309,
+                "insumos": 3513.103087491945,
+                "administracao": 1020.2110691140588,
+                "outros": 878.3300938562521
+            },
+            "growth_rate": 0.09204082441272611,
+            "future_revenues": {
+                "ano1": 42547.39484754083,
+                "ano2": 46463.49214592227,
+                "ano3": 50740.03026812718,
+                "ano4": 55410.184484732294,
+                "ano5": 60510.1835455683
+            }
+        },
+        {
+            "name": "PetFood Express",
+            "category": "Pet",
+            "initial_investment": 76189.494706495,
+            "franchise_fee": 13706.578533896864,
+            "royalty_fee_percentage": 7.508829088048176,
+            "avg_monthly_revenue": 11634.387505251641,
+            "roi_percentage": 62.62489698025541,
+            "payback_period_months": 19.16170816821208,
+            "min_area": 31,
+            "min_employees": 3,
+            "units": 97,
+            "description": "Invista em uma franquia de Pet em expansão no mercado.",
+            "summary": "Com investimento inicial a partir de R$ 76.2 mil, PetFood Express oferece uma excelente oportunidade no mercado de Pet.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 18:15:51",
+            "cleaned_at": "2025-05-02 18:15:51",
+            "market_research": [
+                {
+                    "title": "Tendências do Setor de Pet",
+                    "market_size": 137000000.0,
+                    "growth_rate": 0.06436886666313334,
+                    "insights": [
+                        "Franquias de Pet têm mostrado resistência em períodos de crise",
+                        "O mercado de Pet deve crescer 6.4% nos próximos 2 anos",
+                        "Consumidores valorizam qualidade e preço no setor de Pet"
+                    ]
+                },
+                {
+                    "title": "Oportunidades em Pet",
+                    "market_size": 187000000.0,
+                    "growth_rate": 0.059294892843490724,
+                    "insights": [
+                        "O mercado de Pet deve crescer 5.9% nos próximos 2 anos",
+                        "Franquias de Pet têm mostrado resistência em períodos de crise",
+                        "Consumidores valorizam qualidade e preço no setor de Pet"
+                    ]
+                },
+                {
+                    "title": "Tendências do Setor de Pet",
+                    "market_size": 302000000.0,
+                    "growth_rate": 0.08314430162619874,
+                    "insights": [
+                        "O segmento online em Pet tem crescido acima da média do mercado",
+                        "Consumidores valorizam qualidade e preço no setor de Pet"
+                    ]
+                }
+            ],
+            "opportunity_score": 47.14,
+            "estimated_monthly_revenue": 11634.387505251641,
+            "estimated_monthly_expenses": 7658.254791108338,
+            "estimated_monthly_profit": 3976.132714143303,
+            "annual_profit": 47713.592569719636,
+            "profit_margin": 0.3417569435733955,
+            "operational_margin": 0.34175694357339553,
+            "operating_expenses": {
+                "aluguel": 1415.2580207637618,
+                "pessoal": 1949.5739645636484,
+                "marketing": 563.1222968267316,
+                "insumos": 1721.2988458189534,
+                "administracao": 1084.530441703805,
+                "outros": 720.1435856362378
+            },
+            "growth_rate": 0.11735796602518397,
+            "future_revenues": {
+                "ano1": 47713.592569719636,
+                "ano2": 53313.16274545626,
+                "ano3": 59569.88708763263,
+                "ano4": 66560.88787258706,
+                "ano5": 74372.33829014422
+            }
+        },
+        {
+            "name": "HealthySnacks",
+            "category": "Alimentação",
+            "initial_investment": 82366.43991844956,
+            "franchise_fee": 11734.175322401275,
+            "royalty_fee_percentage": 5.6945961445717765,
+            "avg_monthly_revenue": 11352.556255601794,
+            "roi_percentage": 37.446170723167675,
+            "payback_period_months": 32.04600034730837,
+            "min_area": 168,
+            "min_employees": 8,
+            "units": 115,
+            "description": "Modelo de negócio simplificado no setor de Alimentação com suporte completo.",
+            "summary": "HealthySnacks é uma rede de franquias no setor de Alimentação com 115 unidades em operação no Brasil.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 18:15:51",
+            "cleaned_at": "2025-05-02 18:15:51",
+            "relevant_trends": [
+                {
+                    "keyword": "alimentação saudável",
+                    "growth_rate": 0.18,
+                    "sentiment": 0.85,
+                    "monthly_mentions": 230000.0
+                }
+            ],
+            "market_research": [
+                {
+                    "title": "Pesquisa de Consumidor: Alimentação",
+                    "market_size": 439000000.0,
+                    "growth_rate": 0.09351906232556982,
+                    "insights": [
+                        "Novas tecnologias estão transformando o setor de Alimentação",
+                        "Franquias de Alimentação têm mostrado resistência em períodos de crise",
+                        "Consumidores valorizam qualidade e preço no setor de Alimentação"
+                    ]
+                },
+                {
+                    "title": "Tendências do Setor de Alimentação",
+                    "market_size": 296000000.0,
+                    "growth_rate": 0.022368019514712373,
+                    "insights": [
+                        "O mercado de Alimentação deve crescer 2.2% nos próximos 2 anos",
+                        "Franquias de Alimentação têm mostrado resistência em períodos de crise",
+                        "Novas tecnologias estão transformando o setor de Alimentação"
+                    ]
+                },
+                {
+                    "title": "Oportunidades em Alimentação",
+                    "market_size": 514000000.0,
+                    "growth_rate": 0.14086118829070665,
+                    "insights": [
+                        "Há uma tendência de consolidação no setor de Alimentação",
+                        "Franquias de Alimentação têm mostrado resistência em períodos de crise"
+                    ]
+                }
+            ],
+            "opportunity_score": 46.6,
+            "estimated_monthly_revenue": 11352.556255601794,
+            "estimated_monthly_expenses": 8782.299779730298,
+            "estimated_monthly_profit": 2570.256475871496,
+            "annual_profit": 30843.077710457954,
+            "profit_margin": 0.22640332432646898,
+            "operational_margin": 0.2264033243264689,
+            "operating_expenses": {
+                "aluguel": 1536.713490539424,
+                "pessoal": 3063.587739350866,
+                "marketing": 746.6291645925328,
+                "insumos": 3280.567281502939,
+                "administracao": 511.12691324135295,
+                "outros": 692.1901133323315
+            },
+            "growth_rate": 0.06416549353909677,
+            "future_revenues": {
+                "ano1": 30843.077710457954,
+                "ano2": 32822.1390140142,
+                "ano3": 34928.18776285726,
+                "ano4": 37169.37216908724,
+                "ano5": 39554.36327885509
+            }
+        },
+        {
+            "name": "HomeDecor",
+            "category": "Casa e decoração",
+            "initial_investment": 69185.51085293476,
+            "franchise_fee": 13096.580482359825,
+            "royalty_fee_percentage": 7.971174776112748,
+            "avg_monthly_revenue": 13392.445735260126,
+            "roi_percentage": 75.36286247512321,
+            "payback_period_months": 15.922962061003354,
+            "min_area": 61,
+            "min_employees": 4,
+            "units": 71,
+            "description": "Oportunidade no setor de Casa e Decoração com modelo de negócio comprovado.",
+            "summary": "HomeDecor é uma rede de franquias no setor de Casa e Decoração com 71 unidades em operação no Brasil.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 18:15:51",
+            "cleaned_at": "2025-05-02 18:15:51",
+            "market_research": [
+                {
+                    "title": "Oportunidades em Casa",
+                    "market_size": 630000000.0,
+                    "growth_rate": 0.054948963303060275,
+                    "insights": [
+                        "Franquias de Casa têm mostrado resistência em períodos de crise",
+                        "O segmento online em Casa tem crescido acima da média do mercado",
+                        "Consumidores valorizam qualidade e preço no setor de Casa"
+                    ]
+                },
+                {
+                    "title": "Pesquisa de Consumidor: Casa",
+                    "market_size": 230000000.0,
+                    "growth_rate": 0.22946126312022794,
+                    "insights": [
+                        "Empresas com foco em sustentabilidade têm se destacado em Casa",
+                        "O mercado de Casa deve crescer 22.9% nos próximos 2 anos",
+                        "O segmento online em Casa tem crescido acima da média do mercado"
+                    ]
+                },
+                {
+                    "title": "Tendências do Setor de Casa",
+                    "market_size": 527000000.0,
+                    "growth_rate": 0.1537883764824482,
+                    "insights": [
+                        "O segmento online em Casa tem crescido acima da média do mercado",
+                        "Há uma tendência de consolidação no setor de Casa",
+                        "Empresas com foco em sustentabilidade têm se destacado em Casa"
+                    ]
+                },
+                {
+                    "title": "Relatório de Investimento: Casa",
+                    "market_size": 582000000.0,
+                    "growth_rate": 0.24115230473956897,
+                    "insights": [
+                        "Novas tecnologias estão transformando o setor de Casa",
+                        "O segmento online em Casa tem crescido acima da média do mercado",
+                        "Franquias de Casa têm mostrado resistência em períodos de crise"
+                    ]
+                },
+                {
+                    "title": "Relatório de Investimento: Casa",
+                    "market_size": 624000000.0,
+                    "growth_rate": 0.07047814224753142,
+                    "insights": [
+                        "O mercado de Casa deve crescer 7.0% nos próximos 2 anos",
+                        "Há uma tendência de consolidação no setor de Casa"
+                    ]
+                }
+            ],
+            "opportunity_score": 45.25,
+            "estimated_monthly_revenue": 13392.445735260126,
+            "estimated_monthly_expenses": 9047.430618859404,
+            "estimated_monthly_profit": 4345.015116400722,
+            "annual_profit": 52140.181396808664,
+            "profit_margin": 0.3244377615778578,
+            "operational_margin": 0.3244377615778577,
+            "operating_expenses": {
+                "aluguel": 1702.0833247200808,
+                "pessoal": 2298.3316099254666,
+                "marketing": 1154.7891820994623,
+                "insumos": 3223.018006355002,
+                "administracao": 1161.5310993026862,
+                "outros": 737.7800248653748
+            },
+            "growth_rate": 0.24235248236047074,
+            "future_revenues": {
+                "ano1": 52140.181396808664,
+                "ano2": 64776.483789050486,
+                "ano3": 80475.22543390965,
+                "ano4": 99978.59608633617,
+                "ano5": 124208.65703077459
+            }
+        },
+        {
+            "name": "Coffee Express",
+            "category": "Café",
+            "initial_investment": 141956.86728836218,
+            "franchise_fee": 18627.145127919433,
+            "royalty_fee_percentage": 5.542370098200637,
+            "avg_monthly_revenue": 14769.067568580995,
+            "roi_percentage": 35.859976230206144,
+            "payback_period_months": 33.46349122755963,
+            "min_area": 33,
+            "min_employees": 6,
+            "units": 138,
+            "description": "Franquia de Café com excelente retorno sobre investimento.",
+            "summary": "Com investimento inicial a partir de R$ 142.0 mil, Coffee Express oferece uma excelente oportunidade no mercado de Café.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 18:15:51",
+            "cleaned_at": "2025-05-02 18:15:51",
+            "opportunity_score": 44.29,
+            "estimated_monthly_revenue": 14769.067568580995,
+            "estimated_monthly_expenses": 10526.925996351665,
+            "estimated_monthly_profit": 4242.1415722293295,
+            "annual_profit": 50905.698866751954,
+            "profit_margin": 0.28723150954051146,
+            "operational_margin": 0.2872315095405114,
+            "operating_expenses": {
+                "aluguel": 2465.975942348184,
+                "pessoal": 3049.602841675648,
+                "marketing": 1104.383171530605,
+                "insumos": 3884.060329635884,
+                "administracao": 1471.7235309786925,
+                "outros": 989.9801930982851
+            },
+            "growth_rate": 0.10244824922444232,
+            "future_revenues": {
+                "ano1": 50905.698866751954,
+                "ano2": 56120.898591197365,
+                "ano3": 61870.38639676801,
+                "ano4": 68208.89916195664,
+                "ano5": 75196.78146262563
+            }
+        },
+        {
+            "name": "EduKids",
+            "category": "Educação",
+            "initial_investment": 100001.44777331268,
+            "franchise_fee": 10138.135817391336,
+            "royalty_fee_percentage": 2.335259198086011,
+            "avg_monthly_revenue": 19208.594995897594,
+            "roi_percentage": 98.15165050033873,
+            "payback_period_months": 12.225978818317056,
+            "min_area": 27,
+            "min_employees": 8,
+            "units": 131,
+            "description": "Invista em uma franquia de Educação em expansão no mercado.",
+            "summary": "Com investimento inicial a partir de R$ 100.0 mil, EduKids oferece uma excelente oportunidade no mercado de Educação.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 18:15:51",
+            "cleaned_at": "2025-05-02 18:15:51",
+            "market_research": [
+                {
+                    "title": "Análise de Mercado: Educação",
+                    "market_size": 275000000.0,
+                    "growth_rate": 0.0542971784556107,
+                    "insights": [
+                        "Franquias de Educação têm mostrado resistência em períodos de crise",
+                        "O segmento online em Educação tem crescido acima da média do mercado"
+                    ]
+                },
+                {
+                    "title": "Pesquisa de Consumidor: Educação",
+                    "market_size": 809000000.0,
+                    "growth_rate": 0.23522299310965047,
+                    "insights": [
+                        "Empresas com foco em sustentabilidade têm se destacado em Educação",
+                        "O mercado de Educação deve crescer 23.5% nos próximos 2 anos"
+                    ]
+                },
+                {
+                    "title": "Tendências do Setor de Educação",
+                    "market_size": 180000000.0,
+                    "growth_rate": 0.21992199317643937,
+                    "insights": [
+                        "O mercado de Educação deve crescer 22.0% nos próximos 2 anos",
+                        "O segmento online em Educação tem crescido acima da média do mercado",
+                        "Novas tecnologias estão transformando o setor de Educação"
+                    ]
+                },
+                {
+                    "title": "Tendências do Setor de Educação",
+                    "market_size": 484000000.0,
+                    "growth_rate": 0.22700689838993923,
+                    "insights": [
+                        "Franquias de Educação têm mostrado resistência em períodos de crise",
+                        "Consumidores valorizam qualidade e preço no setor de Educação"
+                    ]
+                },
+                {
+                    "title": "Pesquisa de Consumidor: Educação",
+                    "market_size": 386000000.0,
+                    "growth_rate": 0.23203483273544498,
+                    "insights": [
+                        "Consumidores valorizam qualidade e preço no setor de Educação",
+                        "Há uma tendência de consolidação no setor de Educação",
+                        "Novas tecnologias estão transformando o setor de Educação"
+                    ]
+                }
+            ],
+            "opportunity_score": 42.64,
+            "estimated_monthly_revenue": 19208.594995897594,
+            "estimated_monthly_expenses": 11029.172369752541,
+            "estimated_monthly_profit": 8179.422626145053,
+            "annual_profit": 98153.07151374064,
+            "profit_margin": 0.4258209737824106,
+            "operational_margin": 0.42582097378241063,
+            "operating_expenses": {
+                "aluguel": 1905.8054671884638,
+                "pessoal": 3946.868125343749,
+                "marketing": 1096.8955234486589,
+                "insumos": 3977.87570754361,
+                "administracao": 1590.6593628401881,
+                "outros": 741.7371328579408
+            },
+            "growth_rate": 0.10120962192117838,
+            "future_revenues": {
+                "ano1": 98153.07151374064,
+                "ano2": 108087.10677204872,
+                "ano3": 119026.56198300181,
+                "ano4": 131073.19531987913,
+                "ano5": 144339.06386220487
+            }
+        },
+        {
+            "name": "FitLife Gym",
+            "category": "Fitness",
+            "initial_investment": 95016.04914179166,
+            "franchise_fee": 14984.132147474373,
+            "royalty_fee_percentage": 5.718536961459515,
+            "avg_monthly_revenue": 22292.85165116609,
+            "roi_percentage": 99.6176455454269,
+            "payback_period_months": 12.046058641817478,
+            "min_area": 167,
+            "min_employees": 8,
+            "units": 45,
+            "description": "Oportunidade no setor de Fitness com modelo de negócio comprovado.",
+            "summary": "FitLife Gym é uma rede de franquias no setor de Fitness com 45 unidades em operação no Brasil.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 18:15:51",
+            "cleaned_at": "2025-05-02 18:15:51",
+            "opportunity_score": 40.56,
+            "estimated_monthly_revenue": 22292.85165116609,
+            "estimated_monthly_expenses": 14405.122397387868,
+            "estimated_monthly_profit": 7887.729253778221,
+            "annual_profit": 94652.75104533866,
+            "profit_margin": 0.3538232513813742,
+            "operational_margin": 0.35382325138137416,
+            "operating_expenses": {
+                "aluguel": 3876.435714073633,
+                "pessoal": 3863.704342059562,
+                "marketing": 1882.541159037768,
+                "insumos": 3839.652041883931,
+                "administracao": 1997.0296807154898,
+                "outros": 1222.3407425507191
+            },
+            "growth_rate": 0.08150377591635374,
+            "future_revenues": {
+                "ano1": 94652.75104533866,
+                "ano2": 102367.30765640436,
+                "ano3": 110710.62976079239,
+                "ano4": 119733.96412037441,
+                "ano5": 129492.73430161814
+            }
+        }
+    ],
+    "market_trends": [
+        {
+            "keyword": "tecnologias estão",
+            "source_type": "market_research",
+            "growth_rate": 0.22761155210608364,
+            "sentiment": 0.9162915064738193,
+            "category": "Alimentação",
+            "insight": "Novas tecnologias estão transformando o setor de Alimentação",
+            "source": "Sebrae",
+            "relevance_score": 0.6659320727845792,
+            "sources": 38,
+            "categories": [
+                "Alimentação",
+                "Educação",
+                "Tecnologia",
+                "Moda",
+                "Serviços",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "segmento online",
+            "source_type": "market_research",
+            "growth_rate": 0.22169157931173478,
+            "sentiment": 0.9058533254122165,
+            "category": "Educação",
+            "insight": "O segmento online em Educação tem crescido acima da média do mercado",
+            "source": "Sebrae",
+            "relevance_score": 0.6604326293483589,
+            "sources": 20,
+            "categories": [
+                "Educação",
+                "Pet",
+                "Moda",
+                "Serviços",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "casa têm",
+            "source_type": "market_research",
+            "growth_rate": 0.19457452479330756,
+            "sentiment": 0.853356722340084,
+            "category": "Casa e Decoração",
+            "insight": "Franquias de Casa têm mostrado resistência em períodos de crise",
+            "source": "Associação Brasileira de Franchising",
+            "relevance_score": 0.6338368266193481,
+            "sources": 4,
+            "categories": [
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "mercado",
+            "source_type": "market_research",
+            "growth_rate": 0.138655883152318,
+            "sentiment": 0.9030723720612714,
+            "category": "Alimentação",
+            "insight": "O mercado de Alimentação deve crescer 2.2% nos próximos 2 anos",
+            "source": "Euromonitor International",
+            "relevance_score": 0.6263840648793086,
+            "sources": 29,
+            "categories": [
+                "Alimentação",
+                "Educação",
+                "Pet",
+                "Moda",
+                "Beleza",
+                "Serviços",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "Casa e Decoração",
+            "source_type": "market_research",
+            "growth_rate": 0.13252633352041948,
+            "sentiment": 0.8926156557056706,
+            "investment_opportunity": 0.6794693478519638,
+            "source": "Associação Brasileira de Franchising",
+            "relevance_score": 0.6207952301198689,
+            "sources": 5
+        },
+        {
+            "keyword": "saúde",
+            "source_type": "market_research",
+            "growth_rate": 0.1808395606061327,
+            "sentiment": 0.8063528197759546,
+            "category": "Saúde",
+            "insight": "Empresas com foco em sustentabilidade têm se destacado em Saúde",
+            "source": "Sebrae",
+            "relevance_score": 0.6142416701752395,
+            "sources": 4,
+            "categories": [
+                "Saúde"
+            ]
+        },
+        {
+            "keyword": "sustentabilidade",
+            "source_type": "social_media",
+            "growth_rate": 0.15419781181386555,
+            "sentiment": 0.8276346993255512,
+            "monthly_mentions": 310000.0,
+            "platforms": [
+                "Instagram",
+                "LinkedIn",
+                "Twitter",
+                "Facebook"
+            ],
+            "first_observed": "2024-12-03",
+            "relevance_score": 0.6099695345232116,
+            "sources": 12,
+            "categories": [
+                "Saúde",
+                "Educação",
+                "Tecnologia",
+                "Moda",
+                "Beleza",
+                "Serviços",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "foco",
+            "source_type": "market_research",
+            "growth_rate": 0.15410693988897906,
+            "sentiment": 0.8277072218504327,
+            "category": "Saúde",
+            "insight": "Empresas com foco em sustentabilidade têm se destacado em Saúde",
+            "source": "Sebrae",
+            "relevance_score": 0.6099549425107214,
+            "sources": 11,
+            "categories": [
+                "Saúde",
+                "Educação",
+                "Tecnologia",
+                "Moda",
+                "Beleza",
+                "Serviços",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "deve",
+            "source_type": "market_research",
+            "growth_rate": 0.11910057347655054,
+            "sentiment": 0.8571766724389849,
+            "category": "Pet",
+            "insight": "O mercado de Pet deve crescer 6.4% nos próximos 2 anos",
+            "source": "Fundação Getúlio Vargas",
+            "relevance_score": 0.6047932311223156,
+            "sources": 12,
+            "categories": [
+                "Pet",
+                "Moda",
+                "Beleza",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "mostrado",
+            "source_type": "market_research",
+            "growth_rate": 0.15471275649691563,
+            "sentiment": 0.8077660609656763,
+            "category": "Alimentação",
+            "insight": "Franquias de Alimentação têm mostrado resistência em períodos de crise",
+            "source": "Sebrae",
+            "relevance_score": 0.6042149208884691,
+            "sources": 11,
+            "categories": [
+                "Alimentação",
+                "Educação",
+                "Tecnologia",
+                "Pet",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        }
+    ],
+    "timestamp": "2025-05-02 18:15:51"
+}

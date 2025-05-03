@@ -1,0 +1,2079 @@
+{
+    "timestamp": "2025-05-02 18:29:57",
+    "test_mode": true,
+    "campaigns": [
+        {
+            "opportunity": "SaladBar",
+            "platform": "facebook",
+            "campaign_id": "fac-1746221397-2271",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:29:57",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 48.74,
+                "total": 963.76
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221397-8685",
+                "content-1746221397-5274",
+                "content-1746221397-4564"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "SaladBar",
+            "platform": "instagram",
+            "campaign_id": "ins-1746221399-1717",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:29:59",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 22.43,
+                "total": 665.06
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221399-7529",
+                "content-1746221399-2748",
+                "content-1746221399-8228"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "SaladBar",
+            "platform": "google",
+            "campaign_id": "goo-1746221400-9908",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:00",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 27.59,
+                "total": 593.02
+            },
+            "targeting": {
+                "keywords": [
+                    "franquia ",
+                    "franquia lucrativa",
+                    "investir em franquia",
+                    "abrir negócio"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "devices": [
+                    "mobile",
+                    "desktop"
+                ],
+                "exclusions": [
+                    "empregos",
+                    "gratuito",
+                    "falência",
+                    "problemas",
+                    "reclamações"
+                ]
+            },
+            "content_ids": [
+                "content-1746221400-9987",
+                "content-1746221400-4298",
+                "content-1746221400-7972",
+                "content-1746221400-5576",
+                "content-1746221400-8966",
+                "content-1746221400-8293",
+                "content-1746221400-4644",
+                "content-1746221400-7993"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "SaladBar",
+            "platform": "linkedin",
+            "campaign_id": "lin-1746221401-4463",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:01",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 23.15,
+                "total": 615.14
+            },
+            "targeting": {
+                "job_titles": [
+                    "empresário",
+                    "empreendedor",
+                    "investidor",
+                    "gestor"
+                ],
+                "industries": [
+                    "varejo"
+                ],
+                "company_sizes": [
+                    "1-10",
+                    "11-50",
+                    "51-200"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ]
+            },
+            "content_ids": [
+                "content-1746221401-8540",
+                "content-1746221401-2248",
+                "content-1746221401-5742",
+                "content-1746221401-7555"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "SaladBar",
+            "platform": "email",
+            "campaign_id": "ema-1746221402-1516",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:02",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 16.46,
+                "total": 1067.95
+            },
+            "targeting": {
+                "segments": [
+                    "leads_novos",
+                    "leads_quentes",
+                    "clientes_potenciais"
+                ],
+                "interests": [
+                    "franquias"
+                ],
+                "engagement_level": [
+                    "médio",
+                    "alto"
+                ]
+            },
+            "content_ids": [
+                "content-1746221402-8139",
+                "content-1746221402-3613",
+                "content-1746221402-1542",
+                "content-1746221402-6870",
+                "content-1746221402-2604",
+                "content-1746221402-3840",
+                "content-1746221402-5211",
+                "content-1746221402-7799"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "CleanHome",
+            "platform": "facebook",
+            "campaign_id": "fac-1746221403-3418",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:03",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 15.38,
+                "total": 967.35
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221403-1029",
+                "content-1746221403-7763",
+                "content-1746221403-3053",
+                "content-1746221403-8236",
+                "content-1746221403-5636",
+                "content-1746221403-5592",
+                "content-1746221403-6008",
+                "content-1746221403-2487"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "CleanHome",
+            "platform": "instagram",
+            "campaign_id": "ins-1746221404-1867",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:04",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 46.58,
+                "total": 1498.03
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221404-7785",
+                "content-1746221404-3459",
+                "content-1746221404-2177",
+                "content-1746221404-5949",
+                "content-1746221404-8826"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "CleanHome",
+            "platform": "google",
+            "campaign_id": "goo-1746221405-8919",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:05",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 43.34,
+                "total": 337.91
+            },
+            "targeting": {
+                "keywords": [
+                    "franquia ",
+                    "franquia lucrativa",
+                    "investir em franquia",
+                    "abrir negócio"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "devices": [
+                    "mobile",
+                    "desktop"
+                ],
+                "exclusions": [
+                    "empregos",
+                    "gratuito",
+                    "falência",
+                    "problemas",
+                    "reclamações"
+                ]
+            },
+            "content_ids": [
+                "content-1746221405-3680",
+                "content-1746221405-9858",
+                "content-1746221405-8263",
+                "content-1746221405-9673",
+                "content-1746221405-5187",
+                "content-1746221405-7075"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "CleanHome",
+            "platform": "linkedin",
+            "campaign_id": "lin-1746221407-8753",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:07",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 46.06,
+                "total": 569.69
+            },
+            "targeting": {
+                "job_titles": [
+                    "empresário",
+                    "empreendedor",
+                    "investidor",
+                    "gestor"
+                ],
+                "industries": [
+                    "varejo"
+                ],
+                "company_sizes": [
+                    "1-10",
+                    "11-50",
+                    "51-200"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ]
+            },
+            "content_ids": [
+                "content-1746221407-6503",
+                "content-1746221407-3496",
+                "content-1746221407-8819",
+                "content-1746221407-4152",
+                "content-1746221407-2867"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "CleanHome",
+            "platform": "email",
+            "campaign_id": "ema-1746221407-2190",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:07",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 15.51,
+                "total": 445.16
+            },
+            "targeting": {
+                "segments": [
+                    "leads_novos",
+                    "leads_quentes",
+                    "clientes_potenciais"
+                ],
+                "interests": [
+                    "franquias"
+                ],
+                "engagement_level": [
+                    "médio",
+                    "alto"
+                ]
+            },
+            "content_ids": [
+                "content-1746221407-8052",
+                "content-1746221407-7022",
+                "content-1746221407-7521",
+                "content-1746221407-1632"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "EduKids",
+            "platform": "facebook",
+            "campaign_id": "fac-1746221409-6948",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:09",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 48.99,
+                "total": 675.11
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221409-2680",
+                "content-1746221409-5164",
+                "content-1746221409-2203"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "EduKids",
+            "platform": "instagram",
+            "campaign_id": "ins-1746221409-8468",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:09",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 21.09,
+                "total": 785.23
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221409-3373",
+                "content-1746221409-9546",
+                "content-1746221409-5605"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "EduKids",
+            "platform": "google",
+            "campaign_id": "goo-1746221410-3545",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:10",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 37.86,
+                "total": 1429.95
+            },
+            "targeting": {
+                "keywords": [
+                    "franquia ",
+                    "franquia lucrativa",
+                    "investir em franquia",
+                    "abrir negócio"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "devices": [
+                    "mobile",
+                    "desktop"
+                ],
+                "exclusions": [
+                    "empregos",
+                    "gratuito",
+                    "falência",
+                    "problemas",
+                    "reclamações"
+                ]
+            },
+            "content_ids": [
+                "content-1746221410-9356",
+                "content-1746221410-8949",
+                "content-1746221410-8211"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "EduKids",
+            "platform": "linkedin",
+            "campaign_id": "lin-1746221411-3172",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:11",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 44.5,
+                "total": 1151.36
+            },
+            "targeting": {
+                "job_titles": [
+                    "empresário",
+                    "empreendedor",
+                    "investidor",
+                    "gestor"
+                ],
+                "industries": [
+                    "varejo"
+                ],
+                "company_sizes": [
+                    "1-10",
+                    "11-50",
+                    "51-200"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ]
+            },
+            "content_ids": [
+                "content-1746221411-8435",
+                "content-1746221411-4749",
+                "content-1746221411-6829",
+                "content-1746221411-4689",
+                "content-1746221411-5942",
+                "content-1746221411-7014"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "EduKids",
+            "platform": "email",
+            "campaign_id": "ema-1746221412-8818",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:12",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 35.79,
+                "total": 843.0
+            },
+            "targeting": {
+                "segments": [
+                    "leads_novos",
+                    "leads_quentes",
+                    "clientes_potenciais"
+                ],
+                "interests": [
+                    "franquias"
+                ],
+                "engagement_level": [
+                    "médio",
+                    "alto"
+                ]
+            },
+            "content_ids": [
+                "content-1746221412-6875",
+                "content-1746221412-6883",
+                "content-1746221412-4709"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "FitLife Gym",
+            "platform": "facebook",
+            "campaign_id": "fac-1746221413-9218",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:13",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 49.7,
+                "total": 1119.14
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221413-7864",
+                "content-1746221413-3405",
+                "content-1746221413-5178",
+                "content-1746221413-7428",
+                "content-1746221413-9994",
+                "content-1746221413-9790"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "FitLife Gym",
+            "platform": "instagram",
+            "campaign_id": "ins-1746221414-5956",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:14",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 17.49,
+                "total": 838.95
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221414-6430",
+                "content-1746221414-1276",
+                "content-1746221414-9576",
+                "content-1746221414-8692",
+                "content-1746221414-3820"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "FitLife Gym",
+            "platform": "google",
+            "campaign_id": "goo-1746221415-3125",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:15",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 31.88,
+                "total": 1323.74
+            },
+            "targeting": {
+                "keywords": [
+                    "franquia ",
+                    "franquia lucrativa",
+                    "investir em franquia",
+                    "abrir negócio"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "devices": [
+                    "mobile",
+                    "desktop"
+                ],
+                "exclusions": [
+                    "empregos",
+                    "gratuito",
+                    "falência",
+                    "problemas",
+                    "reclamações"
+                ]
+            },
+            "content_ids": [
+                "content-1746221415-6493",
+                "content-1746221415-3401",
+                "content-1746221415-3397",
+                "content-1746221415-3169",
+                "content-1746221415-2610",
+                "content-1746221415-6189",
+                "content-1746221415-6708"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "FitLife Gym",
+            "platform": "linkedin",
+            "campaign_id": "lin-1746221415-3757",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:15",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 19.53,
+                "total": 722.2
+            },
+            "targeting": {
+                "job_titles": [
+                    "empresário",
+                    "empreendedor",
+                    "investidor",
+                    "gestor"
+                ],
+                "industries": [
+                    "varejo"
+                ],
+                "company_sizes": [
+                    "1-10",
+                    "11-50",
+                    "51-200"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ]
+            },
+            "content_ids": [
+                "content-1746221415-2392",
+                "content-1746221415-4289",
+                "content-1746221415-5072",
+                "content-1746221415-1376"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "FitLife Gym",
+            "platform": "email",
+            "campaign_id": "ema-1746221417-3021",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:17",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 16.2,
+                "total": 437.9
+            },
+            "targeting": {
+                "segments": [
+                    "leads_novos",
+                    "leads_quentes",
+                    "clientes_potenciais"
+                ],
+                "interests": [
+                    "franquias"
+                ],
+                "engagement_level": [
+                    "médio",
+                    "alto"
+                ]
+            },
+            "content_ids": [
+                "content-1746221417-3491",
+                "content-1746221417-9813",
+                "content-1746221417-3035",
+                "content-1746221417-3481"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "GreenMarket",
+            "platform": "facebook",
+            "campaign_id": "fac-1746221417-4346",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:17",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 27.81,
+                "total": 323.7
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221417-5048",
+                "content-1746221417-8400",
+                "content-1746221417-4961"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "GreenMarket",
+            "platform": "instagram",
+            "campaign_id": "ins-1746221418-8702",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:18",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 36.63,
+                "total": 1381.07
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221418-2440",
+                "content-1746221418-9659",
+                "content-1746221418-5310",
+                "content-1746221418-7481",
+                "content-1746221418-8886",
+                "content-1746221418-2256"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "GreenMarket",
+            "platform": "google",
+            "campaign_id": "goo-1746221419-5871",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:19",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 44.08,
+                "total": 1167.74
+            },
+            "targeting": {
+                "keywords": [
+                    "franquia ",
+                    "franquia lucrativa",
+                    "investir em franquia",
+                    "abrir negócio"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "devices": [
+                    "mobile",
+                    "desktop"
+                ],
+                "exclusions": [
+                    "empregos",
+                    "gratuito",
+                    "falência",
+                    "problemas",
+                    "reclamações"
+                ]
+            },
+            "content_ids": [
+                "content-1746221419-8426",
+                "content-1746221419-2609",
+                "content-1746221419-9506",
+                "content-1746221419-2235",
+                "content-1746221419-6891",
+                "content-1746221419-4015",
+                "content-1746221419-6673",
+                "content-1746221419-2689"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "GreenMarket",
+            "platform": "linkedin",
+            "campaign_id": "lin-1746221420-9230",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:20",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 47.57,
+                "total": 1489.79
+            },
+            "targeting": {
+                "job_titles": [
+                    "empresário",
+                    "empreendedor",
+                    "investidor",
+                    "gestor"
+                ],
+                "industries": [
+                    "varejo"
+                ],
+                "company_sizes": [
+                    "1-10",
+                    "11-50",
+                    "51-200"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ]
+            },
+            "content_ids": [
+                "content-1746221420-9339",
+                "content-1746221420-8842",
+                "content-1746221420-2336",
+                "content-1746221420-4804"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "GreenMarket",
+            "platform": "email",
+            "campaign_id": "ema-1746221421-4189",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:21",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 43.87,
+                "total": 543.64
+            },
+            "targeting": {
+                "segments": [
+                    "leads_novos",
+                    "leads_quentes",
+                    "clientes_potenciais"
+                ],
+                "interests": [
+                    "franquias"
+                ],
+                "engagement_level": [
+                    "médio",
+                    "alto"
+                ]
+            },
+            "content_ids": [
+                "content-1746221421-7849",
+                "content-1746221421-5930",
+                "content-1746221421-3763",
+                "content-1746221421-6080",
+                "content-1746221421-4147",
+                "content-1746221421-8224",
+                "content-1746221421-4654"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "BookCorner",
+            "platform": "facebook",
+            "campaign_id": "fac-1746221422-3262",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:22",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 36.45,
+                "total": 1330.32
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221422-7276",
+                "content-1746221422-5468",
+                "content-1746221422-2485"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "BookCorner",
+            "platform": "instagram",
+            "campaign_id": "ins-1746221423-5596",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:23",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 43.23,
+                "total": 660.84
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221423-8523",
+                "content-1746221423-8889",
+                "content-1746221423-4555",
+                "content-1746221423-4709",
+                "content-1746221423-1404",
+                "content-1746221423-6319",
+                "content-1746221423-4501",
+                "content-1746221423-9783"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "BookCorner",
+            "platform": "google",
+            "campaign_id": "goo-1746221424-2709",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:24",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 49.08,
+                "total": 1149.1
+            },
+            "targeting": {
+                "keywords": [
+                    "franquia ",
+                    "franquia lucrativa",
+                    "investir em franquia",
+                    "abrir negócio"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "devices": [
+                    "mobile",
+                    "desktop"
+                ],
+                "exclusions": [
+                    "empregos",
+                    "gratuito",
+                    "falência",
+                    "problemas",
+                    "reclamações"
+                ]
+            },
+            "content_ids": [
+                "content-1746221424-8996",
+                "content-1746221424-5155",
+                "content-1746221424-8642"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "BookCorner",
+            "platform": "linkedin",
+            "campaign_id": "lin-1746221425-6509",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:25",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 32.1,
+                "total": 1199.98
+            },
+            "targeting": {
+                "job_titles": [
+                    "empresário",
+                    "empreendedor",
+                    "investidor",
+                    "gestor"
+                ],
+                "industries": [
+                    "varejo"
+                ],
+                "company_sizes": [
+                    "1-10",
+                    "11-50",
+                    "51-200"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ]
+            },
+            "content_ids": [
+                "content-1746221425-3877",
+                "content-1746221425-6666",
+                "content-1746221425-7538",
+                "content-1746221425-4830"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "BookCorner",
+            "platform": "email",
+            "campaign_id": "ema-1746221425-9286",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:25",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 11.01,
+                "total": 1357.53
+            },
+            "targeting": {
+                "segments": [
+                    "leads_novos",
+                    "leads_quentes",
+                    "clientes_potenciais"
+                ],
+                "interests": [
+                    "franquias"
+                ],
+                "engagement_level": [
+                    "médio",
+                    "alto"
+                ]
+            },
+            "content_ids": [
+                "content-1746221425-5133",
+                "content-1746221425-3064",
+                "content-1746221425-4288"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "FashionStore",
+            "platform": "facebook",
+            "campaign_id": "fac-1746221426-6410",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:26",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 16.42,
+                "total": 1358.05
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221426-9631",
+                "content-1746221426-5112",
+                "content-1746221426-1222"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "FashionStore",
+            "platform": "instagram",
+            "campaign_id": "ins-1746221428-4346",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:28",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 11.66,
+                "total": 884.98
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221428-8124",
+                "content-1746221428-8590",
+                "content-1746221428-1868",
+                "content-1746221428-1198"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "FashionStore",
+            "platform": "google",
+            "campaign_id": "goo-1746221428-1678",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:28",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 19.67,
+                "total": 982.14
+            },
+            "targeting": {
+                "keywords": [
+                    "franquia ",
+                    "franquia lucrativa",
+                    "investir em franquia",
+                    "abrir negócio"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "devices": [
+                    "mobile",
+                    "desktop"
+                ],
+                "exclusions": [
+                    "empregos",
+                    "gratuito",
+                    "falência",
+                    "problemas",
+                    "reclamações"
+                ]
+            },
+            "content_ids": [
+                "content-1746221428-7750",
+                "content-1746221428-1699",
+                "content-1746221428-1054",
+                "content-1746221428-2581"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "FashionStore",
+            "platform": "linkedin",
+            "campaign_id": "lin-1746221429-8639",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:29",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 11.66,
+                "total": 1069.54
+            },
+            "targeting": {
+                "job_titles": [
+                    "empresário",
+                    "empreendedor",
+                    "investidor",
+                    "gestor"
+                ],
+                "industries": [
+                    "varejo"
+                ],
+                "company_sizes": [
+                    "1-10",
+                    "11-50",
+                    "51-200"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ]
+            },
+            "content_ids": [
+                "content-1746221429-2970",
+                "content-1746221429-4190",
+                "content-1746221429-8903",
+                "content-1746221429-7875"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "FashionStore",
+            "platform": "email",
+            "campaign_id": "ema-1746221430-1198",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:30",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 13.02,
+                "total": 801.34
+            },
+            "targeting": {
+                "segments": [
+                    "leads_novos",
+                    "leads_quentes",
+                    "clientes_potenciais"
+                ],
+                "interests": [
+                    "franquias"
+                ],
+                "engagement_level": [
+                    "médio",
+                    "alto"
+                ]
+            },
+            "content_ids": [
+                "content-1746221430-2370",
+                "content-1746221430-1874",
+                "content-1746221430-6405",
+                "content-1746221430-9259"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "Beauty Spot",
+            "platform": "facebook",
+            "campaign_id": "fac-1746221431-1292",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:31",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 17.86,
+                "total": 399.09
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221431-2771",
+                "content-1746221431-5021",
+                "content-1746221431-8114",
+                "content-1746221431-1827",
+                "content-1746221431-9121",
+                "content-1746221431-3253",
+                "content-1746221431-1739",
+                "content-1746221431-6268"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "Beauty Spot",
+            "platform": "instagram",
+            "campaign_id": "ins-1746221432-5912",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:32",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 32.62,
+                "total": 343.16
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221432-4590",
+                "content-1746221432-1406",
+                "content-1746221432-7819",
+                "content-1746221432-6366",
+                "content-1746221432-9770"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "Beauty Spot",
+            "platform": "google",
+            "campaign_id": "goo-1746221433-1020",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:33",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 41.3,
+                "total": 1021.09
+            },
+            "targeting": {
+                "keywords": [
+                    "franquia ",
+                    "franquia lucrativa",
+                    "investir em franquia",
+                    "abrir negócio"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "devices": [
+                    "mobile",
+                    "desktop"
+                ],
+                "exclusions": [
+                    "empregos",
+                    "gratuito",
+                    "falência",
+                    "problemas",
+                    "reclamações"
+                ]
+            },
+            "content_ids": [
+                "content-1746221433-9304",
+                "content-1746221433-5095",
+                "content-1746221433-8079",
+                "content-1746221433-4074",
+                "content-1746221433-5205",
+                "content-1746221433-1120"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "Beauty Spot",
+            "platform": "linkedin",
+            "campaign_id": "lin-1746221434-2407",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:34",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 14.38,
+                "total": 1411.05
+            },
+            "targeting": {
+                "job_titles": [
+                    "empresário",
+                    "empreendedor",
+                    "investidor",
+                    "gestor"
+                ],
+                "industries": [
+                    "varejo"
+                ],
+                "company_sizes": [
+                    "1-10",
+                    "11-50",
+                    "51-200"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ]
+            },
+            "content_ids": [
+                "content-1746221434-5316",
+                "content-1746221434-4582",
+                "content-1746221434-8642",
+                "content-1746221434-4939"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "Beauty Spot",
+            "platform": "email",
+            "campaign_id": "ema-1746221435-9198",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:35",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 36.72,
+                "total": 1421.26
+            },
+            "targeting": {
+                "segments": [
+                    "leads_novos",
+                    "leads_quentes",
+                    "clientes_potenciais"
+                ],
+                "interests": [
+                    "franquias"
+                ],
+                "engagement_level": [
+                    "médio",
+                    "alto"
+                ]
+            },
+            "content_ids": [
+                "content-1746221435-3886",
+                "content-1746221435-2187",
+                "content-1746221435-1607",
+                "content-1746221435-5272",
+                "content-1746221435-7938",
+                "content-1746221435-2972",
+                "content-1746221435-5898",
+                "content-1746221435-2585"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "TechFix",
+            "platform": "facebook",
+            "campaign_id": "fac-1746221436-6696",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:36",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 18.93,
+                "total": 1227.88
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221436-6239",
+                "content-1746221436-4376",
+                "content-1746221436-4257",
+                "content-1746221436-3382",
+                "content-1746221436-1746",
+                "content-1746221436-9923",
+                "content-1746221436-5941"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "TechFix",
+            "platform": "instagram",
+            "campaign_id": "ins-1746221437-7021",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:37",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 39.86,
+                "total": 873.52
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221437-6127",
+                "content-1746221437-5054",
+                "content-1746221437-5435"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "TechFix",
+            "platform": "google",
+            "campaign_id": "goo-1746221438-4792",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:38",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 18.42,
+                "total": 851.72
+            },
+            "targeting": {
+                "keywords": [
+                    "franquia ",
+                    "franquia lucrativa",
+                    "investir em franquia",
+                    "abrir negócio"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "devices": [
+                    "mobile",
+                    "desktop"
+                ],
+                "exclusions": [
+                    "empregos",
+                    "gratuito",
+                    "falência",
+                    "problemas",
+                    "reclamações"
+                ]
+            },
+            "content_ids": [
+                "content-1746221438-8255",
+                "content-1746221438-9685",
+                "content-1746221438-4476",
+                "content-1746221438-9694",
+                "content-1746221438-1488",
+                "content-1746221438-9893",
+                "content-1746221438-3944"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "TechFix",
+            "platform": "linkedin",
+            "campaign_id": "lin-1746221439-5407",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:39",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 48.61,
+                "total": 1215.73
+            },
+            "targeting": {
+                "job_titles": [
+                    "empresário",
+                    "empreendedor",
+                    "investidor",
+                    "gestor"
+                ],
+                "industries": [
+                    "varejo"
+                ],
+                "company_sizes": [
+                    "1-10",
+                    "11-50",
+                    "51-200"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ]
+            },
+            "content_ids": [
+                "content-1746221439-3866",
+                "content-1746221439-7523",
+                "content-1746221439-7079",
+                "content-1746221439-8632",
+                "content-1746221439-4580",
+                "content-1746221439-7524"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "TechFix",
+            "platform": "email",
+            "campaign_id": "ema-1746221441-5192",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:41",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 27.96,
+                "total": 1140.44
+            },
+            "targeting": {
+                "segments": [
+                    "leads_novos",
+                    "leads_quentes",
+                    "clientes_potenciais"
+                ],
+                "interests": [
+                    "franquias"
+                ],
+                "engagement_level": [
+                    "médio",
+                    "alto"
+                ]
+            },
+            "content_ids": [
+                "content-1746221441-2780",
+                "content-1746221441-5214",
+                "content-1746221441-7360",
+                "content-1746221441-1678",
+                "content-1746221441-8898",
+                "content-1746221441-1284"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "GourmetBurger",
+            "platform": "facebook",
+            "campaign_id": "fac-1746221442-3416",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:42",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 31.0,
+                "total": 1054.34
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221442-6064",
+                "content-1746221442-8130",
+                "content-1746221442-8412",
+                "content-1746221442-6886",
+                "content-1746221442-5571",
+                "content-1746221442-2990",
+                "content-1746221442-3910"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "GourmetBurger",
+            "platform": "instagram",
+            "campaign_id": "ins-1746221442-9316",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:42",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 14.57,
+                "total": 472.98
+            },
+            "targeting": {
+                "age_range": "25-55",
+                "gender": "all",
+                "interests": [
+                    "empreendedorismo",
+                    "negócios",
+                    "franquias",
+                    "investimentos"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ],
+                "detailed_targeting": "interessados em franquias"
+            },
+            "content_ids": [
+                "content-1746221442-4220",
+                "content-1746221442-3114",
+                "content-1746221442-2993"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "GourmetBurger",
+            "platform": "google",
+            "campaign_id": "goo-1746221443-1318",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:43",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 18.56,
+                "total": 647.56
+            },
+            "targeting": {
+                "keywords": [
+                    "franquia ",
+                    "franquia lucrativa",
+                    "investir em franquia",
+                    "abrir negócio"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "devices": [
+                    "mobile",
+                    "desktop"
+                ],
+                "exclusions": [
+                    "empregos",
+                    "gratuito",
+                    "falência",
+                    "problemas",
+                    "reclamações"
+                ]
+            },
+            "content_ids": [
+                "content-1746221443-8002",
+                "content-1746221443-5486",
+                "content-1746221443-6346",
+                "content-1746221443-7014",
+                "content-1746221443-7130"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "GourmetBurger",
+            "platform": "linkedin",
+            "campaign_id": "lin-1746221444-8167",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:44",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 44.82,
+                "total": 704.83
+            },
+            "targeting": {
+                "job_titles": [
+                    "empresário",
+                    "empreendedor",
+                    "investidor",
+                    "gestor"
+                ],
+                "industries": [
+                    "varejo"
+                ],
+                "company_sizes": [
+                    "1-10",
+                    "11-50",
+                    "51-200"
+                ],
+                "locations": [
+                    "Brasil"
+                ],
+                "languages": [
+                    "pt"
+                ]
+            },
+            "content_ids": [
+                "content-1746221444-3033",
+                "content-1746221444-7260",
+                "content-1746221444-5064",
+                "content-1746221444-6619",
+                "content-1746221444-6056"
+            ],
+            "test_mode": true
+        },
+        {
+            "opportunity": "GourmetBurger",
+            "platform": "email",
+            "campaign_id": "ema-1746221446-9458",
+            "status": "scheduled",
+            "created_at": "2025-05-02 18:30:46",
+            "schedule": {
+                "start_date": "2025-05-02",
+                "end_date": "2025-06-01"
+            },
+            "budget": {
+                "daily": 46.15,
+                "total": 1200.77
+            },
+            "targeting": {
+                "segments": [
+                    "leads_novos",
+                    "leads_quentes",
+                    "clientes_potenciais"
+                ],
+                "interests": [
+                    "franquias"
+                ],
+                "engagement_level": [
+                    "médio",
+                    "alto"
+                ]
+            },
+            "content_ids": [
+                "content-1746221446-5542",
+                "content-1746221446-8099",
+                "content-1746221446-6548",
+                "content-1746221446-8159",
+                "content-1746221446-6747",
+                "content-1746221446-9990",
+                "content-1746221446-3771"
+            ],
+            "test_mode": true
+        }
+    ]
+}

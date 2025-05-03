@@ -1,0 +1,10 @@
+2025-04-28 11:48:27,908 - sales_data_collector - INFO - Inicializado com 3 fontes configuradas
+2025-04-28 11:48:27,909 - sales_data_collector - INFO - Coletando dados de vendas de marketplace_api
+2025-04-28 11:48:27,911 - sales_data_collector - INFO - API key para marketplace não configurada, usando dados simulados
+2025-04-28 11:48:28,385 - sales_data_collector - INFO - Coletados 8100 registros de vendas de marketplace_api
+2025-04-28 11:48:30,388 - sales_data_collector - INFO - Coletando dados de vendas de affiliate_networks
+2025-04-28 11:48:30,607 - sales_data_collector - INFO - Coletados 4246 registros de vendas de affiliate_networks
+2025-04-28 11:48:32,610 - sales_data_collector - INFO - Coletando dados de vendas de ecommerce
+2025-04-28 11:48:33,019 - sales_data_collector - INFO - Coletados 4013 registros de vendas de ecommerce
+2025-04-28 11:48:36,715 - sales_data_collector - INFO - Total de dados de vendas relevantes: 15556
+2025-04-28 11:48:37,557 - sales_data_collector - INFO - Dados salvos em output/data/sales_data.csv

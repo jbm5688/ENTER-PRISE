@@ -1,0 +1,1917 @@
+[
+  {
+    "opportunity": "PetFood Express",
+    "creatives": {
+      "facebook_ads": {
+        "feed_ads": [
+          {
+            "headline": "Liberdade financeira é possível com a fr",
+            "description": "Mais de 276 empreendedores já alcançaram o sucesso com a PetFood Express. Invista a partir de R$ 90,960,98 e transforme se...",
+            "cta": "Quero ser franqueado",
+            "url": "https://www.petfoodexpress.com.br/franqueado",
+            "image_specs": {
+              "width": 1200,
+              "height": 628
+            },
+            "recommended_elements": [
+              "Imagem de uma unidade da franquia com clientes",
+              "Logo da franquia no canto inferior direito",
+              "Texto na imagem limitado a 20% da área total"
+            ]
+          },
+          {
+            "headline": "Conquiste seu futuro financeiro com a fr",
+            "description": "O mercado de Pet Shop não para de crescer. A PetFood Express oferece suporte completo com um modelo de negócio comprovado....",
+            "cta": "Ver oportunidades",
+            "url": "https://www.petfoodexpress.com.br/franqueado",
+            "image_specs": {
+              "width": 1200,
+              "height": 628
+            },
+            "recommended_elements": [
+              "Imagem de uma unidade da franquia com clientes",
+              "Logo da franquia no canto inferior direito",
+              "Texto na imagem limitado a 20% da área total"
+            ]
+          }
+        ],
+        "stories_ads": [
+          {
+            "headline": "Liberdade financeira é possíve",
+            "cta": "Saiba mais",
+            "url": "https://www.petfoodexpress.com.br/franqueado",
+            "image_specs": {
+              "width": 1080,
+              "height": 1920
+            },
+            "recommended_elements": [
+              "Imagem do franqueado em sua unidade",
+              "Logo da franquia no topo",
+              "Título em destaque no centro",
+              "CTA na parte inferior"
+            ]
+          }
+        ]
+      },
+      "instagram_ads": {
+        "feed_ads": [
+          {
+            "caption": "Mais de 276 empreendedores já alcançaram o sucesso com a PetFood Express. Invista a partir de R$ 90,960,98 e transforme seu futuro.\n\n#SejaFranqueado #FranquiaPetFoodExpress #Empreendedorismo #NegócioPróprio #Franquia #Investimento",
+            "url": "https://www.petfoodexpress.com.br/franqueado",
+            "image_specs": {
+              "width": 1080,
+              "height": 1080
+            },
+            "recommended_elements": [
+              "Imagem quadrada de alta qualidade mostrando o ambiente da franquia",
+              "Texto sobreposto mínimo ou nenhum",
+              "Cores vibrantes e atraentes"
+            ]
+          },
+          {
+            "caption": "O mercado de Pet Shop não para de crescer. A PetFood Express oferece suporte completo com um modelo de negócio comprovado. Comece agora!\n\n#SejaFranqueado #FranquiaPetFoodExpress #Empreendedorismo #NegócioPróprio #Franquia #Investimento",
+            "url": "https://www.petfoodexpress.com.br/franqueado",
+            "image_specs": {
+              "width": 1080,
+              "height": 1080
+            },
+            "recommended_elements": [
+              "Imagem quadrada de alta qualidade mostrando o ambiente da franquia",
+              "Texto sobreposto mínimo ou nenhum",
+              "Cores vibrantes e atraentes"
+            ]
+          }
+        ],
+        "stories_ads": [
+          {
+            "headline": "Liberdade financeira é possíve",
+            "cta": "Deslize para cima",
+            "url": "https://www.petfoodexpress.com.br/franqueado",
+            "image_specs": {
+              "width": 1080,
+              "height": 1920
+            },
+            "recommended_elements": [
+              "Imagem vertical com apelo visual forte",
+              "Logo da franquia no topo",
+              "Título em destaque no centro",
+              "CTA claro na parte inferior",
+              "Elementos interativos como enquetes ou perguntas"
+            ]
+          }
+        ],
+        "reels_ads": [
+          {
+            "caption": "Invista no seu futuro com a franquia! 🚀 #SejaFranqueado #FranquiaPetFoodExpress #Empreendedorismo #NegócioPróprio #Franquia #Investimento",
+            "script": "\n[ABERTURA - 3s]\nLogo da PetFood Express com slogan.\n\n[NARRAÇÃO - 5s]\n\"O mercado de Pet Shop está em expansão. Você está pronto para aproveitar essa oportunidade?\"\n\n[CENA 1 - 7s]\nMostrar unidades da franquia em operação, clientes satisfeitos.\n\"A PetFood Express é líder no segmento, com modelo de negócio validado e suporte completo.\"\n\n[CENA 2 - 7s]\nMostrar números de crescimento e resultados.\n\"Investimento a partir de R$ 90,960,98, com retorno em apenas 242 meses.\"\n\n[CENA 3 - 5s]\nMostrar equipe de suporte e treinamento.\n\"Você não estará sozinho. Nossa equipe te acompanha em cada passo.\"\n\n[FECHAMENTO - 3s]\n\"Seja parte do sucesso. PetFood Express - seu futuro começa aqui.\"\n[MOSTRAR SITE E TELEFONE]\n                ",
+            "video_specs": {
+              "width": 1080,
+              "height": 1920,
+              "max_duration": 60
+            },
+            "recommended_elements": [
+              "Vídeo vertical com ritmo dinâmico",
+              "Música de fundo envolvente",
+              "Textos sobrepostos com informações-chave",
+              "Call to action claro ao final",
+              "Participação de franqueados reais"
+            ]
+          }
+        ]
+      },
+      "google_ads": {
+        "search_ads": [
+          {
+            "headlines": [
+              "Liberdade financeira é possíve",
+              "Franquia a partir de R$  90,960,98 e transforme seu futuro",
+              "Invista em um negócio lucrativo"
+            ],
+            "descriptions": [
+              "Mais de 276 empreendedores já alcançaram o sucesso com a PetFood Express. Invista a par...",
+              "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+            ],
+            "final_url": "https://www.petfoodexpress.com.br/franqueado",
+            "cta": "Fale conosco",
+            "recommended_keywords": [
+              "franquia",
+              "investir em franquia",
+              "abrir franquia",
+              "franquia lucrativa",
+              "oportunidade de negócio",
+              "empreender",
+              "franquia de sucesso"
+            ]
+          },
+          {
+            "headlines": [
+              "Conquiste seu futuro financeir",
+              "Franquia a partir de R$ 100 mil",
+              "Invista em um negócio lucrativo"
+            ],
+            "descriptions": [
+              "O mercado de Pet Shop não para de crescer. A PetFood Express oferece suporte completo c...",
+              "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+            ],
+            "final_url": "https://www.petfoodexpress.com.br/franqueado",
+            "cta": "Fale conosco",
+            "recommended_keywords": [
+              "franquia",
+              "investir em franquia",
+              "abrir franquia",
+              "franquia lucrativa",
+              "oportunidade de negócio",
+              "empreender",
+              "franquia de sucesso"
+            ]
+          },
+          {
+            "headlines": [
+              "Seu próximo negócio de sucesso",
+              "Franquia a partir de R$ 100 mil",
+              "Invista em um negócio lucrativo"
+            ],
+            "descriptions": [
+              "Suporte completo, treinamento especializado e marca reconhecida. Tudo isso com a franqu...",
+              "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+            ],
+            "final_url": "https://www.petfoodexpress.com.br/franqueado",
+            "cta": "Inscreva-se",
+            "recommended_keywords": [
+              "franquia",
+              "investir em franquia",
+              "abrir franquia",
+              "franquia lucrativa",
+              "oportunidade de negócio",
+              "empreender",
+              "franquia de sucesso"
+            ]
+          },
+          {
+            "headlines": [
+              "Conquiste seu futuro financeir",
+              "Franquia a partir de R$  90,960,98",
+              "Invista em um negócio lucrativo"
+            ],
+            "descriptions": [
+              "Investimento a partir de R$ 90,960,98. Retorno em apenas 242 meses. Seja parte da rede ...",
+              "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+            ],
+            "final_url": "https://www.petfoodexpress.com.br/franqueado",
+            "cta": "Inscreva-se",
+            "recommended_keywords": [
+              "franquia",
+              "investir em franquia",
+              "abrir franquia",
+              "franquia lucrativa",
+              "oportunidade de negócio",
+              "empreender",
+              "franquia de sucesso"
+            ]
+          }
+        ],
+        "display_ads": [
+          {
+            "headline": "Liberdade financeira é po",
+            "description": "Mais de 276 empreendedores já alcançaram o sucesso com a PetFood Express. Invista a partir",
+            "business_name": "Liberdade",
+            "final_url": "https://www.petfoodexpress.com.br/franqueado",
+            "cta": "Saiba mais",
+            "image_sizes": [
+              {
+                "width": 300,
+                "height": 250
+              },
+              {
+                "width": 728,
+                "height": 90
+              },
+              {
+                "width": 160,
+                "height": 600
+              }
+            ],
+            "recommended_elements": [
+              "Logo da franquia em todas as variações",
+              "Imagens consistentes entre os diferentes tamanhos",
+              "Cores contrastantes para destaque",
+              "Texto conciso e direto",
+              "CTA visível e atraente"
+            ]
+          },
+          {
+            "headline": "Conquiste seu futuro fina",
+            "description": "O mercado de Pet Shop não para de crescer. A PetFood Express oferece suporte completo com ",
+            "business_name": "Conquiste",
+            "final_url": "https://www.petfoodexpress.com.br/franqueado",
+            "cta": "Inscreva-se",
+            "image_sizes": [
+              {
+                "width": 300,
+                "height": 250
+              },
+              {
+                "width": 728,
+                "height": 90
+              },
+              {
+                "width": 160,
+                "height": 600
+              }
+            ],
+            "recommended_elements": [
+              "Logo da franquia em todas as variações",
+              "Imagens consistentes entre os diferentes tamanhos",
+              "Cores contrastantes para destaque",
+              "Texto conciso e direto",
+              "CTA visível e atraente"
+            ]
+          }
+        ]
+      },
+      "linkedin_ads": {
+        "feed_ads": [
+          {
+            "headline": "Liberdade financeira é possível com a franquia PetFood Express",
+            "description": "Mais de 276 empreendedores já alcançaram o sucesso com a PetFood Express. Invista a partir de R$ 90,960,98 e transforme seu futuro.",
+            "cta": "Saiba mais",
+            "url": "https://www.petfoodexpress.com.br/franqueado",
+            "image_specs": {
+              "width": 1200,
+              "height": 627
+            },
+            "recommended_elements": [
+              "Imagem profissional e corporativa",
+              "Pessoas em ambiente de negócios",
+              "Layout limpo e minimalista",
+              "Cores corporativas"
+            ]
+          },
+          {
+            "headline": "Conquiste seu futuro financeiro com a franquia PetFood Express",
+            "description": "O mercado de Pet Shop não para de crescer. A PetFood Express oferece suporte completo com um modelo de negócio comprovado. Comece agora!",
+            "cta": "Saiba mais",
+            "url": "https://www.petfoodexpress.com.br/franqueado",
+            "image_specs": {
+              "width": 1200,
+              "height": 627
+            },
+            "recommended_elements": [
+              "Imagem profissional e corporativa",
+              "Pessoas em ambiente de negócios",
+              "Layout limpo e minimalista",
+              "Cores corporativas"
+            ]
+          }
+        ],
+        "recommended_targeting": {
+          "job_titles": [
+            "Empreendedor",
+            "Empresário",
+            "Gerente",
+            "Diretor",
+            "Executivo",
+            "Consultor",
+            "Profissional Autônomo"
+          ],
+          "job_functions": [
+            "Vendas",
+            "Marketing",
+            "Finanças",
+            "Administração",
+            "Operações"
+          ],
+          "industries": [
+            "Serviços Empresariais",
+            "Varejo",
+            "Serviços Financeiros",
+            "Tecnologia",
+            "Saúde"
+          ],
+          "interests": [
+            "Empreendedorismo",
+            "Pequenas e Médias Empresas",
+            "Franquias",
+            "Investimentos",
+            "Negócios"
+          ]
+        }
+      },
+      "social_media_content": {
+        "instagram": [
+          {
+            "caption": "Cansado de trabalhar para realizar o sonho de outra pessoa? 🤔 A franquia PetFood Express é sua chance de empreender com segurança no setor de Pet Shop! Investimento a partir de R$ 90,960,98. #SejaFranqueado #FranquiaPetFoodExpress #Empreendedorismo #NegócioPróprio #Franquia #Investimento",
+            "image_recommendation": "Imagem de uma unidade da franquia PetFood Express em operação, com clientes.",
+            "hashtags": [
+              "#SejaFranqueado",
+              "#FranquiaPetFoodExpress",
+              "#Empreendedorismo",
+              "#NegócioPróprio",
+              "#Franquia",
+              "#Investimento"
+            ],
+            "cta": "Link na bio",
+            "best_posting_time": "Entre 12h e 15h ou 19h e 21h"
+          },
+          {
+            "caption": "Em comemoração ao Dia do Empreendedor, a franquia PetFood Express tem condições especiais para novos franqueados! 🎉 Investimento facilitado e bônus exclusivos para quem fechar até o final da campanha. Essa é sua chance de entrar no mercado de Pet Shop com uma marca reconhecida. #FranquiaPetFoodExpress #DiadoEmpreendedor",
+            "image_recommendation": "Imagem da franquia",
+            "hashtags": [
+              "#FranquiaPetFoodExpress",
+              "#DiadoEmpreendedor"
+            ],
+            "cta": "Link na bio",
+            "best_posting_time": "Entre 12h e 15h ou 19h e 21h"
+          },
+          {
+            "caption": "Em comemoração ao Black Friday, a franquia PetFood Express tem condições especiais para novos franqueados! 🎉 Investimento facilitado e bônus exclusivos para quem fechar até o final da campanha. Essa é sua chance de entrar no mercado de Pet Shop com uma marca reconhecida. #FranquiaPetFoodExpress #BlackFriday",
+            "image_recommendation": "Imagem da franquia",
+            "hashtags": [
+              "#FranquiaPetFoodExpress",
+              "#BlackFriday"
+            ],
+            "cta": "Link na bio",
+            "best_posting_time": "Entre 12h e 15h ou 19h e 21h"
+          },
+          {
+            "caption": "Em comemoração ao Fim de Ano, a franquia PetFood Express tem condições especiais para novos franqueados! 🎉 Investimento facilitado e bônus exclusivos para quem fechar até o final da campanha. Essa é sua chance de entrar no mercado de Pet Shop com uma marca reconhecida. #FranquiaPetFoodExpress #FimdeAno",
+            "image_recommendation": "Imagem da franquia",
+            "hashtags": [
+              "#FranquiaPetFoodExpress",
+              "#FimdeAno"
+            ],
+            "cta": "Link na bio",
+            "best_posting_time": "Entre 12h e 15h ou 19h e 21h"
+          }
+        ],
+        "facebook": [
+          {
+            "text": "Cansado de trabalhar para realizar o sonho de outra pessoa? 🤔 A franquia PetFood Express é sua chance de empreender com segurança no setor de Pet Shop! Investimento a partir de R$ 90,960,98. #SejaFranqueado #FranquiaPetFoodExpress #EmpreendaComSegurança #FranquiaDeSucesso",
+            "image_recommendation": "Imagem de uma unidade da franquia PetFood Express em operação, com clientes.",
+            "cta": "Saiba mais",
+            "url": "https://www.petfoodexpress.com.br/franqueado",
+            "best_posting_time": "Entre 13h e 16h"
+          },
+          {
+            "text": "Em comemoração ao Dia do Empreendedor, a franquia PetFood Express tem condições especiais para novos franqueados! 🎉 Investimento facilitado e bônus exclusivos para quem fechar até o final da campanha. Essa é sua chance de entrar no mercado de Pet Shop com uma marca reconhecida. #FranquiaPetFoodExpress #DiadoEmpreendedor",
+            "image_recommendation": "Imagem da franquia",
+            "cta": "Saiba mais",
+            "url": "https://www.example.com",
+            "best_posting_time": "Entre 13h e 16h"
+          },
+          {
+            "text": "Em comemoração ao Black Friday, a franquia PetFood Express tem condições especiais para novos franqueados! 🎉 Investimento facilitado e bônus exclusivos para quem fechar até o final da campanha. Essa é sua chance de entrar no mercado de Pet Shop com uma marca reconhecida. #FranquiaPetFoodExpress #BlackFriday",
+            "image_recommendation": "Imagem da franquia",
+            "cta": "Saiba mais",
+            "url": "https://www.example.com",
+            "best_posting_time": "Entre 13h e 16h"
+          },
+          {
+            "text": "Em comemoração ao Fim de Ano, a franquia PetFood Express tem condições especiais para novos franqueados! 🎉 Investimento facilitado e bônus exclusivos para quem fechar até o final da campanha. Essa é sua chance de entrar no mercado de Pet Shop com uma marca reconhecida. #FranquiaPetFoodExpress #FimdeAno",
+            "image_recommendation": "Imagem da franquia",
+            "cta": "Saiba mais",
+            "url": "https://www.example.com",
+            "best_posting_time": "Entre 13h e 16h"
+          }
+        ],
+        "linkedin": [
+          {
+            "text": "O mercado de Pet Shop cresce 37% ao ano! A franquia PetFood Express traz um modelo de negócio validado, com mais de 276 unidades de sucesso pelo país. Quer saber como fazer parte dessa história? Clique no link da bio! 🚀 #Empreendedorismo #FranquiaPetFoodExpress #Empreendedorismo #Negócios #Franchising #OportunidadeDeInvestimento",
+            "image_recommendation": "Imagem profissional relacionada à franquia",
+            "hashtags": [
+              "#Empreendedorismo",
+              "#FranquiaPetFoodExpress",
+              "#Empreendedorismo",
+              "#Negócios",
+              "#Franchising"
+            ],
+            "cta": "Saiba mais",
+            "url": "https://www.petfoodexpress.com.br/franqueado",
+            "best_posting_time": "Terça a quinta, entre 10h e 12h"
+          },
+          {
+            "text": "Em comemoração ao Dia do Empreendedor, a franquia PetFood Express tem condições especiais para novos franqueados! 🎉 Investimento facilitado e bônus exclusivos para quem fechar até o final da campanha. Essa é sua chance de entrar no mercado de Pet Shop com uma marca reconhecida. #FranquiaPetFoodExpress #DiadoEmpreendedor",
+            "image_recommendation": "Imagem profissional relacionada à franquia",
+            "hashtags": [
+              "#FranquiaPetFoodExpress",
+              "#DiadoEmpreendedor"
+            ],
+            "cta": "Saiba mais",
+            "url": "https://www.example.com",
+            "best_posting_time": "Terça a quinta, entre 10h e 12h"
+          },
+          {
+            "text": "Em comemoração ao Black Friday, a franquia PetFood Express tem condições especiais para novos franqueados! 🎉 Investimento facilitado e bônus exclusivos para quem fechar até o final da campanha. Essa é sua chance de entrar no mercado de Pet Shop com uma marca reconhecida. #FranquiaPetFoodExpress #BlackFriday",
+            "image_recommendation": "Imagem profissional relacionada à franquia",
+            "hashtags": [
+              "#FranquiaPetFoodExpress",
+              "#BlackFriday"
+            ],
+            "cta": "Saiba mais",
+            "url": "https://www.example.com",
+            "best_posting_time": "Terça a quinta, entre 10h e 12h"
+          },
+          {
+            "text": "Em comemoração ao Fim de Ano, a franquia PetFood Express tem condições especiais para novos franqueados! 🎉 Investimento facilitado e bônus exclusivos para quem fechar até o final da campanha. Essa é sua chance de entrar no mercado de Pet Shop com uma marca reconhecida. #FranquiaPetFoodExpress #FimdeAno",
+            "image_recommendation": "Imagem profissional relacionada à franquia",
+            "hashtags": [
+              "#FranquiaPetFoodExpress",
+              "#FimdeAno"
+            ],
+            "cta": "Saiba mais",
+            "url": "https://www.example.com",
+            "best_posting_time": "Terça a quinta, entre 10h e 12h"
+          }
+        ],
+        "twitter": [
+          {
+            "text": "Você já pensou em ser dono do seu próprio negócio? A franquia PetFood Express pode ser a oportunidade que você estava esperando! 💼 Com investimento a partir de R$ 90,960,98 e retorno em 242 meses, é hora de transformar sua vida financeira. #EmpreendaComSegurança #FranquiaPetFo...",
+            "image_recommendation": "Imagem simples e direta",
+            "hashtags": [
+              "#EmpreendaComSegurança",
+              "#FranquiaPetFo..."
+            ],
+            "url": "https://www.petfoodexpress.com.br/franqueado",
+            "best_posting_time": "Entre 10h e 12h ou 17h e 19h"
+          },
+          {
+            "text": "Em comemoração ao Dia do Empreendedor, a franquia PetFood Express tem condições especiais para novos franqueados! 🎉 Investimento facilitado e bônus exclusivos para quem fechar até o final da campanha. Essa é sua chance de entrar no mercado de Pet Shop com uma marca reconhecida...",
+            "image_recommendation": "Imagem simples e direta",
+            "hashtags": [],
+            "url": "https://www.example.com",
+            "best_posting_time": "Entre 10h e 12h ou 17h e 19h"
+          },
+          {
+            "text": "Em comemoração ao Black Friday, a franquia PetFood Express tem condições especiais para novos franqueados! 🎉 Investimento facilitado e bônus exclusivos para quem fechar até o final da campanha. Essa é sua chance de entrar no mercado de Pet Shop com uma marca reconhecida. #Fran...",
+            "image_recommendation": "Imagem simples e direta",
+            "hashtags": [
+              "#Fran..."
+            ],
+            "url": "https://www.example.com",
+            "best_posting_time": "Entre 10h e 12h ou 17h e 19h"
+          },
+          {
+            "text": "Em comemoração ao Fim de Ano, a franquia PetFood Express tem condições especiais para novos franqueados! 🎉 Investimento facilitado e bônus exclusivos para quem fechar até o final da campanha. Essa é sua chance de entrar no mercado de Pet Shop com uma marca reconhecida. #Franqu...",
+            "image_recommendation": "Imagem simples e direta",
+            "hashtags": [
+              "#Franqu..."
+            ],
+            "url": "https://www.example.com",
+            "best_posting_time": "Entre 10h e 12h ou 17h e 19h"
+          }
+        ],
+        "content_calendar": [
+          {
+            "week": 1,
+            "day": "Segunda",
+            "platform": "Facebook",
+            "content_type": "Depoimento",
+            "topic_suggestion": "Da ideia à realização: franqueado conta sua trajetória"
+          },
+          {
+            "week": 1,
+            "day": "Terça",
+            "platform": "Instagram",
+            "content_type": "Promocional",
+            "topic_suggestion": "Da ideia à realização: franqueado conta sua trajetória"
+          },
+          {
+            "week": 1,
+            "day": "Quarta",
+            "platform": "Twitter",
+            "content_type": "Promocional",
+            "topic_suggestion": "Plano de expansão: novas oportunidades em sua região"
+          },
+          {
+            "week": 1,
+            "day": "Quinta",
+            "platform": "Instagram",
+            "content_type": "Promocional",
+            "topic_suggestion": "Passo a passo para ser um franqueado"
+          },
+          {
+            "week": 2,
+            "day": "Segunda",
+            "platform": "Facebook",
+            "content_type": "Depoimento",
+            "topic_suggestion": "Plano de expansão: novas oportunidades em sua região"
+          },
+          {
+            "week": 2,
+            "day": "Terça",
+            "platform": "Facebook",
+            "content_type": "Educativo",
+            "topic_suggestion": "Marketing local: estratégias para sua unidade"
+          },
+          {
+            "week": 2,
+            "day": "Quarta",
+            "platform": "Facebook",
+            "content_type": "Inspiracional",
+            "topic_suggestion": "Como funciona o modelo de franquia"
+          },
+          {
+            "week": 3,
+            "day": "Segunda",
+            "platform": "Instagram",
+            "content_type": "Informativo",
+            "topic_suggestion": "Por que investir na nossa franquia agora"
+          },
+          {
+            "week": 3,
+            "day": "Terça",
+            "platform": "Instagram",
+            "content_type": "Depoimento",
+            "topic_suggestion": "Últimas unidades disponíveis em regiões estratégicas"
+          },
+          {
+            "week": 3,
+            "day": "Quarta",
+            "platform": "Facebook",
+            "content_type": "Promocional",
+            "topic_suggestion": "Últimas unidades disponíveis em regiões estratégicas"
+          },
+          {
+            "week": 3,
+            "day": "Sexta",
+            "platform": "LinkedIn",
+            "content_type": "Educativo",
+            "topic_suggestion": "Passo a passo para ser um franqueado"
+          },
+          {
+            "week": 4,
+            "day": "Segunda",
+            "platform": "LinkedIn",
+            "content_type": "Informativo",
+            "topic_suggestion": "Da ideia à realização: franqueado conta sua trajetória"
+          },
+          {
+            "week": 4,
+            "day": "Terça",
+            "platform": "Facebook",
+            "content_type": "Educativo",
+            "topic_suggestion": "O que nossos franqueados mais valorizam no negócio"
+          },
+          {
+            "week": 4,
+            "day": "Quarta",
+            "platform": "Facebook",
+            "content_type": "Promocional",
+            "topic_suggestion": "História de sucesso: de funcionário a dono de franquia"
+          },
+          {
+            "week": 4,
+            "day": "Quinta",
+            "platform": "Instagram",
+            "content_type": "Educativo",
+            "topic_suggestion": "Liberdade financeira através do empreendedorismo"
+          },
+          {
+            "week": 4,
+            "day": "Sexta",
+            "platform": "Twitter",
+            "content_type": "Informativo",
+            "topic_suggestion": "Da ideia à realização: franqueado conta sua trajetória"
+          }
+        ]
+      },
+      "email_marketing": {
+        "campaigns": [
+          {
+            "subject": "Conheça a franquia PetFood Express - Oportunida...",
+            "body": "\nOlá, empreendedor!\n\nVocê está em busca de uma oportunidade para investir no seu futuro? A franquia PetFood Express é líder no segmento de Pet Shop, com um modelo de negócio comprovado e retorno acelerado.\n\n✅ Investimento a partir de R$ 90,960,98\n✅ Retorno em apenas 242 meses\n✅ ROI estimado de 57%\n✅ Mais de 276 unidades em operação\n\nNossa equipe está pronta para tirar todas as suas dúvidas e apresentar detalhes sobre essa oportunidade.\n\nClique no botão abaixo para agendar uma conversa com um de nossos consultores.\n\n[AGENDAR CONVERSA]\n\nAtenciosamente,\nEquipe PetFood Express\n                ",
+            "type": "Prospecção de franqueados",
+            "recommended_layout": {
+              "width": 600,
+              "image_to_text_ratio": "60:40",
+              "max_file_size": "100KB"
+            },
+            "recommended_elements": [
+              "Logo da franquia no topo",
+              "Banner principal com imagem de unidade ou franqueado",
+              "Botões de CTA em destaque (cores contrastantes)",
+              "Informações de contato no rodapé",
+              "Links para redes sociais",
+              "Opção de cancelar inscrição"
+            ]
+          },
+          {
+            "subject": "Transforme seu futuro com a franquia PetFood Ex...",
+            "body": "\nOlá!\n\nO mercado de Pet Shop continua em expansão, mesmo em tempos desafiadores. A franquia PetFood Express traz uma oportunidade para você empreender com segurança nesse setor promissor.\n\nPor que escolher a franquia PetFood Express?\n\n- Modelo de negócio validado com mais de 276 unidades\n- Suporte completo em todas as etapas\n- Treinamento especializado para você e sua equipe\n- Marketing e estratégias de vendas já desenvolvidos\n- Território exclusivo para sua operação\n\nInvestimento a partir de R$ 90,960,98, com retorno projetado em apenas 242 meses.\n\nResponda este email ou clique no botão abaixo para saber mais detalhes e agendar uma apresentação personalizada.\n\n[QUERO SABER MAIS]\n\nAtenciosamente,\nEquipe PetFood Express\n                ",
+            "type": "Prospecção de franqueados",
+            "recommended_layout": {
+              "width": 600,
+              "image_to_text_ratio": "60:40",
+              "max_file_size": "100KB"
+            },
+            "recommended_elements": [
+              "Logo da franquia no topo",
+              "Banner principal com imagem de unidade ou franqueado",
+              "Botões de CTA em destaque (cores contrastantes)",
+              "Informações de contato no rodapé",
+              "Links para redes sociais",
+              "Opção de cancelar inscrição"
+            ]
+          },
+          {
+            "subject": "Ainda tem dúvidas sobre a franquia PetFood Expr...",
+            "body": "\nOlá!\n\nHá alguns dias conversamos sobre a oportunidade de investir na franquia PetFood Express.\n\nGostaríamos de saber se você tem alguma dúvida adicional ou se precisa de mais informações para tomar sua decisão.\n\nNossa equipe está à disposição para ajudá-lo a entender melhor:\n\n- Como funciona o modelo de negócio\n- Detalhes sobre o investimento inicial\n- Projeções financeiras detalhadas\n- Processo de abertura e inauguração\n- Suporte oferecido pela franqueadora\n\nResponda este email ou clique no botão abaixo para agendar uma nova conversa.\n\n[AGENDAR CONVERSA]\n\nAtenciosamente,\nEquipe PetFood Express\n            ",
+            "type": "Follow-up após 7 dias",
+            "recommended_layout": {
+              "width": 600,
+              "image_to_text_ratio": "60:40",
+              "max_file_size": "100KB"
+            },
+            "recommended_elements": [
+              "Logo da franquia no topo",
+              "Banner principal com imagem de unidade ou franqueado",
+              "Botões de CTA em destaque (cores contrastantes)",
+              "Informações de contato no rodapé",
+              "Links para redes sociais",
+              "Opção de cancelar inscrição"
+            ]
+          },
+          {
+            "step": 1,
+            "timing": "Imediato após cadastro",
+            "subject": "Bem-vindo à jornada para se tornar um franqueado",
+            "content_focus": "Apresentação da franquia e agradecimento pelo interesse",
+            "goal": "Estabelecer relacionamento"
+          },
+          {
+            "step": 2,
+            "timing": "3 dias após o cadastro",
+            "subject": "Os números que fazem nossa franquia ser um sucesso",
+            "content_focus": "Dados de mercado, ROI, tempo de retorno do investimento",
+            "goal": "Demonstrar potencial do negócio"
+          },
+          {
+            "step": 3,
+            "timing": "7 dias após o cadastro",
+            "subject": "Conheça nossos franqueados de sucesso",
+            "content_focus": "Depoimentos e histórias reais",
+            "goal": "Gerar identificação e credibilidade"
+          },
+          {
+            "step": 4,
+            "timing": "12 dias após o cadastro",
+            "subject": "Passo a passo para se tornar um franqueado",
+            "content_focus": "Processo de seleção, investimento e abertura",
+            "goal": "Esclarecer dúvidas sobre o processo"
+          },
+          {
+            "step": 5,
+            "timing": "18 dias após o cadastro",
+            "subject": "Perguntas frequentes sobre nossa franquia",
+            "content_focus": "Respostas para as principais dúvidas",
+            "goal": "Remover objeções"
+          },
+          {
+            "step": 6,
+            "timing": "25 dias após o cadastro",
+            "subject": "Agende uma apresentação exclusiva",
+            "content_focus": "Convite para conhecer mais detalhes",
+            "goal": "Converter em reunião de vendas"
+          },
+          {
+            "step": 7,
+            "timing": "35 dias após o cadastro (se não convertido)",
+            "subject": "Última oportunidade: condições especiais",
+            "content_focus": "Oferta com prazo limitado",
+            "goal": "Criar senso de urgência para decisão"
+          }
+        ],
+        "nurture_sequence": [
+          {
+            "step": 1,
+            "timing": "Imediato após cadastro",
+            "subject": "Bem-vindo à jornada para se tornar um franqueado",
+            "content_focus": "Apresentação da franquia e agradecimento pelo interesse",
+            "goal": "Estabelecer relacionamento"
+          },
+          {
+            "step": 2,
+            "timing": "3 dias após o cadastro",
+            "subject": "Os números que fazem nossa franquia ser um sucesso",
+            "content_focus": "Dados de mercado, ROI, tempo de retorno do investimento",
+            "goal": "Demonstrar potencial do negócio"
+          },
+          {
+            "step": 3,
+            "timing": "7 dias após o cadastro",
+            "subject": "Conheça nossos franqueados de sucesso",
+            "content_focus": "Depoimentos e histórias reais",
+            "goal": "Gerar identificação e credibilidade"
+          },
+          {
+            "step": 4,
+            "timing": "12 dias após o cadastro",
+            "subject": "Passo a passo para se tornar um franqueado",
+            "content_focus": "Processo de seleção, investimento e abertura",
+            "goal": "Esclarecer dúvidas sobre o processo"
+          },
+          {
+            "step": 5,
+            "timing": "18 dias após o cadastro",
+            "subject": "Perguntas frequentes sobre nossa franquia",
+            "content_focus": "Respostas para as principais dúvidas",
+            "goal": "Remover objeções"
+          },
+          {
+            "step": 6,
+            "timing": "25 dias após o cadastro",
+            "subject": "Agende uma apresentação exclusiva",
+            "content_focus": "Convite para conhecer mais detalhes",
+            "goal": "Converter em reunião de vendas"
+          },
+          {
+            "step": 7,
+            "timing": "35 dias após o cadastro (se não convertido)",
+            "subject": "Última oportunidade: condições especiais",
+            "content_focus": "Oferta com prazo limitado",
+            "goal": "Criar senso de urgência para decisão"
+          }
+        ]
+      },
+      "whatsapp_marketing": {
+        "direct_messages": [
+          {
+            "text": "Olá! Tudo bem?\n\nLiberdade financeira é possível com a franquia PetFood Express\n\nMais de 276 empreendedores já alcançaram o sucesso com a PetFood Express. Invista a partir de R$ 90,960,98 e transforme seu futuro.\n\nQuer saber mais sobre essa oportunidade? Estou à disposição para tirar suas dúvidas!",
+            "recommended_follow_up": "Posso enviar mais informações sobre nossa franquia?",
+            "cta": "Agendar uma conversa"
+          },
+          {
+            "text": "Olá! Tudo bem?\n\nConquiste seu futuro financeiro com a franquia PetFood Express\n\nO mercado de Pet Shop não para de crescer. A PetFood Express oferece suporte completo com um modelo de negócio comprovado. Comece agora!\n\nQuer saber mais sobre essa oportunidade? Estou à disposição para tirar suas dúvidas!",
+            "recommended_follow_up": "Posso enviar mais informações sobre nossa franquia?",
+            "cta": "Agendar uma conversa"
+          },
+          {
+            "text": "Oi! Tudo bem?\n\nSeu próximo negócio de sucesso:  Franquia PetFood Express\n\nSuporte completo, treinamento especializado e marca reconhecida. Tudo isso com a franquia PetFood Express, líder no segmento de Pet Shop.\n\nQuer saber mais sobre essa oportunidade? Estou à disposição para tirar suas dúvidas!",
+            "recommended_follow_up": "Posso enviar mais informações sobre nossa franquia?",
+            "cta": "Agendar uma conversa"
+          },
+          {
+            "step": 1,
+            "trigger": "Mensagem inicial do lead",
+            "response": "Olá! Obrigado pelo seu interesse na franquia [NOME]. Estamos felizes em poder ajudar você a conhecer mais sobre essa oportunidade de negócio. Como posso te ajudar hoje?\n\n1 - Informações gerais\n2 - Valores de investimento\n3 - Falar com um consultor\n4 - Receber material completo",
+            "options": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "step": 2,
+            "trigger": "Opção 1 (Informações gerais)",
+            "response": "A franquia [NOME] atua no setor de [SETOR] há [X] anos, com mais de [Y] unidades em operação por todo o Brasil. Nosso modelo de negócio oferece:\n\n✅ Suporte completo\n✅ Treinamento especializado\n✅ Marketing nacional\n✅ Território exclusivo\n\nGostaria de saber mais sobre algum tópico específico?\n\n1 - Modelo de negócio\n2 - Suporte oferecido\n3 - Falar com um consultor\n4 - Menu principal",
+            "options": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "step": 2,
+            "trigger": "Opção 2 (Valores de investimento)",
+            "response": "Investimento na franquia [NOME]:\n\n💰 Investimento inicial: a partir de R$ [VALOR]\n⏱️ Retorno estimado: [X] meses\n📈 ROI médio: [Y]%\n\nO investimento inclui:\n- Taxa de franquia\n- Montagem da unidade\n- Estoque inicial\n- Treinamento\n\nPosso te enviar uma planilha financeira detalhada. Você gostaria de receber?\n\n1 - Sim, quero receber\n2 - Falar com um consultor\n3 - Menu principal",
+            "options": [
+              "1",
+              "2",
+              "3"
+            ]
+          },
+          {
+            "step": 2,
+            "trigger": "Opção 3 (Falar com um consultor)",
+            "response": "Ótimo! Para agendar uma conversa com um de nossos consultores, precisamos de algumas informações:\n\n1. Qual a melhor data e horário para você?\n2. Prefere conversa por telefone ou videochamada?\n3. Qual cidade/estado você tem interesse em abrir a franquia?\n\nAssim que receber essas informações, entrarei em contato para confirmar o agendamento.",
+            "type": "free_text"
+          },
+          {
+            "step": 2,
+            "trigger": "Opção 4 (Receber material)",
+            "response": "Ficarei feliz em enviar nosso material completo sobre a franquia [NOME]. Preciso apenas de seu e-mail para envio:\n\n(Por favor, digite seu e-mail)",
+            "type": "free_text"
+          }
+        ],
+        "broadcast_messages": [
+          {
+            "text": "Olá, empreendedor!\n\nVocê está em busca de uma oportunidade para investir no seu futuro? A franquia PetFood Express é líder no segmento de Pet Shop, com um modelo de negócio comprovado e retorno acelerado.\n\n✅ Investimento a partir de R$ 90,960,98\n\n✅ Retorno em apenas 242 meses\n\n✅ ROI estimado de 57%",
+            "cta": "Responda \"QUERO SABER MAIS\" para receber informações detalhadas",
+            "recommended_image": "Imagem da franquia ou logo"
+          },
+          {
+            "text": "O mercado de Pet Shop continua em expansão, mesmo em tempos desafiadores. A franquia PetFood Express traz uma oportunidade para você empreender com segurança nesse setor promissor.\n\nPor que escolher a franquia PetFood Express?\n\n- Modelo de negócio validado com mais de 276 unidades\n\n- Suporte completo em todas as etapas\n\n- Treinamento especializado para você e sua equipe",
+            "cta": "Responda \"QUERO SABER MAIS\" para receber informações detalhadas",
+            "recommended_image": "Imagem da franquia ou logo"
+          }
+        ],
+        "flow_sequence": [
+          {
+            "step": 1,
+            "trigger": "Mensagem inicial do lead",
+            "response": "Olá! Obrigado pelo seu interesse na franquia [NOME]. Estamos felizes em poder ajudar você a conhecer mais sobre essa oportunidade de negócio. Como posso te ajudar hoje?\n\n1 - Informações gerais\n2 - Valores de investimento\n3 - Falar com um consultor\n4 - Receber material completo",
+            "options": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "step": 2,
+            "trigger": "Opção 1 (Informações gerais)",
+            "response": "A franquia [NOME] atua no setor de [SETOR] há [X] anos, com mais de [Y] unidades em operação por todo o Brasil. Nosso modelo de negócio oferece:\n\n✅ Suporte completo\n✅ Treinamento especializado\n✅ Marketing nacional\n✅ Território exclusivo\n\nGostaria de saber mais sobre algum tópico específico?\n\n1 - Modelo de negócio\n2 - Suporte oferecido\n3 - Falar com um consultor\n4 - Menu principal",
+            "options": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "step": 2,
+            "trigger": "Opção 2 (Valores de investimento)",
+            "response": "Investimento na franquia [NOME]:\n\n💰 Investimento inicial: a partir de R$ [VALOR]\n⏱️ Retorno estimado: [X] meses\n📈 ROI médio: [Y]%\n\nO investimento inclui:\n- Taxa de franquia\n- Montagem da unidade\n- Estoque inicial\n- Treinamento\n\nPosso te enviar uma planilha financeira detalhada. Você gostaria de receber?\n\n1 - Sim, quero receber\n2 - Falar com um consultor\n3 - Menu principal",
+            "options": [
+              "1",
+              "2",
+              "3"
+            ]
+          },
+          {
+            "step": 2,
+            "trigger": "Opção 3 (Falar com um consultor)",
+            "response": "Ótimo! Para agendar uma conversa com um de nossos consultores, precisamos de algumas informações:\n\n1. Qual a melhor data e horário para você?\n2. Prefere conversa por telefone ou videochamada?\n3. Qual cidade/estado você tem interesse em abrir a franquia?\n\nAssim que receber essas informações, entrarei em contato para confirmar o agendamento.",
+            "type": "free_text"
+          },
+          {
+            "step": 2,
+            "trigger": "Opção 4 (Receber material)",
+            "response": "Ficarei feliz em enviar nosso material completo sobre a franquia [NOME]. Preciso apenas de seu e-mail para envio:\n\n(Por favor, digite seu e-mail)",
+            "type": "free_text"
+          }
+        ]
+      },
+      "landing_page": {
+        "main_page": {
+          "title": "Seja um franqueado PetFood Express",
+          "sections": [
+            {
+              "name": "Hero",
+              "elements": [
+                "Título principal: 'Seja dono do seu próprio negócio com a franquia PetFood Express'",
+                "Subtítulo: 'Invista em um modelo de negócio comprovado no setor de Pet Shop'",
+                "Imagem de destaque: Unidade modelo da franquia com clientes satisfeitos",
+                "Formulário de captação: Nome, Email, Telefone, Cidade",
+                "CTA principal: 'Quero ser um franqueado'"
+              ]
+            },
+            {
+              "name": "Números da Franquia",
+              "elements": [
+                "Título da seção: 'Por que investir nessa oportunidade'",
+                "Card 1: '276+ unidades em operação'",
+                "Card 2: 'ROI médio de 57%'",
+                "Card 3: 'Retorno em 242 meses'",
+                "Card 4: 'Mercado em crescimento de 37% ao ano'"
+              ]
+            },
+            {
+              "name": "Como Funciona",
+              "elements": [
+                "Título da seção: 'Como funciona uma franquia PetFood Express'",
+                "Passo 1: 'Primeiro contato e análise de perfil'",
+                "Passo 2: 'Apresentação detalhada e Circular de Oferta de Franquia (COF)'",
+                "Passo 3: 'Assinatura do contrato e planejamento'",
+                "Passo 4: 'Treinamento e preparação para abertura'",
+                "Passo 5: 'Inauguração e operação com suporte contínuo'",
+                "Ilustrações para cada passo"
+              ]
+            },
+            {
+              "name": "Investimento",
+              "elements": [
+                "Título da seção: 'Investimento e Retorno'",
+                "Texto: 'A franquia PetFood Express oferece uma oportunidade de negócio com investimento a partir de R$ 90,960,98.'",
+                "Tabela detalhando a composição do investimento",
+                "Projeção financeira: 'Faturamento médio mensal: R$ 6,512,06'",
+                "Projeção financeira: 'Lucro médio mensal: R$ 494,46'",
+                "CTA secundário: 'Solicitar planilha financeira detalhada'"
+              ]
+            },
+            {
+              "name": "Perfil do Franqueado",
+              "elements": [
+                "Título da seção: 'Perfil do Franqueado Ideal'",
+                "Lista de características desejáveis:",
+                "- Espírito empreendedor",
+                "- Identificação com o setor de Pet Shop",
+                "- Capacidade de investimento compatível",
+                "- Comprometimento com a operação",
+                "- Habilidades de gestão e liderança",
+                "Imagem representando o perfil ideal"
+              ]
+            },
+            {
+              "name": "Depoimentos",
+              "elements": [
+                "Título da seção: 'O que dizem nossos franqueados'",
+                "3-4 cards com depoimentos de franqueados atuais",
+                "Texto de satisfação: 'Nota média de satisfação dos franqueados: 4.4/5'",
+                "Fotos dos franqueados em suas unidades"
+              ]
+            },
+            {
+              "name": "FAQ",
+              "elements": [
+                "Título da seção: 'Perguntas Frequentes'",
+                "Pergunta 1: 'Preciso ter experiência no setor?'",
+                "Pergunta 2: 'Qual o prazo médio para abertura após a assinatura?'",
+                "Pergunta 3: 'A franqueadora ajuda na escolha do ponto comercial?'",
+                "Pergunta 4: 'Quais os tipos de unidades disponíveis?'",
+                "Pergunta 5: 'Quais regiões estão disponíveis para expansão?'",
+                "Pergunta 6: 'Qual o suporte oferecido pela franqueadora?'"
+              ]
+            },
+            {
+              "name": "Contato",
+              "elements": [
+                "Título da seção: 'Transforme seu futuro hoje mesmo'",
+                "Formulário de contato completo",
+                "Informações da franqueadora",
+                "CTA final: 'Quero receber mais informações'",
+                "Política de privacidade e termos de uso"
+              ]
+            }
+          ],
+          "seo": {
+            "title": "Franquia PetFood Express | Invista no setor de Pet Shop",
+            "description": "Conheça a franquia PetFood Express, oportunidade de investimento no setor de Pet Shop com ROI de 57% e retorno em 242 meses.",
+            "keywords": [
+              "franquia petfood express",
+              "franquia de pet shop",
+              "investimento em franquia",
+              "seja franqueado",
+              "oportunidade de negócio"
+            ],
+            "structured_data": {
+              "type": "Business",
+              "name": "PetFood Express",
+              "description": "Rede de franquias no setor de Pet Shop",
+              "url": "https://www.petfoodexpress.com.br"
+            }
+          },
+          "tracking": {
+            "google_analytics": "Configurar",
+            "facebook_pixel": "Configurar",
+            "conversion_events": [
+              "Visualização da página",
+              "Envio de formulário",
+              "Clique em CTA",
+              "Download de material"
+            ]
+          }
+        },
+        "thank_you_page": {
+          "title": "Obrigado pelo seu interesse!",
+          "sections": [
+            {
+              "name": "Confirmação",
+              "elements": [
+                "Título: \"Recebemos seu cadastro com sucesso!\"",
+                "Subtítulo: \"Em breve nossa equipe entrará em contato.\"",
+                "Imagem de confirmação",
+                "Contador regressivo: \"Você será redirecionado em 10 segundos...\""
+              ]
+            },
+            {
+              "name": "Próximos Passos",
+              "elements": [
+                "Título: \"O que acontece agora?\"",
+                "Passo 1: \"Nossa equipe analisará seu perfil\"",
+                "Passo 2: \"Você receberá um e-mail com mais informações\"",
+                "Passo 3: \"Agendaremos uma apresentação personalizada\"",
+                "Passo 4: \"Você tomará a melhor decisão para seu futuro\""
+              ]
+            },
+            {
+              "name": "Conteúdo Gratuito",
+              "elements": [
+                "Título: \"Enquanto isso, preparamos um conteúdo especial para você\"",
+                "Botão: \"Baixar E-book: 10 Passos para Escolher a Franquia Ideal\"",
+                "Apresentação de vídeo: \"Assista: Depoimento de nossos franqueados\""
+              ]
+            },
+            {
+              "name": "Compartilhamento",
+              "elements": [
+                "Texto: \"Conhece alguém que também busca uma oportunidade de negócio?\"",
+                "Botões de compartilhamento: WhatsApp, Facebook, Email",
+                "URL personalizada para compartilhamento"
+              ]
+            }
+          ],
+          "tracking": {
+            "conversion_events": [
+              "Visualização da página",
+              "Download de material",
+              "Compartilhamento"
+            ]
+          }
+        },
+        "variants": [
+          {
+            "name": "Variante 1: Enfoque em depoimentos",
+            "description": "Prioriza depoimentos logo após a seção principal",
+            "changes": [
+              "Mover seção de Depoimentos para segunda posição",
+              "Destacar fotos maiores de franqueados",
+              "Adicionar vídeos curtos de depoimentos"
+            ]
+          },
+          {
+            "name": "Variante 2: Enfoque em retorno financeiro",
+            "description": "Destaca o retorno financeiro e payback",
+            "changes": [
+              "Adicionar calculadora de ROI interativa",
+              "Gráficos comparativos com outras oportunidades de investimento",
+              "Depoimentos focados em resultados financeiros"
+            ]
+          },
+          {
+            "name": "Variante 3: Versão simplificada",
+            "description": "Landing page mais curta com foco na conversão rápida",
+            "changes": [
+              "Reduzir para apenas 3 seções: Hero, Números e Formulário",
+              "Remover elementos distrativos",
+              "CTA mais proeminente",
+              "Garantia de resposta em 24h"
+            ]
+          }
+        ]
+      }
+    },
+    "campaigns": {
+      "opportunity_name": "PetFood Express",
+      "sector": "Pet Shop",
+      "estimated_monthly_budget": 606.41,
+      "start_date": "2025-05-02",
+      "funnel_stages": [
+        {
+          "name": "Awareness (Conscientização)",
+          "description": "Atrair potenciais franqueados para conhecer a marca",
+          "goal": "Apresentar a franquia para empreendedores em busca de oportunidades",
+          "kpis": [
+            "Impressões",
+            "Alcance",
+            "Visualizações de vídeo"
+          ],
+          "channels": [
+            "Facebook",
+            "Instagram",
+            "Google Display",
+            "LinkedIn"
+          ],
+          "typical_conversion_rate": "20-30% para próximo estágio"
+        },
+        {
+          "name": "Consideration (Consideração)",
+          "description": "Engajar interessados com informações detalhadas",
+          "goal": "Educar sobre modelo de negócio, investimento e retorno",
+          "kpis": [
+            "Cliques",
+            "Tempo no site",
+            "Visualizações de página",
+            "Downloads de material"
+          ],
+          "channels": [
+            "Google Search",
+            "Facebook",
+            "Email Marketing",
+            "YouTube"
+          ],
+          "typical_conversion_rate": "10-20% para próximo estágio"
+        },
+        {
+          "name": "Conversion (Conversão)",
+          "description": "Converter interessados em leads qualificados",
+          "goal": "Gerar cadastros de potenciais franqueados",
+          "kpis": [
+            "Formulários preenchidos",
+            "Ligações",
+            "Custo por lead",
+            "Taxa de conversão"
+          ],
+          "channels": [
+            "Google Search",
+            "LinkedIn",
+            "Landing Pages",
+            "WhatsApp"
+          ],
+          "typical_conversion_rate": "3-8% para próximo estágio"
+        },
+        {
+          "name": "Consideration (Avaliação)",
+          "description": "Acompanhar leads em processo de avaliação",
+          "goal": "Avançar leads pelo processo de vendas",
+          "kpis": [
+            "Reuniões agendadas",
+            "Apresentações realizadas",
+            "COFs enviadas"
+          ],
+          "channels": [
+            "Email Marketing",
+            "WhatsApp",
+            "Remarketing"
+          ],
+          "typical_conversion_rate": "10-20% para próximo estágio"
+        },
+        {
+          "name": "Loyalty (Fidelização)",
+          "description": "Manter relacionamento com novos franqueados",
+          "goal": "Garantir satisfação e promover expansão",
+          "kpis": [
+            "Satisfação do franqueado",
+            "Taxa de renovação",
+            "Referências"
+          ],
+          "channels": [
+            "Email Marketing",
+            "WhatsApp",
+            "Eventos",
+            "Área do franqueado"
+          ],
+          "typical_conversion_rate": "60-80% de renovação"
+        }
+      ],
+      "campaigns": [
+        {
+          "name": "Awareness - PetFood Express - Facebook e Instagram",
+          "objective": "Brand Awareness",
+          "platforms": [
+            "Facebook",
+            "Instagram"
+          ],
+          "start_date": "2025-05-02",
+          "end_date": "2025-06-01",
+          "status": "Scheduled",
+          "budget": {
+            "monthly": 1050.0,
+            "daily": 35.0
+          },
+          "targeting": {
+            "demographics": {
+              "age_range": "28-55",
+              "gender": "All",
+              "education": [
+                "Graduated",
+                "Post Graduated"
+              ],
+              "income": "High"
+            },
+            "interests": [
+              "Empreendedorismo",
+              "Franquias",
+              "Investimento",
+              "Negócios",
+              "Pet Shop"
+            ],
+            "behaviors": [
+              "Business Owners",
+              "Small Business Owners",
+              "Investors",
+              "Frequent Travelers"
+            ],
+            "locations": [
+              "Brazil - Major Cities",
+              "Regions with expansion priority"
+            ]
+          },
+          "ad_formats": [
+            "Image",
+            "Video",
+            "Carousel"
+          ],
+          "creatives": [
+            {
+              "headline": "Liberdade financeira é possível com a fr",
+              "description": "Mais de 276 empreendedores já alcançaram o sucesso com a PetFood Express. Invista a partir de R$ 90,960,98 e transforme se...",
+              "cta": "Quero ser franqueado",
+              "url": "https://www.petfoodexpress.com.br/franqueado",
+              "image_specs": {
+                "width": 1200,
+                "height": 628
+              },
+              "recommended_elements": [
+                "Imagem de uma unidade da franquia com clientes",
+                "Logo da franquia no canto inferior direito",
+                "Texto na imagem limitado a 20% da área total"
+              ]
+            },
+            {
+              "headline": "Conquiste seu futuro financeiro com a fr",
+              "description": "O mercado de Pet Shop não para de crescer. A PetFood Express oferece suporte completo com um modelo de negócio comprovado....",
+              "cta": "Ver oportunidades",
+              "url": "https://www.petfoodexpress.com.br/franqueado",
+              "image_specs": {
+                "width": 1200,
+                "height": 628
+              },
+              "recommended_elements": [
+                "Imagem de uma unidade da franquia com clientes",
+                "Logo da franquia no canto inferior direito",
+                "Texto na imagem limitado a 20% da área total"
+              ]
+            }
+          ],
+          "projected_metrics": {
+            "impressions": 75000,
+            "clicks": 982,
+            "ctr": 1.31,
+            "cpc": 1.53,
+            "leads": 18,
+            "conversion_rate": 1.8,
+            "cpl": 84.82
+          }
+        },
+        {
+          "name": "Consideration - PetFood Express - Google Search",
+          "objective": "Website Traffic",
+          "platforms": [
+            "Google Search"
+          ],
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-16",
+          "status": "Scheduled",
+          "budget": {
+            "monthly": 2000,
+            "daily": 66.66666666666667
+          },
+          "targeting": {
+            "keywords": [
+              "franquia",
+              "abrir franquia",
+              "investir em franquia",
+              "franquia lucrativa",
+              "franquia de sucesso",
+              "franquia Pet Shop",
+              "franquia PetFood Express",
+              "melhor franquia para investir",
+              "franquia barata",
+              "negócio próprio"
+            ],
+            "match_types": [
+              "Exact",
+              "Phrase",
+              "Broad"
+            ],
+            "negative_keywords": [
+              "gratuito",
+              "grátis",
+              "sem investimento",
+              "reclamações",
+              "problemas",
+              "fralda",
+              "telefone",
+              "contato"
+            ]
+          },
+          "ad_formats": [
+            "Text"
+          ],
+          "creatives": [
+            {
+              "headlines": [
+                "Liberdade financeira é possíve",
+                "Franquia a partir de R$  90,960,98 e transforme seu futuro",
+                "Invista em um negócio lucrativo"
+              ],
+              "descriptions": [
+                "Mais de 276 empreendedores já alcançaram o sucesso com a PetFood Express. Invista a par...",
+                "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+              ],
+              "final_url": "https://www.petfoodexpress.com.br/franqueado",
+              "cta": "Fale conosco",
+              "recommended_keywords": [
+                "franquia",
+                "investir em franquia",
+                "abrir franquia",
+                "franquia lucrativa",
+                "oportunidade de negócio",
+                "empreender",
+                "franquia de sucesso"
+              ]
+            },
+            {
+              "headlines": [
+                "Conquiste seu futuro financeir",
+                "Franquia a partir de R$ 100 mil",
+                "Invista em um negócio lucrativo"
+              ],
+              "descriptions": [
+                "O mercado de Pet Shop não para de crescer. A PetFood Express oferece suporte completo c...",
+                "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+              ],
+              "final_url": "https://www.petfoodexpress.com.br/franqueado",
+              "cta": "Fale conosco",
+              "recommended_keywords": [
+                "franquia",
+                "investir em franquia",
+                "abrir franquia",
+                "franquia lucrativa",
+                "oportunidade de negócio",
+                "empreender",
+                "franquia de sucesso"
+              ]
+            },
+            {
+              "headlines": [
+                "Seu próximo negócio de sucesso",
+                "Franquia a partir de R$ 100 mil",
+                "Invista em um negócio lucrativo"
+              ],
+              "descriptions": [
+                "Suporte completo, treinamento especializado e marca reconhecida. Tudo isso com a franqu...",
+                "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+              ],
+              "final_url": "https://www.petfoodexpress.com.br/franqueado",
+              "cta": "Inscreva-se",
+              "recommended_keywords": [
+                "franquia",
+                "investir em franquia",
+                "abrir franquia",
+                "franquia lucrativa",
+                "oportunidade de negócio",
+                "empreender",
+                "franquia de sucesso"
+              ]
+            },
+            {
+              "headlines": [
+                "Conquiste seu futuro financeir",
+                "Franquia a partir de R$  90,960,98",
+                "Invista em um negócio lucrativo"
+              ],
+              "descriptions": [
+                "Investimento a partir de R$ 90,960,98. Retorno em apenas 242 meses. Seja parte da rede ...",
+                "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+              ],
+              "final_url": "https://www.petfoodexpress.com.br/franqueado",
+              "cta": "Inscreva-se",
+              "recommended_keywords": [
+                "franquia",
+                "investir em franquia",
+                "abrir franquia",
+                "franquia lucrativa",
+                "oportunidade de negócio",
+                "empreender",
+                "franquia de sucesso"
+              ]
+            }
+          ],
+          "projected_metrics": {
+            "impressions": 72727,
+            "clicks": 4073,
+            "ctr": 5.6,
+            "cpc": 0.49,
+            "leads": 265,
+            "conversion_rate": 6.5,
+            "cpl": 7.55
+          }
+        },
+        {
+          "name": "Conversion - PetFood Express - LinkedIn",
+          "objective": "Lead Generation",
+          "platforms": [
+            "LinkedIn"
+          ],
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-16",
+          "status": "Scheduled",
+          "budget": {
+            "monthly": 2500,
+            "daily": 83.33333333333333
+          },
+          "targeting": {
+            "job_titles": [
+              "Empreendedor",
+              "Empresário",
+              "Gerente",
+              "Diretor",
+              "Executivo",
+              "Consultor"
+            ],
+            "company_sizes": [
+              "Self-employed",
+              "1-10",
+              "11-50",
+              "51-200"
+            ],
+            "industries": [
+              "Business Services",
+              "Financial Services",
+              "Retail",
+              "Pet Shop"
+            ],
+            "interests": [
+              "Entrepreneurship",
+              "Small and Medium Businesses",
+              "Investments",
+              "Franchising"
+            ]
+          },
+          "ad_formats": [
+            "Single Image",
+            "Single Job"
+          ],
+          "creatives": [
+            {
+              "headline": "Liberdade financeira é possível com a franquia PetFood Express",
+              "description": "Mais de 276 empreendedores já alcançaram o sucesso com a PetFood Express. Invista a partir de R$ 90,960,98 e transforme seu futuro.",
+              "cta": "Saiba mais",
+              "url": "https://www.petfoodexpress.com.br/franqueado",
+              "image_specs": {
+                "width": 1200,
+                "height": 627
+              },
+              "recommended_elements": [
+                "Imagem profissional e corporativa",
+                "Pessoas em ambiente de negócios",
+                "Layout limpo e minimalista",
+                "Cores corporativas"
+              ]
+            },
+            {
+              "headline": "Conquiste seu futuro financeiro com a franquia PetFood Express",
+              "description": "O mercado de Pet Shop não para de crescer. A PetFood Express oferece suporte completo com um modelo de negócio comprovado. Comece agora!",
+              "cta": "Saiba mais",
+              "url": "https://www.petfoodexpress.com.br/franqueado",
+              "image_specs": {
+                "width": 1200,
+                "height": 627
+              },
+              "recommended_elements": [
+                "Imagem profissional e corporativa",
+                "Pessoas em ambiente de negócios",
+                "Layout limpo e minimalista",
+                "Cores corporativas"
+              ]
+            }
+          ],
+          "projected_metrics": {
+            "impressions": 47619,
+            "clicks": 667,
+            "ctr": 1.4,
+            "cpc": 3.75,
+            "leads": 47,
+            "conversion_rate": 7.0,
+            "cpl": 53.57
+          }
+        },
+        {
+          "name": "Nurturing - PetFood Express - Email Marketing",
+          "objective": "Lead Nurturing",
+          "platforms": [
+            "Email Marketing"
+          ],
+          "start_date": "2025-05-02",
+          "status": "Always On",
+          "budget": {
+            "monthly": 500,
+            "cost_per_email": 0.05
+          },
+          "targeting": {
+            "audience": "Leads cadastrados no site",
+            "segments": [
+              "Novos leads",
+              "Leads em consideração",
+              "Leads qualificados",
+              "Leads inativos"
+            ],
+            "exclusions": [
+              "Franqueados atuais",
+              "Leads desqualificados"
+            ]
+          },
+          "frequency": {
+            "initial_sequence": "7 emails ao longo de 35 dias",
+            "follow_up": "Quinzenal após sequência inicial"
+          },
+          "creatives": [
+            {
+              "subject": "Conheça a franquia PetFood Express - Oportunida...",
+              "body": "\nOlá, empreendedor!\n\nVocê está em busca de uma oportunidade para investir no seu futuro? A franquia PetFood Express é líder no segmento de Pet Shop, com um modelo de negócio comprovado e retorno acelerado.\n\n✅ Investimento a partir de R$ 90,960,98\n✅ Retorno em apenas 242 meses\n✅ ROI estimado de 57%\n✅ Mais de 276 unidades em operação\n\nNossa equipe está pronta para tirar todas as suas dúvidas e apresentar detalhes sobre essa oportunidade.\n\nClique no botão abaixo para agendar uma conversa com um de nossos consultores.\n\n[AGENDAR CONVERSA]\n\nAtenciosamente,\nEquipe PetFood Express\n                ",
+              "type": "Prospecção de franqueados",
+              "recommended_layout": {
+                "width": 600,
+                "image_to_text_ratio": "60:40",
+                "max_file_size": "100KB"
+              },
+              "recommended_elements": [
+                "Logo da franquia no topo",
+                "Banner principal com imagem de unidade ou franqueado",
+                "Botões de CTA em destaque (cores contrastantes)",
+                "Informações de contato no rodapé",
+                "Links para redes sociais",
+                "Opção de cancelar inscrição"
+              ]
+            },
+            {
+              "subject": "Transforme seu futuro com a franquia PetFood Ex...",
+              "body": "\nOlá!\n\nO mercado de Pet Shop continua em expansão, mesmo em tempos desafiadores. A franquia PetFood Express traz uma oportunidade para você empreender com segurança nesse setor promissor.\n\nPor que escolher a franquia PetFood Express?\n\n- Modelo de negócio validado com mais de 276 unidades\n- Suporte completo em todas as etapas\n- Treinamento especializado para você e sua equipe\n- Marketing e estratégias de vendas já desenvolvidos\n- Território exclusivo para sua operação\n\nInvestimento a partir de R$ 90,960,98, com retorno projetado em apenas 242 meses.\n\nResponda este email ou clique no botão abaixo para saber mais detalhes e agendar uma apresentação personalizada.\n\n[QUERO SABER MAIS]\n\nAtenciosamente,\nEquipe PetFood Express\n                ",
+              "type": "Prospecção de franqueados",
+              "recommended_layout": {
+                "width": 600,
+                "image_to_text_ratio": "60:40",
+                "max_file_size": "100KB"
+              },
+              "recommended_elements": [
+                "Logo da franquia no topo",
+                "Banner principal com imagem de unidade ou franqueado",
+                "Botões de CTA em destaque (cores contrastantes)",
+                "Informações de contato no rodapé",
+                "Links para redes sociais",
+                "Opção de cancelar inscrição"
+              ]
+            },
+            {
+              "subject": "Ainda tem dúvidas sobre a franquia PetFood Expr...",
+              "body": "\nOlá!\n\nHá alguns dias conversamos sobre a oportunidade de investir na franquia PetFood Express.\n\nGostaríamos de saber se você tem alguma dúvida adicional ou se precisa de mais informações para tomar sua decisão.\n\nNossa equipe está à disposição para ajudá-lo a entender melhor:\n\n- Como funciona o modelo de negócio\n- Detalhes sobre o investimento inicial\n- Projeções financeiras detalhadas\n- Processo de abertura e inauguração\n- Suporte oferecido pela franqueadora\n\nResponda este email ou clique no botão abaixo para agendar uma nova conversa.\n\n[AGENDAR CONVERSA]\n\nAtenciosamente,\nEquipe PetFood Express\n            ",
+              "type": "Follow-up após 7 dias",
+              "recommended_layout": {
+                "width": 600,
+                "image_to_text_ratio": "60:40",
+                "max_file_size": "100KB"
+              },
+              "recommended_elements": [
+                "Logo da franquia no topo",
+                "Banner principal com imagem de unidade ou franqueado",
+                "Botões de CTA em destaque (cores contrastantes)",
+                "Informações de contato no rodapé",
+                "Links para redes sociais",
+                "Opção de cancelar inscrição"
+              ]
+            },
+            {
+              "step": 1,
+              "timing": "Imediato após cadastro",
+              "subject": "Bem-vindo à jornada para se tornar um franqueado",
+              "content_focus": "Apresentação da franquia e agradecimento pelo interesse",
+              "goal": "Estabelecer relacionamento"
+            },
+            {
+              "step": 2,
+              "timing": "3 dias após o cadastro",
+              "subject": "Os números que fazem nossa franquia ser um sucesso",
+              "content_focus": "Dados de mercado, ROI, tempo de retorno do investimento",
+              "goal": "Demonstrar potencial do negócio"
+            },
+            {
+              "step": 3,
+              "timing": "7 dias após o cadastro",
+              "subject": "Conheça nossos franqueados de sucesso",
+              "content_focus": "Depoimentos e histórias reais",
+              "goal": "Gerar identificação e credibilidade"
+            },
+            {
+              "step": 4,
+              "timing": "12 dias após o cadastro",
+              "subject": "Passo a passo para se tornar um franqueado",
+              "content_focus": "Processo de seleção, investimento e abertura",
+              "goal": "Esclarecer dúvidas sobre o processo"
+            },
+            {
+              "step": 5,
+              "timing": "18 dias após o cadastro",
+              "subject": "Perguntas frequentes sobre nossa franquia",
+              "content_focus": "Respostas para as principais dúvidas",
+              "goal": "Remover objeções"
+            },
+            {
+              "step": 6,
+              "timing": "25 dias após o cadastro",
+              "subject": "Agende uma apresentação exclusiva",
+              "content_focus": "Convite para conhecer mais detalhes",
+              "goal": "Converter em reunião de vendas"
+            },
+            {
+              "step": 7,
+              "timing": "35 dias após o cadastro (se não convertido)",
+              "subject": "Última oportunidade: condições especiais",
+              "content_focus": "Oferta com prazo limitado",
+              "goal": "Criar senso de urgência para decisão"
+            }
+          ],
+          "projected_metrics": {
+            "emails_sent": 5000,
+            "opens": 1500,
+            "open_rate": 30.0,
+            "clicks": 98,
+            "click_rate": 6.5,
+            "conversions": 4,
+            "conversion_rate": 4.12,
+            "cost_per_conversion": 124.32
+          }
+        },
+        {
+          "name": "Conversion - PetFood Express - WhatsApp",
+          "objective": "Lead Conversion",
+          "platforms": [
+            "WhatsApp Business"
+          ],
+          "start_date": "2025-05-17",
+          "status": "Always On",
+          "budget": {
+            "monthly": 300,
+            "cost_per_message": 0.02
+          },
+          "targeting": {
+            "audience": "Leads em estágio avançado de consideração",
+            "trigger_points": [
+              "Após download de material",
+              "Após visita à página de investimento",
+              "Após 3 aberturas de email"
+            ]
+          },
+          "frequency": {
+            "initial_contact": "Manual ou automático após trigger",
+            "follow_up": "Máximo 1 mensagem por semana"
+          },
+          "creatives": [
+            {
+              "text": "Olá! Tudo bem?\n\nLiberdade financeira é possível com a franquia PetFood Express\n\nMais de 276 empreendedores já alcançaram o sucesso com a PetFood Express. Invista a partir de R$ 90,960,98 e transforme seu futuro.\n\nQuer saber mais sobre essa oportunidade? Estou à disposição para tirar suas dúvidas!",
+              "recommended_follow_up": "Posso enviar mais informações sobre nossa franquia?",
+              "cta": "Agendar uma conversa"
+            },
+            {
+              "text": "Olá! Tudo bem?\n\nConquiste seu futuro financeiro com a franquia PetFood Express\n\nO mercado de Pet Shop não para de crescer. A PetFood Express oferece suporte completo com um modelo de negócio comprovado. Comece agora!\n\nQuer saber mais sobre essa oportunidade? Estou à disposição para tirar suas dúvidas!",
+              "recommended_follow_up": "Posso enviar mais informações sobre nossa franquia?",
+              "cta": "Agendar uma conversa"
+            },
+            {
+              "text": "Oi! Tudo bem?\n\nSeu próximo negócio de sucesso:  Franquia PetFood Express\n\nSuporte completo, treinamento especializado e marca reconhecida. Tudo isso com a franquia PetFood Express, líder no segmento de Pet Shop.\n\nQuer saber mais sobre essa oportunidade? Estou à disposição para tirar suas dúvidas!",
+              "recommended_follow_up": "Posso enviar mais informações sobre nossa franquia?",
+              "cta": "Agendar uma conversa"
+            },
+            {
+              "step": 1,
+              "trigger": "Mensagem inicial do lead",
+              "response": "Olá! Obrigado pelo seu interesse na franquia [NOME]. Estamos felizes em poder ajudar você a conhecer mais sobre essa oportunidade de negócio. Como posso te ajudar hoje?\n\n1 - Informações gerais\n2 - Valores de investimento\n3 - Falar com um consultor\n4 - Receber material completo",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ]
+            },
+            {
+              "step": 2,
+              "trigger": "Opção 1 (Informações gerais)",
+              "response": "A franquia [NOME] atua no setor de [SETOR] há [X] anos, com mais de [Y] unidades em operação por todo o Brasil. Nosso modelo de negócio oferece:\n\n✅ Suporte completo\n✅ Treinamento especializado\n✅ Marketing nacional\n✅ Território exclusivo\n\nGostaria de saber mais sobre algum tópico específico?\n\n1 - Modelo de negócio\n2 - Suporte oferecido\n3 - Falar com um consultor\n4 - Menu principal",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ]
+            },
+            {
+              "step": 2,
+              "trigger": "Opção 2 (Valores de investimento)",
+              "response": "Investimento na franquia [NOME]:\n\n💰 Investimento inicial: a partir de R$ [VALOR]\n⏱️ Retorno estimado: [X] meses\n📈 ROI médio: [Y]%\n\nO investimento inclui:\n- Taxa de franquia\n- Montagem da unidade\n- Estoque inicial\n- Treinamento\n\nPosso te enviar uma planilha financeira detalhada. Você gostaria de receber?\n\n1 - Sim, quero receber\n2 - Falar com um consultor\n3 - Menu principal",
+              "options": [
+                "1",
+                "2",
+                "3"
+              ]
+            },
+            {
+              "step": 2,
+              "trigger": "Opção 3 (Falar com um consultor)",
+              "response": "Ótimo! Para agendar uma conversa com um de nossos consultores, precisamos de algumas informações:\n\n1. Qual a melhor data e horário para você?\n2. Prefere conversa por telefone ou videochamada?\n3. Qual cidade/estado você tem interesse em abrir a franquia?\n\nAssim que receber essas informações, entrarei em contato para confirmar o agendamento.",
+              "type": "free_text"
+            },
+            {
+              "step": 2,
+              "trigger": "Opção 4 (Receber material)",
+              "response": "Ficarei feliz em enviar nosso material completo sobre a franquia [NOME]. Preciso apenas de seu e-mail para envio:\n\n(Por favor, digite seu e-mail)",
+              "type": "free_text"
+            }
+          ],
+          "projected_metrics": {
+            "messages_sent": 2000,
+            "opens": 1650,
+            "open_rate": 82.5,
+            "responses": 578,
+            "response_rate": 35.0,
+            "conversions": 35,
+            "conversion_rate": 6.0,
+            "cost_per_conversion": 8.66
+          }
+        },
+        {
+          "name": "Remarketing - PetFood Express - Multi-plataforma",
+          "objective": "Conversion",
+          "platforms": [
+            "Facebook",
+            "Instagram",
+            "Google Display",
+            "Google Search"
+          ],
+          "start_date": "2025-05-12",
+          "end_date": "2025-06-11",
+          "status": "Scheduled",
+          "budget": {
+            "monthly": 450.0,
+            "daily": 15.0
+          },
+          "targeting": {
+            "audience": [
+              "Visitantes do site (últimos 30 dias)",
+              "Visualizaram página de investimento",
+              "Iniciaram cadastro mas não completaram",
+              "Abriram emails mas não converteram"
+            ],
+            "exclusions": [
+              "Leads convertidos",
+              "Franqueados atuais"
+            ]
+          },
+          "ad_formats": [
+            "Image",
+            "Dynamic Remarketing"
+          ],
+          "creatives": [],
+          "projected_metrics": {
+            "impressions": 75000,
+            "clicks": 1748,
+            "ctr": 2.33,
+            "cpc": 0.86,
+            "leads": 80,
+            "conversion_rate": 4.6,
+            "cpl": 18.66
+          }
+        }
+      ],
+      "projected_results": {
+        "monthly_budget": 606.41,
+        "estimated_impressions": 295346,
+        "estimated_clicks": 6488,
+        "estimated_leads": 392,
+        "avg_cpl": 1.55,
+        "estimated_franqueados": 19.6,
+        "avg_cac": 30.94,
+        "estimated_revenue": 701094.46,
+        "estimated_roi": 38437.98,
+        "payback_period": 0.0
+      },
+      "kpis_to_monitor": [
+        {
+          "name": "CPL (Custo por Lead)",
+          "description": "Custo médio para gerar um lead qualificado",
+          "formula": "Investimento Total / Número de Leads",
+          "benchmark": "Máximo de R$ 300,00 por lead",
+          "frequency": "Semanal",
+          "action_trigger": "Se ultrapassar R$ 350,00 por 2 semanas consecutivas"
+        },
+        {
+          "name": "Taxa de Conversão (Site)",
+          "description": "Percentual de visitantes que preenchem formulário",
+          "formula": "Leads / Visitantes do Site",
+          "benchmark": "Mínimo de 3%",
+          "frequency": "Semanal",
+          "action_trigger": "Se ficar abaixo de 2% por 2 semanas consecutivas"
+        },
+        {
+          "name": "Custo por Clique (CPC)",
+          "description": "Custo médio por clique em anúncios",
+          "formula": "Investimento em Ads / Número de Cliques",
+          "benchmark": "Máximo de R$ 3,50",
+          "frequency": "Diária",
+          "action_trigger": "Se ultrapassar R$ 4,00 por 3 dias consecutivos"
+        },
+        {
+          "name": "Reuniões Agendadas",
+          "description": "Número de reuniões agendadas com potenciais franqueados",
+          "formula": "Contagem direta",
+          "benchmark": "Mínimo de 10 por mês",
+          "frequency": "Semanal",
+          "action_trigger": "Se projeção mensal ficar abaixo de 8"
+        },
+        {
+          "name": "Taxa de Qualificação",
+          "description": "Percentual de leads que passam para a fase de avaliação",
+          "formula": "Leads Qualificados / Total de Leads",
+          "benchmark": "Mínimo de 30%",
+          "frequency": "Mensal",
+          "action_trigger": "Se ficar abaixo de 25%"
+        },
+        {
+          "name": "CAC (Custo de Aquisição de Cliente)",
+          "description": "Custo para adquirir um novo franqueado",
+          "formula": "Investimento Total / Número de Novos Franqueados",
+          "benchmark": "Máximo de 10% do valor médio da franquia",
+          "frequency": "Trimestral",
+          "action_trigger": "Se ultrapassar 12% do valor médio da franquia"
+        },
+        {
+          "name": "ROI de Marketing",
+          "description": "Retorno sobre investimento em marketing",
+          "formula": "(Receita com Novas Franquias - Investimento) / Investimento",
+          "benchmark": "Mínimo de 300%",
+          "frequency": "Trimestral",
+          "action_trigger": "Se ficar abaixo de 250%"
+        }
+      ],
+      "optimization_recommendations": [
+        {
+          "area": "Segmentação",
+          "recommendations": [
+            "Avaliar performance por faixas etárias e ajustar targeting para as mais responsivas",
+            "Testar novos interesses relacionados ao empreendedorismo",
+            "Criar audiências semelhantes (lookalike) a partir dos leads convertidos",
+            "Excluir regiões com baixa performance após 30 dias"
+          ]
+        },
+        {
+          "area": "Criativos",
+          "recommendations": [
+            "Testar diferentes abordagens de headline (foco em ROI vs. liberdade financeira)",
+            "Avaliar performance de imagens de produto vs. franqueados reais",
+            "Rotacionar criativos a cada 15-20 dias para evitar fadiga",
+            "Criar versões específicas para remarketing com senso de urgência"
+          ]
+        },
+        {
+          "area": "Orçamento",
+          "recommendations": [
+            "Redistribuir investimento para canais com melhor performance de CPL",
+            "Aumentar orçamento nos dias da semana com melhor taxa de conversão",
+            "Reduzir investimento em campanhas de awareness após 45 dias",
+            "Aumentar progressivamente orçamento de remarketing"
+          ]
+        },
+        {
+          "area": "Landing Pages",
+          "recommendations": [
+            "Testar variações A/B de headline na landing page principal",
+            "Simplificar formulário para apenas 3-4 campos essenciais",
+            "Adicionar depoimentos em vídeo de franqueados",
+            "Criar páginas específicas para cada região prioritária"
+          ]
+        },
+        {
+          "area": "Jornada do Lead",
+          "recommendations": [
+            "Implementar automação de lead scoring baseado em comportamento",
+            "Criar sequência de remarketing específica para leads que agendam mas não comparecem à reunião",
+            "Desenvolver conteúdos específicos para cada etapa do funil",
+            "Implementar gatilhos de WhatsApp para leads com alto score que não avançam"
+          ]
+        }
+      ]
+    }
+  }
+]

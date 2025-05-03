@@ -1,0 +1,521 @@
+{
+    "opportunities": [
+        {
+            "name": "Coffee Express",
+            "category": "Café",
+            "initial_investment": 81371.93994153739,
+            "franchise_fee": 14577.45430816058,
+            "royalty_fee_percentage": 3.534216854598135,
+            "avg_monthly_revenue": 15864.942189198322,
+            "roi_percentage": 60.86316136510642,
+            "payback_period_months": 19.716359996508075,
+            "min_area": 66,
+            "min_employees": 4,
+            "units": 43,
+            "description": "Franquia de Café com excelente retorno sobre investimento.",
+            "summary": "Com investimento inicial a partir de R$ 81.4 mil, Coffee Express oferece uma excelente oportunidade no mercado de Café.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 15:26:55",
+            "cleaned_at": "2025-05-02 15:26:55",
+            "opportunity_score": 54.63,
+            "estimated_monthly_revenue": 15864.942189198322,
+            "estimated_monthly_expenses": 11737.814263153707,
+            "estimated_monthly_profit": 4127.127926044615,
+            "annual_profit": 49525.535112535385,
+            "profit_margin": 0.26014137819264027,
+            "operational_margin": 0.26014137819264027,
+            "operating_expenses": {
+                "aluguel": 2165.9203199842927,
+                "pessoal": 4356.630789989561,
+                "marketing": 1269.7916497837193,
+                "insumos": 3521.0682096220075,
+                "administracao": 1253.8049236024085,
+                "outros": 1054.2955377010867
+            },
+            "growth_rate": 0.08144825489158666,
+            "future_revenues": {
+                "ano1": 49525.535112535385,
+                "ano2": 53559.30352002339,
+                "ano3": 57921.61532493812,
+                "ano4": 62639.2298136561,
+                "ano5": 67741.08576973145
+            }
+        },
+        {
+            "name": "Beauty Spot",
+            "category": "Beleza",
+            "initial_investment": 58657.88180090153,
+            "franchise_fee": 6264.7067762450615,
+            "royalty_fee_percentage": 7.328227293531339,
+            "avg_monthly_revenue": 13303.25356376154,
+            "roi_percentage": 100.52753048981687,
+            "payback_period_months": 11.93702853490026,
+            "min_area": 26,
+            "min_employees": 5,
+            "units": 165,
+            "description": "Invista em uma franquia de Beleza em expansão no mercado.",
+            "summary": "Com investimento inicial a partir de R$ 58.7 mil, Beauty Spot oferece uma excelente oportunidade no mercado de Beleza.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 15:26:55",
+            "cleaned_at": "2025-05-02 15:26:55",
+            "market_research": [
+                {
+                    "title": "Oportunidades em Beleza",
+                    "market_size": 800000000.0,
+                    "growth_rate": 0.11780405497721695,
+                    "insights": [
+                        "Novas tecnologias estão transformando o setor de Beleza",
+                        "Empresas com foco em sustentabilidade têm se destacado em Beleza"
+                    ]
+                },
+                {
+                    "title": "Análise de Mercado: Beleza",
+                    "market_size": 223000000.0,
+                    "growth_rate": 0.20576953892507016,
+                    "insights": [
+                        "O mercado de Beleza deve crescer 20.6% nos próximos 2 anos",
+                        "O segmento online em Beleza tem crescido acima da média do mercado",
+                        "Há uma tendência de consolidação no setor de Beleza"
+                    ]
+                },
+                {
+                    "title": "Relatório de Investimento: Beleza",
+                    "market_size": 773000000.0,
+                    "growth_rate": 0.02739202233063874,
+                    "insights": [
+                        "O mercado de Beleza deve crescer 2.7% nos próximos 2 anos",
+                        "Novas tecnologias estão transformando o setor de Beleza",
+                        "Há uma tendência de consolidação no setor de Beleza"
+                    ]
+                },
+                {
+                    "title": "Relatório de Investimento: Beleza",
+                    "market_size": 364000000.0,
+                    "growth_rate": 0.19768835835137755,
+                    "insights": [
+                        "Franquias de Beleza têm mostrado resistência em períodos de crise",
+                        "O mercado de Beleza deve crescer 19.8% nos próximos 2 anos",
+                        "Há uma tendência de consolidação no setor de Beleza"
+                    ]
+                },
+                {
+                    "title": "Tendências do Setor de Beleza",
+                    "market_size": 523000000.0,
+                    "growth_rate": 0.05143570946636519,
+                    "insights": [
+                        "Novas tecnologias estão transformando o setor de Beleza",
+                        "Empresas com foco em sustentabilidade têm se destacado em Beleza",
+                        "Há uma tendência de consolidação no setor de Beleza"
+                    ]
+                }
+            ],
+            "opportunity_score": 49.32,
+            "estimated_monthly_revenue": 13303.25356376154,
+            "estimated_monthly_expenses": 8389.310229421371,
+            "estimated_monthly_profit": 4913.943334340169,
+            "annual_profit": 58967.320012082026,
+            "profit_margin": 0.369379062857668,
+            "operational_margin": 0.3693790628576679,
+            "operating_expenses": {
+                "aluguel": 1342.2513348994366,
+                "pessoal": 2406.004770250957,
+                "marketing": 885.0783818433267,
+                "insumos": 2819.1207667178246,
+                "administracao": 572.2757407248941,
+                "outros": 505.06477135357466
+            },
+            "growth_rate": 0.19553793958182034,
+            "future_revenues": {
+                "ano1": 58967.320012082026,
+                "ano2": 70497.6682699064,
+                "ano3": 84282.63706872657,
+                "ano4": 100763.09026366772,
+                "ano5": 120466.09731972228
+            }
+        },
+        {
+            "name": "KidsPlay",
+            "category": "Entretenimento",
+            "initial_investment": 51193.5733208664,
+            "franchise_fee": 5524.477111617736,
+            "royalty_fee_percentage": 2.696690594062418,
+            "avg_monthly_revenue": 9276.339856598648,
+            "roi_percentage": 73.22928771311379,
+            "payback_period_months": 16.386886141801238,
+            "min_area": 87,
+            "min_employees": 8,
+            "units": 21,
+            "description": "Invista em uma franquia de Entretenimento em expansão no mercado.",
+            "summary": "KidsPlay se destaca no segmento de Entretenimento com retorno estimado em 23.8 meses.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 15:26:55",
+            "cleaned_at": "2025-05-02 15:26:55",
+            "opportunity_score": 47.96,
+            "estimated_monthly_revenue": 9276.339856598648,
+            "estimated_monthly_expenses": 6152.282431785222,
+            "estimated_monthly_profit": 3124.057424813426,
+            "annual_profit": 37488.68909776112,
+            "profit_margin": 0.3367769479242563,
+            "operational_margin": 0.33677694792425633,
+            "operating_expenses": {
+                "aluguel": 1375.5053482484266,
+                "pessoal": 2387.2958999673483,
+                "marketing": 379.39285190113924,
+                "insumos": 1935.963709935624,
+                "administracao": 758.6724631551527,
+                "outros": 343.7429886770778
+            },
+            "growth_rate": 0.09092209215250571,
+            "future_revenues": {
+                "ano1": 37488.68909776112,
+                "ano2": 40897.239142584396,
+                "ano3": 44615.70168868952,
+                "ano4": 48672.25462907726,
+                "ano5": 53097.63784973245
+            }
+        },
+        {
+            "name": "CleanHome",
+            "category": "Serviços",
+            "initial_investment": 56402.49455697849,
+            "franchise_fee": 8697.465256799593,
+            "royalty_fee_percentage": 10.552969659567161,
+            "avg_monthly_revenue": 13294.102436495856,
+            "roi_percentage": 92.08111247992193,
+            "payback_period_months": 13.031988511885727,
+            "min_area": 44,
+            "min_employees": 3,
+            "units": 172,
+            "description": "Invista em uma franquia de Serviços em expansão no mercado.",
+            "summary": "CleanHome se destaca no segmento de Serviços com retorno estimado em 15.9 meses.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 15:26:55",
+            "cleaned_at": "2025-05-02 15:26:55",
+            "market_research": [
+                {
+                    "title": "Pesquisa de Consumidor: Serviços",
+                    "market_size": 744000000.0,
+                    "growth_rate": 0.15979012379134722,
+                    "insights": [
+                        "O mercado de Serviços deve crescer 16.0% nos próximos 2 anos",
+                        "Empresas com foco em sustentabilidade têm se destacado em Serviços"
+                    ]
+                },
+                {
+                    "title": "Análise de Mercado: Serviços",
+                    "market_size": 450000000.0,
+                    "growth_rate": 0.150014943534799,
+                    "insights": [
+                        "O segmento online em Serviços tem crescido acima da média do mercado",
+                        "Consumidores valorizam qualidade e preço no setor de Serviços",
+                        "O mercado de Serviços deve crescer 15.0% nos próximos 2 anos"
+                    ]
+                },
+                {
+                    "title": "Oportunidades em Serviços",
+                    "market_size": 718000000.0,
+                    "growth_rate": 0.11337309992975297,
+                    "insights": [
+                        "Empresas com foco em sustentabilidade têm se destacado em Serviços",
+                        "Há uma tendência de consolidação no setor de Serviços",
+                        "O mercado de Serviços deve crescer 11.3% nos próximos 2 anos"
+                    ]
+                }
+            ],
+            "opportunity_score": 46.73,
+            "estimated_monthly_revenue": 13294.102436495856,
+            "estimated_monthly_expenses": 8966.098731954755,
+            "estimated_monthly_profit": 4328.003704541101,
+            "annual_profit": 51936.04445449321,
+            "profit_margin": 0.3255581732738554,
+            "operational_margin": 0.3255581732738554,
+            "operating_expenses": {
+                "aluguel": 1878.1106702366867,
+                "pessoal": 2696.664718145909,
+                "marketing": 850.9362797607029,
+                "insumos": 2614.9014866347507,
+                "administracao": 1228.1174747969199,
+                "outros": 482.850687490275
+            },
+            "growth_rate": 0.19893331293401662,
+            "future_revenues": {
+                "ano1": 51936.04445449321,
+                "ano2": 62267.85383851391,
+                "ano3": 74655.00429190062,
+                "ano4": 89506.37162279164,
+                "ano5": 107312.17065841686
+            }
+        },
+        {
+            "name": "FitLife Gym",
+            "category": "Fitness",
+            "initial_investment": 110499.38268956463,
+            "franchise_fee": 21424.171445457403,
+            "royalty_fee_percentage": 3.542792621914449,
+            "avg_monthly_revenue": 26847.648975183023,
+            "roi_percentage": 106.84608494763248,
+            "payback_period_months": 11.23110875413119,
+            "min_area": 163,
+            "min_employees": 8,
+            "units": 71,
+            "description": "Franquia inovadora no segmento de Fitness com alta rentabilidade.",
+            "summary": "FitLife Gym é uma rede de franquias no setor de Fitness com 71 unidades em operação no Brasil.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 15:26:55",
+            "cleaned_at": "2025-05-02 15:26:55",
+            "opportunity_score": 45.92,
+            "estimated_monthly_revenue": 26847.648975183023,
+            "estimated_monthly_expenses": 17008.960283924545,
+            "estimated_monthly_profit": 9838.688691258478,
+            "annual_profit": 118064.26429510173,
+            "profit_margin": 0.36646369670405776,
+            "operational_margin": 0.3664636967040577,
+            "operating_expenses": {
+                "aluguel": 3623.907074702826,
+                "pessoal": 4288.5631890186,
+                "marketing": 1103.5888345846881,
+                "insumos": 3993.715343817807,
+                "administracao": 2000.1977111670292,
+                "outros": 1238.4463989696465
+            },
+            "growth_rate": 0.13876803295464507,
+            "future_revenues": {
+                "ano1": 118064.26429510173,
+                "ano2": 134447.81001357033,
+                "ano3": 153104.8681442133,
+                "ano4": 174350.92953236608,
+                "ano5": 198545.26506738644
+            }
+        },
+        {
+            "name": "PetFood Express",
+            "category": "Pet",
+            "initial_investment": 84469.19833634316,
+            "franchise_fee": 12408.015136541426,
+            "royalty_fee_percentage": 8.956824039425754,
+            "avg_monthly_revenue": 11908.486533171781,
+            "roi_percentage": 51.32635865539286,
+            "payback_period_months": 23.379799998220136,
+            "min_area": 58,
+            "min_employees": 3,
+            "units": 168,
+            "description": "Oportunidade no setor de Pet com modelo de negócio comprovado.",
+            "summary": "PetFood Express se destaca no segmento de Pet com retorno estimado em 34.5 meses.",
+            "source": "Web (simulado)",
+            "scraped_at": "2025-05-02 15:26:55",
+            "cleaned_at": "2025-05-02 15:26:55",
+            "market_research": [
+                {
+                    "title": "Oportunidades em Pet",
+                    "market_size": 101000000.0,
+                    "growth_rate": 0.1033337212785073,
+                    "insights": [
+                        "Consumidores valorizam qualidade e preço no setor de Pet",
+                        "Há uma tendência de consolidação no setor de Pet"
+                    ]
+                },
+                {
+                    "title": "Pesquisa de Consumidor: Pet",
+                    "market_size": 630000000.0,
+                    "growth_rate": 0.2187543783811716,
+                    "insights": [
+                        "Consumidores valorizam qualidade e preço no setor de Pet",
+                        "Franquias de Pet têm mostrado resistência em períodos de crise",
+                        "Novas tecnologias estão transformando o setor de Pet"
+                    ]
+                }
+            ],
+            "opportunity_score": 39.95,
+            "estimated_monthly_revenue": 11908.486533171781,
+            "estimated_monthly_expenses": 8295.572892217895,
+            "estimated_monthly_profit": 3612.913640953886,
+            "annual_profit": 43354.96369144663,
+            "profit_margin": 0.3033898246338781,
+            "operational_margin": 0.30338982463387815,
+            "operating_expenses": {
+                "aluguel": 1754.51747876474,
+                "pessoal": 2772.120507632324,
+                "marketing": 828.7390899003495,
+                "insumos": 2698.530663216682,
+                "administracao": 478.7045096343557,
+                "outros": 454.3779465627351
+            },
+            "growth_rate": 0.09466552959668875,
+            "future_revenues": {
+                "ano1": 43354.96369144663,
+                "ano2": 47459.18428994264,
+                "ano3": 51951.9331049769,
+                "ano4": 56869.990365931284,
+                "ano5": 62253.61812208077
+            }
+        }
+    ],
+    "market_trends": [
+        {
+            "keyword": "educação",
+            "source_type": "market_research",
+            "growth_rate": 0.22780226696385006,
+            "sentiment": 0.7839212114889458,
+            "category": "Educação",
+            "insight": "Há uma tendência de consolidação no setor de Educação",
+            "source": "Kantar Worldpanel",
+            "relevance_score": 0.6262972702322238,
+            "sources": 13,
+            "categories": [
+                "Educação"
+            ]
+        },
+        {
+            "keyword": "alimentação saudável",
+            "source_type": "social_media",
+            "growth_rate": 0.14946511415268682,
+            "sentiment": 0.8805096340852532,
+            "monthly_mentions": 230000.0,
+            "platforms": [
+                "Instagram",
+                "TikTok",
+                "Facebook"
+            ],
+            "first_observed": "2025-01-02",
+            "relevance_score": 0.6239389358866507,
+            "sources": 11,
+            "categories": [
+                "Alimentação"
+            ]
+        },
+        {
+            "keyword": "segmento online",
+            "source_type": "market_research",
+            "growth_rate": 0.20978681071398653,
+            "sentiment": 0.7648621267669434,
+            "category": "Alimentação",
+            "insight": "O segmento online em Alimentação tem crescido acima da média do mercado",
+            "source": "Associação Brasileira de Franchising",
+            "relevance_score": 0.6133733623156776,
+            "sources": 20,
+            "categories": [
+                "Alimentação",
+                "Saúde",
+                "Educação",
+                "Moda",
+                "Beleza",
+                "Serviços",
+                "Varejo"
+            ]
+        },
+        {
+            "keyword": "crescer",
+            "source_type": "market_research",
+            "growth_rate": 0.16634592554265018,
+            "sentiment": 0.7761609642593816,
+            "category": "Educação",
+            "insight": "O mercado de Educação deve crescer 21.5% nos próximos 2 anos",
+            "source": "Kantar Worldpanel",
+            "relevance_score": 0.5993866594948745,
+            "sources": 12,
+            "categories": [
+                "Educação",
+                "Tecnologia",
+                "Moda",
+                "Beleza",
+                "Serviços",
+                "Varejo"
+            ]
+        },
+        {
+            "keyword": "deve",
+            "source_type": "market_research",
+            "growth_rate": 0.1668700610727525,
+            "sentiment": 0.7754297868334253,
+            "category": "Educação",
+            "insight": "O mercado de Educação deve crescer 21.5% nos próximos 2 anos",
+            "source": "Kantar Worldpanel",
+            "relevance_score": 0.5993769604791286,
+            "sources": 16,
+            "categories": [
+                "Educação",
+                "Tecnologia",
+                "Moda",
+                "Beleza",
+                "Serviços",
+                "Varejo"
+            ]
+        },
+        {
+            "keyword": "média",
+            "source_type": "market_research",
+            "growth_rate": 0.20595990347320098,
+            "sentiment": 0.7202418648154177,
+            "category": "Saúde",
+            "insight": "O segmento online em Saúde tem crescido acima da média do mercado",
+            "source": "Kantar Worldpanel",
+            "relevance_score": 0.5984565208339057,
+            "sources": 7,
+            "categories": [
+                "Saúde",
+                "Educação",
+                "Moda",
+                "Beleza",
+                "Varejo"
+            ]
+        },
+        {
+            "keyword": "Beleza",
+            "source_type": "market_research",
+            "growth_rate": 0.08389887794952855,
+            "sentiment": 0.8817601118599335,
+            "investment_opportunity": 0.6358181814629373,
+            "source": "Nielsen",
+            "relevance_score": 0.5980875847377914,
+            "sources": 10,
+            "categories": [
+                "Beleza"
+            ]
+        },
+        {
+            "keyword": "mercado",
+            "source_type": "market_research",
+            "growth_rate": 0.17333162685165168,
+            "sentiment": 0.7601260175309676,
+            "category": "Educação",
+            "insight": "O mercado de Educação deve crescer 21.5% nos próximos 2 anos",
+            "source": "Kantar Worldpanel",
+            "relevance_score": 0.597370455999951,
+            "sources": 5,
+            "categories": [
+                "Educação",
+                "Tecnologia",
+                "Varejo"
+            ]
+        },
+        {
+            "keyword": "varejo",
+            "source_type": "market_research",
+            "growth_rate": 0.1704267789504769,
+            "sentiment": 0.6924862344894991,
+            "category": "Varejo",
+            "insight": "Novas tecnologias estão transformando o setor de Varejo",
+            "source": "Euromonitor International",
+            "relevance_score": 0.5759165819270404,
+            "sources": 11,
+            "categories": [
+                "Varejo"
+            ]
+        },
+        {
+            "keyword": "serviços",
+            "source_type": "market_research",
+            "growth_rate": 0.1157013994529455,
+            "sentiment": 0.7542930329412902,
+            "category": "Serviços",
+            "insight": "O mercado de Serviços deve crescer 16.0% nos próximos 2 anos",
+            "source": "Consultoria McKinsey",
+            "relevance_score": 0.5725684696635653,
+            "sources": 11,
+            "categories": [
+                "Serviços"
+            ]
+        }
+    ],
+    "timestamp": "2025-05-02 15:26:56"
+}

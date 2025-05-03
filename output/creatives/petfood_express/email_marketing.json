@@ -1,0 +1,158 @@
+{
+  "campaigns": [
+    {
+      "subject": "Conheça a franquia PetFood Express - Oportunida...",
+      "body": "\nOlá, empreendedor!\n\nVocê está em busca de uma oportunidade para investir no seu futuro? A franquia PetFood Express é líder no segmento de Pet Shop, com um modelo de negócio comprovado e retorno acelerado.\n\n✅ Investimento a partir de R$ 46,396,94\n✅ Retorno em apenas 50 meses\n✅ ROI estimado de 29%\n✅ Mais de 195 unidades em operação\n\nNossa equipe está pronta para tirar todas as suas dúvidas e apresentar detalhes sobre essa oportunidade.\n\nClique no botão abaixo para agendar uma conversa com um de nossos consultores.\n\n[AGENDAR CONVERSA]\n\nAtenciosamente,\nEquipe PetFood Express\n                ",
+      "type": "Prospecção de franqueados",
+      "recommended_layout": {
+        "width": 600,
+        "image_to_text_ratio": "60:40",
+        "max_file_size": "100KB"
+      },
+      "recommended_elements": [
+        "Logo da franquia no topo",
+        "Banner principal com imagem de unidade ou franqueado",
+        "Botões de CTA em destaque (cores contrastantes)",
+        "Informações de contato no rodapé",
+        "Links para redes sociais",
+        "Opção de cancelar inscrição"
+      ]
+    },
+    {
+      "subject": "Transforme seu futuro com a franquia PetFood Ex...",
+      "body": "\nOlá!\n\nO mercado de Pet Shop continua em expansão, mesmo em tempos desafiadores. A franquia PetFood Express traz uma oportunidade para você empreender com segurança nesse setor promissor.\n\nPor que escolher a franquia PetFood Express?\n\n- Modelo de negócio validado com mais de 195 unidades\n- Suporte completo em todas as etapas\n- Treinamento especializado para você e sua equipe\n- Marketing e estratégias de vendas já desenvolvidos\n- Território exclusivo para sua operação\n\nInvestimento a partir de R$ 46,396,94, com retorno projetado em apenas 50 meses.\n\nResponda este email ou clique no botão abaixo para saber mais detalhes e agendar uma apresentação personalizada.\n\n[QUERO SABER MAIS]\n\nAtenciosamente,\nEquipe PetFood Express\n                ",
+      "type": "Prospecção de franqueados",
+      "recommended_layout": {
+        "width": 600,
+        "image_to_text_ratio": "60:40",
+        "max_file_size": "100KB"
+      },
+      "recommended_elements": [
+        "Logo da franquia no topo",
+        "Banner principal com imagem de unidade ou franqueado",
+        "Botões de CTA em destaque (cores contrastantes)",
+        "Informações de contato no rodapé",
+        "Links para redes sociais",
+        "Opção de cancelar inscrição"
+      ]
+    },
+    {
+      "subject": "Ainda tem dúvidas sobre a franquia PetFood Expr...",
+      "body": "\nOlá!\n\nHá alguns dias conversamos sobre a oportunidade de investir na franquia PetFood Express.\n\nGostaríamos de saber se você tem alguma dúvida adicional ou se precisa de mais informações para tomar sua decisão.\n\nNossa equipe está à disposição para ajudá-lo a entender melhor:\n\n- Como funciona o modelo de negócio\n- Detalhes sobre o investimento inicial\n- Projeções financeiras detalhadas\n- Processo de abertura e inauguração\n- Suporte oferecido pela franqueadora\n\nResponda este email ou clique no botão abaixo para agendar uma nova conversa.\n\n[AGENDAR CONVERSA]\n\nAtenciosamente,\nEquipe PetFood Express\n            ",
+      "type": "Follow-up após 7 dias",
+      "recommended_layout": {
+        "width": 600,
+        "image_to_text_ratio": "60:40",
+        "max_file_size": "100KB"
+      },
+      "recommended_elements": [
+        "Logo da franquia no topo",
+        "Banner principal com imagem de unidade ou franqueado",
+        "Botões de CTA em destaque (cores contrastantes)",
+        "Informações de contato no rodapé",
+        "Links para redes sociais",
+        "Opção de cancelar inscrição"
+      ]
+    },
+    {
+      "step": 1,
+      "timing": "Imediato após cadastro",
+      "subject": "Bem-vindo à jornada para se tornar um franqueado",
+      "content_focus": "Apresentação da franquia e agradecimento pelo interesse",
+      "goal": "Estabelecer relacionamento"
+    },
+    {
+      "step": 2,
+      "timing": "3 dias após o cadastro",
+      "subject": "Os números que fazem nossa franquia ser um sucesso",
+      "content_focus": "Dados de mercado, ROI, tempo de retorno do investimento",
+      "goal": "Demonstrar potencial do negócio"
+    },
+    {
+      "step": 3,
+      "timing": "7 dias após o cadastro",
+      "subject": "Conheça nossos franqueados de sucesso",
+      "content_focus": "Depoimentos e histórias reais",
+      "goal": "Gerar identificação e credibilidade"
+    },
+    {
+      "step": 4,
+      "timing": "12 dias após o cadastro",
+      "subject": "Passo a passo para se tornar um franqueado",
+      "content_focus": "Processo de seleção, investimento e abertura",
+      "goal": "Esclarecer dúvidas sobre o processo"
+    },
+    {
+      "step": 5,
+      "timing": "18 dias após o cadastro",
+      "subject": "Perguntas frequentes sobre nossa franquia",
+      "content_focus": "Respostas para as principais dúvidas",
+      "goal": "Remover objeções"
+    },
+    {
+      "step": 6,
+      "timing": "25 dias após o cadastro",
+      "subject": "Agende uma apresentação exclusiva",
+      "content_focus": "Convite para conhecer mais detalhes",
+      "goal": "Converter em reunião de vendas"
+    },
+    {
+      "step": 7,
+      "timing": "35 dias após o cadastro (se não convertido)",
+      "subject": "Última oportunidade: condições especiais",
+      "content_focus": "Oferta com prazo limitado",
+      "goal": "Criar senso de urgência para decisão"
+    }
+  ],
+  "nurture_sequence": [
+    {
+      "step": 1,
+      "timing": "Imediato após cadastro",
+      "subject": "Bem-vindo à jornada para se tornar um franqueado",
+      "content_focus": "Apresentação da franquia e agradecimento pelo interesse",
+      "goal": "Estabelecer relacionamento"
+    },
+    {
+      "step": 2,
+      "timing": "3 dias após o cadastro",
+      "subject": "Os números que fazem nossa franquia ser um sucesso",
+      "content_focus": "Dados de mercado, ROI, tempo de retorno do investimento",
+      "goal": "Demonstrar potencial do negócio"
+    },
+    {
+      "step": 3,
+      "timing": "7 dias após o cadastro",
+      "subject": "Conheça nossos franqueados de sucesso",
+      "content_focus": "Depoimentos e histórias reais",
+      "goal": "Gerar identificação e credibilidade"
+    },
+    {
+      "step": 4,
+      "timing": "12 dias após o cadastro",
+      "subject": "Passo a passo para se tornar um franqueado",
+      "content_focus": "Processo de seleção, investimento e abertura",
+      "goal": "Esclarecer dúvidas sobre o processo"
+    },
+    {
+      "step": 5,
+      "timing": "18 dias após o cadastro",
+      "subject": "Perguntas frequentes sobre nossa franquia",
+      "content_focus": "Respostas para as principais dúvidas",
+      "goal": "Remover objeções"
+    },
+    {
+      "step": 6,
+      "timing": "25 dias após o cadastro",
+      "subject": "Agende uma apresentação exclusiva",
+      "content_focus": "Convite para conhecer mais detalhes",
+      "goal": "Converter em reunião de vendas"
+    },
+    {
+      "step": 7,
+      "timing": "35 dias após o cadastro (se não convertido)",
+      "subject": "Última oportunidade: condições especiais",
+      "content_focus": "Oferta com prazo limitado",
+      "goal": "Criar senso de urgência para decisão"
+    }
+  ]
+}

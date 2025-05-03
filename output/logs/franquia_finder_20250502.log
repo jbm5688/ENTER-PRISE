@@ -1,0 +1,251 @@
+2025-05-02 01:09:50,977 - franquia_finder - WARNING - Arquivo de chaves de API não encontrado
+2025-05-02 01:09:50,977 - franquia_finder - WARNING - Arquivo de configurações de plataformas não encontrado
+2025-05-02 01:09:50,977 - franquia_finder - WARNING - Arquivo de parâmetros de análise não encontrado
+2025-05-02 01:09:50,977 - franquia_finder - INFO - Iniciando análise global...
+2025-05-02 01:09:50,993 - franquia_finder - INFO - Iniciando coleta de dados...
+2025-05-02 01:09:50,993 - franchise_scraper - ERROR - Erro ao carregar configuração: expected str, bytes or os.PathLike object, not dict
+2025-05-02 01:09:50,993 - franquia_finder - ERROR - Erro na execução: 'FranchiseScraper' object has no attribute 'collect_data'
+Traceback (most recent call last):
+  File "F:\franquia-finder\main.py", line 541, in <module>
+    main()
+  File "F:\franquia-finder\main.py", line 512, in main
+    global_analysis(configs, args)
+  File "F:\franquia-finder\main.py", line 440, in global_analysis
+    data = collect_data(configs, args)
+  File "F:\franquia-finder\main.py", line 123, in collect_data
+    data['franchise_data'] = franchise_scraper.collect_data(limit=args.franchise_limit)
+AttributeError: 'FranchiseScraper' object has no attribute 'collect_data'
+2025-05-02 01:16:27,409 - franquia_finder - WARNING - Arquivo de chaves de API não encontrado
+2025-05-02 01:16:27,440 - franquia_finder - WARNING - Arquivo de configurações de plataformas não encontrado
+2025-05-02 01:16:27,440 - franquia_finder - WARNING - Arquivo de parâmetros de análise não encontrado
+2025-05-02 01:16:27,440 - franquia_finder - INFO - Iniciando análise global...
+2025-05-02 01:16:27,440 - franquia_finder - INFO - Iniciando coleta de dados...
+2025-05-02 01:16:27,440 - franchise_scraper - ERROR - Erro ao carregar configuração: expected str, bytes or os.PathLike object, not dict
+2025-05-02 01:16:27,440 - franquia_finder - ERROR - Erro na execução: 'FranchiseScraper' object has no attribute 'collect_data'
+Traceback (most recent call last):
+  File "F:\franquia-finder\main.py", line 541, in <module>
+    main()
+  File "F:\franquia-finder\main.py", line 512, in main
+    global_analysis(configs, args)
+  File "F:\franquia-finder\main.py", line 440, in global_analysis
+    data = collect_data(configs, args)
+  File "F:\franquia-finder\main.py", line 123, in collect_data
+    data['franchise_data'] = franchise_scraper.collect_data(limit=args.franchise_limit)
+AttributeError: 'FranchiseScraper' object has no attribute 'collect_data'
+2025-05-02 01:33:34,222 - franquia_finder - WARNING - Arquivo de chaves de API não encontrado
+2025-05-02 01:33:34,254 - franquia_finder - WARNING - Arquivo de configurações de plataformas não encontrado
+2025-05-02 01:33:34,254 - franquia_finder - WARNING - Arquivo de parâmetros de análise não encontrado
+2025-05-02 01:33:34,254 - franquia_finder - INFO - Iniciando análise global...
+2025-05-02 01:33:34,254 - franquia_finder - INFO - Iniciando coleta de dados...
+2025-05-02 01:33:34,254 - franchise_scraper - ERROR - Erro ao carregar configuração: expected str, bytes or os.PathLike object, not dict
+2025-05-02 01:33:34,254 - franquia_finder - ERROR - Erro na execução: 'FranchiseScraper' object has no attribute 'collect_data'
+Traceback (most recent call last):
+  File "F:\franquia-finder\main.py", line 541, in <module>
+    main()
+  File "F:\franquia-finder\main.py", line 512, in main
+    global_analysis(configs, args)
+  File "F:\franquia-finder\main.py", line 440, in global_analysis
+    data = collect_data(configs, args)
+  File "F:\franquia-finder\main.py", line 123, in collect_data
+    data['franchise_data'] = franchise_scraper.collect_data(limit=args.franchise_limit)
+AttributeError: 'FranchiseScraper' object has no attribute 'collect_data'
+2025-05-02 01:57:14,456 - franquia_finder - WARNING - Arquivo de chaves de API não encontrado
+2025-05-02 01:57:14,471 - franquia_finder - WARNING - Arquivo de configurações de plataformas não encontrado
+2025-05-02 01:57:14,471 - franquia_finder - WARNING - Arquivo de parâmetros de análise não encontrado
+2025-05-02 01:57:14,471 - franquia_finder - INFO - Iniciando análise global...
+2025-05-02 01:57:14,471 - franquia_finder - INFO - Iniciando coleta de dados...
+2025-05-02 01:57:14,471 - franquia_finder - INFO - Iniciando processamento de dados...
+2025-05-02 01:57:14,471 - franquia_finder - INFO - Dados limpos e normalizados
+2025-05-02 01:57:14,471 - franquia_finder - INFO - Identificadas 1 oportunidades potenciais
+2025-05-02 01:57:14,471 - franquia_finder - INFO - Identificadas 5 tendências de mercado
+2025-05-02 01:57:14,471 - franquia_finder - INFO - Estimativas de lucro calculadas
+2025-05-02 01:57:14,487 - franquia_finder - INFO - Dados processados salvos em output\data\processed_data_20250502_015714.json
+2025-05-02 01:57:14,487 - franquia_finder - INFO - Iniciando análise aprofundada das oportunidades...
+2025-05-02 01:57:14,487 - franquia_finder - INFO - Analisando oportunidade: PetFood Express
+2025-05-02 01:57:14,487 - franquia_finder - ERROR - Erro na execução: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "F:\franquia-finder\main.py", line 572, in <module>
+    main()
+  File "F:\franquia-finder\main.py", line 543, in main
+    global_analysis(configs, args)
+  File "F:\franquia-finder\main.py", line 477, in global_analysis
+    detailed_analysis = analyze_opportunities(opportunities, market_trends, configs, args)
+  File "F:\franquia-finder\main.py", line 246, in analyze_opportunities
+    competition_data = competition_analyzer.analyze(opportunity)
+  File "F:\franquia-finder\analysis\competition_analysis.py", line 47, in analyze
+    density_analysis = self._analyze_density(competitors)
+  File "F:\franquia-finder\analysis\competition_analysis.py", line 133, in _analyze_density
+    total_units = sum(comp.get('num_units', 0) for comp in competitors)
+  File "F:\franquia-finder\analysis\competition_analysis.py", line 133, in <genexpr>
+    total_units = sum(comp.get('num_units', 0) for comp in competitors)
+AttributeError: 'str' object has no attribute 'get'
+2025-05-02 02:15:50,654 - franquia_finder - WARNING - Arquivo de chaves de API não encontrado
+2025-05-02 02:15:50,654 - franquia_finder - WARNING - Arquivo de configurações de plataformas não encontrado
+2025-05-02 02:15:50,670 - franquia_finder - WARNING - Arquivo de parâmetros de análise não encontrado
+2025-05-02 02:15:50,670 - franquia_finder - INFO - Iniciando análise global...
+2025-05-02 02:15:50,670 - franquia_finder - INFO - Iniciando coleta de dados...
+2025-05-02 02:15:50,670 - franquia_finder - INFO - Iniciando processamento de dados...
+2025-05-02 02:15:50,670 - franquia_finder - INFO - Dados limpos e normalizados
+2025-05-02 02:15:50,670 - franquia_finder - INFO - Identificadas 1 oportunidades potenciais
+2025-05-02 02:15:50,670 - franquia_finder - INFO - Identificadas 5 tendências de mercado
+2025-05-02 02:15:50,670 - franquia_finder - INFO - Estimativas de lucro calculadas
+2025-05-02 02:15:50,686 - franquia_finder - INFO - Dados processados salvos em output\data\processed_data_20250502_021550.json
+2025-05-02 02:15:50,686 - franquia_finder - INFO - Iniciando análise aprofundada das oportunidades...
+2025-05-02 02:15:50,686 - franquia_finder - INFO - Analisando oportunidade: PetFood Express
+2025-05-02 02:15:50,686 - franquia_finder - ERROR - Erro na execução: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "F:\franquia-finder\main.py", line 572, in <module>
+    main()
+  File "F:\franquia-finder\main.py", line 543, in main
+    global_analysis(configs, args)
+  File "F:\franquia-finder\main.py", line 477, in global_analysis
+    detailed_analysis = analyze_opportunities(opportunities, market_trends, configs, args)
+  File "F:\franquia-finder\main.py", line 246, in analyze_opportunities
+    competition_data = competition_analyzer.analyze(opportunity)
+  File "F:\franquia-finder\analysis\competition_analysis.py", line 50, in analyze
+    strengths_weaknesses = self._analyze_strengths_weaknesses(competitors)
+  File "F:\franquia-finder\analysis\competition_analysis.py", line 188, in _analyze_strengths_weaknesses
+    for strength in comp.get('strengths', []):
+AttributeError: 'str' object has no attribute 'get'
+2025-05-02 10:17:07,036 - franquia_finder - WARNING - Arquivo de chaves de API não encontrado
+2025-05-02 10:17:07,036 - franquia_finder - WARNING - Arquivo de configurações de plataformas não encontrado
+2025-05-02 10:17:07,036 - franquia_finder - WARNING - Arquivo de parâmetros de análise não encontrado
+2025-05-02 10:17:07,036 - franquia_finder - INFO - Iniciando análise global...
+2025-05-02 10:17:07,036 - franquia_finder - INFO - Iniciando coleta de dados...
+2025-05-02 10:17:07,036 - franquia_finder - INFO - Iniciando processamento de dados...
+2025-05-02 10:17:07,036 - franquia_finder - INFO - Dados limpos e normalizados
+2025-05-02 10:17:07,036 - franquia_finder - INFO - Identificadas 1 oportunidades potenciais
+2025-05-02 10:17:07,036 - franquia_finder - INFO - Identificadas 5 tendências de mercado
+2025-05-02 10:17:07,036 - franquia_finder - INFO - Estimativas de lucro calculadas
+2025-05-02 10:17:07,051 - franquia_finder - INFO - Dados processados salvos em output\data\processed_data_20250502_101707.json
+2025-05-02 10:17:07,051 - franquia_finder - INFO - Iniciando análise aprofundada das oportunidades...
+2025-05-02 10:17:07,051 - franquia_finder - INFO - Analisando oportunidade: PetFood Express
+2025-05-02 10:17:07,051 - franquia_finder - ERROR - Erro na execução: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "F:\franquia-finder\main.py", line 572, in <module>
+    main()
+  File "F:\franquia-finder\main.py", line 543, in main
+    global_analysis(configs, args)
+  File "F:\franquia-finder\main.py", line 477, in global_analysis
+    detailed_analysis = analyze_opportunities(opportunities, market_trends, configs, args)
+  File "F:\franquia-finder\main.py", line 246, in analyze_opportunities
+    competition_data = competition_analyzer.analyze(opportunity)
+  File "F:\franquia-finder\analysis\competition_analysis.py", line 50, in analyze
+    strengths_weaknesses = self._analyze_strengths_weaknesses(competitors)
+  File "F:\franquia-finder\analysis\competition_analysis.py", line 188, in _analyze_strengths_weaknesses
+    for strength in comp.get('strengths', []):
+AttributeError: 'str' object has no attribute 'get'
+2025-05-02 11:30:27,127 - franquia_finder - WARNING - Arquivo de chaves de API não encontrado
+2025-05-02 11:30:27,139 - franquia_finder - WARNING - Arquivo de configurações de plataformas não encontrado
+2025-05-02 11:30:27,139 - franquia_finder - WARNING - Arquivo de parâmetros de análise não encontrado
+2025-05-02 11:30:27,140 - franquia_finder - INFO - Iniciando análise global...
+2025-05-02 11:30:27,140 - franquia_finder - INFO - Iniciando coleta de dados...
+2025-05-02 11:30:27,140 - franquia_finder - INFO - Iniciando processamento de dados...
+2025-05-02 11:30:27,141 - franquia_finder - INFO - Dados limpos e normalizados
+2025-05-02 11:30:27,141 - franquia_finder - INFO - Identificadas 1 oportunidades potenciais
+2025-05-02 11:30:27,142 - franquia_finder - INFO - Identificadas 5 tendências de mercado
+2025-05-02 11:30:27,142 - franquia_finder - INFO - Estimativas de lucro calculadas
+2025-05-02 11:30:27,159 - franquia_finder - INFO - Dados processados salvos em output\data\processed_data_20250502_113027.json
+2025-05-02 11:30:27,159 - franquia_finder - INFO - Iniciando análise aprofundada das oportunidades...
+2025-05-02 11:30:27,160 - franquia_finder - INFO - Analisando oportunidade: PetFood Express
+2025-05-02 11:30:27,161 - franquia_finder - ERROR - Erro na execução: 'ROICalculator' object has no attribute '_project_revenue'
+Traceback (most recent call last):
+  File "F:\franquia-finder\main.py", line 572, in <module>
+    main()
+  File "F:\franquia-finder\main.py", line 543, in main
+    global_analysis(configs, args)
+  File "F:\franquia-finder\main.py", line 477, in global_analysis
+    detailed_analysis = analyze_opportunities(opportunities, market_trends, configs, args)
+  File "F:\franquia-finder\main.py", line 254, in analyze_opportunities
+    roi_data = roi_calculator.calculate_detailed_roi(opportunity, competition_data, demographic_data)
+  File "F:\franquia-finder\analysis\roi_calculator.py", line 39, in calculate_detailed_roi
+    revenue_projections = self._project_revenue(opportunity, competition_data, demographic_data)
+AttributeError: 'ROICalculator' object has no attribute '_project_revenue'
+2025-05-02 11:38:24,071 - franquia_finder - WARNING - Arquivo de chaves de API não encontrado
+2025-05-02 11:38:24,072 - franquia_finder - WARNING - Arquivo de configurações de plataformas não encontrado
+2025-05-02 11:38:24,072 - franquia_finder - WARNING - Arquivo de parâmetros de análise não encontrado
+2025-05-02 11:38:24,072 - franquia_finder - INFO - Iniciando análise global...
+2025-05-02 11:38:24,073 - franquia_finder - INFO - Iniciando coleta de dados...
+2025-05-02 11:38:24,073 - franquia_finder - INFO - Iniciando processamento de dados...
+2025-05-02 11:38:24,073 - franquia_finder - INFO - Dados limpos e normalizados
+2025-05-02 11:38:24,074 - franquia_finder - INFO - Identificadas 1 oportunidades potenciais
+2025-05-02 11:38:24,074 - franquia_finder - INFO - Identificadas 5 tendências de mercado
+2025-05-02 11:38:24,075 - franquia_finder - INFO - Estimativas de lucro calculadas
+2025-05-02 11:38:24,078 - franquia_finder - INFO - Dados processados salvos em output\data\processed_data_20250502_113824.json
+2025-05-02 11:38:24,078 - franquia_finder - INFO - Iniciando análise aprofundada das oportunidades...
+2025-05-02 11:38:24,078 - franquia_finder - INFO - Analisando oportunidade: PetFood Express
+2025-05-02 11:38:24,086 - franquia_finder - INFO - Análise detalhada salva em output\data\detailed_analysis_20250502_113824.json
+2025-05-02 11:38:24,086 - franquia_finder - INFO - Exibindo as melhores oportunidades de franquia...
+2025-05-02 11:38:24,089 - franquia_finder - INFO - Iniciando geração de materiais de marketing...
+2025-05-02 11:38:24,089 - franquia_finder - INFO - Gerando marketing para: PetFood Express
+2025-05-02 11:38:24,170 - franquia_finder - INFO - Outputs de marketing salvos em output\data\marketing_outputs_20250502_113824.json
+2025-05-02 11:38:24,170 - franquia_finder - INFO - Automação de campanhas desativada
+2025-05-02 11:38:24,171 - franquia_finder - INFO - Gerando relatórios...
+2025-05-02 11:38:24,172 - franquia_finder - ERROR - Erro na execução: [Errno 2] No such file or directory: 'templates\\report_template.html'
+Traceback (most recent call last):
+  File "F:\franquia-finder\main.py", line 572, in <module>
+    main()
+  File "F:\franquia-finder\main.py", line 543, in main
+    global_analysis(configs, args)
+  File "F:\franquia-finder\main.py", line 489, in global_analysis
+    generate_reports(detailed_analysis, marketing_outputs, automation_results, configs, args)
+  File "F:\franquia-finder\main.py", line 413, in generate_reports
+    with open(os.path.join('templates', 'report_template.html'), 'r', encoding='utf-8') as template_file:
+FileNotFoundError: [Errno 2] No such file or directory: 'templates\\report_template.html'
+2025-05-02 11:41:22,244 - franquia_finder - WARNING - Arquivo de chaves de API não encontrado
+2025-05-02 11:41:22,245 - franquia_finder - WARNING - Arquivo de configurações de plataformas não encontrado
+2025-05-02 11:41:22,246 - franquia_finder - WARNING - Arquivo de parâmetros de análise não encontrado
+2025-05-02 11:41:22,247 - franquia_finder - INFO - Iniciando análise global...
+2025-05-02 11:41:22,248 - franquia_finder - INFO - Iniciando coleta de dados...
+2025-05-02 11:41:22,248 - franquia_finder - INFO - Iniciando processamento de dados...
+2025-05-02 11:41:22,250 - franquia_finder - INFO - Dados limpos e normalizados
+2025-05-02 11:41:22,251 - franquia_finder - INFO - Identificadas 1 oportunidades potenciais
+2025-05-02 11:41:22,252 - franquia_finder - INFO - Identificadas 5 tendências de mercado
+2025-05-02 11:41:22,252 - franquia_finder - INFO - Estimativas de lucro calculadas
+2025-05-02 11:41:22,278 - franquia_finder - INFO - Dados processados salvos em output\data\processed_data_20250502_114122.json
+2025-05-02 11:41:22,278 - franquia_finder - INFO - Iniciando análise aprofundada das oportunidades...
+2025-05-02 11:41:22,279 - franquia_finder - INFO - Analisando oportunidade: PetFood Express
+2025-05-02 11:41:22,286 - franquia_finder - INFO - Análise detalhada salva em output\data\detailed_analysis_20250502_114122.json
+2025-05-02 11:41:22,286 - franquia_finder - INFO - Exibindo as melhores oportunidades de franquia...
+2025-05-02 11:41:22,288 - franquia_finder - INFO - Iniciando geração de materiais de marketing...
+2025-05-02 11:41:22,289 - franquia_finder - INFO - Gerando marketing para: PetFood Express
+2025-05-02 11:41:22,370 - franquia_finder - INFO - Outputs de marketing salvos em output\data\marketing_outputs_20250502_114122.json
+2025-05-02 11:41:22,370 - franquia_finder - INFO - Automação de campanhas desativada
+2025-05-02 11:41:22,370 - franquia_finder - INFO - Gerando relatórios...
+2025-05-02 11:41:22,779 - franquia_finder - INFO - Relatório de oportunidades gerado em output\reports\opportunities_report_20250502_114122.html
+2025-05-02 11:41:22,781 - franquia_finder - ERROR - Erro na execução: [Errno 2] No such file or directory: 'templates\\creative_template.html'
+Traceback (most recent call last):
+  File "F:\franquia-finder\main.py", line 572, in <module>
+    main()
+  File "F:\franquia-finder\main.py", line 543, in main
+    global_analysis(configs, args)
+  File "F:\franquia-finder\main.py", line 489, in global_analysis
+    generate_reports(detailed_analysis, marketing_outputs, automation_results, configs, args)
+  File "F:\franquia-finder\main.py", line 431, in generate_reports
+    with open(os.path.join('templates', 'creative_template.html'), 'r', encoding='utf-8') as template_file:
+FileNotFoundError: [Errno 2] No such file or directory: 'templates\\creative_template.html'
+2025-05-02 11:43:53,637 - franquia_finder - WARNING - Arquivo de chaves de API não encontrado
+2025-05-02 11:43:53,638 - franquia_finder - WARNING - Arquivo de configurações de plataformas não encontrado
+2025-05-02 11:43:53,638 - franquia_finder - WARNING - Arquivo de parâmetros de análise não encontrado
+2025-05-02 11:43:53,638 - franquia_finder - INFO - Iniciando análise global...
+2025-05-02 11:43:53,639 - franquia_finder - INFO - Iniciando coleta de dados...
+2025-05-02 11:43:53,639 - franquia_finder - INFO - Iniciando processamento de dados...
+2025-05-02 11:43:53,639 - franquia_finder - INFO - Dados limpos e normalizados
+2025-05-02 11:43:53,639 - franquia_finder - INFO - Identificadas 1 oportunidades potenciais
+2025-05-02 11:43:53,640 - franquia_finder - INFO - Identificadas 5 tendências de mercado
+2025-05-02 11:43:53,640 - franquia_finder - INFO - Estimativas de lucro calculadas
+2025-05-02 11:43:53,644 - franquia_finder - INFO - Dados processados salvos em output\data\processed_data_20250502_114353.json
+2025-05-02 11:43:53,644 - franquia_finder - INFO - Iniciando análise aprofundada das oportunidades...
+2025-05-02 11:43:53,645 - franquia_finder - INFO - Analisando oportunidade: PetFood Express
+2025-05-02 11:43:53,650 - franquia_finder - INFO - Análise detalhada salva em output\data\detailed_analysis_20250502_114353.json
+2025-05-02 11:43:53,650 - franquia_finder - INFO - Exibindo as melhores oportunidades de franquia...
+2025-05-02 11:43:53,652 - franquia_finder - INFO - Iniciando geração de materiais de marketing...
+2025-05-02 11:43:53,652 - franquia_finder - INFO - Gerando marketing para: PetFood Express
+2025-05-02 11:43:53,707 - franquia_finder - INFO - Outputs de marketing salvos em output\data\marketing_outputs_20250502_114353.json
+2025-05-02 11:43:53,707 - franquia_finder - INFO - Automação de campanhas desativada
+2025-05-02 11:43:53,708 - franquia_finder - INFO - Gerando relatórios...
+2025-05-02 11:43:53,731 - franquia_finder - INFO - Relatório de oportunidades gerado em output\reports\opportunities_report_20250502_114353.html
+2025-05-02 11:43:53,877 - franquia_finder - INFO - Relatório de marketing para PetFood Express gerado em output\reports\marketing_report_petfood_express_20250502_114353.html
+2025-05-02 11:43:53,878 - franquia_finder - INFO - Geração de relatórios concluída
+2025-05-02 11:43:53,881 - franquia_finder - INFO - Inicialização do dashboard desativada
+2025-05-02 11:43:53,883 - franquia_finder - INFO - Análise global concluída com sucesso!

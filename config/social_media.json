@@ -1,0 +1,40 @@
+{
+    "platforms": ["instagram", "twitter", "tiktok"],
+    "api_keys": {
+        "_comment": "Substituir com suas chaves de API reais",
+        "instagram": "",
+        "instagram_user_id": "",
+        "twitter": "",
+        "twitter_secret": "",
+        "twitter_bearer_token": "",
+        "tiktok": ""
+    },
+    "keywords": [
+        "dropshipping", 
+        "revenda sem estoque", 
+        "franquia digital",
+        "renda extra", 
+        "trabalhar em casa", 
+        "marketing digital",
+        "empreendedorismo digital",
+        "comissão de vendas",
+        "ganhar dinheiro online",
+        "vender na internet",
+        "renda passiva"
+    ],
+    "hashtags": [
+        "dropshipping", 
+        "revender", 
+        "franquiadigital",
+        "rendaextra", 
+        "empreendedorismo", 
+        "marketingdigital",
+        "vendasonline",
+        "trabalhardecasa",
+        "negocioonline",
+        "vendanoinstagram",
+        "vendanotiktok",
+        "comissao"
+    ],
+    "lookback_days": 30
+}

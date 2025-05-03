@@ -1,0 +1,15 @@
+2025-04-28 11:45:40,629 - franchise_scraper - INFO - Inicializado com 3 fontes configuradas
+2025-04-28 11:45:40,643 - franchise_scraper - INFO - Iniciando coleta da fonte: Portal Franquias
+2025-04-28 11:45:42,040 - franchise_scraper - WARNING - Tentativa 1/3 falhou: HTTPSConnectionPool(host='www.portaldafranquia.com.br', port=443): Max retries exceeded with url: /franquias/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)')))
+2025-04-28 11:45:43,177 - franchise_scraper - WARNING - Tentativa 2/3 falhou: HTTPSConnectionPool(host='www.portaldafranquia.com.br', port=443): Max retries exceeded with url: /franquias/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)')))
+2025-04-28 11:45:43,317 - franchise_scraper - WARNING - Tentativa 3/3 falhou: HTTPSConnectionPool(host='www.portaldafranquia.com.br', port=443): Max retries exceeded with url: /franquias/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)')))
+2025-04-28 11:45:43,318 - franchise_scraper - ERROR - Todas as tentativas falharam para https://www.portaldafranquia.com.br/franquias/
+2025-04-28 11:45:43,320 - franchise_scraper - INFO - Iniciando coleta da fonte: ABF Franquias
+2025-04-28 11:45:48,787 - franchise_scraper - WARNING - Requisição falhou com status 404 para https://www.abf.com.br/encontre-uma-franquia/
+2025-04-28 11:45:53,005 - franchise_scraper - WARNING - Requisição falhou com status 404 para https://www.abf.com.br/encontre-uma-franquia/
+2025-04-28 11:45:55,444 - franchise_scraper - WARNING - Requisição falhou com status 404 para https://www.abf.com.br/encontre-uma-franquia/
+2025-04-28 11:45:55,445 - franchise_scraper - ERROR - Todas as tentativas falharam para https://www.abf.com.br/encontre-uma-franquia/
+2025-04-28 11:45:55,449 - franchise_scraper - INFO - Iniciando coleta da fonte: Franquias Brasil
+2025-04-28 11:45:56,806 - franchise_scraper - INFO - Encontrados 0 itens em Franquias Brasil
+2025-04-28 11:45:56,807 - franchise_scraper - INFO - Coletadas 0 oportunidades de Franquias Brasil
+2025-04-28 11:45:57,003 - franchise_scraper - WARNING - Nenhuma oportunidade encontrada

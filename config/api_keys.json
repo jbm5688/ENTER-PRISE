@@ -1,0 +1,27 @@
+{
+  "marketplace": {
+    "amazon": "AMAZON_API_KEY_PLACEHOLDER",
+    "mercado_livre": "MERCADOLIVRE_API_KEY_PLACEHOLDER",
+    "shopee": "SHOPEE_API_KEY_PLACEHOLDER"
+  },
+  "affiliate": {
+    "hotmart": "HOTMART_API_KEY_PLACEHOLDER",
+    "monetizze": "MONETIZZE_API_KEY_PLACEHOLDER",
+    "eduzz": "EDUZZ_API_KEY_PLACEHOLDER"
+  },
+  "ecommerce": {
+    "shopify": "SHOPIFY_API_KEY_PLACEHOLDER",
+    "woocommerce": "WOOCOMMERCE_API_KEY_PLACEHOLDER",
+    "magento": "MAGENTO_API_KEY_PLACEHOLDER"
+  },
+  "social_media": {
+    "facebook": "FACEBOOK_API_KEY_PLACEHOLDER",
+    "instagram": "INSTAGRAM_API_KEY_PLACEHOLDER",
+    "twitter": "TWITTER_API_KEY_PLACEHOLDER",
+    "linkedin": "LINKEDIN_API_KEY_PLACEHOLDER"
+  },
+  "analytics": {
+    "google": "GOOGLE_ANALYTICS_API_KEY_PLACEHOLDER",
+    "mixpanel": "MIXPANEL_API_KEY_PLACEHOLDER"
+  }
+}

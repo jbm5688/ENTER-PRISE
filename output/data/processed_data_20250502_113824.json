@@ -1,0 +1,105 @@
+{
+  "opportunities": [
+    {
+      "name": "PetFood Express",
+      "sector": "Pet Shop",
+      "investment": {
+        "min": 90960.9830165419,
+        "max": 147506.52152041462
+      },
+      "roi_estimate": 0.3838379422311457,
+      "payback_months": 242,
+      "market_score": 0.7120456549429022,
+      "competition_score": 0.3343978519375005,
+      "trend_score": 0.5871370395396938,
+      "score": 0.5612787294203192,
+      "website": "https://www.petfoodexpress.com.br",
+      "contact": "contato@petfoodexpress.com.br",
+      "estimated_roi": 0.5676038930137004,
+      "monthly_revenue": 6512.056035895158,
+      "monthly_costs": 6017.597035699323,
+      "monthly_profit": 494.45900019583496,
+      "market_growth_factor": 0.37,
+      "competition_factor": 0.3343978519375005,
+      "trend_alignment": 0.8,
+      "seasonality_factor": 0.9604434078300125,
+      "risk_factor": 0.800932379043525,
+      "relevant_trends": [
+        "Alimentação Plant-Based",
+        "Cosmética Natural"
+      ]
+    }
+  ],
+  "market_trends": [
+    {
+      "name": "Alimentação Plant-Based",
+      "sector": "Alimentação",
+      "growth_rate": 0.42,
+      "source": "market_research",
+      "confidence": 0.85,
+      "first_observed": "2024-02-15",
+      "description": "Crescimento acelerado no consumo de alimentos vegetais e substitutos de carne",
+      "associated_keywords": [
+        "plant-based",
+        "vegetariano",
+        "comida saudável"
+      ]
+    },
+    {
+      "name": "Micromobilidade Urbana",
+      "sector": "Transporte",
+      "growth_rate": 0.38,
+      "source": "market_research",
+      "confidence": 0.8,
+      "first_observed": "2024-01-10",
+      "description": "Aumento na demanda por soluções de transporte individual para curtas distâncias",
+      "associated_keywords": [
+        "patinetes elétricos",
+        "bikes compartilhadas",
+        "mobilidade sustentável"
+      ]
+    },
+    {
+      "name": "Educação Híbrida",
+      "sector": "Educação",
+      "growth_rate": 0.35,
+      "source": "market_research",
+      "confidence": 0.9,
+      "first_observed": "2024-03-05",
+      "description": "Modelos educacionais que combinam experiências presenciais e online",
+      "associated_keywords": [
+        "ensino híbrido",
+        "educação digital",
+        "cursos flexíveis"
+      ]
+    },
+    {
+      "name": "Saúde Mental",
+      "sector": "Saúde",
+      "growth_rate": 0.45,
+      "source": "market_research",
+      "confidence": 0.95,
+      "first_observed": "2023-11-20",
+      "description": "Crescente demanda por serviços e produtos relacionados ao bem-estar psicológico",
+      "associated_keywords": [
+        "terapia online",
+        "mindfulness",
+        "autocuidado"
+      ]
+    },
+    {
+      "name": "Cosmética Natural",
+      "sector": "Beleza",
+      "growth_rate": 0.32,
+      "source": "market_research",
+      "confidence": 0.75,
+      "first_observed": "2023-10-15",
+      "description": "Preferência crescente por produtos de beleza com ingredientes naturais e sustentáveis",
+      "associated_keywords": [
+        "beleza natural",
+        "cosmética vegana",
+        "clean beauty"
+      ]
+    }
+  ]
+}

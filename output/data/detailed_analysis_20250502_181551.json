@@ -1,0 +1,2403 @@
+{
+    "opportunities": {
+        "SaladBar": {
+            "basic_info": {
+                "name": "SaladBar",
+                "category": "Alimentação Saudável",
+                "initial_investment": 66721.95722582506,
+                "franchise_fee": 10775.481176749352,
+                "royalty_fee_percentage": 5.702454022048981,
+                "avg_monthly_revenue": 6793.305494494994,
+                "roi_percentage": 37.19627593412339,
+                "payback_period_months": 32.26129417163333,
+                "min_area": 30,
+                "min_employees": 3,
+                "units": 31,
+                "description": "Modelo de negócio simplificado no setor de Alimentação Saudável com suporte completo.",
+                "summary": "Rede SaladBar possui mais de 31 unidades e atua no mercado de Alimentação Saudável há mais de 14 anos.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 18:15:51",
+                "cleaned_at": "2025-05-02 18:15:51",
+                "relevant_trends": [
+                    {
+                        "keyword": "alimentação saudável",
+                        "growth_rate": 0.18,
+                        "sentiment": 0.85,
+                        "monthly_mentions": 230000.0
+                    }
+                ],
+                "market_research": [
+                    {
+                        "title": "Pesquisa de Consumidor: Alimentação",
+                        "market_size": 439000000.0,
+                        "growth_rate": 0.09351906232556982,
+                        "insights": [
+                            "Novas tecnologias estão transformando o setor de Alimentação",
+                            "Franquias de Alimentação têm mostrado resistência em períodos de crise",
+                            "Consumidores valorizam qualidade e preço no setor de Alimentação"
+                        ]
+                    },
+                    {
+                        "title": "Tendências do Setor de Alimentação",
+                        "market_size": 296000000.0,
+                        "growth_rate": 0.022368019514712373,
+                        "insights": [
+                            "O mercado de Alimentação deve crescer 2.2% nos próximos 2 anos",
+                            "Franquias de Alimentação têm mostrado resistência em períodos de crise",
+                            "Novas tecnologias estão transformando o setor de Alimentação"
+                        ]
+                    },
+                    {
+                        "title": "Oportunidades em Alimentação",
+                        "market_size": 514000000.0,
+                        "growth_rate": 0.14086118829070665,
+                        "insights": [
+                            "Há uma tendência de consolidação no setor de Alimentação",
+                            "Franquias de Alimentação têm mostrado resistência em períodos de crise"
+                        ]
+                    }
+                ],
+                "opportunity_score": 51.28,
+                "estimated_monthly_revenue": 6793.305494494994,
+                "estimated_monthly_expenses": 4725.131884631188,
+                "estimated_monthly_profit": 2068.1736098638057,
+                "annual_profit": 24818.08331836567,
+                "profit_margin": 0.3044428977233198,
+                "operational_margin": 0.3044428977233198,
+                "operating_expenses": {
+                    "aluguel": 909.7373645672068,
+                    "pessoal": 1479.6491361376711,
+                    "marketing": 273.35828033340755,
+                    "insumos": 1577.4770648422996,
+                    "administracao": 648.7482147032362,
+                    "outros": 412.5796033982096
+                },
+                "growth_rate": 0.0892750850929,
+                "future_revenues": {
+                    "ano1": 24818.08331836567,
+                    "ano2": 27033.719818455447,
+                    "ano3": 29447.157455625675,
+                    "ano4": 32076.054943220683,
+                    "ano5": 34939.64747772125
+                }
+            },
+            "competition": {
+                "competition_level": "medium",
+                "num_competitors": 15,
+                "top_competitors": [
+                    {
+                        "name": "Smart Super",
+                        "market_share": 0.12416723320841443,
+                        "units": 18,
+                        "years_in_market": 2,
+                        "competitive_advantages": [
+                            "Atendimento diferenciado",
+                            "Equipe especializada",
+                            "Investimento em marketing",
+                            "Logística eficiente"
+                        ]
+                    },
+                    {
+                        "name": "Max Express",
+                        "market_share": 0.09598555605618465,
+                        "units": 82,
+                        "years_in_market": 2,
+                        "competitive_advantages": [
+                            "Qualidade superior",
+                            "Equipe especializada",
+                            "Atendimento diferenciado",
+                            "Forte presença online"
+                        ]
+                    },
+                    {
+                        "name": "Top Express",
+                        "market_share": 0.0581355932448482,
+                        "units": 115,
+                        "years_in_market": 15,
+                        "competitive_advantages": [
+                            "Tecnologia avançada",
+                            "Produtos exclusivos",
+                            "Preços competitivos",
+                            "Fidelização de clientes"
+                        ]
+                    },
+                    {
+                        "name": "Super Prime",
+                        "market_share": 0.07465041351933695,
+                        "units": 190,
+                        "years_in_market": 16,
+                        "competitive_advantages": [
+                            "Produtos exclusivos",
+                            "Preços competitivos",
+                            "Investimento em marketing",
+                            "Tecnologia avançada"
+                        ]
+                    },
+                    {
+                        "name": "Global Prime",
+                        "market_share": 0.11591350613130748,
+                        "units": 25,
+                        "years_in_market": 11,
+                        "competitive_advantages": [
+                            "Preços competitivos",
+                            "Tecnologia avançada",
+                            "Localização estratégica"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.5266497859411984,
+                "category": "Alimentação Saudável",
+                "entry_barriers": [
+                    "Investimento inicial considerável",
+                    "Necessidade de diferenciação",
+                    "Concorrentes com presença estabelecida",
+                    "Fidelização de clientes pelos concorrentes"
+                ],
+                "summary": "O setor de Alimentação Saudável apresenta nível médio de competição, com cerca de 15 players relevantes. A saturação de mercado está em aproximadamente 53%, o que indica um equilíbrio entre oportunidades e desafios para novos entrantes."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "25-55",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "medium",
+                    "digital_engagement": "medium"
+                },
+                "market_size": 3316848,
+                "potential_customers": 14796,
+                "compatibility_score": 0.9371562621203351,
+                "recommended_regions": [
+                    "Recife",
+                    "Goiânia",
+                    "Fortaleza"
+                ],
+                "category": "Alimentação Saudável",
+                "summary": "A análise demográfica indica uma excelente compatibilidade (93.7%) para o segmento de Alimentação Saudável. Com um mercado potencial estimado em 3.316.848 pessoas e aproximadamente 14.796 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 25-55, com nível de renda medium e concentração urbana medium."
+            },
+            "roi": {
+                "npv": 874071.81,
+                "irr": 50.0,
+                "payback_years": 0.3,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 72450.0,
+                        "expected": 103500,
+                        "optimistic": 134550.0
+                    },
+                    "annual": {
+                        "pessimistic": 869400.0,
+                        "expected": 1242000,
+                        "optimistic": 1614600.0
+                    },
+                    "five_year": {
+                        "pessimistic": 4347000.0,
+                        "expected": 6210000,
+                        "optimistic": 8073000.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 66721.95722582506,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 3622.5,
+                            "cogs": 28980.0,
+                            "operation": 21735.0,
+                            "total": 54337.5
+                        },
+                        "expected": {
+                            "royalties": 5175.0,
+                            "cogs": 41400.0,
+                            "operation": 31050.0,
+                            "total": 77625.0
+                        },
+                        "optimistic": {
+                            "royalties": 6727.5,
+                            "cogs": 53820.0,
+                            "operation": 40365.0,
+                            "total": 100912.5
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 43470.0,
+                            "cogs": 347760.0,
+                            "operation": 260820.0,
+                            "total": 652050.0
+                        },
+                        "expected": {
+                            "royalties": 62100.0,
+                            "cogs": 496800.0,
+                            "operation": 372600.0,
+                            "total": 931500.0
+                        },
+                        "optimistic": {
+                            "royalties": 80730.0,
+                            "cogs": 645840.0,
+                            "operation": 484380.0,
+                            "total": 1210950.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 217350.0,
+                            "cogs": 1738800.0,
+                            "operation": 1304100.0,
+                            "total": 3260250.0
+                        },
+                        "expected": {
+                            "royalties": 310500.0,
+                            "cogs": 2484000.0,
+                            "operation": 1863000.0,
+                            "total": 4657500.0
+                        },
+                        "optimistic": {
+                            "royalties": 403650.0,
+                            "cogs": 3229200.0,
+                            "operation": 2421900.0,
+                            "total": 6054750.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -66721.95722582506,
+                        158665.5,
+                        166598.775,
+                        174928.71375,
+                        183675.14943750002,
+                        192858.90690937504
+                    ],
+                    "expected": [
+                        -66721.95722582506,
+                        226665.0,
+                        237998.25,
+                        249898.1625,
+                        262393.07062500005,
+                        275512.7241562501
+                    ],
+                    "optimistic": [
+                        -66721.95722582506,
+                        294664.5,
+                        309397.72500000003,
+                        324867.61125,
+                        341110.99181250005,
+                        358166.54140312504
+                    ]
+                }
+            }
+        },
+        "FashionStore": {
+            "basic_info": {
+                "name": "FashionStore",
+                "category": "Moda",
+                "initial_investment": 54584.40058003987,
+                "franchise_fee": 6466.972778070388,
+                "royalty_fee_percentage": 10.833626122968237,
+                "avg_monthly_revenue": 12793.593872219024,
+                "roi_percentage": 77.94790158985337,
+                "payback_period_months": 15.394898073256233,
+                "min_area": 78,
+                "min_employees": 2,
+                "units": 196,
+                "description": "Modelo de negócio simplificado no setor de Moda com suporte completo.",
+                "summary": "Com investimento inicial a partir de R$ 54.6 mil, FashionStore oferece uma excelente oportunidade no mercado de Moda.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 18:15:51",
+                "cleaned_at": "2025-05-02 18:15:51",
+                "market_research": [
+                    {
+                        "title": "Análise de Mercado: Moda",
+                        "market_size": 105000000.0,
+                        "growth_rate": 0.11109867906730506,
+                        "insights": [
+                            "O segmento online em Moda tem crescido acima da média do mercado",
+                            "Empresas com foco em sustentabilidade têm se destacado em Moda"
+                        ]
+                    },
+                    {
+                        "title": "Pesquisa de Consumidor: Moda",
+                        "market_size": 340000000.0,
+                        "growth_rate": 0.22926266881264457,
+                        "insights": [
+                            "Há uma tendência de consolidação no setor de Moda",
+                            "O mercado de Moda deve crescer 22.9% nos próximos 2 anos",
+                            "Consumidores valorizam qualidade e preço no setor de Moda"
+                        ]
+                    },
+                    {
+                        "title": "Análise de Mercado: Moda",
+                        "market_size": 361000000.0,
+                        "growth_rate": 0.22784441674362962,
+                        "insights": [
+                            "O mercado de Moda deve crescer 22.8% nos próximos 2 anos",
+                            "Consumidores valorizam qualidade e preço no setor de Moda",
+                            "Novas tecnologias estão transformando o setor de Moda"
+                        ]
+                    },
+                    {
+                        "title": "Análise de Mercado: Moda",
+                        "market_size": 342000000.0,
+                        "growth_rate": 0.23209032594057524,
+                        "insights": [
+                            "Novas tecnologias estão transformando o setor de Moda",
+                            "Empresas com foco em sustentabilidade têm se destacado em Moda"
+                        ]
+                    },
+                    {
+                        "title": "Relatório de Investimento: Moda",
+                        "market_size": 237000000.0,
+                        "growth_rate": 0.1002224117396495,
+                        "insights": [
+                            "O mercado de Moda deve crescer 10.0% nos próximos 2 anos",
+                            "Consumidores valorizam qualidade e preço no setor de Moda"
+                        ]
+                    }
+                ],
+                "opportunity_score": 48.21,
+                "estimated_monthly_revenue": 12793.593872219024,
+                "estimated_monthly_expenses": 9247.977634923955,
+                "estimated_monthly_profit": 3545.6162372950694,
+                "annual_profit": 42547.39484754083,
+                "profit_margin": 0.2771399712002965,
+                "operational_margin": 0.27713997120029643,
+                "operating_expenses": {
+                    "aluguel": 2748.9338441017203,
+                    "pessoal": 3577.2169133535713,
+                    "marketing": 797.2729164417309,
+                    "insumos": 3513.103087491945,
+                    "administracao": 1020.2110691140588,
+                    "outros": 878.3300938562521
+                },
+                "growth_rate": 0.09204082441272611,
+                "future_revenues": {
+                    "ano1": 42547.39484754083,
+                    "ano2": 46463.49214592227,
+                    "ano3": 50740.03026812718,
+                    "ano4": 55410.184484732294,
+                    "ano5": 60510.1835455683
+                }
+            },
+            "competition": {
+                "competition_level": "high",
+                "num_competitors": 90,
+                "top_competitors": [
+                    {
+                        "name": "Top Look",
+                        "market_share": 0.11060522225437082,
+                        "units": 98,
+                        "years_in_market": 8,
+                        "competitive_advantages": [
+                            "Investimento em marketing",
+                            "Fidelização de clientes",
+                            "Equipe especializada",
+                            "Localização estratégica"
+                        ]
+                    },
+                    {
+                        "name": "Ultra Look",
+                        "market_share": 0.10754876727862141,
+                        "units": 34,
+                        "years_in_market": 3,
+                        "competitive_advantages": [
+                            "Logística eficiente",
+                            "Produtos exclusivos"
+                        ]
+                    },
+                    {
+                        "name": "Top Chic",
+                        "market_share": 0.23154697033077443,
+                        "units": 127,
+                        "years_in_market": 12,
+                        "competitive_advantages": [
+                            "Qualidade superior",
+                            "Preços competitivos",
+                            "Localização estratégica"
+                        ]
+                    },
+                    {
+                        "name": "Eco Trend",
+                        "market_share": 0.2811105150448628,
+                        "units": 114,
+                        "years_in_market": 13,
+                        "competitive_advantages": [
+                            "Tecnologia avançada",
+                            "Equipe especializada",
+                            "Localização estratégica",
+                            "Qualidade superior"
+                        ]
+                    },
+                    {
+                        "name": "Top Trend",
+                        "market_share": 0.1569682126087658,
+                        "units": 41,
+                        "years_in_market": 15,
+                        "competitive_advantages": [
+                            "Tecnologia avançada",
+                            "Marca reconhecida",
+                            "Equipe especializada",
+                            "Preços competitivos"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.6912360300342286,
+                "category": "Moda",
+                "entry_barriers": [
+                    "Alto investimento inicial",
+                    "Mercado saturado",
+                    "Concorrentes com forte reconhecimento de marca",
+                    "Guerra de preços",
+                    "Altos custos de marketing para entrar no mercado",
+                    "Regulamentação complexa"
+                ],
+                "summary": "O mercado de Moda apresenta alta competitividade, com aproximadamente 90 concorrentes estabelecidos. A saturação de mercado de 69% indica que novos entrantes enfrentarão desafios significativos e precisarão de estratégias robustas de diferenciação."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "18-45",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "high",
+                    "digital_engagement": "high"
+                },
+                "market_size": 6163071,
+                "potential_customers": 38825,
+                "compatibility_score": 0.8824984869273406,
+                "recommended_regions": [
+                    "Belo Horizonte",
+                    "São Paulo",
+                    "Rio de Janeiro",
+                    "Recife",
+                    "Brasília"
+                ],
+                "category": "Moda",
+                "summary": "A análise demográfica indica uma excelente compatibilidade (88.2%) para o segmento de Moda. Com um mercado potencial estimado em 6.163.071 pessoas e aproximadamente 38.825 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 18-45, com nível de renda medium e concentração urbana high."
+            },
+            "roi": {
+                "npv": 1003467.72,
+                "irr": 50.0,
+                "payback_years": 0.2,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 81480.0,
+                        "expected": 116400,
+                        "optimistic": 151320.0
+                    },
+                    "annual": {
+                        "pessimistic": 977759.9999999999,
+                        "expected": 1396800,
+                        "optimistic": 1815840.0
+                    },
+                    "five_year": {
+                        "pessimistic": 4888800.0,
+                        "expected": 6984000,
+                        "optimistic": 9079200.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 54584.40058003987,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 4074.0,
+                            "cogs": 32592.0,
+                            "operation": 24444.0,
+                            "total": 61110.0
+                        },
+                        "expected": {
+                            "royalties": 5820.0,
+                            "cogs": 46560.0,
+                            "operation": 34920.0,
+                            "total": 87300.0
+                        },
+                        "optimistic": {
+                            "royalties": 7566.0,
+                            "cogs": 60528.0,
+                            "operation": 45396.0,
+                            "total": 113490.0
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 48888.0,
+                            "cogs": 391104.0,
+                            "operation": 293327.99999999994,
+                            "total": 733320.0
+                        },
+                        "expected": {
+                            "royalties": 69840.0,
+                            "cogs": 558720.0,
+                            "operation": 419040.0,
+                            "total": 1047600.0
+                        },
+                        "optimistic": {
+                            "royalties": 90792.0,
+                            "cogs": 726336.0,
+                            "operation": 544752.0,
+                            "total": 1361880.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 244440.0,
+                            "cogs": 1955520.0,
+                            "operation": 1466640.0,
+                            "total": 3666600.0
+                        },
+                        "expected": {
+                            "royalties": 349200.0,
+                            "cogs": 2793600.0,
+                            "operation": 2095200.0,
+                            "total": 5238000.0
+                        },
+                        "optimistic": {
+                            "royalties": 453960.0,
+                            "cogs": 3631680.0,
+                            "operation": 2723760.0,
+                            "total": 6809400.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -54584.40058003987,
+                        178441.1999999999,
+                        187363.2599999999,
+                        196731.4229999999,
+                        206567.9941499999,
+                        216896.3938574999
+                    ],
+                    "expected": [
+                        -54584.40058003987,
+                        254916.0,
+                        267661.8,
+                        281044.89,
+                        295097.13450000004,
+                        309851.99122500006
+                    ],
+                    "optimistic": [
+                        -54584.40058003987,
+                        331390.8,
+                        347960.34,
+                        365358.357,
+                        383626.27485000005,
+                        402807.5885925001
+                    ]
+                }
+            }
+        },
+        "PetFood Express": {
+            "basic_info": {
+                "name": "PetFood Express",
+                "category": "Pet",
+                "initial_investment": 76189.494706495,
+                "franchise_fee": 13706.578533896864,
+                "royalty_fee_percentage": 7.508829088048176,
+                "avg_monthly_revenue": 11634.387505251641,
+                "roi_percentage": 62.62489698025541,
+                "payback_period_months": 19.16170816821208,
+                "min_area": 31,
+                "min_employees": 3,
+                "units": 97,
+                "description": "Invista em uma franquia de Pet em expansão no mercado.",
+                "summary": "Com investimento inicial a partir de R$ 76.2 mil, PetFood Express oferece uma excelente oportunidade no mercado de Pet.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 18:15:51",
+                "cleaned_at": "2025-05-02 18:15:51",
+                "market_research": [
+                    {
+                        "title": "Tendências do Setor de Pet",
+                        "market_size": 137000000.0,
+                        "growth_rate": 0.06436886666313334,
+                        "insights": [
+                            "Franquias de Pet têm mostrado resistência em períodos de crise",
+                            "O mercado de Pet deve crescer 6.4% nos próximos 2 anos",
+                            "Consumidores valorizam qualidade e preço no setor de Pet"
+                        ]
+                    },
+                    {
+                        "title": "Oportunidades em Pet",
+                        "market_size": 187000000.0,
+                        "growth_rate": 0.059294892843490724,
+                        "insights": [
+                            "O mercado de Pet deve crescer 5.9% nos próximos 2 anos",
+                            "Franquias de Pet têm mostrado resistência em períodos de crise",
+                            "Consumidores valorizam qualidade e preço no setor de Pet"
+                        ]
+                    },
+                    {
+                        "title": "Tendências do Setor de Pet",
+                        "market_size": 302000000.0,
+                        "growth_rate": 0.08314430162619874,
+                        "insights": [
+                            "O segmento online em Pet tem crescido acima da média do mercado",
+                            "Consumidores valorizam qualidade e preço no setor de Pet"
+                        ]
+                    }
+                ],
+                "opportunity_score": 47.14,
+                "estimated_monthly_revenue": 11634.387505251641,
+                "estimated_monthly_expenses": 7658.254791108338,
+                "estimated_monthly_profit": 3976.132714143303,
+                "annual_profit": 47713.592569719636,
+                "profit_margin": 0.3417569435733955,
+                "operational_margin": 0.34175694357339553,
+                "operating_expenses": {
+                    "aluguel": 1415.2580207637618,
+                    "pessoal": 1949.5739645636484,
+                    "marketing": 563.1222968267316,
+                    "insumos": 1721.2988458189534,
+                    "administracao": 1084.530441703805,
+                    "outros": 720.1435856362378
+                },
+                "growth_rate": 0.11735796602518397,
+                "future_revenues": {
+                    "ano1": 47713.592569719636,
+                    "ano2": 53313.16274545626,
+                    "ano3": 59569.88708763263,
+                    "ano4": 66560.88787258706,
+                    "ano5": 74372.33829014422
+                }
+            },
+            "competition": {
+                "competition_level": "medium",
+                "num_competitors": 28,
+                "top_competitors": [
+                    {
+                        "name": "Max Vet",
+                        "market_share": 0.1126111337095584,
+                        "units": 55,
+                        "years_in_market": 19,
+                        "competitive_advantages": [
+                            "Fidelização de clientes",
+                            "Forte presença online",
+                            "Investimento em marketing",
+                            "Marca reconhecida"
+                        ]
+                    },
+                    {
+                        "name": "Max Dog",
+                        "market_share": 0.06985577574033537,
+                        "units": 61,
+                        "years_in_market": 7,
+                        "competitive_advantages": [
+                            "Localização estratégica",
+                            "Investimento em marketing",
+                            "Qualidade superior"
+                        ]
+                    },
+                    {
+                        "name": "Top Vet",
+                        "market_share": 0.18734502307974477,
+                        "units": 19,
+                        "years_in_market": 5,
+                        "competitive_advantages": [
+                            "Produtos exclusivos",
+                            "Forte presença online",
+                            "Atendimento diferenciado",
+                            "Marca reconhecida"
+                        ]
+                    },
+                    {
+                        "name": "Eco Pet",
+                        "market_share": 0.1605184009207385,
+                        "units": 69,
+                        "years_in_market": 10,
+                        "competitive_advantages": [
+                            "Marca reconhecida",
+                            "Equipe especializada"
+                        ]
+                    },
+                    {
+                        "name": "Prime Pet",
+                        "market_share": 0.2632856574602043,
+                        "units": 62,
+                        "years_in_market": 17,
+                        "competitive_advantages": [
+                            "Investimento em marketing",
+                            "Marca reconhecida",
+                            "Atendimento diferenciado",
+                            "Tecnologia avançada"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.4001466490872131,
+                "category": "Pet",
+                "entry_barriers": [
+                    "Investimento inicial considerável",
+                    "Necessidade de diferenciação",
+                    "Concorrentes com presença estabelecida",
+                    "Fidelização de clientes pelos concorrentes"
+                ],
+                "summary": "A competição no mercado de Pet é moderada, com 28 concorrentes importantes. Com uma saturação de 40%, o sucesso dependerá da capacidade de oferecer diferenciais claros e estabelecer uma presença de mercado consistente."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "25-55",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "medium",
+                    "digital_engagement": "medium"
+                },
+                "market_size": 3848290,
+                "potential_customers": 6214,
+                "compatibility_score": 0.8135003722446481,
+                "recommended_regions": [
+                    "Curitiba",
+                    "Fortaleza",
+                    "Recife",
+                    "Goiânia"
+                ],
+                "category": "Pet",
+                "summary": "A análise demográfica indica uma excelente compatibilidade (81.4%) para o segmento de Pet. Com um mercado potencial estimado em 3.848.290 pessoas e aproximadamente 6.214 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 25-55, com nível de renda medium e concentração urbana medium."
+            },
+            "roi": {
+                "npv": 318307.6,
+                "irr": 50.0,
+                "payback_years": 0.8,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 30379.999999999996,
+                        "expected": 43400,
+                        "optimistic": 56420.0
+                    },
+                    "annual": {
+                        "pessimistic": 364560.0,
+                        "expected": 520800,
+                        "optimistic": 677040.0
+                    },
+                    "five_year": {
+                        "pessimistic": 1822800.0,
+                        "expected": 2604000,
+                        "optimistic": 3385200.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 76189.494706495,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 1519.0,
+                            "cogs": 12152.0,
+                            "operation": 9113.999999999998,
+                            "total": 22785.0
+                        },
+                        "expected": {
+                            "royalties": 2170.0,
+                            "cogs": 17360.0,
+                            "operation": 13020.0,
+                            "total": 32550.0
+                        },
+                        "optimistic": {
+                            "royalties": 2821.0,
+                            "cogs": 22568.0,
+                            "operation": 16926.0,
+                            "total": 42315.0
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 18228.0,
+                            "cogs": 145824.0,
+                            "operation": 109368.0,
+                            "total": 273420.0
+                        },
+                        "expected": {
+                            "royalties": 26040.0,
+                            "cogs": 208320.0,
+                            "operation": 156240.0,
+                            "total": 390600.0
+                        },
+                        "optimistic": {
+                            "royalties": 33852.0,
+                            "cogs": 270816.0,
+                            "operation": 203112.0,
+                            "total": 507780.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 91140.0,
+                            "cogs": 729120.0,
+                            "operation": 546840.0,
+                            "total": 1367100.0
+                        },
+                        "expected": {
+                            "royalties": 130200.0,
+                            "cogs": 1041600.0,
+                            "operation": 781200.0,
+                            "total": 1953000.0
+                        },
+                        "optimistic": {
+                            "royalties": 169260.0,
+                            "cogs": 1354080.0,
+                            "operation": 1015560.0,
+                            "total": 2538900.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -76189.494706495,
+                        66532.2,
+                        69858.81,
+                        73351.7505,
+                        77019.338025,
+                        80870.30492625001
+                    ],
+                    "expected": [
+                        -76189.494706495,
+                        95046.0,
+                        99798.3,
+                        104788.215,
+                        110027.62575,
+                        115529.00703750002
+                    ],
+                    "optimistic": [
+                        -76189.494706495,
+                        123559.79999999999,
+                        129737.79,
+                        136224.6795,
+                        143035.913475,
+                        150187.70914875
+                    ]
+                }
+            }
+        },
+        "HealthySnacks": {
+            "basic_info": {
+                "name": "HealthySnacks",
+                "category": "Alimentação",
+                "initial_investment": 82366.43991844956,
+                "franchise_fee": 11734.175322401275,
+                "royalty_fee_percentage": 5.6945961445717765,
+                "avg_monthly_revenue": 11352.556255601794,
+                "roi_percentage": 37.446170723167675,
+                "payback_period_months": 32.04600034730837,
+                "min_area": 168,
+                "min_employees": 8,
+                "units": 115,
+                "description": "Modelo de negócio simplificado no setor de Alimentação com suporte completo.",
+                "summary": "HealthySnacks é uma rede de franquias no setor de Alimentação com 115 unidades em operação no Brasil.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 18:15:51",
+                "cleaned_at": "2025-05-02 18:15:51",
+                "relevant_trends": [
+                    {
+                        "keyword": "alimentação saudável",
+                        "growth_rate": 0.18,
+                        "sentiment": 0.85,
+                        "monthly_mentions": 230000.0
+                    }
+                ],
+                "market_research": [
+                    {
+                        "title": "Pesquisa de Consumidor: Alimentação",
+                        "market_size": 439000000.0,
+                        "growth_rate": 0.09351906232556982,
+                        "insights": [
+                            "Novas tecnologias estão transformando o setor de Alimentação",
+                            "Franquias de Alimentação têm mostrado resistência em períodos de crise",
+                            "Consumidores valorizam qualidade e preço no setor de Alimentação"
+                        ]
+                    },
+                    {
+                        "title": "Tendências do Setor de Alimentação",
+                        "market_size": 296000000.0,
+                        "growth_rate": 0.022368019514712373,
+                        "insights": [
+                            "O mercado de Alimentação deve crescer 2.2% nos próximos 2 anos",
+                            "Franquias de Alimentação têm mostrado resistência em períodos de crise",
+                            "Novas tecnologias estão transformando o setor de Alimentação"
+                        ]
+                    },
+                    {
+                        "title": "Oportunidades em Alimentação",
+                        "market_size": 514000000.0,
+                        "growth_rate": 0.14086118829070665,
+                        "insights": [
+                            "Há uma tendência de consolidação no setor de Alimentação",
+                            "Franquias de Alimentação têm mostrado resistência em períodos de crise"
+                        ]
+                    }
+                ],
+                "opportunity_score": 46.6,
+                "estimated_monthly_revenue": 11352.556255601794,
+                "estimated_monthly_expenses": 8782.299779730298,
+                "estimated_monthly_profit": 2570.256475871496,
+                "annual_profit": 30843.077710457954,
+                "profit_margin": 0.22640332432646898,
+                "operational_margin": 0.2264033243264689,
+                "operating_expenses": {
+                    "aluguel": 1536.713490539424,
+                    "pessoal": 3063.587739350866,
+                    "marketing": 746.6291645925328,
+                    "insumos": 3280.567281502939,
+                    "administracao": 511.12691324135295,
+                    "outros": 692.1901133323315
+                },
+                "growth_rate": 0.06416549353909677,
+                "future_revenues": {
+                    "ano1": 30843.077710457954,
+                    "ano2": 32822.1390140142,
+                    "ano3": 34928.18776285726,
+                    "ano4": 37169.37216908724,
+                    "ano5": 39554.36327885509
+                }
+            },
+            "competition": {
+                "competition_level": "high",
+                "num_competitors": 79,
+                "top_competitors": [
+                    {
+                        "name": "Top Delícia",
+                        "market_share": 0.13829746938281284,
+                        "units": 33,
+                        "years_in_market": 15,
+                        "competitive_advantages": [
+                            "Atendimento diferenciado",
+                            "Forte presença online"
+                        ]
+                    },
+                    {
+                        "name": "Smart Food",
+                        "market_share": 0.24206876227974083,
+                        "units": 173,
+                        "years_in_market": 20,
+                        "competitive_advantages": [
+                            "Tecnologia avançada",
+                            "Forte presença online"
+                        ]
+                    },
+                    {
+                        "name": "Eco Sabor",
+                        "market_share": 0.16121877567324394,
+                        "units": 91,
+                        "years_in_market": 18,
+                        "competitive_advantages": [
+                            "Equipe especializada",
+                            "Preços competitivos",
+                            "Fidelização de clientes"
+                        ]
+                    },
+                    {
+                        "name": "Smart Express",
+                        "market_share": 0.2036784042211891,
+                        "units": 47,
+                        "years_in_market": 5,
+                        "competitive_advantages": [
+                            "Investimento em marketing",
+                            "Logística eficiente",
+                            "Forte presença online",
+                            "Fidelização de clientes"
+                        ]
+                    },
+                    {
+                        "name": "Smart Delícia",
+                        "market_share": 0.29333368873007926,
+                        "units": 76,
+                        "years_in_market": 10,
+                        "competitive_advantages": [
+                            "Tecnologia avançada",
+                            "Equipe especializada",
+                            "Forte presença online"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.7011452489088034,
+                "category": "Alimentação",
+                "entry_barriers": [
+                    "Alto investimento inicial",
+                    "Mercado saturado",
+                    "Concorrentes com forte reconhecimento de marca",
+                    "Guerra de preços",
+                    "Altos custos de marketing para entrar no mercado",
+                    "Regulamentação complexa"
+                ],
+                "summary": "A análise indica um cenário altamente competitivo no setor de Alimentação, com 79 players disputando mercado. Com saturação de 70%, recomenda-se cautela e um plano de negócios detalhado para novos entrantes."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "20-60",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "high",
+                    "digital_engagement": "medium"
+                },
+                "market_size": 3535663,
+                "potential_customers": 3722,
+                "compatibility_score": 0.7700067591876101,
+                "recommended_regions": [
+                    "Belo Horizonte",
+                    "Salvador",
+                    "Fortaleza",
+                    "Rio de Janeiro"
+                ],
+                "category": "Alimentação",
+                "summary": "A análise demográfica mostra uma boa compatibilidade (77.0%) para o segmento de Alimentação. O mercado potencial é estimado em 3.535.663 pessoas, com cerca de 3.722 clientes potenciais diretos. O perfil demográfico é favorável, com público-alvo na faixa etária de 20-60, nível de renda medium e concentração urbana high."
+            },
+            "roi": {
+                "npv": 18530.28,
+                "irr": 20.0,
+                "payback_years": 3.2,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 7769.999999999999,
+                        "expected": 11100,
+                        "optimistic": 14430.0
+                    },
+                    "annual": {
+                        "pessimistic": 93240.0,
+                        "expected": 133200,
+                        "optimistic": 173160.0
+                    },
+                    "five_year": {
+                        "pessimistic": 466199.99999999994,
+                        "expected": 666000,
+                        "optimistic": 865800.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 82366.43991844956,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 388.5,
+                            "cogs": 3108.0,
+                            "operation": 2330.9999999999995,
+                            "total": 5827.5
+                        },
+                        "expected": {
+                            "royalties": 555.0,
+                            "cogs": 4440.0,
+                            "operation": 3330.0,
+                            "total": 8325.0
+                        },
+                        "optimistic": {
+                            "royalties": 721.5,
+                            "cogs": 5772.0,
+                            "operation": 4329.0,
+                            "total": 10822.5
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 4662.0,
+                            "cogs": 37296.0,
+                            "operation": 27972.0,
+                            "total": 69930.0
+                        },
+                        "expected": {
+                            "royalties": 6660.0,
+                            "cogs": 53280.0,
+                            "operation": 39960.0,
+                            "total": 99900.0
+                        },
+                        "optimistic": {
+                            "royalties": 8658.0,
+                            "cogs": 69264.0,
+                            "operation": 51948.0,
+                            "total": 129870.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 23310.0,
+                            "cogs": 186480.0,
+                            "operation": 139859.99999999997,
+                            "total": 349650.0
+                        },
+                        "expected": {
+                            "royalties": 33300.0,
+                            "cogs": 266400.0,
+                            "operation": 199800.0,
+                            "total": 499500.0
+                        },
+                        "optimistic": {
+                            "royalties": 43290.0,
+                            "cogs": 346320.0,
+                            "operation": 259740.0,
+                            "total": 649350.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -82366.43991844956,
+                        17016.3,
+                        17867.115,
+                        18760.47075,
+                        19698.4942875,
+                        20683.419001875
+                    ],
+                    "expected": [
+                        -82366.43991844956,
+                        24309.0,
+                        25524.45,
+                        26800.6725,
+                        28140.706125000004,
+                        29547.741431250004
+                    ],
+                    "optimistic": [
+                        -82366.43991844956,
+                        31601.699999999997,
+                        33181.784999999996,
+                        34840.87425,
+                        36582.9179625,
+                        38412.06386062501
+                    ]
+                }
+            }
+        },
+        "HomeDecor": {
+            "basic_info": {
+                "name": "HomeDecor",
+                "category": "Casa e decoração",
+                "initial_investment": 69185.51085293476,
+                "franchise_fee": 13096.580482359825,
+                "royalty_fee_percentage": 7.971174776112748,
+                "avg_monthly_revenue": 13392.445735260126,
+                "roi_percentage": 75.36286247512321,
+                "payback_period_months": 15.922962061003354,
+                "min_area": 61,
+                "min_employees": 4,
+                "units": 71,
+                "description": "Oportunidade no setor de Casa e Decoração com modelo de negócio comprovado.",
+                "summary": "HomeDecor é uma rede de franquias no setor de Casa e Decoração com 71 unidades em operação no Brasil.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 18:15:51",
+                "cleaned_at": "2025-05-02 18:15:51",
+                "market_research": [
+                    {
+                        "title": "Oportunidades em Casa",
+                        "market_size": 630000000.0,
+                        "growth_rate": 0.054948963303060275,
+                        "insights": [
+                            "Franquias de Casa têm mostrado resistência em períodos de crise",
+                            "O segmento online em Casa tem crescido acima da média do mercado",
+                            "Consumidores valorizam qualidade e preço no setor de Casa"
+                        ]
+                    },
+                    {
+                        "title": "Pesquisa de Consumidor: Casa",
+                        "market_size": 230000000.0,
+                        "growth_rate": 0.22946126312022794,
+                        "insights": [
+                            "Empresas com foco em sustentabilidade têm se destacado em Casa",
+                            "O mercado de Casa deve crescer 22.9% nos próximos 2 anos",
+                            "O segmento online em Casa tem crescido acima da média do mercado"
+                        ]
+                    },
+                    {
+                        "title": "Tendências do Setor de Casa",
+                        "market_size": 527000000.0,
+                        "growth_rate": 0.1537883764824482,
+                        "insights": [
+                            "O segmento online em Casa tem crescido acima da média do mercado",
+                            "Há uma tendência de consolidação no setor de Casa",
+                            "Empresas com foco em sustentabilidade têm se destacado em Casa"
+                        ]
+                    },
+                    {
+                        "title": "Relatório de Investimento: Casa",
+                        "market_size": 582000000.0,
+                        "growth_rate": 0.24115230473956897,
+                        "insights": [
+                            "Novas tecnologias estão transformando o setor de Casa",
+                            "O segmento online em Casa tem crescido acima da média do mercado",
+                            "Franquias de Casa têm mostrado resistência em períodos de crise"
+                        ]
+                    },
+                    {
+                        "title": "Relatório de Investimento: Casa",
+                        "market_size": 624000000.0,
+                        "growth_rate": 0.07047814224753142,
+                        "insights": [
+                            "O mercado de Casa deve crescer 7.0% nos próximos 2 anos",
+                            "Há uma tendência de consolidação no setor de Casa"
+                        ]
+                    }
+                ],
+                "opportunity_score": 45.25,
+                "estimated_monthly_revenue": 13392.445735260126,
+                "estimated_monthly_expenses": 9047.430618859404,
+                "estimated_monthly_profit": 4345.015116400722,
+                "annual_profit": 52140.181396808664,
+                "profit_margin": 0.3244377615778578,
+                "operational_margin": 0.3244377615778577,
+                "operating_expenses": {
+                    "aluguel": 1702.0833247200808,
+                    "pessoal": 2298.3316099254666,
+                    "marketing": 1154.7891820994623,
+                    "insumos": 3223.018006355002,
+                    "administracao": 1161.5310993026862,
+                    "outros": 737.7800248653748
+                },
+                "growth_rate": 0.24235248236047074,
+                "future_revenues": {
+                    "ano1": 52140.181396808664,
+                    "ano2": 64776.483789050486,
+                    "ano3": 80475.22543390965,
+                    "ano4": 99978.59608633617,
+                    "ano5": 124208.65703077459
+                }
+            },
+            "competition": {
+                "competition_level": "medium",
+                "num_competitors": 16,
+                "top_competitors": [
+                    {
+                        "name": "Global Prime",
+                        "market_share": 0.21713774845535644,
+                        "units": 172,
+                        "years_in_market": 16,
+                        "competitive_advantages": [
+                            "Atendimento diferenciado",
+                            "Localização estratégica"
+                        ]
+                    },
+                    {
+                        "name": "Super Brasil",
+                        "market_share": 0.1568964399291669,
+                        "units": 98,
+                        "years_in_market": 4,
+                        "competitive_advantages": [
+                            "Fidelização de clientes",
+                            "Produtos exclusivos"
+                        ]
+                    },
+                    {
+                        "name": "Top Brasil",
+                        "market_share": 0.13439503115133516,
+                        "units": 150,
+                        "years_in_market": 2,
+                        "competitive_advantages": [
+                            "Tecnologia avançada",
+                            "Investimento em marketing"
+                        ]
+                    },
+                    {
+                        "name": "Prime Prime",
+                        "market_share": 0.1559224699489929,
+                        "units": 186,
+                        "years_in_market": 16,
+                        "competitive_advantages": [
+                            "Preços competitivos",
+                            "Investimento em marketing",
+                            "Tecnologia avançada",
+                            "Localização estratégica"
+                        ]
+                    },
+                    {
+                        "name": "Global Super",
+                        "market_share": 0.29350622665874854,
+                        "units": 110,
+                        "years_in_market": 14,
+                        "competitive_advantages": [
+                            "Equipe especializada",
+                            "Preços competitivos"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.4810613197031055,
+                "category": "Casa e decoração",
+                "entry_barriers": [
+                    "Investimento inicial considerável",
+                    "Necessidade de diferenciação",
+                    "Concorrentes com presença estabelecida",
+                    "Fidelização de clientes pelos concorrentes"
+                ],
+                "summary": "A competição no mercado de Casa e decoração é moderada, com 16 concorrentes importantes. Com uma saturação de 48%, o sucesso dependerá da capacidade de oferecer diferenciais claros e estabelecer uma presença de mercado consistente."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "25-55",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "medium",
+                    "digital_engagement": "medium"
+                },
+                "market_size": 1852993,
+                "potential_customers": 12522,
+                "compatibility_score": 0.8437561423673099,
+                "recommended_regions": [
+                    "Porto Alegre",
+                    "Fortaleza",
+                    "Campinas",
+                    "Recife",
+                    "Goiânia"
+                ],
+                "category": "Casa e decoração",
+                "summary": "A análise demográfica indica uma excelente compatibilidade (84.4%) para o segmento de Casa e decoração. Com um mercado potencial estimado em 1.852.993 pessoas e aproximadamente 12.522 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 25-55, com nível de renda medium e concentração urbana medium."
+            },
+            "roi": {
+                "npv": 727080.52,
+                "irr": 50.0,
+                "payback_years": 0.4,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 61319.99999999999,
+                        "expected": 87600,
+                        "optimistic": 113880.0
+                    },
+                    "annual": {
+                        "pessimistic": 735840.0,
+                        "expected": 1051200,
+                        "optimistic": 1366560.0
+                    },
+                    "five_year": {
+                        "pessimistic": 3679199.9999999995,
+                        "expected": 5256000,
+                        "optimistic": 6832800.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 69185.51085293476,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 3066.0,
+                            "cogs": 24528.0,
+                            "operation": 18395.999999999996,
+                            "total": 45990.0
+                        },
+                        "expected": {
+                            "royalties": 4380.0,
+                            "cogs": 35040.0,
+                            "operation": 26280.0,
+                            "total": 65700.0
+                        },
+                        "optimistic": {
+                            "royalties": 5694.0,
+                            "cogs": 45552.0,
+                            "operation": 34164.0,
+                            "total": 85410.0
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 36792.0,
+                            "cogs": 294336.0,
+                            "operation": 220752.0,
+                            "total": 551880.0
+                        },
+                        "expected": {
+                            "royalties": 52560.0,
+                            "cogs": 420480.0,
+                            "operation": 315360.0,
+                            "total": 788400.0
+                        },
+                        "optimistic": {
+                            "royalties": 68328.0,
+                            "cogs": 546624.0,
+                            "operation": 409968.0,
+                            "total": 1024920.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 183960.0,
+                            "cogs": 1471680.0,
+                            "operation": 1103759.9999999998,
+                            "total": 2759400.0
+                        },
+                        "expected": {
+                            "royalties": 262800.0,
+                            "cogs": 2102400.0,
+                            "operation": 1576800.0,
+                            "total": 3942000.0
+                        },
+                        "optimistic": {
+                            "royalties": 341640.0,
+                            "cogs": 2733120.0,
+                            "operation": 2049840.0,
+                            "total": 5124600.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -69185.51085293476,
+                        134290.8,
+                        141005.34,
+                        148055.607,
+                        155458.38735,
+                        163231.3067175
+                    ],
+                    "expected": [
+                        -69185.51085293476,
+                        191844.0,
+                        201436.2,
+                        211508.01,
+                        222083.41050000003,
+                        233187.58102500005
+                    ],
+                    "optimistic": [
+                        -69185.51085293476,
+                        249397.2,
+                        261867.06000000003,
+                        274960.413,
+                        288708.43365,
+                        303143.85533250007
+                    ]
+                }
+            }
+        },
+        "Coffee Express": {
+            "basic_info": {
+                "name": "Coffee Express",
+                "category": "Café",
+                "initial_investment": 141956.86728836218,
+                "franchise_fee": 18627.145127919433,
+                "royalty_fee_percentage": 5.542370098200637,
+                "avg_monthly_revenue": 14769.067568580995,
+                "roi_percentage": 35.859976230206144,
+                "payback_period_months": 33.46349122755963,
+                "min_area": 33,
+                "min_employees": 6,
+                "units": 138,
+                "description": "Franquia de Café com excelente retorno sobre investimento.",
+                "summary": "Com investimento inicial a partir de R$ 142.0 mil, Coffee Express oferece uma excelente oportunidade no mercado de Café.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 18:15:51",
+                "cleaned_at": "2025-05-02 18:15:51",
+                "opportunity_score": 44.29,
+                "estimated_monthly_revenue": 14769.067568580995,
+                "estimated_monthly_expenses": 10526.925996351665,
+                "estimated_monthly_profit": 4242.1415722293295,
+                "annual_profit": 50905.698866751954,
+                "profit_margin": 0.28723150954051146,
+                "operational_margin": 0.2872315095405114,
+                "operating_expenses": {
+                    "aluguel": 2465.975942348184,
+                    "pessoal": 3049.602841675648,
+                    "marketing": 1104.383171530605,
+                    "insumos": 3884.060329635884,
+                    "administracao": 1471.7235309786925,
+                    "outros": 989.9801930982851
+                },
+                "growth_rate": 0.10244824922444232,
+                "future_revenues": {
+                    "ano1": 50905.698866751954,
+                    "ano2": 56120.898591197365,
+                    "ano3": 61870.38639676801,
+                    "ano4": 68208.89916195664,
+                    "ano5": 75196.78146262563
+                }
+            },
+            "competition": {
+                "competition_level": "high",
+                "num_competitors": 30,
+                "top_competitors": [
+                    {
+                        "name": "Super Express",
+                        "market_share": 0.0962519629464967,
+                        "units": 151,
+                        "years_in_market": 19,
+                        "competitive_advantages": [
+                            "Atendimento diferenciado",
+                            "Equipe especializada",
+                            "Qualidade superior",
+                            "Preços competitivos"
+                        ]
+                    },
+                    {
+                        "name": "Eco Brasil",
+                        "market_share": 0.10010839943092496,
+                        "units": 136,
+                        "years_in_market": 3,
+                        "competitive_advantages": [
+                            "Investimento em marketing",
+                            "Qualidade superior"
+                        ]
+                    },
+                    {
+                        "name": "Brasil Super",
+                        "market_share": 0.11114396238490216,
+                        "units": 66,
+                        "years_in_market": 15,
+                        "competitive_advantages": [
+                            "Logística eficiente",
+                            "Tecnologia avançada"
+                        ]
+                    },
+                    {
+                        "name": "Mega Prime",
+                        "market_share": 0.06266543573056617,
+                        "units": 181,
+                        "years_in_market": 16,
+                        "competitive_advantages": [
+                            "Atendimento diferenciado",
+                            "Qualidade superior"
+                        ]
+                    },
+                    {
+                        "name": "Top Brasil",
+                        "market_share": 0.07005236249957282,
+                        "units": 23,
+                        "years_in_market": 12,
+                        "competitive_advantages": [
+                            "Marca reconhecida",
+                            "Produtos exclusivos",
+                            "Tecnologia avançada"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.7942604527825903,
+                "category": "Café",
+                "entry_barriers": [
+                    "Alto investimento inicial",
+                    "Mercado saturado",
+                    "Concorrentes com forte reconhecimento de marca",
+                    "Guerra de preços",
+                    "Altos custos de marketing para entrar no mercado",
+                    "Regulamentação complexa"
+                ],
+                "summary": "A análise indica um cenário altamente competitivo no setor de Café, com 30 players disputando mercado. Com saturação de 79%, recomenda-se cautela e um plano de negócios detalhado para novos entrantes."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "25-55",
+                    "income_level": "medium",
+                    "education_level": "varied",
+                    "urban_concentration": "medium",
+                    "digital_engagement": "medium"
+                },
+                "market_size": 2742726,
+                "potential_customers": 25552,
+                "compatibility_score": 0.8764016213644278,
+                "recommended_regions": [
+                    "Recife",
+                    "Goiânia",
+                    "Curitiba"
+                ],
+                "category": "Café",
+                "summary": "A análise demográfica indica uma excelente compatibilidade (87.6%) para o segmento de Café. Com um mercado potencial estimado em 2.742.726 pessoas e aproximadamente 25.552 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 25-55, com nível de renda medium e concentração urbana medium."
+            },
+            "roi": {
+                "npv": 554321.42,
+                "irr": 50.0,
+                "payback_years": 0.8,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 53620.0,
+                        "expected": 76600,
+                        "optimistic": 99580.0
+                    },
+                    "annual": {
+                        "pessimistic": 643440.0,
+                        "expected": 919200,
+                        "optimistic": 1194960.0
+                    },
+                    "five_year": {
+                        "pessimistic": 3217200.0,
+                        "expected": 4596000,
+                        "optimistic": 5974800.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 141956.86728836218,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 2681.0,
+                            "cogs": 21448.0,
+                            "operation": 16086.0,
+                            "total": 40215.0
+                        },
+                        "expected": {
+                            "royalties": 3830.0,
+                            "cogs": 30640.0,
+                            "operation": 22980.0,
+                            "total": 57450.0
+                        },
+                        "optimistic": {
+                            "royalties": 4979.0,
+                            "cogs": 39832.0,
+                            "operation": 29874.0,
+                            "total": 74685.0
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 32172.0,
+                            "cogs": 257376.0,
+                            "operation": 193032.0,
+                            "total": 482580.0
+                        },
+                        "expected": {
+                            "royalties": 45960.0,
+                            "cogs": 367680.0,
+                            "operation": 275760.0,
+                            "total": 689400.0
+                        },
+                        "optimistic": {
+                            "royalties": 59748.0,
+                            "cogs": 477984.0,
+                            "operation": 358488.0,
+                            "total": 896220.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 160860.0,
+                            "cogs": 1286880.0,
+                            "operation": 965160.0,
+                            "total": 2412900.0
+                        },
+                        "expected": {
+                            "royalties": 229800.0,
+                            "cogs": 1838400.0,
+                            "operation": 1378800.0,
+                            "total": 3447000.0
+                        },
+                        "optimistic": {
+                            "royalties": 298740.0,
+                            "cogs": 2389920.0,
+                            "operation": 1792440.0,
+                            "total": 4481100.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -141956.86728836218,
+                        117427.79999999999,
+                        123299.18999999999,
+                        129464.14949999998,
+                        135937.356975,
+                        142734.22482375
+                    ],
+                    "expected": [
+                        -141956.86728836218,
+                        167754.0,
+                        176141.7,
+                        184948.785,
+                        194196.22425000003,
+                        203906.03546250003
+                    ],
+                    "optimistic": [
+                        -141956.86728836218,
+                        218080.2,
+                        228984.21000000002,
+                        240433.4205,
+                        252455.09152500005,
+                        265077.8461012501
+                    ]
+                }
+            }
+        },
+        "EduKids": {
+            "basic_info": {
+                "name": "EduKids",
+                "category": "Educação",
+                "initial_investment": 100001.44777331268,
+                "franchise_fee": 10138.135817391336,
+                "royalty_fee_percentage": 2.335259198086011,
+                "avg_monthly_revenue": 19208.594995897594,
+                "roi_percentage": 98.15165050033873,
+                "payback_period_months": 12.225978818317056,
+                "min_area": 27,
+                "min_employees": 8,
+                "units": 131,
+                "description": "Invista em uma franquia de Educação em expansão no mercado.",
+                "summary": "Com investimento inicial a partir de R$ 100.0 mil, EduKids oferece uma excelente oportunidade no mercado de Educação.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 18:15:51",
+                "cleaned_at": "2025-05-02 18:15:51",
+                "market_research": [
+                    {
+                        "title": "Análise de Mercado: Educação",
+                        "market_size": 275000000.0,
+                        "growth_rate": 0.0542971784556107,
+                        "insights": [
+                            "Franquias de Educação têm mostrado resistência em períodos de crise",
+                            "O segmento online em Educação tem crescido acima da média do mercado"
+                        ]
+                    },
+                    {
+                        "title": "Pesquisa de Consumidor: Educação",
+                        "market_size": 809000000.0,
+                        "growth_rate": 0.23522299310965047,
+                        "insights": [
+                            "Empresas com foco em sustentabilidade têm se destacado em Educação",
+                            "O mercado de Educação deve crescer 23.5% nos próximos 2 anos"
+                        ]
+                    },
+                    {
+                        "title": "Tendências do Setor de Educação",
+                        "market_size": 180000000.0,
+                        "growth_rate": 0.21992199317643937,
+                        "insights": [
+                            "O mercado de Educação deve crescer 22.0% nos próximos 2 anos",
+                            "O segmento online em Educação tem crescido acima da média do mercado",
+                            "Novas tecnologias estão transformando o setor de Educação"
+                        ]
+                    },
+                    {
+                        "title": "Tendências do Setor de Educação",
+                        "market_size": 484000000.0,
+                        "growth_rate": 0.22700689838993923,
+                        "insights": [
+                            "Franquias de Educação têm mostrado resistência em períodos de crise",
+                            "Consumidores valorizam qualidade e preço no setor de Educação"
+                        ]
+                    },
+                    {
+                        "title": "Pesquisa de Consumidor: Educação",
+                        "market_size": 386000000.0,
+                        "growth_rate": 0.23203483273544498,
+                        "insights": [
+                            "Consumidores valorizam qualidade e preço no setor de Educação",
+                            "Há uma tendência de consolidação no setor de Educação",
+                            "Novas tecnologias estão transformando o setor de Educação"
+                        ]
+                    }
+                ],
+                "opportunity_score": 42.64,
+                "estimated_monthly_revenue": 19208.594995897594,
+                "estimated_monthly_expenses": 11029.172369752541,
+                "estimated_monthly_profit": 8179.422626145053,
+                "annual_profit": 98153.07151374064,
+                "profit_margin": 0.4258209737824106,
+                "operational_margin": 0.42582097378241063,
+                "operating_expenses": {
+                    "aluguel": 1905.8054671884638,
+                    "pessoal": 3946.868125343749,
+                    "marketing": 1096.8955234486589,
+                    "insumos": 3977.87570754361,
+                    "administracao": 1590.6593628401881,
+                    "outros": 741.7371328579408
+                },
+                "growth_rate": 0.10120962192117838,
+                "future_revenues": {
+                    "ano1": 98153.07151374064,
+                    "ano2": 108087.10677204872,
+                    "ano3": 119026.56198300181,
+                    "ano4": 131073.19531987913,
+                    "ano5": 144339.06386220487
+                }
+            },
+            "competition": {
+                "competition_level": "high",
+                "num_competitors": 62,
+                "top_competitors": [
+                    {
+                        "name": "Smart Ensino",
+                        "market_share": 0.05988298136081742,
+                        "units": 31,
+                        "years_in_market": 5,
+                        "competitive_advantages": [
+                            "Tecnologia avançada",
+                            "Preços competitivos",
+                            "Localização estratégica"
+                        ]
+                    },
+                    {
+                        "name": "Max Edu",
+                        "market_share": 0.29075284769372567,
+                        "units": 26,
+                        "years_in_market": 6,
+                        "competitive_advantages": [
+                            "Qualidade superior",
+                            "Investimento em marketing"
+                        ]
+                    },
+                    {
+                        "name": "Smart Ensino",
+                        "market_share": 0.2577046457232524,
+                        "units": 157,
+                        "years_in_market": 4,
+                        "competitive_advantages": [
+                            "Marca reconhecida",
+                            "Forte presença online"
+                        ]
+                    },
+                    {
+                        "name": "Eco Ensino",
+                        "market_share": 0.23308413498255376,
+                        "units": 180,
+                        "years_in_market": 3,
+                        "competitive_advantages": [
+                            "Produtos exclusivos",
+                            "Logística eficiente",
+                            "Marca reconhecida",
+                            "Localização estratégica"
+                        ]
+                    },
+                    {
+                        "name": "Ultra School",
+                        "market_share": 0.08106978462304053,
+                        "units": 88,
+                        "years_in_market": 2,
+                        "competitive_advantages": [
+                            "Preços competitivos",
+                            "Fidelização de clientes",
+                            "Marca reconhecida"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.6512043127181782,
+                "category": "Educação",
+                "entry_barriers": [
+                    "Alto investimento inicial",
+                    "Mercado saturado",
+                    "Concorrentes com forte reconhecimento de marca",
+                    "Guerra de preços",
+                    "Altos custos de marketing para entrar no mercado",
+                    "Regulamentação complexa"
+                ],
+                "summary": "O mercado de Educação apresenta alta competitividade, com aproximadamente 62 concorrentes estabelecidos. A saturação de mercado de 65% indica que novos entrantes enfrentarão desafios significativos e precisarão de estratégias robustas de diferenciação."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "30-50",
+                    "income_level": "medium-high",
+                    "education_level": "higher",
+                    "urban_concentration": "medium",
+                    "digital_engagement": "medium"
+                },
+                "market_size": 5204656,
+                "potential_customers": 7448,
+                "compatibility_score": 0.9015801332241422,
+                "recommended_regions": [
+                    "Rio de Janeiro",
+                    "Goiânia",
+                    "Brasília"
+                ],
+                "category": "Educação",
+                "summary": "A análise demográfica indica uma excelente compatibilidade (90.2%) para o segmento de Educação. Com um mercado potencial estimado em 5.204.656 pessoas e aproximadamente 7.448 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 30-50, com nível de renda medium-high e concentração urbana medium."
+            },
+            "roi": {
+                "npv": 102700.98,
+                "irr": 45.0,
+                "payback_years": 2.0,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 15609.999999999998,
+                        "expected": 22300,
+                        "optimistic": 28990.0
+                    },
+                    "annual": {
+                        "pessimistic": 187320.0,
+                        "expected": 267600,
+                        "optimistic": 347880.0
+                    },
+                    "five_year": {
+                        "pessimistic": 936599.9999999999,
+                        "expected": 1338000,
+                        "optimistic": 1739400.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 100001.44777331268,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 780.5,
+                            "cogs": 6244.0,
+                            "operation": 4682.999999999999,
+                            "total": 11707.5
+                        },
+                        "expected": {
+                            "royalties": 1115.0,
+                            "cogs": 8920.0,
+                            "operation": 6690.0,
+                            "total": 16725.0
+                        },
+                        "optimistic": {
+                            "royalties": 1449.5,
+                            "cogs": 11596.0,
+                            "operation": 8697.0,
+                            "total": 21742.5
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 9366.0,
+                            "cogs": 74928.0,
+                            "operation": 56196.0,
+                            "total": 140490.0
+                        },
+                        "expected": {
+                            "royalties": 13380.0,
+                            "cogs": 107040.0,
+                            "operation": 80280.0,
+                            "total": 200700.0
+                        },
+                        "optimistic": {
+                            "royalties": 17394.0,
+                            "cogs": 139152.0,
+                            "operation": 104364.0,
+                            "total": 260910.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 46830.0,
+                            "cogs": 374640.0,
+                            "operation": 280979.99999999994,
+                            "total": 702450.0
+                        },
+                        "expected": {
+                            "royalties": 66900.0,
+                            "cogs": 535200.0,
+                            "operation": 401400.0,
+                            "total": 1003500.0
+                        },
+                        "optimistic": {
+                            "royalties": 86970.0,
+                            "cogs": 695760.0,
+                            "operation": 521820.0,
+                            "total": 1304550.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -100001.44777331268,
+                        34185.9,
+                        35895.195,
+                        37689.954750000004,
+                        39574.452487500006,
+                        41553.17511187501
+                    ],
+                    "expected": [
+                        -100001.44777331268,
+                        48837.0,
+                        51278.85,
+                        53842.7925,
+                        56534.93212500001,
+                        59361.67873125001
+                    ],
+                    "optimistic": [
+                        -100001.44777331268,
+                        63488.1,
+                        66662.505,
+                        69995.63025,
+                        73495.4117625,
+                        77170.18235062501
+                    ]
+                }
+            }
+        },
+        "FitLife Gym": {
+            "basic_info": {
+                "name": "FitLife Gym",
+                "category": "Fitness",
+                "initial_investment": 95016.04914179166,
+                "franchise_fee": 14984.132147474373,
+                "royalty_fee_percentage": 5.718536961459515,
+                "avg_monthly_revenue": 22292.85165116609,
+                "roi_percentage": 99.6176455454269,
+                "payback_period_months": 12.046058641817478,
+                "min_area": 167,
+                "min_employees": 8,
+                "units": 45,
+                "description": "Oportunidade no setor de Fitness com modelo de negócio comprovado.",
+                "summary": "FitLife Gym é uma rede de franquias no setor de Fitness com 45 unidades em operação no Brasil.",
+                "source": "Web (simulado)",
+                "scraped_at": "2025-05-02 18:15:51",
+                "cleaned_at": "2025-05-02 18:15:51",
+                "opportunity_score": 40.56,
+                "estimated_monthly_revenue": 22292.85165116609,
+                "estimated_monthly_expenses": 14405.122397387868,
+                "estimated_monthly_profit": 7887.729253778221,
+                "annual_profit": 94652.75104533866,
+                "profit_margin": 0.3538232513813742,
+                "operational_margin": 0.35382325138137416,
+                "operating_expenses": {
+                    "aluguel": 3876.435714073633,
+                    "pessoal": 3863.704342059562,
+                    "marketing": 1882.541159037768,
+                    "insumos": 3839.652041883931,
+                    "administracao": 1997.0296807154898,
+                    "outros": 1222.3407425507191
+                },
+                "growth_rate": 0.08150377591635374,
+                "future_revenues": {
+                    "ano1": 94652.75104533866,
+                    "ano2": 102367.30765640436,
+                    "ano3": 110710.62976079239,
+                    "ano4": 119733.96412037441,
+                    "ano5": 129492.73430161814
+                }
+            },
+            "competition": {
+                "competition_level": "medium",
+                "num_competitors": 15,
+                "top_competitors": [
+                    {
+                        "name": "Eco Fit",
+                        "market_share": 0.0754686693470887,
+                        "units": 200,
+                        "years_in_market": 17,
+                        "competitive_advantages": [
+                            "Preços competitivos",
+                            "Investimento em marketing"
+                        ]
+                    },
+                    {
+                        "name": "Mega Body",
+                        "market_share": 0.10412919509559922,
+                        "units": 154,
+                        "years_in_market": 10,
+                        "competitive_advantages": [
+                            "Forte presença online",
+                            "Tecnologia avançada",
+                            "Localização estratégica",
+                            "Investimento em marketing"
+                        ]
+                    },
+                    {
+                        "name": "Top Body",
+                        "market_share": 0.20384891386914888,
+                        "units": 74,
+                        "years_in_market": 19,
+                        "competitive_advantages": [
+                            "Produtos exclusivos",
+                            "Atendimento diferenciado"
+                        ]
+                    },
+                    {
+                        "name": "Mega Health",
+                        "market_share": 0.2919379378227137,
+                        "units": 81,
+                        "years_in_market": 14,
+                        "competitive_advantages": [
+                            "Logística eficiente",
+                            "Equipe especializada"
+                        ]
+                    },
+                    {
+                        "name": "Max Gym",
+                        "market_share": 0.1622748253166037,
+                        "units": 36,
+                        "years_in_market": 16,
+                        "competitive_advantages": [
+                            "Qualidade superior",
+                            "Localização estratégica"
+                        ]
+                    }
+                ],
+                "market_saturation": 0.40777384615674167,
+                "category": "Fitness",
+                "entry_barriers": [
+                    "Investimento inicial considerável",
+                    "Necessidade de diferenciação",
+                    "Concorrentes com presença estabelecida",
+                    "Fidelização de clientes pelos concorrentes"
+                ],
+                "summary": "O setor de Fitness apresenta nível médio de competição, com cerca de 15 players relevantes. A saturação de mercado está em aproximadamente 41%, o que indica um equilíbrio entre oportunidades e desafios para novos entrantes."
+            },
+            "demographics": {
+                "target_profile": {
+                    "age_range": "20-45",
+                    "income_level": "medium-high",
+                    "education_level": "varied",
+                    "urban_concentration": "high",
+                    "digital_engagement": "high"
+                },
+                "market_size": 8499829,
+                "potential_customers": 32542,
+                "compatibility_score": 0.8169799232225046,
+                "recommended_regions": [
+                    "Brasília",
+                    "Salvador",
+                    "Rio de Janeiro",
+                    "Goiânia",
+                    "São Paulo"
+                ],
+                "category": "Fitness",
+                "summary": "A análise demográfica indica uma excelente compatibilidade (81.7%) para o segmento de Fitness. Com um mercado potencial estimado em 8.499.829 pessoas e aproximadamente 32.542 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 20-45, com nível de renda medium-high e concentração urbana high."
+            },
+            "roi": {
+                "npv": 1974730.25,
+                "irr": 50.0,
+                "payback_years": 0.2,
+                "revenue_projections": {
+                    "monthly": {
+                        "pessimistic": 159390.0,
+                        "expected": 227700,
+                        "optimistic": 296010.0
+                    },
+                    "annual": {
+                        "pessimistic": 1912679.9999999998,
+                        "expected": 2732400,
+                        "optimistic": 3552120.0
+                    },
+                    "five_year": {
+                        "pessimistic": 9563400.0,
+                        "expected": 13662000,
+                        "optimistic": 17760600.0
+                    }
+                },
+                "cost_projections": {
+                    "initial": 95016.04914179166,
+                    "monthly": {
+                        "pessimistic": {
+                            "royalties": 7969.5,
+                            "cogs": 63756.0,
+                            "operation": 47817.0,
+                            "total": 119542.5
+                        },
+                        "expected": {
+                            "royalties": 11385.0,
+                            "cogs": 91080.0,
+                            "operation": 68310.0,
+                            "total": 170775.0
+                        },
+                        "optimistic": {
+                            "royalties": 14800.5,
+                            "cogs": 118404.0,
+                            "operation": 88803.0,
+                            "total": 222007.5
+                        }
+                    },
+                    "annual": {
+                        "pessimistic": {
+                            "royalties": 95634.0,
+                            "cogs": 765072.0,
+                            "operation": 573803.9999999999,
+                            "total": 1434510.0
+                        },
+                        "expected": {
+                            "royalties": 136620.0,
+                            "cogs": 1092960.0,
+                            "operation": 819720.0,
+                            "total": 2049300.0
+                        },
+                        "optimistic": {
+                            "royalties": 177606.0,
+                            "cogs": 1420848.0,
+                            "operation": 1065636.0,
+                            "total": 2664090.0
+                        }
+                    },
+                    "five_year": {
+                        "pessimistic": {
+                            "royalties": 478170.0,
+                            "cogs": 3825360.0,
+                            "operation": 2869020.0,
+                            "total": 7172550.0
+                        },
+                        "expected": {
+                            "royalties": 683100.0,
+                            "cogs": 5464800.0,
+                            "operation": 4098600.0,
+                            "total": 10246500.0
+                        },
+                        "optimistic": {
+                            "royalties": 888030.0,
+                            "cogs": 7104240.0,
+                            "operation": 5328180.0,
+                            "total": 13320450.0
+                        }
+                    }
+                },
+                "cash_flow": {
+                    "pessimistic": [
+                        -95016.04914179166,
+                        349064.0999999998,
+                        366517.3049999998,
+                        384843.1702499998,
+                        404085.3287624998,
+                        424289.59520062484
+                    ],
+                    "expected": [
+                        -95016.04914179166,
+                        498663.0,
+                        523596.15,
+                        549775.9575,
+                        577264.7553750001,
+                        606127.9931437501
+                    ],
+                    "optimistic": [
+                        -95016.04914179166,
+                        648261.9,
+                        680674.995,
+                        714708.7447500001,
+                        750444.1819875,
+                        787966.3910868752
+                    ]
+                }
+            }
+        }
+    },
+    "market_trends": [
+        {
+            "keyword": "tecnologias estão",
+            "source_type": "market_research",
+            "growth_rate": 0.22761155210608364,
+            "sentiment": 0.9162915064738193,
+            "category": "Alimentação",
+            "insight": "Novas tecnologias estão transformando o setor de Alimentação",
+            "source": "Sebrae",
+            "relevance_score": 0.6659320727845792,
+            "sources": 38,
+            "categories": [
+                "Alimentação",
+                "Educação",
+                "Tecnologia",
+                "Moda",
+                "Serviços",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "segmento online",
+            "source_type": "market_research",
+            "growth_rate": 0.22169157931173478,
+            "sentiment": 0.9058533254122165,
+            "category": "Educação",
+            "insight": "O segmento online em Educação tem crescido acima da média do mercado",
+            "source": "Sebrae",
+            "relevance_score": 0.6604326293483589,
+            "sources": 20,
+            "categories": [
+                "Educação",
+                "Pet",
+                "Moda",
+                "Serviços",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "casa têm",
+            "source_type": "market_research",
+            "growth_rate": 0.19457452479330756,
+            "sentiment": 0.853356722340084,
+            "category": "Casa e Decoração",
+            "insight": "Franquias de Casa têm mostrado resistência em períodos de crise",
+            "source": "Associação Brasileira de Franchising",
+            "relevance_score": 0.6338368266193481,
+            "sources": 4,
+            "categories": [
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "mercado",
+            "source_type": "market_research",
+            "growth_rate": 0.138655883152318,
+            "sentiment": 0.9030723720612714,
+            "category": "Alimentação",
+            "insight": "O mercado de Alimentação deve crescer 2.2% nos próximos 2 anos",
+            "source": "Euromonitor International",
+            "relevance_score": 0.6263840648793086,
+            "sources": 29,
+            "categories": [
+                "Alimentação",
+                "Educação",
+                "Pet",
+                "Moda",
+                "Beleza",
+                "Serviços",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "Casa e Decoração",
+            "source_type": "market_research",
+            "growth_rate": 0.13252633352041948,
+            "sentiment": 0.8926156557056706,
+            "investment_opportunity": 0.6794693478519638,
+            "source": "Associação Brasileira de Franchising",
+            "relevance_score": 0.6207952301198689,
+            "sources": 5
+        },
+        {
+            "keyword": "saúde",
+            "source_type": "market_research",
+            "growth_rate": 0.1808395606061327,
+            "sentiment": 0.8063528197759546,
+            "category": "Saúde",
+            "insight": "Empresas com foco em sustentabilidade têm se destacado em Saúde",
+            "source": "Sebrae",
+            "relevance_score": 0.6142416701752395,
+            "sources": 4,
+            "categories": [
+                "Saúde"
+            ]
+        },
+        {
+            "keyword": "sustentabilidade",
+            "source_type": "social_media",
+            "growth_rate": 0.15419781181386555,
+            "sentiment": 0.8276346993255512,
+            "monthly_mentions": 310000.0,
+            "platforms": [
+                "Instagram",
+                "LinkedIn",
+                "Twitter",
+                "Facebook"
+            ],
+            "first_observed": "2024-12-03",
+            "relevance_score": 0.6099695345232116,
+            "sources": 12,
+            "categories": [
+                "Saúde",
+                "Educação",
+                "Tecnologia",
+                "Moda",
+                "Beleza",
+                "Serviços",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "foco",
+            "source_type": "market_research",
+            "growth_rate": 0.15410693988897906,
+            "sentiment": 0.8277072218504327,
+            "category": "Saúde",
+            "insight": "Empresas com foco em sustentabilidade têm se destacado em Saúde",
+            "source": "Sebrae",
+            "relevance_score": 0.6099549425107214,
+            "sources": 11,
+            "categories": [
+                "Saúde",
+                "Educação",
+                "Tecnologia",
+                "Moda",
+                "Beleza",
+                "Serviços",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "deve",
+            "source_type": "market_research",
+            "growth_rate": 0.11910057347655054,
+            "sentiment": 0.8571766724389849,
+            "category": "Pet",
+            "insight": "O mercado de Pet deve crescer 6.4% nos próximos 2 anos",
+            "source": "Fundação Getúlio Vargas",
+            "relevance_score": 0.6047932311223156,
+            "sources": 12,
+            "categories": [
+                "Pet",
+                "Moda",
+                "Beleza",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        },
+        {
+            "keyword": "mostrado",
+            "source_type": "market_research",
+            "growth_rate": 0.15471275649691563,
+            "sentiment": 0.8077660609656763,
+            "category": "Alimentação",
+            "insight": "Franquias de Alimentação têm mostrado resistência em períodos de crise",
+            "source": "Sebrae",
+            "relevance_score": 0.6042149208884691,
+            "sources": 11,
+            "categories": [
+                "Alimentação",
+                "Educação",
+                "Tecnologia",
+                "Pet",
+                "Varejo",
+                "Casa e Decoração"
+            ]
+        }
+    ],
+    "timestamp": "2025-05-02 18:15:51"
+}

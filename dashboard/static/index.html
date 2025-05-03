@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Franquia Finder</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .tabs {
+            display: flex;
+            background-color: #f1f1f1;
+            border-bottom: 1px solid #ddd;
+        }
+        .tab {
+            background-color: inherit;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            transition: 0.3s;
+            font-size: 17px;
+        }
+        .tab:hover {
+            background-color: #ddd;
+        }
+        .tab.active {
+            background-color: #3498db;
+            color: white;
+        }
+        .tabcontent {
+            display: none;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-top: none;
+        }
+        .visible {
+            display: block;
+        }
+        .cards {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .card {
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            padding: 20px;
+            flex: 1;
+            min-width: 300px;
+        }
+        .summary {
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .metric {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        .metric-name {
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #777;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dashboard Franquia Finder</h1>
+        <p>Análise de Oportunidades de Franquia</p>
+    </header>
+    
+    <div class="container">
+        <div class="summary">
+            <h2>Resumo</h2>
+            <div class="metric">
+                <span class="metric-name">Oportunidades Identificadas:</span>
+                <span>13</span>
+            </div>
+            <div class="metric">
+                <span class="metric-name">Tendências de Mercado:</span>
+                <span>10</span>
+            </div>
+            <div class="metric">
+                <span class="metric-name">Campanhas Ativas:</span>
+                <span>65</span>
+            </div>
+        </div>
+        
+        <div class="tabs">
+            <button class="tab active" onclick="openTab(event, 'opportunities')">Oportunidades</button>
+            <button class="tab" onclick="openTab(event, 'trends')">Tendências</button>
+            <button class="tab" onclick="openTab(event, 'campaigns')">Campanhas</button>
+        </div>
+        
+        <div id="opportunities" class="tabcontent visible">
+            <h2>Oportunidades de Franquia</h2>
+            <div class="cards">
+                
+            <div class="card">
+                <h3>KidsPlay</h3>
+                <p><strong>Categoria:</strong> Entretenimento</p>
+                <p><strong>ROI Estimado:</strong> 34.68%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 72,484.24</p>
+            </div>
+            
+            <div class="card">
+                <h3>PetFood Express</h3>
+                <p><strong>Categoria:</strong> Pet</p>
+                <p><strong>ROI Estimado:</strong> 63.69%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 47,345.76</p>
+            </div>
+            
+            <div class="card">
+                <h3>SaladBar</h3>
+                <p><strong>Categoria:</strong> Alimentação Saudável</p>
+                <p><strong>ROI Estimado:</strong> 41.66%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 30,849.11</p>
+            </div>
+            
+            <div class="card">
+                <h3>GreenMarket</h3>
+                <p><strong>Categoria:</strong> Varejo</p>
+                <p><strong>ROI Estimado:</strong> 55.69%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 60,078.59</p>
+            </div>
+            
+            <div class="card">
+                <h3>Coffee Express</h3>
+                <p><strong>Categoria:</strong> Café</p>
+                <p><strong>ROI Estimado:</strong> 62.09%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 86,661.05</p>
+            </div>
+            
+            <div class="card">
+                <h3>BookCorner</h3>
+                <p><strong>Categoria:</strong> Livraria</p>
+                <p><strong>ROI Estimado:</strong> 41.23%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 82,150.75</p>
+            </div>
+            
+            <div class="card">
+                <h3>FashionStore</h3>
+                <p><strong>Categoria:</strong> Moda</p>
+                <p><strong>ROI Estimado:</strong> 44.15%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 80,344.23</p>
+            </div>
+            
+            <div class="card">
+                <h3>CleanHome</h3>
+                <p><strong>Categoria:</strong> Serviços</p>
+                <p><strong>ROI Estimado:</strong> 89.72%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 39,797.62</p>
+            </div>
+            
+            <div class="card">
+                <h3>GourmetBurger</h3>
+                <p><strong>Categoria:</strong> Alimentação</p>
+                <p><strong>ROI Estimado:</strong> 27.38%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 68,235.94</p>
+            </div>
+            
+            <div class="card">
+                <h3>Beauty Spot</h3>
+                <p><strong>Categoria:</strong> Beleza</p>
+                <p><strong>ROI Estimado:</strong> 38.47%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 51,266.13</p>
+            </div>
+            
+            <div class="card">
+                <h3>FitLife Gym</h3>
+                <p><strong>Categoria:</strong> Fitness</p>
+                <p><strong>ROI Estimado:</strong> 45.18%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 124,238.60</p>
+            </div>
+            
+            <div class="card">
+                <h3>HomeDecor</h3>
+                <p><strong>Categoria:</strong> Casa e decoração</p>
+                <p><strong>ROI Estimado:</strong> 90.97%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 58,570.73</p>
+            </div>
+            
+            <div class="card">
+                <h3>TechFix</h3>
+                <p><strong>Categoria:</strong> Tecnologia</p>
+                <p><strong>ROI Estimado:</strong> 54.87%</p>
+                <p><strong>Investimento Inicial:</strong> R$ 182,276.83</p>
+            </div>
+            
+            </div>
+        </div>
+        
+        <div id="trends" class="tabcontent">
+            <h2>Tendências de Mercado</h2>
+            <div class="cards">
+                
+            <div class="card">
+                <h3>Casa e Decoração</h3>
+                <p><strong>Taxa de Crescimento:</strong> 18.2%</p>
+                <p><strong>Sentimento:</strong> 81.5%</p>
+            </div>
+            
+            <div class="card">
+                <h3>consolidação</h3>
+                <p><strong>Taxa de Crescimento:</strong> 17.3%</p>
+                <p><strong>Sentimento:</strong> 79.4%</p>
+            </div>
+            
+            <div class="card">
+                <h3>setor</h3>
+                <p><strong>Taxa de Crescimento:</strong> 17.3%</p>
+                <p><strong>Sentimento:</strong> 79.4%</p>
+            </div>
+            
+            <div class="card">
+                <h3>Varejo</h3>
+                <p><strong>Taxa de Crescimento:</strong> 10.7%</p>
+                <p><strong>Sentimento:</strong> 87.0%</p>
+            </div>
+            
+            <div class="card">
+                <h3>resistência</h3>
+                <p><strong>Taxa de Crescimento:</strong> 15.7%</p>
+                <p><strong>Sentimento:</strong> 80.0%</p>
+            </div>
+            
+            <div class="card">
+                <h3>mostrado</h3>
+                <p><strong>Taxa de Crescimento:</strong> 15.7%</p>
+                <p><strong>Sentimento:</strong> 79.9%</p>
+            </div>
+            
+            <div class="card">
+                <h3>períodos</h3>
+                <p><strong>Taxa de Crescimento:</strong> 15.7%</p>
+                <p><strong>Sentimento:</strong> 80.0%</p>
+            </div>
+            
+            <div class="card">
+                <h3>tendência</h3>
+                <p><strong>Taxa de Crescimento:</strong> 17.8%</p>
+                <p><strong>Sentimento:</strong> 68.4%</p>
+            </div>
+            
+            <div class="card">
+                <h3>valorizam qualidade</h3>
+                <p><strong>Taxa de Crescimento:</strong> 14.0%</p>
+                <p><strong>Sentimento:</strong> 73.1%</p>
+            </div>
+            
+            <div class="card">
+                <h3>preço</h3>
+                <p><strong>Taxa de Crescimento:</strong> 14.0%</p>
+                <p><strong>Sentimento:</strong> 73.1%</p>
+            </div>
+            
+            </div>
+        </div>
+        
+        <div id="campaigns" class="tabcontent">
+            <h2>Campanhas de Marketing</h2>
+            <div class="cards">
+                
+                <div class="card">
+                    <h3>KidsPlay - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:23</p>
+                </div>
+                
+                <div class="card">
+                    <h3>KidsPlay - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:24</p>
+                </div>
+                
+                <div class="card">
+                    <h3>KidsPlay - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:25</p>
+                </div>
+                
+                <div class="card">
+                    <h3>KidsPlay - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:26</p>
+                </div>
+                
+                <div class="card">
+                    <h3>KidsPlay - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:27</p>
+                </div>
+                
+                <div class="card">
+                    <h3>PetFood Express - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:27</p>
+                </div>
+                
+                <div class="card">
+                    <h3>PetFood Express - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:28</p>
+                </div>
+                
+                <div class="card">
+                    <h3>PetFood Express - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:29</p>
+                </div>
+                
+                <div class="card">
+                    <h3>PetFood Express - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:30</p>
+                </div>
+                
+                <div class="card">
+                    <h3>PetFood Express - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:31</p>
+                </div>
+                
+                <div class="card">
+                    <h3>SaladBar - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:32</p>
+                </div>
+                
+                <div class="card">
+                    <h3>SaladBar - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:33</p>
+                </div>
+                
+                <div class="card">
+                    <h3>SaladBar - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:34</p>
+                </div>
+                
+                <div class="card">
+                    <h3>SaladBar - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:36</p>
+                </div>
+                
+                <div class="card">
+                    <h3>SaladBar - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:37</p>
+                </div>
+                
+                <div class="card">
+                    <h3>GreenMarket - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:38</p>
+                </div>
+                
+                <div class="card">
+                    <h3>GreenMarket - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:39</p>
+                </div>
+                
+                <div class="card">
+                    <h3>GreenMarket - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:40</p>
+                </div>
+                
+                <div class="card">
+                    <h3>GreenMarket - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:42</p>
+                </div>
+                
+                <div class="card">
+                    <h3>GreenMarket - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:42</p>
+                </div>
+                
+                <div class="card">
+                    <h3>Coffee Express - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:43</p>
+                </div>
+                
+                <div class="card">
+                    <h3>Coffee Express - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:44</p>
+                </div>
+                
+                <div class="card">
+                    <h3>Coffee Express - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:45</p>
+                </div>
+                
+                <div class="card">
+                    <h3>Coffee Express - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:46</p>
+                </div>
+                
+                <div class="card">
+                    <h3>Coffee Express - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:47</p>
+                </div>
+                
+                <div class="card">
+                    <h3>BookCorner - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:49</p>
+                </div>
+                
+                <div class="card">
+                    <h3>BookCorner - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:49</p>
+                </div>
+                
+                <div class="card">
+                    <h3>BookCorner - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:51</p>
+                </div>
+                
+                <div class="card">
+                    <h3>BookCorner - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:51</p>
+                </div>
+                
+                <div class="card">
+                    <h3>BookCorner - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:52</p>
+                </div>
+                
+                <div class="card">
+                    <h3>FashionStore - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:53</p>
+                </div>
+                
+                <div class="card">
+                    <h3>FashionStore - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:54</p>
+                </div>
+                
+                <div class="card">
+                    <h3>FashionStore - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:55</p>
+                </div>
+                
+                <div class="card">
+                    <h3>FashionStore - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:56</p>
+                </div>
+                
+                <div class="card">
+                    <h3>FashionStore - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:57</p>
+                </div>
+                
+                <div class="card">
+                    <h3>CleanHome - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:58</p>
+                </div>
+                
+                <div class="card">
+                    <h3>CleanHome - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:53:59</p>
+                </div>
+                
+                <div class="card">
+                    <h3>CleanHome - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:00</p>
+                </div>
+                
+                <div class="card">
+                    <h3>CleanHome - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:00</p>
+                </div>
+                
+                <div class="card">
+                    <h3>CleanHome - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:01</p>
+                </div>
+                
+                <div class="card">
+                    <h3>GourmetBurger - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:02</p>
+                </div>
+                
+                <div class="card">
+                    <h3>GourmetBurger - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:04</p>
+                </div>
+                
+                <div class="card">
+                    <h3>GourmetBurger - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:05</p>
+                </div>
+                
+                <div class="card">
+                    <h3>GourmetBurger - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:05</p>
+                </div>
+                
+                <div class="card">
+                    <h3>GourmetBurger - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:06</p>
+                </div>
+                
+                <div class="card">
+                    <h3>Beauty Spot - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:07</p>
+                </div>
+                
+                <div class="card">
+                    <h3>Beauty Spot - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:08</p>
+                </div>
+                
+                <div class="card">
+                    <h3>Beauty Spot - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:09</p>
+                </div>
+                
+                <div class="card">
+                    <h3>Beauty Spot - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:10</p>
+                </div>
+                
+                <div class="card">
+                    <h3>Beauty Spot - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:11</p>
+                </div>
+                
+                <div class="card">
+                    <h3>FitLife Gym - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:12</p>
+                </div>
+                
+                <div class="card">
+                    <h3>FitLife Gym - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:13</p>
+                </div>
+                
+                <div class="card">
+                    <h3>FitLife Gym - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:14</p>
+                </div>
+                
+                <div class="card">
+                    <h3>FitLife Gym - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:15</p>
+                </div>
+                
+                <div class="card">
+                    <h3>FitLife Gym - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:17</p>
+                </div>
+                
+                <div class="card">
+                    <h3>HomeDecor - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:18</p>
+                </div>
+                
+                <div class="card">
+                    <h3>HomeDecor - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:18</p>
+                </div>
+                
+                <div class="card">
+                    <h3>HomeDecor - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:19</p>
+                </div>
+                
+                <div class="card">
+                    <h3>HomeDecor - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:20</p>
+                </div>
+                
+                <div class="card">
+                    <h3>HomeDecor - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:21</p>
+                </div>
+                
+                <div class="card">
+                    <h3>TechFix - facebook</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:22</p>
+                </div>
+                
+                <div class="card">
+                    <h3>TechFix - instagram</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:23</p>
+                </div>
+                
+                <div class="card">
+                    <h3>TechFix - google</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:24</p>
+                </div>
+                
+                <div class="card">
+                    <h3>TechFix - linkedin</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:25</p>
+                </div>
+                
+                <div class="card">
+                    <h3>TechFix - email</h3>
+                    <p><strong>Status:</strong> scheduled</p>
+                    <p><strong>Criado em:</strong> 2025-05-02 17:54:26</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>Franquia Finder - Dashboard gerado em 2025-05-02 17:54:27</p>
+    </footer>
+    
+    <script>
+        function openTab(evt, tabName) {
+            var i, tabcontent, tablinks;
+            
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].classList.remove("visible");
+            }
+            
+            tablinks = document.getElementsByClassName("tab");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            
+            document.getElementById(tabName).classList.add("visible");
+            evt.currentTarget.className += " active";
+        }
+    </script>
+</body>
+</html>

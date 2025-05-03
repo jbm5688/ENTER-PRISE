@@ -1,0 +1,172 @@
+{
+  "search_ads": [
+    {
+      "headlines": [
+        "Seja dono do seu negócio: PetF",
+        "Franquia a partir de R$  46,396,94",
+        "Invista em um negócio lucrativo"
+      ],
+      "descriptions": [
+        "Investimento a partir de R$ 46,396,94. Retorno em apenas 50 meses. Seja parte da rede P...",
+        "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+      ],
+      "final_url": "https://www.petfoodexpress.com.br/franqueado",
+      "cta": "Inscreva-se",
+      "recommended_keywords": [
+        "franquia",
+        "investir em franquia",
+        "abrir franquia",
+        "franquia lucrativa",
+        "oportunidade de negócio",
+        "empreender",
+        "franquia de sucesso"
+      ]
+    },
+    {
+      "headlines": [
+        "Conquiste seu futuro financeir",
+        "Franquia a partir de R$  46,396,94 e retorno em 50 meses",
+        "Invista em um negócio lucrativo"
+      ],
+      "descriptions": [
+        "Cansado do seu emprego? A franquia PetFood Express é sua porta de saída. Investimento a...",
+        "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+      ],
+      "final_url": "https://www.petfoodexpress.com.br/franqueado",
+      "cta": "Inscreva-se",
+      "recommended_keywords": [
+        "franquia",
+        "investir em franquia",
+        "abrir franquia",
+        "franquia lucrativa",
+        "oportunidade de negócio",
+        "empreender",
+        "franquia de sucesso"
+      ]
+    },
+    {
+      "headlines": [
+        "Conquiste seu futuro financeir",
+        "Franquia a partir de R$  46,396,94 e transforme seu futuro",
+        "Invista em um negócio lucrativo"
+      ],
+      "descriptions": [
+        "Mais de 195 empreendedores já alcançaram o sucesso com a PetFood Express. Invista a par...",
+        "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+      ],
+      "final_url": "https://www.petfoodexpress.com.br/franqueado",
+      "cta": "Fale conosco",
+      "recommended_keywords": [
+        "franquia",
+        "investir em franquia",
+        "abrir franquia",
+        "franquia lucrativa",
+        "oportunidade de negócio",
+        "empreender",
+        "franquia de sucesso"
+      ]
+    },
+    {
+      "headlines": [
+        "Conquiste seu futuro financeir",
+        "Franquia a partir de R$ 100 mil",
+        "Invista em um negócio lucrativo"
+      ],
+      "descriptions": [
+        "O mercado de Pet Shop não para de crescer. A PetFood Express oferece suporte completo c...",
+        "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+      ],
+      "final_url": "https://www.petfoodexpress.com.br/franqueado",
+      "cta": "Saiba mais",
+      "recommended_keywords": [
+        "franquia",
+        "investir em franquia",
+        "abrir franquia",
+        "franquia lucrativa",
+        "oportunidade de negócio",
+        "empreender",
+        "franquia de sucesso"
+      ]
+    },
+    {
+      "headlines": [
+        "Empreenda com segurança: PetFo",
+        "Franquia a partir de R$ 100 mil",
+        "Invista em um negócio lucrativo"
+      ],
+      "descriptions": [
+        "Suporte completo, treinamento especializado e marca reconhecida. Tudo isso com a franqu...",
+        "Suporte completo. Modelo de negócio validado. Invista no seu futuro hoje mesmo!"
+      ],
+      "final_url": "https://www.petfoodexpress.com.br/franqueado",
+      "cta": "Saiba mais",
+      "recommended_keywords": [
+        "franquia",
+        "investir em franquia",
+        "abrir franquia",
+        "franquia lucrativa",
+        "oportunidade de negócio",
+        "empreender",
+        "franquia de sucesso"
+      ]
+    }
+  ],
+  "display_ads": [
+    {
+      "headline": "Seja dono do seu negócio:",
+      "description": "Investimento a partir de R$ 46,396,94. Retorno em apenas 50 meses. Seja parte da rede PetF",
+      "business_name": "Seja dono do seu negócio",
+      "final_url": "https://www.petfoodexpress.com.br/franqueado",
+      "cta": "Fale conosco",
+      "image_sizes": [
+        {
+          "width": 300,
+          "height": 250
+        },
+        {
+          "width": 728,
+          "height": 90
+        },
+        {
+          "width": 160,
+          "height": 600
+        }
+      ],
+      "recommended_elements": [
+        "Logo da franquia em todas as variações",
+        "Imagens consistentes entre os diferentes tamanhos",
+        "Cores contrastantes para destaque",
+        "Texto conciso e direto",
+        "CTA visível e atraente"
+      ]
+    },
+    {
+      "headline": "Conquiste seu futuro fina",
+      "description": "Cansado do seu emprego? A franquia PetFood Express é sua porta de saída. Investimento a pa",
+      "business_name": "Conquiste",
+      "final_url": "https://www.petfoodexpress.com.br/franqueado",
+      "cta": "Inscreva-se",
+      "image_sizes": [
+        {
+          "width": 300,
+          "height": 250
+        },
+        {
+          "width": 728,
+          "height": 90
+        },
+        {
+          "width": 160,
+          "height": 600
+        }
+      ],
+      "recommended_elements": [
+        "Logo da franquia em todas as variações",
+        "Imagens consistentes entre os diferentes tamanhos",
+        "Cores contrastantes para destaque",
+        "Texto conciso e direto",
+        "CTA visível e atraente"
+      ]
+    }
+  ]
+}

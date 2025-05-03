@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relatório de Análise de Franquias - Franquia Finder</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 20px;
+        }
+        .logo {
+            font-size: 28px;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        .date {
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #3498db;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #2980b9;
+        }
+        .opportunity {
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .metrics {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .metric {
+            flex: 1;
+            min-width: 200px;
+            background-color: #fff;
+            border: 1px solid #eee;
+            border-radius: 5px;
+            padding: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .metric-title {
+            font-weight: bold;
+            color: #7f8c8d;
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+        .metric-value {
+            font-size: 24px;
+            color: #2c3e50;
+            font-weight: bold;
+        }
+        .metric-context {
+            font-size: 12px;
+            color: #95a5a6;
+            margin-top: 5px;
+        }
+        .good {
+            color: #27ae60;
+        }
+        .medium {
+            color: #f39c12;
+        }
+        .bad {
+            color: #e74c3c;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .chart {
+            background-color: #fff;
+            border: 1px solid #eee;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .chart-title {
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #2c3e50;
+        }
+        .chart-placeholder {
+            width: 100%;
+            height: 300px;
+            background-color: #f9f9f9;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #7f8c8d;
+            font-style: italic;
+        }
+        .marketing {
+            background-color: #ecf0f1;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">Franquia Finder</div>
+            <div class="date">Relatório gerado em 02/05/2025</div>
+        </div>
+
+        <h1>Relatório de Análise de Oportunidades de Franquia</h1>
+        
+        <p>Este relatório apresenta uma análise detalhada das melhores oportunidades de franquia identificadas pelo sistema Franquia Finder. As análises incluem estimativas de ROI, análise de concorrência, adequação demográfica e estratégias de marketing recomendadas.</p>
+
+        <!-- Resumo Executivo -->
+        <h2>Resumo Executivo</h2>
+        <p>
+        Este relatório apresenta 6 oportunidades de franquia com 
+        potencial de investimento. A análise identificou 10 tendências 
+        de mercado relevantes que podem influenciar o sucesso dessas oportunidades. As oportunidades 
+        têm um ROI médio estimado de 53.41%.
+        </p>
+
+        <!-- Oportunidades Analisadas -->
+        <h2>Oportunidades de Franquia</h2>
+        
+        
+            <div class="opportunity">
+                <h3>CleanHome</h3>
+                <p>Franquia inovadora no segmento de Serviços com alta rentabilidade.</p>
+                
+                <div class="metrics">
+                    <div class="metric">
+                        <div class="metric-title">ROI Estimado</div>
+                        <div class="metric-value">85.46%</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">Investimento Inicial</div>
+                        <div class="metric-value">R$ 50,343.66</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">Payback</div>
+                        <div class="metric-value">14.0 meses</div>
+                    </div>
+                </div>
+                
+                <h4>Análise de ROI</h4>
+                <div class="metrics">
+                    <div class="metric">
+                        <div class="metric-title">VPL (Valor Presente Líquido)</div>
+                        <div class="metric-value">R$ 565,944.44</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">TIR (Taxa Interna de Retorno)</div>
+                        <div class="metric-value">50.00%</div>
+                    </div>
+                </div>
+                
+                <h4>Análise de Concorrência</h4>
+                <p>Nível de competição: <strong>medium</strong></p>
+                <p>A competição no mercado de Serviços é moderada, com 30 concorrentes importantes. Com uma saturação de 42%, o sucesso dependerá da capacidade de oferecer diferenciais claros e estabelecer uma presença de mercado consistente.</p>
+                
+                <h4>Análise Demográfica</h4>
+                <p>Compatibilidade demográfica: <strong>90.1%</strong></p>
+                <p>A análise demográfica indica uma excelente compatibilidade (90.1%) para o segmento de Serviços. Com um mercado potencial estimado em 2.598.307 pessoas e aproximadamente 9.690 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 25-55, com nível de renda medium e concentração urbana medium.</p>
+            </div>
+            
+            <div class="opportunity">
+                <h3>PetFood Express</h3>
+                <p>Modelo de negócio simplificado no setor de Pet com suporte completo.</p>
+                
+                <div class="metrics">
+                    <div class="metric">
+                        <div class="metric-title">ROI Estimado</div>
+                        <div class="metric-value">57.95%</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">Investimento Inicial</div>
+                        <div class="metric-value">R$ 38,610.26</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">Payback</div>
+                        <div class="metric-value">20.7 meses</div>
+                    </div>
+                </div>
+                
+                <h4>Análise de ROI</h4>
+                <div class="metrics">
+                    <div class="metric">
+                        <div class="metric-title">VPL (Valor Presente Líquido)</div>
+                        <div class="metric-value">R$ 319,527.66</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">TIR (Taxa Interna de Retorno)</div>
+                        <div class="metric-value">50.00%</div>
+                    </div>
+                </div>
+                
+                <h4>Análise de Concorrência</h4>
+                <p>Nível de competição: <strong>medium</strong></p>
+                <p>A competição no mercado de Pet é moderada, com 14 concorrentes importantes. Com uma saturação de 56%, o sucesso dependerá da capacidade de oferecer diferenciais claros e estabelecer uma presença de mercado consistente.</p>
+                
+                <h4>Análise Demográfica</h4>
+                <p>Compatibilidade demográfica: <strong>72.5%</strong></p>
+                <p>A análise demográfica mostra uma boa compatibilidade (72.5%) para o segmento de Pet. O mercado potencial é estimado em 628.356 pessoas, com cerca de 5.636 clientes potenciais diretos. O perfil demográfico é favorável, com público-alvo na faixa etária de 25-55, nível de renda medium e concentração urbana medium.</p>
+            </div>
+            
+            <div class="opportunity">
+                <h3>FashionStore</h3>
+                <p>Franquia inovadora no segmento de Moda com alta rentabilidade.</p>
+                
+                <div class="metrics">
+                    <div class="metric">
+                        <div class="metric-title">ROI Estimado</div>
+                        <div class="metric-value">41.92%</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">Investimento Inicial</div>
+                        <div class="metric-value">R$ 75,728.84</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">Payback</div>
+                        <div class="metric-value">28.6 meses</div>
+                    </div>
+                </div>
+                
+                <h4>Análise de ROI</h4>
+                <div class="metrics">
+                    <div class="metric">
+                        <div class="metric-title">VPL (Valor Presente Líquido)</div>
+                        <div class="metric-value">R$ 436,935.59</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">TIR (Taxa Interna de Retorno)</div>
+                        <div class="metric-value">50.00%</div>
+                    </div>
+                </div>
+                
+                <h4>Análise de Concorrência</h4>
+                <p>Nível de competição: <strong>high</strong></p>
+                <p>O mercado de Moda apresenta alta competitividade, com aproximadamente 60 concorrentes estabelecidos. A saturação de mercado de 64% indica que novos entrantes enfrentarão desafios significativos e precisarão de estratégias robustas de diferenciação.</p>
+                
+                <h4>Análise Demográfica</h4>
+                <p>Compatibilidade demográfica: <strong>67.7%</strong></p>
+                <p>A análise demográfica mostra uma boa compatibilidade (67.7%) para o segmento de Moda. O mercado potencial é estimado em 2.771.044 pessoas, com cerca de 18.827 clientes potenciais diretos. O perfil demográfico é favorável, com público-alvo na faixa etária de 18-45, nível de renda medium e concentração urbana high.</p>
+            </div>
+            
+            <div class="opportunity">
+                <h3>HomeDecor</h3>
+                <p>Oportunidade no setor de Casa e Decoração com modelo de negócio comprovado.</p>
+                
+                <div class="metrics">
+                    <div class="metric">
+                        <div class="metric-title">ROI Estimado</div>
+                        <div class="metric-value">31.56%</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">Investimento Inicial</div>
+                        <div class="metric-value">R$ 74,395.38</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">Payback</div>
+                        <div class="metric-value">38.0 meses</div>
+                    </div>
+                </div>
+                
+                <h4>Análise de ROI</h4>
+                <div class="metrics">
+                    <div class="metric">
+                        <div class="metric-title">VPL (Valor Presente Líquido)</div>
+                        <div class="metric-value">R$ -18,947.63</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">TIR (Taxa Interna de Retorno)</div>
+                        <div class="metric-value">5.00%</div>
+                    </div>
+                </div>
+                
+                <h4>Análise de Concorrência</h4>
+                <p>Nível de competição: <strong>high</strong></p>
+                <p>O mercado de Casa e decoração apresenta alta competitividade, com aproximadamente 36 concorrentes estabelecidos. A saturação de mercado de 65% indica que novos entrantes enfrentarão desafios significativos e precisarão de estratégias robustas de diferenciação.</p>
+                
+                <h4>Análise Demográfica</h4>
+                <p>Compatibilidade demográfica: <strong>52.1%</strong></p>
+                <p>A análise demográfica indica uma compatibilidade moderada (52.1%) para o segmento de Casa e decoração. O mercado potencial é estimado em 1.045.268 pessoas, com aproximadamente 2.058 clientes potenciais diretos. O perfil demográfico apresenta desafios a serem considerados, com público-alvo na faixa etária de 25-55, nível de renda medium e concentração urbana medium.</p>
+            </div>
+            
+            <div class="opportunity">
+                <h3>GourmetBurger</h3>
+                <p>Franquia de Alimentação com excelente retorno sobre investimento.</p>
+                
+                <div class="metrics">
+                    <div class="metric">
+                        <div class="metric-title">ROI Estimado</div>
+                        <div class="metric-value">61.77%</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">Investimento Inicial</div>
+                        <div class="metric-value">R$ 147,932.77</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">Payback</div>
+                        <div class="metric-value">19.4 meses</div>
+                    </div>
+                </div>
+                
+                <h4>Análise de ROI</h4>
+                <div class="metrics">
+                    <div class="metric">
+                        <div class="metric-title">VPL (Valor Presente Líquido)</div>
+                        <div class="metric-value">R$ 734,686.31</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">TIR (Taxa Interna de Retorno)</div>
+                        <div class="metric-value">50.00%</div>
+                    </div>
+                </div>
+                
+                <h4>Análise de Concorrência</h4>
+                <p>Nível de competição: <strong>high</strong></p>
+                <p>A análise indica um cenário altamente competitivo no setor de Alimentação, com 33 players disputando mercado. Com saturação de 75%, recomenda-se cautela e um plano de negócios detalhado para novos entrantes.</p>
+                
+                <h4>Análise Demográfica</h4>
+                <p>Compatibilidade demográfica: <strong>81.0%</strong></p>
+                <p>A análise demográfica indica uma excelente compatibilidade (81.0%) para o segmento de Alimentação. Com um mercado potencial estimado em 4.794.612 pessoas e aproximadamente 32.380 clientes potenciais diretos, a oportunidade apresenta um perfil demográfico altamente favorável. O público-alvo principal está na faixa etária de 20-60, com nível de renda medium e concentração urbana high.</p>
+            </div>
+            
+            <div class="opportunity">
+                <h3>HealthySnacks</h3>
+                <p>Modelo de negócio simplificado no setor de Alimentação com suporte completo.</p>
+                
+                <div class="metrics">
+                    <div class="metric">
+                        <div class="metric-title">ROI Estimado</div>
+                        <div class="metric-value">41.81%</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">Investimento Inicial</div>
+                        <div class="metric-value">R$ 142,753.82</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">Payback</div>
+                        <div class="metric-value">28.7 meses</div>
+                    </div>
+                </div>
+                
+                <h4>Análise de ROI</h4>
+                <div class="metrics">
+                    <div class="metric">
+                        <div class="metric-title">VPL (Valor Presente Líquido)</div>
+                        <div class="metric-value">R$ 1,214,352.56</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-title">TIR (Taxa Interna de Retorno)</div>
+                        <div class="metric-value">50.00%</div>
+                    </div>
+                </div>
+                
+                <h4>Análise de Concorrência</h4>
+                <p>Nível de competição: <strong>high</strong></p>
+                <p>A análise indica um cenário altamente competitivo no setor de Alimentação, com 81 players disputando mercado. Com saturação de 79%, recomenda-se cautela e um plano de negócios detalhado para novos entrantes.</p>
+                
+                <h4>Análise Demográfica</h4>
+                <p>Compatibilidade demográfica: <strong>68.9%</strong></p>
+                <p>A análise demográfica mostra uma boa compatibilidade (68.9%) para o segmento de Alimentação. O mercado potencial é estimado em 9.364.137 pessoas, com cerca de 49.782 clientes potenciais diretos. O perfil demográfico é favorável, com público-alvo na faixa etária de 20-60, nível de renda medium e concentração urbana high.</p>
+            </div>
+            
+
+        <!-- Análise de Mercado -->
+        <h2>Análise de Tendências de Mercado</h2>
+        
+        <div class='trends-list'>
+            <div class="trend-item">
+                <h4>anos</h4>
+                <p><strong>Taxa de crescimento:</strong> 21.1%</p>
+                <p><strong>Menções mensais:</strong> 0</p>
+                <p><strong>Sentimento:</strong> 85.5% (positivo)</p>
+                <p><strong>Plataformas:</strong> </p>
+            </div>
+            
+            <div class="trend-item">
+                <h4>deve crescer</h4>
+                <p><strong>Taxa de crescimento:</strong> 13.9%</p>
+                <p><strong>Menções mensais:</strong> 0</p>
+                <p><strong>Sentimento:</strong> 84.4% (positivo)</p>
+                <p><strong>Plataformas:</strong> </p>
+            </div>
+            
+            <div class="trend-item">
+                <h4>alimentação saudável</h4>
+                <p><strong>Taxa de crescimento:</strong> 17.7%</p>
+                <p><strong>Menções mensais:</strong> 230,000.0</p>
+                <p><strong>Sentimento:</strong> 77.9% (positivo)</p>
+                <p><strong>Plataformas:</strong> Instagram, TikTok, Facebook</p>
+            </div>
+            
+            <div class="trend-item">
+                <h4>consolidação</h4>
+                <p><strong>Taxa de crescimento:</strong> 12.5%</p>
+                <p><strong>Menções mensais:</strong> 0</p>
+                <p><strong>Sentimento:</strong> 81.1% (positivo)</p>
+                <p><strong>Plataformas:</strong> </p>
+            </div>
+            
+            <div class="trend-item">
+                <h4>tendência</h4>
+                <p><strong>Taxa de crescimento:</strong> 12.5%</p>
+                <p><strong>Menções mensais:</strong> 0</p>
+                <p><strong>Sentimento:</strong> 81.1% (positivo)</p>
+                <p><strong>Plataformas:</strong> </p>
+            </div>
+            
+            <div class="trend-item">
+                <h4>serviços</h4>
+                <p><strong>Taxa de crescimento:</strong> 15.0%</p>
+                <p><strong>Menções mensais:</strong> 0</p>
+                <p><strong>Sentimento:</strong> 75.1% (positivo)</p>
+                <p><strong>Plataformas:</strong> </p>
+            </div>
+            
+            <div class="trend-item">
+                <h4>Moda</h4>
+                <p><strong>Taxa de crescimento:</strong> 22.8%</p>
+                <p><strong>Menções mensais:</strong> 0</p>
+                <p><strong>Sentimento:</strong> 63.4% (positivo)</p>
+                <p><strong>Plataformas:</strong> </p>
+            </div>
+            
+            <div class="trend-item">
+                <h4>preço</h4>
+                <p><strong>Taxa de crescimento:</strong> 14.6%</p>
+                <p><strong>Menções mensais:</strong> 0</p>
+                <p><strong>Sentimento:</strong> 72.6% (positivo)</p>
+                <p><strong>Plataformas:</strong> </p>
+            </div>
+            
+            <div class="trend-item">
+                <h4>saúde</h4>
+                <p><strong>Taxa de crescimento:</strong> 10.8%</p>
+                <p><strong>Menções mensais:</strong> 0</p>
+                <p><strong>Sentimento:</strong> 74.7% (positivo)</p>
+                <p><strong>Plataformas:</strong> </p>
+            </div>
+            
+            <div class="trend-item">
+                <h4>casa tem</h4>
+                <p><strong>Taxa de crescimento:</strong> 12.2%</p>
+                <p><strong>Menções mensais:</strong> 0</p>
+                <p><strong>Sentimento:</strong> 70.6% (positivo)</p>
+                <p><strong>Plataformas:</strong> </p>
+            </div>
+            </div>
+
+        <!-- Estratégias de Marketing -->
+        <h2>Estratégias de Marketing Recomendadas</h2>
+        
+        
+                <div class="marketing-block">
+                    <h4>Estratégia de Marketing para CleanHome</h4>
+                    <div class="creative-overview">
+                        <p><strong>Mensagem principal:</strong> N/A</p>
+                        <p><strong>Público-alvo:</strong> N/A</p>
+                    </div>
+                    
+                    <h5>Adaptações por Plataforma</h5>
+                    
+                        <div class="platform-section">
+                            <h5>Facebook</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> feed_post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Instagram</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> feed_post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Google</h5>
+                            <p><strong>Tipo de conteúdo:</strong> ads</p>
+                            <p><strong>Formato:</strong> search_ad</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Linkedin</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Email</h5>
+                            <p><strong>Tipo de conteúdo:</strong> email_marketing</p>
+                            <p><strong>Formato:</strong> newsletter</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                </div>
+                
+                <div class="marketing-block">
+                    <h4>Estratégia de Marketing para PetFood Express</h4>
+                    <div class="creative-overview">
+                        <p><strong>Mensagem principal:</strong> N/A</p>
+                        <p><strong>Público-alvo:</strong> N/A</p>
+                    </div>
+                    
+                    <h5>Adaptações por Plataforma</h5>
+                    
+                        <div class="platform-section">
+                            <h5>Facebook</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> feed_post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Instagram</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> feed_post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Google</h5>
+                            <p><strong>Tipo de conteúdo:</strong> ads</p>
+                            <p><strong>Formato:</strong> search_ad</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Linkedin</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Email</h5>
+                            <p><strong>Tipo de conteúdo:</strong> email_marketing</p>
+                            <p><strong>Formato:</strong> newsletter</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                </div>
+                
+                <div class="marketing-block">
+                    <h4>Estratégia de Marketing para FashionStore</h4>
+                    <div class="creative-overview">
+                        <p><strong>Mensagem principal:</strong> N/A</p>
+                        <p><strong>Público-alvo:</strong> N/A</p>
+                    </div>
+                    
+                    <h5>Adaptações por Plataforma</h5>
+                    
+                        <div class="platform-section">
+                            <h5>Facebook</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> feed_post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Instagram</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> feed_post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Google</h5>
+                            <p><strong>Tipo de conteúdo:</strong> ads</p>
+                            <p><strong>Formato:</strong> search_ad</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Linkedin</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Email</h5>
+                            <p><strong>Tipo de conteúdo:</strong> email_marketing</p>
+                            <p><strong>Formato:</strong> newsletter</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                </div>
+                
+                <div class="marketing-block">
+                    <h4>Estratégia de Marketing para HomeDecor</h4>
+                    <div class="creative-overview">
+                        <p><strong>Mensagem principal:</strong> N/A</p>
+                        <p><strong>Público-alvo:</strong> N/A</p>
+                    </div>
+                    
+                    <h5>Adaptações por Plataforma</h5>
+                    
+                        <div class="platform-section">
+                            <h5>Facebook</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> feed_post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Instagram</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> feed_post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Google</h5>
+                            <p><strong>Tipo de conteúdo:</strong> ads</p>
+                            <p><strong>Formato:</strong> search_ad</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Linkedin</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Email</h5>
+                            <p><strong>Tipo de conteúdo:</strong> email_marketing</p>
+                            <p><strong>Formato:</strong> newsletter</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                </div>
+                
+                <div class="marketing-block">
+                    <h4>Estratégia de Marketing para GourmetBurger</h4>
+                    <div class="creative-overview">
+                        <p><strong>Mensagem principal:</strong> N/A</p>
+                        <p><strong>Público-alvo:</strong> N/A</p>
+                    </div>
+                    
+                    <h5>Adaptações por Plataforma</h5>
+                    
+                        <div class="platform-section">
+                            <h5>Facebook</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> feed_post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Instagram</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> feed_post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Google</h5>
+                            <p><strong>Tipo de conteúdo:</strong> ads</p>
+                            <p><strong>Formato:</strong> search_ad</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Linkedin</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Email</h5>
+                            <p><strong>Tipo de conteúdo:</strong> email_marketing</p>
+                            <p><strong>Formato:</strong> newsletter</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                </div>
+                
+                <div class="marketing-block">
+                    <h4>Estratégia de Marketing para HealthySnacks</h4>
+                    <div class="creative-overview">
+                        <p><strong>Mensagem principal:</strong> N/A</p>
+                        <p><strong>Público-alvo:</strong> N/A</p>
+                    </div>
+                    
+                    <h5>Adaptações por Plataforma</h5>
+                    
+                        <div class="platform-section">
+                            <h5>Facebook</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> feed_post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Instagram</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> feed_post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Google</h5>
+                            <p><strong>Tipo de conteúdo:</strong> ads</p>
+                            <p><strong>Formato:</strong> search_ad</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Linkedin</h5>
+                            <p><strong>Tipo de conteúdo:</strong> social_media</p>
+                            <p><strong>Formato:</strong> post</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                        <div class="platform-section">
+                            <h5>Email</h5>
+                            <p><strong>Tipo de conteúdo:</strong> email_marketing</p>
+                            <p><strong>Formato:</strong> newsletter</p>
+                            <p><strong>Tópicos:</strong> </p>
+                        </div>
+                        
+                </div>
+                
+
+        <!-- Recomendações Finais -->
+        <h2>Recomendações Finais</h2>
+        <p>
+        Com base nas análises realizadas, recomendamos priorizar as oportunidades com maior ROI e 
+        melhor adequação demográfica. É importante também considerar o nível de concorrência e 
+        alinhamento com tendências de mercado ao tomar decisões de investimento. Para maximizar o 
+        retorno, sugerimos implementar as estratégias de marketing propostas e monitorar constantemente 
+        o desempenho das campanhas.
+        </p>
+
+        <div class="footer">
+            <p>© 2025 Franquia Finder - Todos os direitos reservados</p>
+            <p>Este relatório foi gerado automaticamente e deve ser usado apenas como referência. Recomendamos consultar especialistas antes de tomar decisões de investimento.</p>
+        </div>
+    </div>
+</body>
+</html>

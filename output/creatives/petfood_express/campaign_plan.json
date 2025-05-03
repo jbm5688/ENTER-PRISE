@@ -1,0 +1,260 @@
+{
+    "opportunity_name": "PetFood Express",
+    "category": "Pet",
+    "start_date": "2025-05-02",
+    "end_date": "2025-07-31",
+    "campaigns": [
+        {
+            "name": "Awareness - PetFood Express (Facebook)",
+            "platform": "facebook",
+            "objective": "Brand Awareness",
+            "start_date": "2025-05-02",
+            "end_date": "2025-06-01",
+            "budget": 2474.08,
+            "target_audience": "Empreendedores interessados em franquias",
+            "content_type": "Imagem/Vídeo",
+            "main_message": "Conheça a franquia PetFood Express"
+        },
+        {
+            "name": "Consideration - PetFood Express (Facebook)",
+            "platform": "facebook",
+            "objective": "Website Traffic",
+            "start_date": "2025-05-12",
+            "end_date": "2025-06-11",
+            "budget": 1530.07,
+            "target_audience": "Pessoas interessadas em empreendedorismo e franquias",
+            "content_type": "Carrossel",
+            "main_message": "Vantagens da franquia PetFood Express"
+        },
+        {
+            "name": "Conversion - PetFood Express (Facebook)",
+            "platform": "facebook",
+            "objective": "Lead Generation",
+            "start_date": "2025-05-22",
+            "end_date": "2025-06-21",
+            "budget": 3889.69,
+            "target_audience": "Empreendedores com intenção de investir",
+            "content_type": "Formulário de Lead",
+            "main_message": "Torne-se um franqueado PetFood Express"
+        },
+        {
+            "name": "Awareness - PetFood Express (Instagram)",
+            "platform": "instagram",
+            "objective": "Brand Awareness",
+            "start_date": "2025-05-02",
+            "end_date": "2025-06-01",
+            "budget": 1928.03,
+            "target_audience": "Empreendedores interessados em franquias",
+            "content_type": "Imagem/Vídeo",
+            "main_message": "Conheça a franquia PetFood Express"
+        },
+        {
+            "name": "Consideration - PetFood Express (Instagram)",
+            "platform": "instagram",
+            "objective": "Website Traffic",
+            "start_date": "2025-05-12",
+            "end_date": "2025-06-11",
+            "budget": 2613.15,
+            "target_audience": "Pessoas interessadas em empreendedorismo e franquias",
+            "content_type": "Carrossel",
+            "main_message": "Vantagens da franquia PetFood Express"
+        },
+        {
+            "name": "Conversion - PetFood Express (Instagram)",
+            "platform": "instagram",
+            "objective": "Lead Generation",
+            "start_date": "2025-05-22",
+            "end_date": "2025-06-21",
+            "budget": 2195.36,
+            "target_audience": "Empreendedores com intenção de investir",
+            "content_type": "Formulário de Lead",
+            "main_message": "Torne-se um franqueado PetFood Express"
+        },
+        {
+            "name": "Search - PetFood Express (Google)",
+            "platform": "google",
+            "objective": "Lead Generation",
+            "start_date": "2025-05-02",
+            "end_date": "2025-07-01",
+            "budget": 2417.46,
+            "target_audience": "Pessoas buscando por franquias",
+            "content_type": "Anúncios de texto",
+            "main_message": "Franquia PetFood Express - Pet"
+        },
+        {
+            "name": "Display - PetFood Express (Google)",
+            "platform": "google",
+            "objective": "Brand Awareness",
+            "start_date": "2025-05-07",
+            "end_date": "2025-06-06",
+            "budget": 1911.73,
+            "target_audience": "Empreendedores e investidores",
+            "content_type": "Banners",
+            "main_message": "Invista na franquia PetFood Express"
+        },
+        {
+            "name": "Reach - PetFood Express (LinkedIn)",
+            "platform": "linkedin",
+            "objective": "Brand Awareness",
+            "start_date": "2025-05-02",
+            "end_date": "2025-06-01",
+            "budget": 1782.17,
+            "target_audience": "Profissionais de negócios e investidores",
+            "content_type": "Sponsored Content",
+            "main_message": "Oportunidade de franquia: PetFood Express"
+        },
+        {
+            "name": "Leads - PetFood Express (LinkedIn)",
+            "platform": "linkedin",
+            "objective": "Lead Generation",
+            "start_date": "2025-05-17",
+            "end_date": "2025-06-16",
+            "budget": 2951.22,
+            "target_audience": "Executivos e empreendedores",
+            "content_type": "Lead Gen Forms",
+            "main_message": "Seja um franqueado PetFood Express"
+        },
+        {
+            "name": "Nurture - PetFood Express (Email)",
+            "platform": "email",
+            "objective": "Nurturing",
+            "start_date": "2025-05-02",
+            "end_date": "2025-06-01",
+            "budget": 1406.74,
+            "target_audience": "Leads captados",
+            "content_type": "Sequência de emails",
+            "main_message": "Conheça a franquia PetFood Express"
+        }
+    ],
+    "budget_allocation": {
+        "facebook": 0.25,
+        "instagram": 0.2,
+        "google": 0.3,
+        "linkedin": 0.15,
+        "email": 0.1
+    },
+    "timeline": [
+        {
+            "phase": "Preparação",
+            "activity": "Definição de estratégia e objetivos",
+            "start_date": "2025-05-02",
+            "end_date": "2025-05-05",
+            "status": "Planejado"
+        },
+        {
+            "phase": "Preparação",
+            "activity": "Criação de materiais de campanha",
+            "start_date": "2025-05-05",
+            "end_date": "2025-05-12",
+            "status": "Planejado"
+        },
+        {
+            "phase": "Lançamento",
+            "activity": "Início das campanhas de brand awareness",
+            "start_date": "2025-05-12",
+            "end_date": "2025-05-13",
+            "status": "Planejado"
+        },
+        {
+            "phase": "Otimização",
+            "activity": "Primeira análise de desempenho",
+            "start_date": "2025-05-22",
+            "end_date": "2025-05-23",
+            "status": "Planejado"
+        },
+        {
+            "phase": "Otimização",
+            "activity": "Ajustes de segmentação e orçamento",
+            "start_date": "2025-05-23",
+            "end_date": "2025-05-25",
+            "status": "Planejado"
+        },
+        {
+            "phase": "Escala",
+            "activity": "Ampliação das campanhas de melhor desempenho",
+            "start_date": "2025-06-01",
+            "end_date": "2025-06-06",
+            "status": "Planejado"
+        },
+        {
+            "phase": "Relatório",
+            "activity": "Análise final de resultados",
+            "start_date": "2025-07-01",
+            "end_date": "2025-07-03",
+            "status": "Planejado"
+        }
+    ],
+    "kpis": {
+        "facebook": {
+            "reach": {
+                "description": "Alcance das campanhas",
+                "target": "Pelo menos 50.000 pessoas alcançadas"
+            },
+            "engagement": {
+                "description": "Taxa de engajamento",
+                "target": "Taxa de engajamento média de 3%"
+            },
+            "leads": {
+                "description": "Geração de leads",
+                "target": "150 leads qualificados"
+            }
+        },
+        "instagram": {
+            "reach": {
+                "description": "Alcance das campanhas",
+                "target": "Pelo menos 40.000 pessoas alcançadas"
+            },
+            "engagement": {
+                "description": "Taxa de engajamento",
+                "target": "Taxa de engajamento média de 4%"
+            },
+            "leads": {
+                "description": "Geração de leads",
+                "target": "100 leads qualificados"
+            }
+        },
+        "google": {
+            "impressions": {
+                "description": "Impressões de anúncios",
+                "target": "Pelo menos 100.000 impressões"
+            },
+            "clicks": {
+                "description": "Cliques em anúncios",
+                "target": "5.000 cliques"
+            },
+            "conversions": {
+                "description": "Conversões",
+                "target": "200 conversões"
+            }
+        },
+        "linkedin": {
+            "impressions": {
+                "description": "Impressões de anúncios",
+                "target": "Pelo menos 30.000 impressões"
+            },
+            "clicks": {
+                "description": "Cliques em anúncios",
+                "target": "1.500 cliques"
+            },
+            "leads": {
+                "description": "Geração de leads",
+                "target": "80 leads qualificados"
+            }
+        },
+        "email": {
+            "open_rate": {
+                "description": "Taxa de abertura",
+                "target": "Taxa de abertura média de 25%"
+            },
+            "click_rate": {
+                "description": "Taxa de clique",
+                "target": "Taxa de clique média de 4%"
+            },
+            "conversions": {
+                "description": "Conversões",
+                "target": "50 conversões"
+            }
+        }
+    },
+    "created_at": "2025-05-02 18:15:51"
+}

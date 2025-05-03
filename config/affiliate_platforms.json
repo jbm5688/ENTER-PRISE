@@ -1,0 +1,82 @@
+{
+    "platforms": [
+        {
+            "name": "Hotmart",
+            "base_url": "https://www.hotmart.com/marketplace",
+            "search_url": "https://www.hotmart.com/marketplace/search?q={search_term}",
+            "commission_selector": "span.commission-value",
+            "product_selector": "div.product-card",
+            "title_selector": "h3.product-title",
+            "price_selector": "span.product-price",
+            "seller_selector": "span.seller-name",
+            "category_selector": "span.category-name",
+            "url_selector": "a.product-link"
+        },
+        {
+            "name": "Monetizze",
+            "base_url": "https://www.monetizze.com.br/marketplace",
+            "search_url": "https://www.monetizze.com.br/marketplace?q={search_term}",
+            "commission_selector": "div.commission-info",
+            "product_selector": "div.product-item",
+            "title_selector": "h2.product-name",
+            "price_selector": "span.price",
+            "seller_selector": "div.seller",
+            "category_selector": "span.category",
+            "url_selector": "a.product-url"
+        },
+        {
+            "name": "Eduzz",
+            "base_url": "https://www.eduzz.com/marketplace",
+            "search_url": "https://www.eduzz.com/marketplace?q={search_term}",
+            "commission_selector": "div.commission",
+            "product_selector": "div.product-block",
+            "title_selector": "h3.title",
+            "price_selector": "span.price",
+            "seller_selector": "span.producer",
+            "category_selector": "span.category",
+            "url_selector": "a.details-link"
+        },
+        {
+            "name": "ClickBank",
+            "base_url": "https://accounts.clickbank.com/marketplace.htm",
+            "search_url": "https://accounts.clickbank.com/marketplace.htm?q={search_term}",
+            "commission_selector": "span.commission-rate",
+            "product_selector": "div.product-item",
+            "title_selector": "h4.product-title",
+            "price_selector": "span.product-price",
+            "seller_selector": "span.vendor-name",
+            "category_selector": "span.product-category",
+            "url_selector": "a.product-link"
+        },
+        {
+            "name": "Braip",
+            "base_url": "https://www.braip.com/marketplace",
+            "search_url": "https://www.braip.com/marketplace?busca={search_term}",
+            "commission_selector": "div.product-commission",
+            "product_selector": "div.product-card",
+            "title_selector": "h3.product-title",
+            "price_selector": "div.product-price",
+            "seller_selector": "div.producer-name",
+            "category_selector": "div.product-category",
+            "url_selector": "a.product-link"
+        }
+    ],
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"
+    },
+    "keywords": [
+        "curso vendas online", "curso de vendas", "vendas online", 
+        "dropshipping", "curso dropshipping", "ebook empreendedorismo", 
+        "empreendedorismo digital", "marketing digital", "afiliado",
+        "renda extra", "trabalhar em casa", "negócio online",
+        "infoproduto", "vendas digitais", "curso digital"
+    ],
+    "categories": [
+        "Cursos Online", "Infoprodutos", "Marketing Digital", 
+        "Empreendedorismo", "Negócios", "E-commerce",
+        "Vendas", "Educação", "Desenvolvimento Pessoal"
+    ],
+    "delay_range": [1, 3]
+}

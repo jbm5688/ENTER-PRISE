@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relatório de Criativos de Marketing - Franquia Finder</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 20px;
+        }
+        .logo {
+            font-size: 28px;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        .date {
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #3498db;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #2980b9;
+        }
+        .creative-section {
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+        .creative-title {
+            font-size: 22px;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        .platform-section {
+            background-color: #fff;
+            border: 1px solid #eee;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+        .platform-name {
+            font-weight: bold;
+            color: #3498db;
+            margin-bottom: 10px;
+        }
+        .creative-content {
+            margin-bottom: 20px;
+        }
+        .creative-preview {
+            background-color: #fff;
+            border: 1px solid #eee;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 15px 0;
+        }
+        .creative-stats {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 15px 0;
+        }
+        .stat {
+            flex: 1;
+            min-width: 150px;
+            background-color: #f2f2f2;
+            border-radius: 5px;
+            padding: 10px;
+            text-align: center;
+        }
+        .stat-title {
+            font-size: 14px;
+            color: #7f8c8d;
+            margin-bottom: 5px;
+        }
+        .stat-value {
+            font-size: 20px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .campaign-section {
+            background-color: #ecf0f1;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .campaign-calendar {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        .campaign-calendar th, .campaign-calendar td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        .campaign-calendar th {
+            background-color: #f2f2f2;
+        }
+        .campaign-calendar tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">Franquia Finder</div>
+            <div class="date">Relatório de Criativos de Marketing - {{report_date}}</div>
+        </div>
+
+        <h1>Relatório de Criativos de Marketing</h1>
+        
+        <p>Este relatório apresenta os materiais de marketing gerados para as oportunidades de franquia identificadas pelo sistema Franquia Finder. Inclui criativos para diferentes plataformas, calendário de campanhas e métricas de desempenho esperadas.</p>
+
+        <!-- Resumo Executivo de Marketing -->
+        <h2>Resumo Executivo</h2>
+        <p>{{marketing_summary}}</p>
+
+        <!-- Criativos por Oportunidade -->
+        <h2>Criativos por Oportunidade</h2>
+        
+        {{creative_content}}
+
+        <!-- Calendário de Campanhas -->
+        <h2>Calendário de Campanhas</h2>
+        
+        {{campaign_calendar}}
+
+        <!-- Recomendações de Marketing -->
+        <h2>Recomendações de Marketing</h2>
+        <p>{{marketing_recommendations}}</p>
+
+        <div class="footer">
+            <p>© {{current_year}} Franquia Finder - Todos os direitos reservados</p>
+            <p>Este relatório foi gerado automaticamente e contém sugestões de marketing que devem ser revisadas por profissionais da área antes da implementação.</p>
+        </div>
+    </div>
+</body>
+</html>

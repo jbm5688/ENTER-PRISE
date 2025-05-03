@@ -1,0 +1,394 @@
+[
+  {
+    "name": "PetFood Express",
+    "sector": "Pet Shop",
+    "investment": {
+      "min": 94314.51426711018,
+      "max": 124186.69354243619
+    },
+    "roi_estimate": 0.20084347564425722,
+    "payback_months": 98,
+    "market_score": 0.6110438287335193,
+    "competition_score": 0.449563979512711,
+    "trend_score": 0.5161438802050137,
+    "score": 0.5341298894087251,
+    "website": "https://www.petfoodexpress.com.br",
+    "contact": "contato@petfoodexpress.com.br",
+    "estimated_roi": 0.29686985382470726,
+    "monthly_revenue": 6136.888088350118,
+    "monthly_costs": 5020.018898440938,
+    "monthly_profit": 1116.86918990918,
+    "market_growth_factor": 0.32,
+    "competition_factor": 0.449563979512711,
+    "trend_alignment": 0.7,
+    "seasonality_factor": 0.9391726967705815,
+    "risk_factor": 0.888485976241027,
+    "relevant_trends": [
+      "Cosmética Natural"
+    ],
+    "competition_analysis": {
+      "competitors": [
+        "Empresa A",
+        "Empresa B",
+        "Empresa C",
+        "Empresa D",
+        "Empresa E"
+      ],
+      "density": {
+        "total_competitor_units": 995,
+        "market_maturity": "Maduro",
+        "saturation_level": 0.6117845574777899,
+        "geographic_concentration": "Baixa",
+        "density_trend": "Crescente",
+        "comment": "Mercado moderadamente competitivo. Diferenciação será importante para o sucesso."
+      },
+      "strengths_weaknesses": {
+        "common_strengths": [
+          "Preços competitivos",
+          "Marca reconhecida",
+          "Produtos exclusivos",
+          "Boa relação com fornecedores"
+        ],
+        "common_weaknesses": [
+          "Preços elevados",
+          "Alta rotatividade de funcionários"
+        ],
+        "opportunity_areas": [
+          "Preços elevados",
+          "Alta rotatividade de funcionários"
+        ],
+        "threat_areas": [
+          "Preços competitivos",
+          "Marca reconhecida",
+          "Produtos exclusivos",
+          "Boa relação com fornecedores"
+        ],
+        "recommendation": "Focar na exploração das fraquezas comuns: Preços elevados, Alta rotatividade de funcionários. Desenvolver estratégias para mitigar forças concorrentes: Preços competitivos, Marca reconhecida, Produtos exclusivos, Boa relação com fornecedores."
+      },
+      "differentiation": {
+        "recommended_strategies": [
+          "Exclusividade",
+          "Personalização",
+          "Experiência"
+        ],
+        "details": {
+          "Exclusividade": "Desenvolver produtos ou serviços exclusivos não oferecidos pelos concorrentes.",
+          "Personalização": "Oferecer alto grau de personalização, permitindo ao cliente ajustar o produto/serviço às suas necessidades.",
+          "Experiência": "Criar uma experiência memorável para os clientes, com ambientação e processos diferenciados."
+        },
+        "differentiation_score": 0.71,
+        "implementation_difficulty": "Baixa",
+        "expected_impact": "Alto",
+        "time_to_implementation": "9 meses"
+      },
+      "competition_level": {
+        "level": 0.48,
+        "classification": "Média",
+        "reason": "Baseado em saturação de 0.61, 5 concorrentes principais e market share médio de 14.3%"
+      },
+      "market_gap_score": {
+        "score": 0.52,
+        "classification": "Média",
+        "comment": "Existem oportunidades de mercado moderadas que podem ser exploradas com estratégias adequadas."
+      },
+      "entry_barrier": {
+        "score": 0.48,
+        "classification": "Média",
+        "factors": {
+          "capital_requirement": 0.19,
+          "market_maturity": 0.8,
+          "regulatory_complexity": 0.41,
+          "technology_requirements": 0.4,
+          "brand_importance": 0.73
+        },
+        "recommendations": [
+          "Desenvolver estratégia de nicho ou diferenciação em mercado maduro.",
+          "Desenvolver estratégia de marketing agressiva para estabelecer reconhecimento de marca."
+        ]
+      },
+      "analysis_date": "2025-05-02"
+    },
+    "demographic_analysis": {
+      "profile": {
+        "age_range": "25-45",
+        "income_level": "Média",
+        "education": "Médio",
+        "urbanization": "Urbana",
+        "lifestyle": [
+          "Familiar",
+          "Prático"
+        ],
+        "gender_focus": "Sem predominância específica",
+        "family_status": "Casado com filhos adultos",
+        "digital_behavior": {
+          "social_media_usage": "Médio a Alto",
+          "online_shopping": "Regular",
+          "device_preference": "Mobile e Desktop",
+          "tech_adoption": "Maioria inicial"
+        },
+        "purchase_motivation": [
+          "Preço",
+          "Experiência"
+        ]
+      },
+      "geographic_match": {
+        "top_regions": [
+          {
+            "state": "DF",
+            "match_score": 0.92,
+            "population": 3000000,
+            "comments": "Maior renda per capita do país, mercado consumidor de alto padrão."
+          },
+          {
+            "state": "SP",
+            "match_score": 0.88,
+            "population": 46000000,
+            "comments": "Maior mercado consumidor do país, altamente competitivo mas com grande potencial de vendas."
+          },
+          {
+            "state": "RJ",
+            "match_score": 0.85,
+            "population": 17000000,
+            "comments": "Segundo maior mercado, com forte concentração urbana e poder aquisitivo."
+          },
+          {
+            "state": "SC",
+            "match_score": 0.82,
+            "population": 7000000,
+            "comments": "Alto poder aquisitivo e qualidade de vida, mercado em expansão."
+          },
+          {
+            "state": "RS",
+            "match_score": 0.81,
+            "population": 11000000,
+            "comments": "Consumidores com alto nível educacional e bom poder aquisitivo."
+          }
+        ],
+        "total_potential_market": 84000000,
+        "regional_strategy": "Concentração inicial no eixo Sul-Sudeste, aproveitando maior renda per capita e densidade urbana."
+      },
+      "market_potential": {
+        "target_population": 4200000,
+        "annual_market_size": 30030.0,
+        "growth_outlook": {
+          "outlook": "Estável",
+          "annual_growth_rate": 1.9,
+          "trend_factors": [
+            "Aumento da população na faixa etária alvo",
+            "Expansão da classe média",
+            "Mudanças nos hábitos de consumo"
+          ]
+        },
+        "seasonality": {
+          "high_seasons": [
+            "Férias escolares",
+            "Inverno"
+          ],
+          "low_seasons": [
+            "Fevereiro",
+            "Agosto"
+          ],
+          "seasonality_variation": "15%",
+          "notes": "Demanda varia até 15% entre períodos de alta e baixa"
+        },
+        "competition_level": "Alta",
+        "market_maturity": "Saturado"
+      },
+      "marketing_strategies": {
+        "channels": [
+          {
+            "name": "Redes Sociais",
+            "platforms": [
+              "Instagram",
+              "Facebook",
+              "TikTok"
+            ],
+            "effectiveness": "Alta",
+            "investment_priority": "Alta"
+          },
+          {
+            "name": "Marketing Digital",
+            "platforms": [
+              "Google Ads",
+              "SEO",
+              "Email Marketing"
+            ],
+            "effectiveness": "Alta",
+            "investment_priority": "Alta"
+          },
+          {
+            "name": "Marketing Local",
+            "platforms": [
+              "Google Meu Negócio",
+              "Panfletagem",
+              "Parcerias locais"
+            ],
+            "effectiveness": "Alta",
+            "investment_priority": "Média"
+          }
+        ],
+        "messages": {
+          "key_messages": [
+            "Custo-benefício imbatível para o seu orçamento",
+            "Momentos memoráveis que farão a diferença"
+          ],
+          "tone": "Direto e prático, destacando benefícios tangíveis",
+          "values_to_emphasize": [
+            "Família",
+            "Tradição",
+            "Praticidade"
+          ]
+        },
+        "pricing": {
+          "strategy": "Valor justo",
+          "positioning": "Preços médios de mercado, enfatizando qualidade",
+          "tactics": [
+            "Combos promocionais",
+            "Programas de fidelidade",
+            "Descontos sazonais"
+          ],
+          "price_sensitivity": "Média"
+        },
+        "customer_acquisition": {
+          "strategies": [
+            "Campanha de mídia paga para brand awareness",
+            "Otimização para motores de busca (SEO)",
+            "Programa de indicação",
+            "Marketing de influenciadores",
+            "Marketing direcionado a famílias"
+          ],
+          "estimated_cac": 258.05,
+          "retention_focus": "Alto",
+          "loyalty_strategies": [
+            "Programa de pontos com recompensas",
+            "Comunicação personalizada por email",
+            "Atendimento diferenciado",
+            "Descontos progressivos por frequência de compra"
+          ]
+        }
+      },
+      "match_score": {
+        "score": 0.9,
+        "classification": "Excelente",
+        "details": {
+          "sector_match": 0.94,
+          "income_match": 0.94,
+          "age_match": 0.94,
+          "lifestyle_match": 0.75
+        }
+      },
+      "analysis_date": "2025-05-02"
+    },
+    "detailed_roi": {
+      "npv": 445387.69,
+      "irr": 50.0,
+      "payback_years": 0.8,
+      "revenue_projections": {
+        "monthly": {
+          "pessimistic": 42000.0,
+          "expected": 60000,
+          "optimistic": 78000.0
+        },
+        "annual": {
+          "pessimistic": 503999.99999999994,
+          "expected": 720000,
+          "optimistic": 936000.0
+        },
+        "five_year": {
+          "pessimistic": 2520000.0,
+          "expected": 3600000,
+          "optimistic": 4680000.0
+        }
+      },
+      "cost_projections": {
+        "initial": 100000,
+        "monthly": {
+          "pessimistic": {
+            "royalties": 2100.0,
+            "cogs": 16800.0,
+            "operation": 12600.0,
+            "total": 31500.0
+          },
+          "expected": {
+            "royalties": 3000.0,
+            "cogs": 24000.0,
+            "operation": 18000.0,
+            "total": 45000.0
+          },
+          "optimistic": {
+            "royalties": 3900.0,
+            "cogs": 31200.0,
+            "operation": 23400.0,
+            "total": 58500.0
+          }
+        },
+        "annual": {
+          "pessimistic": {
+            "royalties": 25200.0,
+            "cogs": 201600.0,
+            "operation": 151199.99999999997,
+            "total": 378000.0
+          },
+          "expected": {
+            "royalties": 36000.0,
+            "cogs": 288000.0,
+            "operation": 216000.0,
+            "total": 540000.0
+          },
+          "optimistic": {
+            "royalties": 46800.0,
+            "cogs": 374400.0,
+            "operation": 280800.0,
+            "total": 702000.0
+          }
+        },
+        "five_year": {
+          "pessimistic": {
+            "royalties": 126000.0,
+            "cogs": 1008000.0,
+            "operation": 756000.0,
+            "total": 1890000.0
+          },
+          "expected": {
+            "royalties": 180000.0,
+            "cogs": 1440000.0,
+            "operation": 1080000.0,
+            "total": 2700000.0
+          },
+          "optimistic": {
+            "royalties": 234000.0,
+            "cogs": 1872000.0,
+            "operation": 1404000.0,
+            "total": 3510000.0
+          }
+        }
+      },
+      "cash_flow": {
+        "pessimistic": [
+          -100000,
+          91979.99999999996,
+          96578.99999999996,
+          101407.94999999995,
+          106478.34749999996,
+          111802.26487499996
+        ],
+        "expected": [
+          -100000,
+          131400.0,
+          137970.0,
+          144868.5,
+          152111.92500000002,
+          159717.52125000002
+        ],
+        "optimistic": [
+          -100000,
+          170820.0,
+          179361.0,
+          188329.05000000002,
+          197745.50250000003,
+          207632.77762500005
+        ]
+      }
+    }
+  }
+]
