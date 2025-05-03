@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Franquia Finder Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .card {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .info-section {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .info-card {
+            flex: 1;
+            min-width: 250px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        .info-card h3 {
+            color: #007bff;
+            margin-top: 0;
+        }
+        .button {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .report-section {
+            margin-top: 40px;
+        }
+        .project-details {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: #e9ecef;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Franquia Finder</h1>
+        <p>Sistema de Análise e Recomendação de Franquias</p>
+    </header>
+    
+    <div class="container">
+        <div class="card">
+            <h2>Bem-vindo ao Dashboard do Franquia Finder</h2>
+            <p>Esta página apresenta uma versão estática do projeto Franquia Finder, uma ferramenta para análise de oportunidades de franquias no mercado brasileiro.</p>
+            <p>Para a versão completa e interativa, é necessário executar a aplicação localmente através dos scripts Python disponíveis no repositório.</p>
+        </div>
+        
+        <div class="info-section">
+            <div class="info-card">
+                <h3>Análise de Mercado</h3>
+                <p>Dados coletados de mais de 500 franquias em diversos segmentos.</p>
+                <p>Segmentos analisados: Alimentação, Educação, Saúde, Serviços, Varejo e outros.</p>
+            </div>
+            
+            <div class="info-card">
+                <h3>Investimento Médio</h3>
+                <p>Pequeno porte: R$ 30.000 - R$ 150.000</p>
+                <p>Médio porte: R$ 150.000 - R$ 450.000</p>
+                <p>Grande porte: Acima de R$ 450.000</p>
+            </div>
+            
+            <div class="info-card">
+                <h3>Retorno Estimado</h3>
+                <p>Prazo médio de retorno: 24 a 36 meses</p>
+                <p>ROI médio por segmento: 18% a 25% ao ano</p>
+            </div>
+        </div>
+        
+        <div class="report-section">
+            <h2>Relatórios Disponíveis</h2>
+            <div class="card">
+                <h3>Análise de Franquias</h3>
+                <p>Visualize relatórios detalhados sobre as melhores oportunidades de franquia com base em diversos critérios como investimento inicial, taxa de retorno, localização e mercado-alvo.</p>
+                <a href="../templates/report_template.html" class="button">Ver Relatório</a>
+            </div>
+            
+            <div class="card">
+                <h3>Análise de Tendências de Mercado</h3>
+                <p>Explore as tendências atuais do mercado de franquias, identificando setores em crescimento e oportunidades emergentes.</p>
+                <a href="../templates/creative_template.html" class="button">Ver Tendências</a>
+            </div>
+        </div>
+        
+        <div class="project-details">
+            <h2>Sobre o Projeto</h2>
+            <p>O Franquia Finder é um sistema desenvolvido para auxiliar empreendedores na escolha de franquias com base em análises de dados de mercado, perfil de investimento e potencial de retorno.</p>
+            <p>Projeto desenvolvido utilizando Python, análise de dados e técnicas de web scraping para coleta de informações atualizadas sobre o mercado de franquias.</p>
+            <p><a href="https://github.com/jbm5688/ENTER-PRISE" target="_blank" class="button">Ver Repositório no GitHub</a></p>
+        </div>
+    </div>
+</body>
+</html>
